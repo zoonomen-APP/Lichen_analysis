@@ -1,6 +1,3 @@
-Here's your text formatted uniformly for markdown:
-
-```markdown
 # Geolocation Data in Consortium of Lichen Herbaria Portal Data
 ## Correlation of County Location and decimalLatitude-decimalLongitude Values
 

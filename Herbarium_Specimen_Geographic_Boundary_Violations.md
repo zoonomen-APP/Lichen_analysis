@@ -89,121 +89,121 @@ Summary files contain statistical analysis including:
 *Click on herbarium codes to view detailed results*
 
 ### A-C
-- [ALA](./ALA/) - University of Alaska Museum of the North Herbarium
-- [APSC](./APSC/) - Austin Peay State University
-- [ASU](./ASU/) - Arizona State University
-- [AUA](./AUA/) - University of Alabama
-- [BALT](./BALT/) - Baltimore Museum
-- [BRIT](./BRIT/) - Botanical Research Institute of Texas
-- [BRY](./BRY/) - Brigham Young University
-- [BUT](./BUT/) - Butler University
-- [CAS](./CAS/) - California Academy of Sciences
-- [CHRB](./CHRB/) - California State University, Chico
-- [CHSC](./CHSC/) - Charleston Southern University
-- [CINC](./CINC/) - University of Cincinnati
-- [CLEMS](./CLEMS/) - Clemson University
-- [CMN](./CMN/) - Colorado State University
-- [COLO](./COLO/) - University of Colorado
-- [CSCN](./CSCN/) - University of Nevada, Carson City
-- [CSU](./CSU/) - Colorado State University
-- [CUP](./CUP/) - Purdue University
+- [ALA](./data/ALA/) - University of Alaska Museum of the North Herbarium
+- [APSC](./data/APSC/) - Austin Peay State University
+- [ASU](./data/ASU/) - Arizona State University
+- [AUA](./data/AUA/) - University of Alabama
+- [BALT](./data/BALT/) - Baltimore Museum
+- [BRIT](./data/BRIT/) - Botanical Research Institute of Texas
+- [BRY](./data/BRY/) - Brigham Young University
+- [BUT](./data/BUT/) - Butler University
+- [CAS](./data/CAS/) - California Academy of Sciences
+- [CHRB](./data/CHRB/) - California State University, Chico
+- [CHSC](./data/CHSC/) - Charleston Southern University
+- [CINC](./data/CINC/) - University of Cincinnati
+- [CLEMS](./data/CLEMS/) - Clemson University
+- [CMN](./data/CMN/) - Colorado State University
+- [COLO](./data/COLO/) - University of Colorado
+- [CSCN](./data/CSCN/) - University of Nevada, Carson City
+- [CSU](./data/CSU/) - Colorado State University
+- [CUP](./data/CUP/) - Purdue University
 
 ### D-G
-- [DAV](./DAV/) - University of California, Davis
-- [DUKE](./DUKE/) - Duke University
-- [EVE](./EVE/) - Evergreen State College
-- [EWU](./EWU/) - Eastern Washington University
-- [F](./F/) - Field Museum of Natural History
-- [FH](./FH/) - Harvard University Farlow Herbarium
-- [FLAS](./FLAS/) - University of Florida
-- [FTG](./FTG/) - Fairchild Tropical Botanic Garden
-- [FTU](./FTU/) - Florida International University
-- [GAM](./GAM/) - University of Georgia
-- [GEO](./GEO/) - Georgetown University
-- [GMUF](./GMUF/) - George Mason University
+- [DAV](./data/DAV/) - University of California, Davis
+- [DUKE](./data/DUKE/) - Duke University
+- [EVE](./data/EVE/) - Evergreen State College
+- [EWU](./data/EWU/) - Eastern Washington University
+- [F](./data/F/) - Field Museum of Natural History
+- [FH](./data/FH/) - Harvard University Farlow Herbarium
+- [FLAS](./data/FLAS/) - University of Florida
+- [FTG](./data/FTG/) - Fairchild Tropical Botanic Garden
+- [FTU](./data/FTU/) - Florida International University
+- [GAM](./data/GAM/) - University of Georgia
+- [GEO](./data/GEO/) - Georgetown University
+- [GMUF](./data/GMUF/) - George Mason University
 
 ### H-L
-- [HPSU](./HPSU/) - High Point University
-- [HSC](./HSC/) - Humboldt State University
-- [Harvard_University](./Harvard_University/) - Harvard University
-- [ID](./ID/) - University of Idaho
-- [IDS](./IDS/) - Idaho State University
-- [ILL](./ILL/) - University of Illinois
-- [ILLS](./ILLS/) - Illinois State University
-- [IND](./IND/) - Indiana University
-- [ISC](./ISC/) - Iowa State University
-- [KANU](./KANU/) - University of Kansas
-- [KE](./KE/) - Kenyon College
-- [KIRI](./KIRI/) - Kirtland Community College
-- [LSU](./LSU/) - Louisiana State University
+- [HPSU](./data/HPSU/) - High Point University
+- [HSC](./data/HSC/) - Humboldt State University
+- [Harvard_University](./data/Harvard_University/) - Harvard University
+- [ID](./data/ID/) - University of Idaho
+- [IDS](./data/IDS/) - Idaho State University
+- [ILL](./data/ILL/) - University of Illinois
+- [ILLS](./data/ILLS/) - Illinois State University
+- [IND](./data/IND/) - Indiana University
+- [ISC](./data/ISC/) - Iowa State University
+- [KANU](./data/KANU/) - University of Kansas
+- [KE](./data/KE/) - Kenyon College
+- [KIRI](./data/KIRI/) - Kirtland Community College
+- [LSU](./data/LSU/) - Louisiana State University
 
 ### M-O
-- [MAINE](./MAINE/) - University of Maine
-- [MCTC](./MCTC/) - Macomb Community College
-- [MDKY](./MDKY/) - University of Kentucky
-- [MICH](./MICH/) - University of Michigan
-- [MIL](./MIL/) - University of Wisconsin, Milwaukee
-- [MIN](./MIN/) - University of Minnesota
-- [MONT](./MONT/) - University of Montana
-- [MONTU](./MONTU/) - Montana State University
-- [MOR](./MOR/) - Missouri Botanical Garden
-- [MSC](./MSC/) - Mississippi State University
-- [MU](./MU/) - University of Missouri
-- [NBM](./NBM/) - New Brunswick Museum
-- [NCU](./NCU/) - University of North Carolina
-- [NEB](./NEB/) - University of Nebraska
-- [NHA](./NHA/) - New Hampshire
-- [NY](./NY/) - New York Botanical Garden
-- [OBI](./OBI/) - Oberlin College
-- [OMA](./OMA/) - University of Nebraska, Omaha
-- [OS](./OS/) - Ohio State University
-- [OSC](./OSC/) - Oregon State University
+- [MAINE](./data/MAINE/) - University of Maine
+- [MCTC](./data/MCTC/) - Macomb Community College
+- [MDKY](./data/MDKY/) - University of Kentucky
+- [MICH](./data/MICH/) - University of Michigan
+- [MIL](./data/MIL/) - University of Wisconsin, Milwaukee
+- [MIN](./data/MIN/) - University of Minnesota
+- [MONT](./data/MONT/) - University of Montana
+- [MONTU](./data/MONTU/) - Montana State University
+- [MOR](./data/MOR/) - Missouri Botanical Garden
+- [MSC](./data/MSC/) - Mississippi State University
+- [MU](./data/MU/) - University of Missouri
+- [NBM](./data/NBM/) - New Brunswick Museum
+- [NCU](./data/NCU/) - University of North Carolina
+- [NEB](./data/NEB/) - University of Nebraska
+- [NHA](./data/NHA/) - New Hampshire
+- [NY](./data/NY/) - New York Botanical Garden
+- [OBI](./data/OBI/) - Oberlin College
+- [OMA](./data/OMA/) - University of Nebraska, Omaha
+- [OS](./data/OS/) - Ohio State University
+- [OSC](./data/OSC/) - Oregon State University
 
 ### P-S
-- [PH](./PH/) - Academy of Natural Sciences of Philadelphia
-- [RM](./RM/) - Rocky Mountain Herbarium
-- [SBBG](./SBBG/) - Santa Barbara Botanic Garden
-- [SD](./SD/) - University of South Dakota
-- [SFSU](./SFSU/) - San Francisco State University
-- [SRP](./SRP/) - Sul Ross State University
-- [STNF](./STNF/) - Stephen F. Austin State University
+- [PH](./data/PH/) - Academy of Natural Sciences of Philadelphia
+- [RM](./data/RM/) - Rocky Mountain Herbarium
+- [SBBG](./data/SBBG/) - Santa Barbara Botanic Garden
+- [SD](./data/SD/) - University of South Dakota
+- [SFSU](./data/SFSU/) - San Francisco State University
+- [SRP](./data/SRP/) - Sul Ross State University
+- [STNF](./data/STNF/) - Stephen F. Austin State University
 
 ### T-U
-- [TENN](./TENN/) - University of Tennessee
-- [TROY](./TROY/) - Troy University
-- [UC](./UC/) - University of California system
-- [UCR(temp)](./UCR(temp)/) - UC Riverside (temporary) ⚠️ *Contains parentheses*
-- [UCSB](./UCSB/) - UC Santa Barbara
-- [UCSC](./UCSC/) - UC Santa Cruz
-- [UConn](./UConn/) - University of Connecticut
-- [UNA](./UNA/) - University of North Alabama
-- [UNLV](./UNLV/) - University of Nevada, Las Vegas
-- [UNM](./UNM/) - University of New Mexico
-- [URV](./URV/) - University of Richmond Herbarium
-- [US](./US/) - United States National Herbarium
-- [USCH](./USCH/) - University of South Carolina
-- [USF](./USF/) - University of South Florida
-- [USFWS-PRR](./USFWS-PRR/) - U.S. Fish & Wildlife Service
-- [USU](./USU/) - Utah State University
-- [UVSC](./UVSC/) - Utah Valley State College
-- [UWAL](./UWAL/) - University of West Alabama Herbarium
-- [UWEC](./UWEC/) - University of Wisconsin, Eau Claire
-- [UWGB](./UWGB/) - University of Wisconsin, Green Bay
-- [UWO](./UWO/) - University of Western Ontario
+- [TENN](./data/TENN/) - University of Tennessee
+- [TROY](./data/TROY/) - Troy University
+- [UC](./data/UC/) - University of California system
+- [UCR(temp)](./data/UCR(temp)/) - UC Riverside (temporary) ⚠️ *Contains parentheses*
+- [UCSB](./data/UCSB/) - UC Santa Barbara
+- [UCSC](./data/UCSC/) - UC Santa Cruz
+- [UConn](./data/UConn/) - University of Connecticut
+- [UNA](./data/UNA/) - University of North Alabama
+- [UNLV](./data/UNLV/) - University of Nevada, Las Vegas
+- [UNM](./data/UNM/) - University of New Mexico
+- [URV](./data/URV/) - University of Richmond Herbarium
+- [US](./data/US/) - United States National Herbarium
+- [USCH](./data/USCH/) - University of South Carolina
+- [USF](./data/USF/) - University of South Florida
+- [USFWS-PRR](./data/USFWS-PRR/) - U.S. Fish & Wildlife Service
+- [USU](./data/USU/) - Utah State University
+- [UVSC](./data/UVSC/) - Utah Valley State College
+- [UWAL](./data/UWAL/) - University of West Alabama Herbarium
+- [UWEC](./data/UWEC/) - University of Wisconsin, Eau Claire
+- [UWGB](./data/UWGB/) - University of Wisconsin, Green Bay
+- [UWO](./data/UWO/) - University of Western Ontario
 
 ### V-Z
-- [VPI](./VPI/) - Virginia Polytechnic Institute and State University, Massey Herbarium
-- [VT](./VT/) - University of Vermont
-- [WCUH](./WCUH/) - Western Carolina University
-- [WIN](./WIN/) - Winona State University
-- [WIS](./WIS/) - University of Wisconsin
-- [WS](./WS/) - Washington State University
-- [WSCO](./WSCO/) - Western State Colorado University
-- [WTU](./WTU/) - University of Washington
-- [WVA](./WVA/) - West Virginia University
-- [WWB](./WWB/) - Western Washington University
-- [YM](./YM/) - Yosemite National Park Lichen Herbarium
-- [YPM](./YPM/) - Yale Peabody Museum
+- [VPI](./data/VPI/) - Virginia Polytechnic Institute and State University, Massey Herbarium
+- [VT](./data/VT/) - University of Vermont
+- [WCUH](./data/WCUH/) - Western Carolina University
+- [WIN](./data/WIN/) - Winona State University
+- [WIS](./data/WIS/) - University of Wisconsin
+- [WS](./data/WS/) - Washington State University
+- [WSCO](./data/WSCO/) - Western State Colorado University
+- [WTU](./data/WTU/) - University of Washington
+- [WVA](./data/WVA/) - West Virginia University
+- [WWB](./data/WWB/) - Western Washington University
+- [YM](./data/YM/) - Yosemite National Park Lichen Herbarium
+- [YPM](./data/YPM/) - Yale Peabody Museum
 
 ---
 

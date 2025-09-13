@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2606484	CAS	Ryan, Bruce	Washington	Skagit County	1.41	outside_boundary_exact	446972	48.2833333333,-121.2416666667	Washington, Snohomish County	Glacier Peak Wilderness, along Green Mountain Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=2606484

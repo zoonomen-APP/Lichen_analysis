@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: UCR(temp)
+Generated: 2025-09-11 23:03:30.179362
+Processing time: 6.15 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 16786
+After country filtering: 16046 (lost 740 non-US records)
+After coordinate filtering: 15750 (lost 296 records without coordinates)
+After state filtering: 15749 (lost 1 records without state information)
+After county filtering: 15701 (lost 48 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 15701 (93.5% of total collection)
+Boundary violations detected: 796 (5.1% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 1.84 km
+Median distance: 6.19 km
+Third quartile: 124.3 km
+Maximum distance: 14032.38 km
+Mean distance: 298.67 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 93.5% of records have complete geographic data
+Boundary violation rate: 5.1% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/UCR(temp)/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

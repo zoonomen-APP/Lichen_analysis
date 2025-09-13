@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: USU
+Generated: 2025-09-11 16:36:40.727733
+Processing time: 0.42 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1513
+After country filtering: 1295 (lost 218 non-US records)
+After coordinate filtering: 1215 (lost 80 records without coordinates)
+After state filtering: 1215 (lost 0 records without state information)
+After county filtering: 936 (lost 279 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 936 (61.9% of total collection)
+Boundary violations detected: 70 (7.5% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.87 km
+Median distance: 6.4 km
+Third quartile: 13.4 km
+Maximum distance: 4023.49 km
+Mean distance: 132.99 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 61.9% of records have complete geographic data
+Boundary violation rate: 7.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/USU/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

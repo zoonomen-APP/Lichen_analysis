@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: NEB
+Generated: 2025-09-11 22:52:42.76005
+Processing time: 0.03 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 14533
+After country filtering: 11108 (lost 3425 non-US records)
+After coordinate filtering: 86 (lost 11022 records without coordinates)
+After state filtering: 86 (lost 0 records without state information)
+After county filtering: 83 (lost 3 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 83 (0.6% of total collection)
+Boundary violations detected: 4 (4.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.11 km
+First quartile: 2.36 km
+Median distance: 3.61 km
+Third quartile: 8.08 km
+Maximum distance: 19.98 km
+Mean distance: 6.83 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 0.6% of records have complete geographic data
+Boundary violation rate: 4.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/NEB/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

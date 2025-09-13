@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1793297	CUP	Calkins	Tennessee	Hamilton	230.45	outside_boundary_exact	CUP-L-0005362	36.510169,-87.383031	Tennessee, Montgomery County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1793297

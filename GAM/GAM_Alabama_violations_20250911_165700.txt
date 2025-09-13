@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3128219	GAM	Sean Q. Beeching	Alabama	Escambia	1.2	outside_boundary_exact	GAM00027882	31.13734,-86.68794	Alabama, Covington County	Solon-Dixon Center	https://lichenportal.org/portal/collections/individual/index.php?occid=3128219
+3129188	GAM	Sean Q. Beeching	Alabama	Covington	0.07	outside_boundary_exact	GAM00028417	31.18381,-86.70109	Alabama, Escambia County	Solon-Dixon Center	https://lichenportal.org/portal/collections/individual/index.php?occid=3129188

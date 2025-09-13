@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: STNF
+Generated: 2025-09-11 16:35:29.107385
+Processing time: 0.01 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 382
+After country filtering: 382 (lost 0 non-US records)
+After coordinate filtering: 27 (lost 355 records without coordinates)
+After state filtering: 27 (lost 0 records without state information)
+After county filtering: 26 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 26 (6.8% of total collection)
+Boundary violations detected: 2 (7.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 187.01 km
+First quartile: 2369.14 km
+Median distance: 4551.27 km
+Third quartile: 6733.41 km
+Maximum distance: 8915.54 km
+Mean distance: 4551.27 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 6.8% of records have complete geographic data
+Boundary violation rate: 7.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/STNF/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

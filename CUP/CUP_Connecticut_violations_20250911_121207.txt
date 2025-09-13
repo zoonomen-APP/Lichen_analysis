@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+4938612	CUP	R. Yahr	Connecticut	Windham	1795.06	outside_boundary_exact	CUP-L-0011144	30.3916667,-86.55	Florida, Okaloosa County	Town of Windham, E of North Windham, W of Windham airport, SSW of Mansfield Hollow Dam.  Mansfield Hollow State Park, W of bicycle path	https://lichenportal.org/portal/collections/individual/index.php?occid=4938612

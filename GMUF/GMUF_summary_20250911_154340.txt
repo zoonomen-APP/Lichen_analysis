@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: GMUF
+Generated: 2025-09-11 15:43:40.172742
+Processing time: 0.08 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 399
+After country filtering: 354 (lost 45 non-US records)
+After coordinate filtering: 117 (lost 237 records without coordinates)
+After state filtering: 117 (lost 0 records without state information)
+After county filtering: 117 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 117 (29.3% of total collection)
+Boundary violations detected: 12 (10.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.24 km
+First quartile: 0.34 km
+Median distance: 185.95 km
+Third quartile: 605.1 km
+Maximum distance: 9381.99 km
+Mean distance: 1024.72 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 29.3% of records have complete geographic data
+Boundary violation rate: 10.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/GMUF/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

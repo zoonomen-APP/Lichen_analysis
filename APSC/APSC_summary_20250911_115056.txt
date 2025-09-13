@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: APSC
+Generated: 2025-09-11 11:50:56.215136
+Processing time: 0.32 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 515
+After country filtering: 515 (lost 0 non-US records)
+After coordinate filtering: 506 (lost 9 records without coordinates)
+After state filtering: 506 (lost 0 records without state information)
+After county filtering: 505 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 505 (98.1% of total collection)
+Boundary violations detected: 25 (5% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.18 km
+Median distance: 0.97 km
+Third quartile: 7.65 km
+Maximum distance: 73.74 km
+Mean distance: 9.94 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 98.1% of records have complete geographic data
+Boundary violation rate: 5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/APSC/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

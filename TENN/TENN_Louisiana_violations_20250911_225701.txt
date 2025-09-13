@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1067010	TENN	H.A. Sierk	Louisiana	Lincoln	31.33	outside_boundary_exact	TENN-L-0005840	32.69,-92.08	Louisiana, Ouachita County	I 20 rest area just W of Ouachita Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1067010

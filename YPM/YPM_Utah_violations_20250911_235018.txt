@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1653533	YPM	Sereno Watson	Utah	Summit	1.31	outside_boundary_exact	YU.238449	40.7765,-110.3723	Utah, Duchesne County	Uintas	https://lichenportal.org/portal/collections/individual/index.php?occid=1653533
+1655975	YPM	Sereno Watson	Utah	Summit	1.31	outside_boundary_exact	YU.236705	40.7765,-110.3723	Utah, Duchesne County	Uintas	https://lichenportal.org/portal/collections/individual/index.php?occid=1655975

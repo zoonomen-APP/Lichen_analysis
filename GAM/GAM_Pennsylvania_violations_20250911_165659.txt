@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3044515	GAM	Robert J. Hill	Pennsylvania	Lancaster	30.29	outside_boundary_exact	GAM00026762	40.458333,-76.6675	Pennsylvania, Lebanon County	State Game Lands 211	https://lichenportal.org/portal/collections/individual/index.php?occid=3044515
+3129088	GAM	Robert J. Hill	Pennsylvania	Cumberland	10.53	outside_boundary_exact	GAM00028440	40.07167,-76.88806	Pennsylvania, York County	Gifford Pinchot State Park, Alpine Trail at Lakeside Trail; 40.07167 -76.88806	https://lichenportal.org/portal/collections/individual/index.php?occid=3129088
+3128194	GAM	Robert J. Hill	Pennsylvania	Lebanon	0.01	outside_boundary_exact	GAM00027829	40.514444,-76.607778	Pennsylvania, Dauphin County	Game Lnd 211 Forest Bioblite 99	https://lichenportal.org/portal/collections/individual/index.php?occid=3128194

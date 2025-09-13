@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: HPSU
+Generated: 2025-09-11 15:43:54.118112
+Processing time: 0.23 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 640
+After country filtering: 637 (lost 3 non-US records)
+After coordinate filtering: 624 (lost 13 records without coordinates)
+After state filtering: 624 (lost 0 records without state information)
+After county filtering: 604 (lost 20 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 604 (94.4% of total collection)
+Boundary violations detected: 2 (0.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.12 km
+First quartile: 0.13 km
+Median distance: 0.14 km
+Third quartile: 0.15 km
+Maximum distance: 0.15 km
+Mean distance: 0.14 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 94.4% of records have complete geographic data
+Boundary violation rate: 0.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/HPSU/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

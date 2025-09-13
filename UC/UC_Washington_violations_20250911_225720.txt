@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1594196	UC	Daniel H. Norris	Washington	Clallam	9.22	outside_boundary_exact	UC94182	47.783333,-123.483333	Washington, Jefferson County	Near small lake about 1 mile ssw of Mount Dana, Olympic National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1594196

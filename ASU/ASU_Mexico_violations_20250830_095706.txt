@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+704977	ASU	C.C. Bratt	Mexico	Baja California	NA	county_not_matched_no_match	NA	30.05,-115.416666666667	county_not_matched	along route 1, 23 km E of El Rosario	https://lichenportal.org/portal/collections/individual/index.php?occid=704977
+939820	ASU	C.C. Bratt	Mexico	Baja California	NA	county_not_matched_no_match	NA	30.05,-115.4166667	county_not_matched	along route 1, 23 km E of El Rosario	https://lichenportal.org/portal/collections/individual/index.php?occid=939820

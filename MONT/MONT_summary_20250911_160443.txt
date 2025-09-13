@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: MONT
+Generated: 2025-09-11 16:04:43.620762
+Processing time: 3.74 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 8496
+After country filtering: 8295 (lost 201 non-US records)
+After coordinate filtering: 7775 (lost 520 records without coordinates)
+After state filtering: 7775 (lost 0 records without state information)
+After county filtering: 7683 (lost 92 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7683 (90.4% of total collection)
+Boundary violations detected: 583 (7.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.79 km
+Median distance: 5.39 km
+Third quartile: 13.15 km
+Maximum distance: 404.83 km
+Mean distance: 18.55 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 90.4% of records have complete geographic data
+Boundary violation rate: 7.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/MONT/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

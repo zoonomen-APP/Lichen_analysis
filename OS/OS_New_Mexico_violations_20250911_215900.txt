@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2425796	OS	Leslie Hubricht	New Mexico	Valencia	113.84	outside_boundary_exact	OS0014279	35.098809,-108.448804	New Mexico, Cibola County	2 miles southeast of Ramah	https://lichenportal.org/portal/collections/individual/index.php?occid=2425796

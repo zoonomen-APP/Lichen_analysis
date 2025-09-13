@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: UWAL
+Generated: 2025-09-11 23:12:48.101761
+Processing time: 0.8 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 2345
+After country filtering: 2333 (lost 12 non-US records)
+After coordinate filtering: 2299 (lost 34 records without coordinates)
+After state filtering: 2298 (lost 1 records without state information)
+After county filtering: 2298 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 2298 (98% of total collection)
+Boundary violations detected: 35 (1.5% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.17 km
+Median distance: 0.48 km
+Third quartile: 0.49 km
+Maximum distance: 68.89 km
+Mean distance: 3.26 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 98% of records have complete geographic data
+Boundary violation rate: 1.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/UWAL/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

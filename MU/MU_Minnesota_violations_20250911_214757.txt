@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1821100	MU	Fink, Bruce	Minnesota	Lake of the Woods	0.49	outside_boundary_exact	000159510	48.803595,-95.096894	Minnesota, Roseau County	Roosevelt	https://lichenportal.org/portal/collections/individual/index.php?occid=1821100

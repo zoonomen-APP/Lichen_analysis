@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: USF
+Generated: 2025-09-11 23:11:58.036464
+Processing time: 0.27 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1444
+After country filtering: 995 (lost 449 non-US records)
+After coordinate filtering: 621 (lost 374 records without coordinates)
+After state filtering: 621 (lost 0 records without state information)
+After county filtering: 620 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 620 (42.9% of total collection)
+Boundary violations detected: 57 (9.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 1.12 km
+Median distance: 6.96 km
+Third quartile: 12.91 km
+Maximum distance: 327.95 km
+Mean distance: 14.78 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 42.9% of records have complete geographic data
+Boundary violation rate: 9.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/USF/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

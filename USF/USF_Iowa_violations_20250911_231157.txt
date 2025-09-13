@@ -1,0 +1,9 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1559392	USF	Julia A. Schulten	Iowa	Louisa	45.03	outside_boundary_exact	USF 269514	40.755713,-91.699898	Iowa, Lee County	Big Sand Mound	https://lichenportal.org/portal/collections/individual/index.php?occid=1559392
+1820548	USF	Julia A. Schulten	Iowa	Louisa	45.03	outside_boundary_exact	USF 269515	40.755713,-91.699898	Iowa, Lee County	Big Sand Mound.	https://lichenportal.org/portal/collections/individual/index.php?occid=1820548
+1559263	USF	J. Schulten	Iowa	Marion	6.96	outside_boundary_exact	USF 269469	41.337349,-92.786811	Iowa, Mahaska County	strip mine area near Leighton	https://lichenportal.org/portal/collections/individual/index.php?occid=1559263
+1559336	USF	J. Schulten	Iowa	Marion	6.96	outside_boundary_exact	USF 269479	41.337349,-92.786811	Iowa, Mahaska County	strip mine area near Leighton	https://lichenportal.org/portal/collections/individual/index.php?occid=1559336
+1559160	USF	J. Schulten	Iowa	Dubuque	0.81	outside_boundary_exact	USF 269491	42.65306,-91.13139	Iowa, Clayton County	White Pine Hollow State Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=1559160
+1559249	USF	J. Schulten	Iowa	Dubuque	0.81	outside_boundary_exact	USF 269471	42.65306,-91.13139	Iowa, Clayton County	White Pine Hollow State Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=1559249
+1559333	USF	J. Schulten	Iowa	Dubuque	0.81	outside_boundary_exact	USF 269477	42.65306,-91.13139	Iowa, Clayton County	White Pine Hollow State Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=1559333
+1559364	USF	J. Schulten	Iowa	Dubuque	0.81	outside_boundary_exact	USF 269487	42.65306,-91.13139	Iowa, Clayton County	White Pine Hollow State Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=1559364

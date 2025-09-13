@@ -1,0 +1,9 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5639945	ISC	M. O'Grady	Indiana	Owen	4924.93	outside_boundary_exact	ISC0874782	86.733333,-39.316667	not_found_in_US	Romona Quarry	https://lichenportal.org/portal/collections/individual/index.php?occid=5639945
+5639946	ISC	M. O'Grady	Indiana	Owen	4924.93	outside_boundary_exact	ISC0874723	86.733333,-39.316667	not_found_in_US	Romona Quarry	https://lichenportal.org/portal/collections/individual/index.php?occid=5639946
+5639947	ISC	M. O'Grady	Indiana	Owen	4924.93	outside_boundary_exact	ISC0874758	86.733333,-39.316667	not_found_in_US	Romona Quarry	https://lichenportal.org/portal/collections/individual/index.php?occid=5639947
+5639948	ISC	M. O'Grady	Indiana	Owen	4924.93	outside_boundary_exact	ISC0874777	86.733333,-39.316667	not_found_in_US	Romona Quarry	https://lichenportal.org/portal/collections/individual/index.php?occid=5639948
+5639949	ISC	M. O'Grady	Indiana	Owen	4924.93	outside_boundary_exact	ISC0874734	86.733333,-39.316667	not_found_in_US	Romona Quarry	https://lichenportal.org/portal/collections/individual/index.php?occid=5639949
+5639950	ISC	M. O'Grady	Indiana	Parke	4876.93	outside_boundary_exact	ISC0874775	87.233333,-39.866667	not_found_in_US	Roaring Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=5639950
+5639951	ISC	M. O'Grady	Indiana	Parke	4876.93	outside_boundary_exact	ISC0874770	87.233333,-39.866667	not_found_in_US	Roaring Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=5639951
+5639952	ISC	M. O'Grady	Indiana	Parke	4876.93	outside_boundary_exact	ISC0874768	87.233333,-39.866667	not_found_in_US	Roaring Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=5639952

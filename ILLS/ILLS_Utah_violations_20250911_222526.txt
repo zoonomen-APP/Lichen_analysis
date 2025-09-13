@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2705912	ILLS	J.L. Crane & J.D. Schoknecht	Utah	Washington	159.47	outside_boundary_exact	ILLS00094947	38.47803,-111.569502	Utah, Wayne County	Ashley National Forest. Rim of Red Canyon.	https://lichenportal.org/portal/collections/individual/index.php?occid=2705912
+2705913	ILLS	J.L. Crane & J.D. Schoknecht	Utah	Unintah	NA	county_not_matched_no_match	ILLS00094948	40.555516,-109.400689	county_not_matched	Little Bush Creek. Route 44.	https://lichenportal.org/portal/collections/individual/index.php?occid=2705913

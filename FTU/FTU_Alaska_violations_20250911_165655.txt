@@ -1,0 +1,5 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1558556	FTU	Charles and Marre Koch	Alaska	Southeast Fairbanks	69.91	outside_boundary_exact	FTU L109	64.843322,-147.758644	Alaska, Fairbanks North Star County	Southeast Fairbanks	https://lichenportal.org/portal/collections/individual/index.php?occid=1558556
+1558597	FTU	Constance Naish	Alaska	Southeast Fairbanks	69.91	outside_boundary_exact	FTU L150	64.843322,-147.758644	Alaska, Fairbanks North Star County	on humus	https://lichenportal.org/portal/collections/individual/index.php?occid=1558597
+1558599	FTU	Constance Naish	Alaska	Southeast Fairbanks	69.91	outside_boundary_exact	FTU L152	64.843322,-147.758644	Alaska, Fairbanks North Star County	on humus	https://lichenportal.org/portal/collections/individual/index.php?occid=1558599
+1558648	FTU	Charles and Marre Koch	Alaska	Southeast Fairbanks	69.91	outside_boundary_exact	FTU L92	64.843322,-147.758644	Alaska, Fairbanks North Star County	Southeast Fairbanks	https://lichenportal.org/portal/collections/individual/index.php?occid=1558648

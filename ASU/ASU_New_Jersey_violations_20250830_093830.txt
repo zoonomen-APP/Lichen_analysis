@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+95353	ASU	J.C. Lendemer	New Jersey	Cumberland	54.51	outside_boundary_exact	NA	39.7711111,-74.4069444	New Jersey, Burlington County	along a road used for timber harvesting, west of Red Road (Stevenson Road), Oswego River Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=95353
+74959	ASU	C.K. Schmitt	New Jersey	Atlantic	0.69	outside_boundary_exact	ASUL024741	39.65,-74.65	New Jersey, Burlington County	Wharton State Forest, Batsto Natural Area	https://lichenportal.org/portal/collections/individual/index.php?occid=74959

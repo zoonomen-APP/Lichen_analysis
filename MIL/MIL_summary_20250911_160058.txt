@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: MIL
+Generated: 2025-09-11 16:00:58.945801
+Processing time: 0.15 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 3164
+After country filtering: 1939 (lost 1225 non-US records)
+After coordinate filtering: 310 (lost 1629 records without coordinates)
+After state filtering: 310 (lost 0 records without state information)
+After county filtering: 299 (lost 11 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 299 (9.5% of total collection)
+Boundary violations detected: 46 (15.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.03 km
+First quartile: 1.09 km
+Median distance: 66.72 km
+Third quartile: 15745.88 km
+Maximum distance: 15745.88 km
+Mean distance: 4816.26 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 9.5% of records have complete geographic data
+Boundary violation rate: 15.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/MIL/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

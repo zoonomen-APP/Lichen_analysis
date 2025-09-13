@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2911685	ID	Gary J. Schroeder	California	Del Norte	288.56	outside_boundary_exact	ID-L-0007870	39.1647,-121.9191	California, Sutter County	Cushing Creek Area. 0.5 miles SE of Crescent City	https://lichenportal.org/portal/collections/individual/index.php?occid=2911685

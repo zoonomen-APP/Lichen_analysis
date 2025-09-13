@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: AUA
+Generated: 2025-09-11 11:53:29.75362
+Processing time: 1.5 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 3988
+After country filtering: 3804 (lost 184 non-US records)
+After coordinate filtering: 3493 (lost 311 records without coordinates)
+After state filtering: 3493 (lost 0 records without state information)
+After county filtering: 3493 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 3493 (87.6% of total collection)
+Boundary violations detected: 42 (1.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.11 km
+First quartile: 1.55 km
+Median distance: 5.12 km
+Third quartile: 101.16 km
+Maximum distance: 885.71 km
+Mean distance: 79.31 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 87.6% of records have complete geographic data
+Boundary violation rate: 1.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/AUA/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

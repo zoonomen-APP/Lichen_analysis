@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3023114	UCSB	Shirley C. Tucker	Louisiana	East Baton Rouge	10.25	outside_boundary_exact	UCSB044083	30.2245,-91.073	Louisiana, Iberville County	Baird Drive, south Baton Rouge.	https://lichenportal.org/portal/collections/individual/index.php?occid=3023114

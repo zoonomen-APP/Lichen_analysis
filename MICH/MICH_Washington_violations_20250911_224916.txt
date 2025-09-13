@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1399948	MICH	B. Ryan	Washington	Skagit	1986.17	outside_boundary_exact	121310	30.5,-122.683333	not_found_in_US	Shannon Point, Fidalgo Island	https://lichenportal.org/portal/collections/individual/index.php?occid=1399948
+1230104	MICH	B. Ryan	Washington	Whatcom	4.81	outside_boundary_exact	110226	48.6,-121.75	Washington, Skagit County	Road to Baker Lake from Hwy 20	https://lichenportal.org/portal/collections/individual/index.php?occid=1230104
+1058746	MICH	B. Ryan	Washington	Whatcom	0.41	outside_boundary_exact	78060	48.641667,-122.483333	Washington, Skagit County	Just north of Clayton Beach, on sandstone at the seashore,	https://lichenportal.org/portal/collections/individual/index.php?occid=1058746

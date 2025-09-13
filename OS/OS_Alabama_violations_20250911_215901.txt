@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3182826	OS	Diane H. Lucas	Alabama	De Kalb	NA	county_not_matched_no_match	OS0065509	34.474833,-86.054028	county_not_matched	Buck's Pocket State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=3182826

@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+65998	ASU	H. Willey	Massachusetts	Middlesex	71.61	outside_boundary_exact	ASUL018434	41.636213,-70.934208	Massachusetts, Bristol County	New Bedford	https://lichenportal.org/portal/collections/individual/index.php?occid=65998
+5779849	ASU	William L. Culberson	Massachusetts	Middlesex	3.3	outside_boundary_exact	ASUL047964	42.22865,-71.63996	Massachusetts, Worcester County	9.6 km [6 mi] W of Hopkinton	https://lichenportal.org/portal/collections/individual/index.php?occid=5779849

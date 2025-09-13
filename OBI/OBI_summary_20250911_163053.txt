@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: OBI
+Generated: 2025-09-11 16:30:53.085077
+Processing time: 0.6 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1940
+After country filtering: 1926 (lost 14 non-US records)
+After coordinate filtering: 1488 (lost 438 records without coordinates)
+After state filtering: 1488 (lost 0 records without state information)
+After county filtering: 1488 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 1488 (76.7% of total collection)
+Boundary violations detected: 21 (1.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 2.71 km
+First quartile: 111.95 km
+Median distance: 10137.72 km
+Third quartile: 12517.13 km
+Maximum distance: 12517.13 km
+Mean distance: 7757.47 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 76.7% of records have complete geographic data
+Boundary violation rate: 1.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/OBI/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

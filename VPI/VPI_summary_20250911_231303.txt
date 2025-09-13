@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: VPI
+Generated: 2025-09-11 23:13:03.472179
+Processing time: 0.21 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 955
+After country filtering: 951 (lost 4 non-US records)
+After coordinate filtering: 331 (lost 620 records without coordinates)
+After state filtering: 331 (lost 0 records without state information)
+After county filtering: 331 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 331 (34.7% of total collection)
+Boundary violations detected: 85 (25.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.08 km
+Median distance: 0.12 km
+Third quartile: 0.12 km
+Maximum distance: 12802.97 km
+Mean distance: 452.42 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 34.7% of records have complete geographic data
+Boundary violation rate: 25.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/VPI/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

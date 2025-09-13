@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1620129	RM	Robert S. Egan	Colorado	Gunnison	4.42	outside_boundary_exact	RM-L-0000470	38.383333,-106.245833	Colorado, Saguache County	1 mile S of Marshall Pass, 8 miles northwest of Bonanza in Gunnison National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=1620129

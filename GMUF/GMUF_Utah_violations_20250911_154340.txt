@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3556333	GMUF	St. Clair	Utah	Summit	822.11	outside_boundary_exact	GMUF-0016414	40.93436667,-100.1492167	Nebraska, Dawson County	Wasatch-Cache National Forest, along USFS road between Hoop Lake and Hole in the Rock Pass	https://lichenportal.org/portal/collections/individual/index.php?occid=3556333

@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1509836	ILL	Clyde F. Reed	North Carolina	Camden	163.24	outside_boundary_exact	ILL00039612	34.8333,-76.95	North Carolina, Craven County	South Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=1509836

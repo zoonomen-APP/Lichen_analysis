@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: UNA
+Generated: 2025-09-11 23:03:48.252119
+Processing time: 0.1 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 274
+After country filtering: 274 (lost 0 non-US records)
+After coordinate filtering: 274 (lost 0 records without coordinates)
+After state filtering: 272 (lost 2 records without state information)
+After county filtering: 272 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 272 (99.3% of total collection)
+Boundary violations detected: 8 (2.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 5.64 km
+Median distance: 5.64 km
+Third quartile: 134.41 km
+Maximum distance: 134.41 km
+Mean distance: 53.22 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.3% of records have complete geographic data
+Boundary violation rate: 2.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/UNA/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

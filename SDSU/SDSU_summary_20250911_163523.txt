@@ -1,0 +1,24 @@
+# INSTITUTION ANALYSIS SUMMARY: SDSU
+Generated: 2025-09-11 16:35:23.521897
+Processing time: 0.01 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 42
+After country filtering: 42 (lost 0 non-US records)
+After coordinate filtering: 42 (lost 0 records without coordinates)
+After state filtering: 42 (lost 0 records without state information)
+After county filtering: 42 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 42 (100% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 100% of records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/SDSU/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

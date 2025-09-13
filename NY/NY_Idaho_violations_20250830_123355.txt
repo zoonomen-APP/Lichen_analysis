@@ -1,0 +1,6 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+888946	NY	R. D. Rosentreter	Idaho	Custer Co.	24.09	outside_boundary_exact	1133437	44.67,-113.42	Idaho, Lemhi County	Upper Texas Creek off Route #28, 70 miles SE of Salmon	https://lichenportal.org/portal/collections/individual/index.php?occid=888946
+964465	NY	Bruce McCune	Idaho	Idaho	6.97	outside_boundary_exact	1393850	45.13333,-115.61667	Idaho, Valley County	Wild Goose Campground. Clearwater River, along Middle Fork	https://lichenportal.org/portal/collections/individual/index.php?occid=964465
+3217539	NY	J. B. Leiberg	Idaho	Kootenai Co.	4.38	outside_boundary_exact	1708705	47.970182,-116.446582	Idaho, Bonner County	Lakeview	https://lichenportal.org/portal/collections/individual/index.php?occid=3217539
+3516003	NY	J. B. Leiberg	Idaho	Kootenai Co.	4.38	outside_boundary_exact	3303465	47.970182,-116.446582	Idaho, Bonner County	Lakeview	https://lichenportal.org/portal/collections/individual/index.php?occid=3516003
+5394081	NY	R. D. Rosentreter	Idaho	Ada Co.	0.52	outside_boundary_exact	4305738	43.52,-116.48	Idaho, Canyon County	Kuna Butte study site	https://lichenportal.org/portal/collections/individual/index.php?occid=5394081

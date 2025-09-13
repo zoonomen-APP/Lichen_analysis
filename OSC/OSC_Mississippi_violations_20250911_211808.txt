@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+4813003	OSC	Jennifer Weinziri	Mississippi	Jackson	302.8	outside_boundary_exact	OSC-M-051103	30.55,-85.24	Florida, Calhoun County	Latimer, north of Interstate 10, coastal range.	https://lichenportal.org/portal/collections/individual/index.php?occid=4813003
+4813003	OSC	Jennifer Weinziri	Mississippi	Jackson	302.8	outside_boundary_exact	OSC-M-051103	30.55,-85.24	Florida, Calhoun County	Latimer, north of Interstate 10, coastal range.	https://lichenportal.org/portal/collections/individual/index.php?occid=4813003

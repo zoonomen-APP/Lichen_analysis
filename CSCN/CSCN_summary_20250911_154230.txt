@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: CSCN
+Generated: 2025-09-11 15:42:30.353387
+Processing time: 0.07 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 257
+After country filtering: 251 (lost 6 non-US records)
+After coordinate filtering: 223 (lost 28 records without coordinates)
+After state filtering: 223 (lost 0 records without state information)
+After county filtering: 223 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 223 (86.8% of total collection)
+Boundary violations detected: 1 (0.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 35.52 km
+First quartile: 35.52 km
+Median distance: 35.52 km
+Third quartile: 35.52 km
+Maximum distance: 35.52 km
+Mean distance: 35.52 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 86.8% of records have complete geographic data
+Boundary violation rate: 0.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/CSCN/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

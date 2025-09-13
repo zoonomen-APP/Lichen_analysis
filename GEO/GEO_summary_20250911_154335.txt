@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: GEO
+Generated: 2025-09-11 15:43:35.661313
+Processing time: 0.34 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 621
+After country filtering: 620 (lost 1 non-US records)
+After coordinate filtering: 601 (lost 19 records without coordinates)
+After state filtering: 594 (lost 7 records without state information)
+After county filtering: 593 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 593 (95.5% of total collection)
+Boundary violations detected: 94 (15.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 32.7 km
+Median distance: 32.7 km
+Third quartile: 32.7 km
+Maximum distance: 312.73 km
+Mean distance: 36.75 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 95.5% of records have complete geographic data
+Boundary violation rate: 15.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/GEO/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

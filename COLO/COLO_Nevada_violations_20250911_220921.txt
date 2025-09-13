@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1660495	COLO	Bruce D. Ryan	Nevada	Nye	5.95	outside_boundary_exact	COLO-L-0021296	37.1,-117.2333333	Nevada, Esmeralda County	S-side of Hwy 267, 4 miles NE of Esmeraldo Co. line	https://lichenportal.org/portal/collections/individual/index.php?occid=1660495
+1732203	COLO	Thomas H. Nash III	Nevada	San Juan	NA	county_not_matched_no_match	COLO-L-0046011	36.2666667,-115.7	county_not_matched	Charleston Peak, end of route 52	https://lichenportal.org/portal/collections/individual/index.php?occid=1732203

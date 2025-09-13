@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: PH
+Generated: 2025-09-11 15:36:20.438976
+Processing time: 5.64 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 24262
+After country filtering: 18201 (lost 6061 non-US records)
+After coordinate filtering: 13005 (lost 5196 records without coordinates)
+After state filtering: 13005 (lost 0 records without state information)
+After county filtering: 11960 (lost 1045 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 11960 (49.3% of total collection)
+Boundary violations detected: 560 (4.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.82 km
+Median distance: 27.02 km
+Third quartile: 80.7 km
+Maximum distance: 9676.73 km
+Mean distance: 372.51 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 49.3% of records have complete geographic data
+Boundary violation rate: 4.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/PH/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

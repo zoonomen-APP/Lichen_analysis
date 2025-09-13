@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: UWGB
+Generated: 2025-09-11 16:36:44.481734
+Processing time: 0.06 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 120
+After country filtering: 120 (lost 0 non-US records)
+After coordinate filtering: 119 (lost 1 records without coordinates)
+After state filtering: 119 (lost 0 records without state information)
+After county filtering: 119 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 119 (99.2% of total collection)
+Boundary violations detected: 24 (20.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 27.49 km
+First quartile: 27.49 km
+Median distance: 27.49 km
+Third quartile: 27.49 km
+Maximum distance: 27.49 km
+Mean distance: 27.49 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.2% of records have complete geographic data
+Boundary violation rate: 20.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/UWGB/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

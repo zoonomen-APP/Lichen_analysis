@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3055229	MDKY	Allen C. Risk	Florida	Camden	NA	county_not_matched_no_match	MDKY-L-0000823	30.75076,-81.46638	county_not_matched	Cumberland Island National Seashore, Cumberland Island, slightly north of Dungeness area, along Nightingale Trail; NT plot 1	https://lichenportal.org/portal/collections/individual/index.php?occid=3055229

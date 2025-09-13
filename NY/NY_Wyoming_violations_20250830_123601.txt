@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3206089	NY	A. Nelson	Wyoming	Big Horn Co.	127.14	outside_boundary_exact	2686633	43.032186,-106.987278	Wyoming, Natrona County	Powder River.	https://lichenportal.org/portal/collections/individual/index.php?occid=3206089
+961606	NY	Clifford M. Wetmore	Wyoming	Big Horn	9.89	outside_boundary_exact	1411046	44.159167,-107.023056	Wyoming, Johnson County	USFS 28 at North Fork of Crazy Woman Creek (20.5 mi SW of Buffalo). North facing hillside and roadbank with spruce and few fir, elev. 8690 ft.	https://lichenportal.org/portal/collections/individual/index.php?occid=961606

@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5786192	MOR	Gerould Wilhelm	Michigan	Branch	92.21	outside_boundary_exact	0130444MOR	41.924204,-86.412234	Michigan, Berrien County	In Coldwater, at the Oak Grove Cemetery on the west side of town	https://lichenportal.org/portal/collections/individual/index.php?occid=5786192
+5786620	MOR	Gerould Wilhelm	Michigan	Branch	92.21	outside_boundary_exact	0130479MOR	41.924204,-86.412234	Michigan, Berrien County	In Coldwater, at the Oak Grove Cemetery on the west side of town	https://lichenportal.org/portal/collections/individual/index.php?occid=5786620
+5821976	MOR	Gerould Wilhelm	Michigan	Branch	92.21	outside_boundary_exact	0130504MOR	41.924204,-86.412234	Michigan, Berrien County	In Coldwater, at the Oak Grove Cemetery on the west side of town	https://lichenportal.org/portal/collections/individual/index.php?occid=5821976

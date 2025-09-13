@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: WVA
+Generated: 2025-09-11 23:49:40.954561
+Processing time: 0.06 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 8210
+After country filtering: 7792 (lost 418 non-US records)
+After coordinate filtering: 134 (lost 7658 records without coordinates)
+After state filtering: 134 (lost 0 records without state information)
+After county filtering: 129 (lost 5 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 129 (1.6% of total collection)
+Boundary violations detected: 5 (3.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.04 km
+First quartile: 0.11 km
+Median distance: 0.27 km
+Third quartile: 0.61 km
+Maximum distance: 2.63 km
+Mean distance: 0.73 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 1.6% of records have complete geographic data
+Boundary violation rate: 3.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/WVA/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

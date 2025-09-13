@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: FTU
+Generated: 2025-09-11 16:56:55.330868
+Processing time: 0.35 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 747
+After country filtering: 747 (lost 0 non-US records)
+After coordinate filtering: 747 (lost 0 records without coordinates)
+After state filtering: 747 (lost 0 records without state information)
+After county filtering: 746 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 746 (99.9% of total collection)
+Boundary violations detected: 25 (3.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 0.64 km
+Median distance: 2.29 km
+Third quartile: 69.91 km
+Maximum distance: 190.21 km
+Mean distance: 37.52 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.9% of records have complete geographic data
+Boundary violation rate: 3.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/FTU/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

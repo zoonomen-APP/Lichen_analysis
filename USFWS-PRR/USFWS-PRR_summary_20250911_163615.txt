@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: USFWS-PRR
+Generated: 2025-09-11 16:36:15.672279
+Processing time: 0.01 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 23
+After country filtering: 23 (lost 0 non-US records)
+After coordinate filtering: 23 (lost 0 records without coordinates)
+After state filtering: 23 (lost 0 records without state information)
+After county filtering: 23 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 23 (100% of total collection)
+Boundary violations detected: 3 (13% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 1.26 km
+First quartile: 1.26 km
+Median distance: 1.26 km
+Third quartile: 1.26 km
+Maximum distance: 1.26 km
+Mean distance: 1.26 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 100% of records have complete geographic data
+Boundary violation rate: 13% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/USFWS-PRR/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

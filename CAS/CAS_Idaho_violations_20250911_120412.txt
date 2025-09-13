@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2680303	CAS	Anderegg, Doyle E.	Idaho	Idaho County	4.54	outside_boundary_exact	462173	46.6833333333,-114.5833333333	Montana, Missoula County	Unspecified	https://lichenportal.org/portal/collections/individual/index.php?occid=2680303
+2682954	CAS	Anderegg, Doyle E.	Idaho	Adams County	2.5	outside_boundary_exact	464932	44.8333333333,-116.1666666667	Idaho, Valley County	Unspecified	https://lichenportal.org/portal/collections/individual/index.php?occid=2682954

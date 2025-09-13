@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: UC
+Generated: 2025-09-11 22:57:20.985875
+Processing time: 0.03 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 59050
+After country filtering: 45734 (lost 13316 non-US records)
+After coordinate filtering: 7546 (lost 38188 records without coordinates)
+After state filtering: 7543 (lost 3 records without state information)
+After county filtering: 22 (lost 7521 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 22 (0% of total collection)
+Boundary violations detected: 3 (13.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 1.07 km
+First quartile: 5.15 km
+Median distance: 9.22 km
+Third quartile: 145.98 km
+Maximum distance: 282.74 km
+Mean distance: 97.68 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 0% of records have complete geographic data
+Boundary violation rate: 13.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/UC/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

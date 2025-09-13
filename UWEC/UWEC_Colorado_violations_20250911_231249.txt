@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1620708	UWEC	Sam Shushan	Colorado	Larimer	0.24	outside_boundary_exact	UWEC-L-0000481	41,-105.36667	Wyoming, Albany County	ca. 0. 5 miles south of the Wyoming State line (just north of Virginia Dale)	https://lichenportal.org/portal/collections/individual/index.php?occid=1620708
+1621309	UWEC	Sam Shushan	Colorado	Larimer	0.24	outside_boundary_exact	UWEC-L-0001071	41,-105.366667	Wyoming, Albany County	ca. 1/2 mile south of the Wyoming State line (just north of Virginia Dale)	https://lichenportal.org/portal/collections/individual/index.php?occid=1621309

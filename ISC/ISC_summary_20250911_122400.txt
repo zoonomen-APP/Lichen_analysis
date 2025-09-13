@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: ISC
+Generated: 2025-09-11 12:24:00.740736
+Processing time: 0.66 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 6604
+After country filtering: 6435 (lost 169 non-US records)
+After coordinate filtering: 1885 (lost 4550 records without coordinates)
+After state filtering: 1885 (lost 0 records without state information)
+After county filtering: 1885 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 1885 (28.5% of total collection)
+Boundary violations detected: 55 (2.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.04 km
+First quartile: 0.95 km
+Median distance: 7.95 km
+Third quartile: 4900.93 km
+Maximum distance: 12516.75 km
+Mean distance: 2834.04 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 28.5% of records have complete geographic data
+Boundary violation rate: 2.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/ISC/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

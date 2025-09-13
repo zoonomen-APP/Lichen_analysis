@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+4412259	OSC	James Lendemer	West Virginia	Pocahontas	853.37	outside_boundary_exact	124165	38.20777778,-90.20444444	Illinois, Monroe County	Monongahela National Forest, Cranberry Wilderness, 1 mi from Trail head, High Rocks Trail.	https://lichenportal.org/portal/collections/individual/index.php?occid=4412259
+4412259	OSC	James Lendemer	West Virginia	Pocahontas	853.37	outside_boundary_exact	124165	38.20777778,-90.20444444	Illinois, Monroe County	Monongahela National Forest, Cranberry Wilderness, 1 mi from Trail head, High Rocks Trail.	https://lichenportal.org/portal/collections/individual/index.php?occid=4412259

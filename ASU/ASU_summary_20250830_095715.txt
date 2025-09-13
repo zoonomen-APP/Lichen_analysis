@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: ASU
+Generated: 2025-08-30 09:57:15.957729
+Processing time: 35.77 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in database: 125814
+After country filtering: 75733 (lost 50081 non-US records)
+After coordinate filtering: 71770 (lost 3963 records without coordinates)
+After state filtering: 71520 (lost 250 records without state information)
+After county filtering: 70549 (lost 971 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 70549 (56.1% of total collection)
+Boundary violations detected: 6283 (8.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 1.41 km
+Median distance: 8.2 km
+Third quartile: 41.91 km
+Maximum distance: 16373.25 km
+Mean distance: 45.36 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 56.1% of records have complete geographic data
+Boundary violation rate: 8.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/ASU/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

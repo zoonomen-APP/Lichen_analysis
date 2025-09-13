@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1397180	MICH	J. W. Thomson	Wisconsin	Dane	1.23	outside_boundary_exact	119717	43.25045,-89.79675	Wisconsin, Sauk County	North side of bluff of Wisconsin River 6 miles north of Mazomanie	https://lichenportal.org/portal/collections/individual/index.php?occid=1397180
+1398614	MICH	J. W. Thomson	Wisconsin	Dane	0.66	outside_boundary_exact	122053	43.02843,-89.84645	Wisconsin, Iowa County	Blue Mounds	https://lichenportal.org/portal/collections/individual/index.php?occid=1398614
+2427956	MICH	J. W. Thomson | H. A. Imshaug	Wisconsin	Dane	0.58	outside_boundary_exact	254032	43.02649,-89.8455	Wisconsin, Iowa County	West Blue Mountains	https://lichenportal.org/portal/collections/individual/index.php?occid=2427956

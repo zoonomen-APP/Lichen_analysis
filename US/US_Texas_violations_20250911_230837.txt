@@ -1,0 +1,6 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3593029	US	C. Fox	Texas	Zavala	39.88	outside_boundary_exact	NA	29.2,-100.5	Texas, Kinney County	Between Olmos and Conejos creek on dirt road from Uvalde	https://lichenportal.org/portal/collections/individual/index.php?occid=3593029
+3589893	US	S. Sharnoff & S. Sharnoff	Texas	Walker	0.01	outside_boundary_exact	NA	30.52,-95.62	Texas, Montgomery County	Sam Houston Nat Forest, W end of Lake Conroe	https://lichenportal.org/portal/collections/individual/index.php?occid=3589893
+3363340	US	S. Sharnoff & S. Sharnoff	Texas	Walker	0.01	outside_boundary_exact	NA	30.52,-95.62	Texas, Montgomery County	Sam Houston Nat Forest, W end of Lake Conroe	https://lichenportal.org/portal/collections/individual/index.php?occid=3363340
+3593435	US	S. Sharnoff & S. Sharnoff	Texas	Walker	0.01	outside_boundary_exact	NA	30.52,-95.62	Texas, Montgomery County	Sam Houston Nat Forest, W end of Lake Conroe	https://lichenportal.org/portal/collections/individual/index.php?occid=3593435
+3593666	US	S. Sharnoff & S. Sharnoff	Texas	Walker	0.01	outside_boundary_exact	NA	30.52,-95.62	Texas, Montgomery County	Sam Houston Nat Forest, W end of Lake Conroe	https://lichenportal.org/portal/collections/individual/index.php?occid=3593666

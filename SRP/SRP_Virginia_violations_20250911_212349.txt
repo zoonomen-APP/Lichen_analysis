@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1444188	SRP	J. G. Guccion	Virginia	Madison	0.88	outside_boundary_exact	SRP-L-0008014	38.533333,-78.45	Virginia, Page County	Shenandoah National Park, Upper Franklin Cliffs Overlook	https://lichenportal.org/portal/collections/individual/index.php?occid=1444188
+3352764	SRP	Lawrence Pike	Virginia	Smyth	0.29	outside_boundary_exact	NA	36.66,-81.54	Virginia, Grayson County	Mt. Rogers.	https://lichenportal.org/portal/collections/individual/index.php?occid=3352764

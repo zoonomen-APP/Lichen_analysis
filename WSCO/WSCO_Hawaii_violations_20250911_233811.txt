@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5648877	WSCO	Roger Rosentreter	Hawaii	Hawaii	4233.72	outside_boundary_exact	WSCO013548	19.666667,-115.4	not_found_in_US	Puu Oo, Saddle Road (Highway 220) between Mauna Kea and Mauna Loa Mts. Lichens on 1935 lava flow and Ohia forest in kipuka behind. Island of Hawaii.	https://lichenportal.org/portal/collections/individual/index.php?occid=5648877

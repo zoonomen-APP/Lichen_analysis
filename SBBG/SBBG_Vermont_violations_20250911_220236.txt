@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+137578	SBBG	Robert Egan	Vermont	Washington	3308.38	outside_boundary_exact	SBBG007454L	72.7125,-44.2375	not_found_in_US	Moretown Gap, 6.5 mi NW of Northfield	https://lichenportal.org/portal/collections/individual/index.php?occid=137578
+146578	SBBG	S. Hammer	Vermont	Bennington	0.33	outside_boundary_exact	SBBG009456L	43,-73	Vermont, Windham County	Winhall Township. Green Mountain National Forest near Bondville.	https://lichenportal.org/portal/collections/individual/index.php?occid=146578
+158286	SBBG	Samuel Hammer	Vermont	Bennington	0.33	outside_boundary_exact	NA	43,-73	Vermont, Windham County	Winhall Township. Green Mountain Nat Forest near Bondville.	https://lichenportal.org/portal/collections/individual/index.php?occid=158286

@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: ILL
+Generated: 2025-09-11 16:59:16.472345
+Processing time: 0.62 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 2679
+After country filtering: 1888 (lost 791 non-US records)
+After coordinate filtering: 1880 (lost 8 records without coordinates)
+After state filtering: 1871 (lost 9 records without state information)
+After county filtering: 1149 (lost 722 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 1149 (42.9% of total collection)
+Boundary violations detected: 50 (4.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 1.14 km
+Median distance: 29.58 km
+Third quartile: 87.28 km
+Maximum distance: 1266.65 km
+Mean distance: 97.76 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 42.9% of records have complete geographic data
+Boundary violation rate: 4.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/ILL/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

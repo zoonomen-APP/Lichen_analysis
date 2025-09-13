@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: IND
+Generated: 2025-09-11 15:44:34.184231
+Processing time: 0.05 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 187
+After country filtering: 184 (lost 3 non-US records)
+After coordinate filtering: 118 (lost 66 records without coordinates)
+After state filtering: 118 (lost 0 records without state information)
+After county filtering: 107 (lost 11 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 107 (57.2% of total collection)
+Boundary violations detected: 1 (0.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 4.34 km
+First quartile: 4.34 km
+Median distance: 4.34 km
+Third quartile: 4.34 km
+Maximum distance: 4.34 km
+Mean distance: 4.34 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 57.2% of records have complete geographic data
+Boundary violation rate: 0.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/IND/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

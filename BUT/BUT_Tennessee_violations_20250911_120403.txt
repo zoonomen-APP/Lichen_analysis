@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3131850	BUT	Ray C. Friesner	Tennessee	Robertson	299.68	outside_boundary_exact	BUT-L-0800064	35.726036,-83.400614	Tennessee, Sevier County	in Little Pigeon River near north end of Porter Mountain, Greenbrier	https://lichenportal.org/portal/collections/individual/index.php?occid=3131850
+3141270	BUT	Ray C. Friesner	Tennessee	Unicoi	0.01	outside_boundary_exact	BUT-L-0800267	36.21733,-82.370139	Tennessee, Unicoi County	trail to Pinnacle Mountain, Smoky Mountains; 36.21733 -82.370139	https://lichenportal.org/portal/collections/individual/index.php?occid=3141270
+3141282	BUT	Ray C. Friesner	Tennessee	Unicoi	0.01	outside_boundary_exact	BUT-L-0800273	36.21733,-82.370139	Tennessee, Unicoi County	trail to Pinnacle Mountain, Smoky Mountains	https://lichenportal.org/portal/collections/individual/index.php?occid=3141282

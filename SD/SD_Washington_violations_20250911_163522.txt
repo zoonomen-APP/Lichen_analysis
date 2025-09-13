@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5381394	SD	B. Ryan	Washington	Skagit	0.48	outside_boundary_exact	147342	48.29166667,-121.4166667	Washington, Snohomish County	Mt. Baker-Snoqualmie National Forest, along Road 2600-012, S of Road 26, mile 11-12	https://lichenportal.org/portal/collections/individual/index.php?occid=5381394

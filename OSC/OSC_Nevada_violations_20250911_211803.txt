@@ -1,0 +1,5 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3447622	OSC	Michael West	Nevada	Elko	159.12	outside_boundary_exact	OSC-M-245587	38.708196,-115.7989	Nevada, Nye County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=3447622
+3447622	OSC	Michael West	Nevada	Elko	159.12	outside_boundary_exact	OSC-M-245587	38.708196,-115.7989	Nevada, Nye County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=3447622
+4424245	OSC	T. Carlberg	Nevada	Lander	4.87	outside_boundary_exact	171276	39.239858,-117.777879	Nevada, Churchill County	Nevada BLM?: Road Canyon.	https://lichenportal.org/portal/collections/individual/index.php?occid=4424245
+4424245	OSC	T. Carlberg	Nevada	Lander	4.87	outside_boundary_exact	171276	39.239858,-117.777879	Nevada, Churchill County	Nevada BLM?: Road Canyon.	https://lichenportal.org/portal/collections/individual/index.php?occid=4424245

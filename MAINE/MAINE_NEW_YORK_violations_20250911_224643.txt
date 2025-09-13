@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2692967	MAINE	E. C. Ogden	NEW YORK	CLINTON	0.29	outside_boundary_exact	MAINE-L-0008271	44.5,-73.48	New York, Essex County	Keesville	https://lichenportal.org/portal/collections/individual/index.php?occid=2692967

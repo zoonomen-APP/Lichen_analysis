@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: TENN
+Generated: 2025-09-11 22:57:18.074872
+Processing time: 2.52 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 8526
+After country filtering: 6320 (lost 2206 non-US records)
+After coordinate filtering: 5182 (lost 1138 records without coordinates)
+After state filtering: 5180 (lost 2 records without state information)
+After county filtering: 4880 (lost 300 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4880 (57.2% of total collection)
+Boundary violations detected: 535 (11% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.65 km
+Median distance: 8.81 km
+Third quartile: 89.7 km
+Maximum distance: 775.15 km
+Mean distance: 71.49 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 57.2% of records have complete geographic data
+Boundary violation rate: 11% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/TENN/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

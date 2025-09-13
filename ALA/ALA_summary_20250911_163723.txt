@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: ALA
+Generated: 2025-09-11 16:37:23.506556
+Processing time: 0.09 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 31385
+After country filtering: 27866 (lost 3519 non-US records)
+After coordinate filtering: 17571 (lost 10295 records without coordinates)
+After state filtering: 17555 (lost 16 records without state information)
+After county filtering: 176 (lost 17379 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 176 (0.6% of total collection)
+Boundary violations detected: 29 (16.5% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 1.32 km
+First quartile: 19.94 km
+Median distance: 49.62 km
+Third quartile: 57.31 km
+Maximum distance: 933.7 km
+Mean distance: 70.06 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 0.6% of records have complete geographic data
+Boundary violation rate: 16.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/ALA/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: CAS
+Generated: 2025-09-11 12:04:14.319985
+Processing time: 0.18 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 3856
+After country filtering: 3414 (lost 442 non-US records)
+After coordinate filtering: 423 (lost 2991 records without coordinates)
+After state filtering: 422 (lost 1 records without state information)
+After county filtering: 390 (lost 32 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 390 (10.1% of total collection)
+Boundary violations detected: 15 (3.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.04 km
+First quartile: 0.79 km
+Median distance: 4.54 km
+Third quartile: 32.56 km
+Maximum distance: 640.81 km
+Mean distance: 102.73 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 10.1% of records have complete geographic data
+Boundary violation rate: 3.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/CAS/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3133044	CUP	H. T. Lumbsch	California	Sonama	NA	county_not_matched_no_match	CUP-L-0009155	38.416667,-123	county_not_matched	Duncans Landing Beach.	https://lichenportal.org/portal/collections/individual/index.php?occid=3133044

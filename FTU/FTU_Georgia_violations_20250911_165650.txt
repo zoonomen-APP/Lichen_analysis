@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1558443	FTU	Paul O. Schallert	Georgia	Clay	190.21	outside_boundary_exact	FTU L217	33.38694,-84.28306	Georgia, Henry County	near Hampton	https://lichenportal.org/portal/collections/individual/index.php?occid=1558443
+1558737	FTU	Paul O. Schallert	Georgia	Clay	190.21	outside_boundary_exact	FTU L283	33.38694,-84.28306	Georgia, Henry County	Near Hampton	https://lichenportal.org/portal/collections/individual/index.php?occid=1558737
+1558961	FTU	Paul O. Schallert	Georgia	Clay	190.21	outside_boundary_exact	FTU L520	33.38694,-84.28306	Georgia, Henry County	near Hampton	https://lichenportal.org/portal/collections/individual/index.php?occid=1558961

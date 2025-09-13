@@ -1,0 +1,1112 @@
+BRY diagnosis in R.
+===============================\
+
+```
+# =============================================================================
+# BRY INSTITUTION DIAGNOSTIC ANALYSIS
+# =============================================================================
+# This script investigates why BRY institution produces no output
+# Run this after your main script setup to diagnose the issue
+
+library(RSQLite)
+library(dplyr)
+
+# Use same configuration as your main script
+DB_PATH <- "c:/Lichen/SQL/run_88.db"
+TABLE_NAME <- "narrow"
+
+# US country variants (from your main script)
+US_VARIANTS <- c(
+  "United States", "United States of America", "USA", "U.S.A.", "U.S.A", "US", "U.S.",
+  "united states", "united states of america", "usa", "u.s.a.", "u.s.a", "us", "u.s.",
+  "UNITED STATES", "UNITED STATES OF AMERICA", 
+  "Unite States", "United State", "Untied States", "Unites States", "United Sates",
+  "U.S.A..", "USA.", "US.", "U. S. A.", "U. S. A", "U SA", "US USA",
+  "Etats-Unis", "[Etats-Unis]", "États-Unis", "tats-Unis",
+  "America", "AMERICA"
+)
+
+# =============================================================================
+# DIAGNOSTIC FUNCTIONS
+# =============================================================================
+
+diagnose_bry_institution <- function() {
+  cat("=== BRY INSTITUTION DIAGNOSTIC ANALYSIS ===\n\n")
+  
+  # Connect to database
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # Step 1: Check if BRY exists at all
+  cat("STEP 1: Checking if BRY exists in database\n")
+  cat("=" %>% rep(50) %>% paste(collapse=""), "\n")
+  
+  bry_exists_query <- paste0("
+    SELECT COUNT(*) as total_bry_records
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+  ")
+  
+  bry_total <- dbGetQuery(con, bry_exists_query)
+  cat("Total BRY records in database:", bry_total$total_bry_records, "\n\n")
+  
+  if (bry_total$total_bry_records == 0) {
+    cat("DIAGNOSIS: BRY institution code not found in database.\n")
+    cat("- Check if the institution code is spelled correctly\n")
+    cat("- Verify BRY records exist in the database\n")
+    dbDisconnect(con)
+    return()
+  }
+  
+  # Step 2: Sample BRY records to understand structure
+  cat("STEP 2: Sample BRY records\n")
+  cat("=" %>% rep(50) %>% paste(collapse=""), "\n")
+  
+  sample_query <- paste0("
+    SELECT institutionCode, country, stateProvince, county, 
+           decimalLatitude, decimalLongitude, locality
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+    LIMIT 10
+  ")
+  
+  sample_records <- dbGetQuery(con, sample_query)
+  cat("Sample of first 10 BRY records:\n")
+  print(sample_records)
+  cat("\n")
+  
+  # Step 3: Apply each filter step and see where records are lost
+  cat("STEP 3: Filtering analysis step-by-step\n")
+  cat("=" %>% rep(50) %>% paste(collapse=""), "\n")
+  
+  # Original count
+  cat("Starting records:", bry_total$total_bry_records, "\n")
+  
+  # After country filter
+  country_condition <- paste0("(", paste0("LOWER(country) = '", tolower(US_VARIANTS), "'", collapse = " OR "), " OR country IS NULL)")
+  
+  country_query <- paste0("
+    SELECT COUNT(*) as count
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+    AND ", country_condition
+  )
+  
+  after_country <- dbGetQuery(con, country_query)$count
+  cat("After country filter:", after_country, "(lost", bry_total$total_bry_records - after_country, "records)\n")
+  
+  # After coordinate filter
+  coords_query <- paste0("
+    SELECT COUNT(*) as count
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+    AND ", country_condition, "
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+  ")
+  
+  after_coords <- dbGetQuery(con, coords_query)$count
+  cat("After coordinate filter:", after_coords, "(lost", after_country - after_coords, "records)\n")
+  
+  # After state filter
+  state_query <- paste0("
+    SELECT COUNT(*) as count
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+    AND ", country_condition, "
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+    AND stateProvince IS NOT NULL 
+    AND stateProvince != ''
+  ")
+  
+  after_state <- dbGetQuery(con, state_query)$count
+  cat("After state filter:", after_state, "(lost", after_coords - after_state, "records)\n")
+  
+  # After county filter
+  final_query <- paste0("
+    SELECT COUNT(*) as count
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+    AND ", country_condition, "
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+    AND stateProvince IS NOT NULL 
+    AND stateProvince != ''
+    AND county IS NOT NULL 
+    AND county != ''
+  ")
+  
+  final_count <- dbGetQuery(con, final_query)$count
+  cat("After county filter (final analyzable):", final_count, "(lost", after_state - final_count, "records)\n\n")
+  
+  # Step 4: Analyze what's happening at each filter step
+  cat("STEP 4: Detailed analysis of filtering issues\n")
+  cat("=" %>% rep(50) %>% paste(collapse=""), "\n")
+  
+  if (after_country < bry_total$total_bry_records) {
+    cat("ISSUE: Records lost in country filtering\n")
+    
+    country_analysis_query <- paste0("
+      SELECT country, COUNT(*) as count
+      FROM ", TABLE_NAME, " 
+      WHERE institutionCode = 'BRY'
+      GROUP BY country
+      ORDER BY count DESC
+    ")
+    
+    country_breakdown <- dbGetQuery(con, country_analysis_query)
+    cat("Country breakdown for BRY:\n")
+    print(country_breakdown)
+    cat("\n")
+  }
+  
+  if (after_coords < after_country) {
+    cat("ISSUE: Records lost due to missing coordinates\n")
+    
+    coord_analysis_query <- paste0("
+      SELECT 
+        COUNT(CASE WHEN decimalLatitude IS NULL THEN 1 END) as missing_lat,
+        COUNT(CASE WHEN decimalLongitude IS NULL THEN 1 END) as missing_lon,
+        COUNT(CASE WHEN decimalLatitude IS NULL OR decimalLongitude IS NULL THEN 1 END) as missing_either
+      FROM ", TABLE_NAME, " 
+      WHERE institutionCode = 'BRY'
+      AND ", country_condition
+    )
+    
+    coord_analysis <- dbGetQuery(con, coord_analysis_query)
+    cat("Coordinate analysis:\n")
+    print(coord_analysis)
+    cat("\n")
+  }
+  
+  if (after_state < after_coords) {
+    cat("ISSUE: Records lost due to missing state information\n")
+    
+    state_analysis_query <- paste0("
+      SELECT stateProvince, COUNT(*) as count
+      FROM ", TABLE_NAME, " 
+      WHERE institutionCode = 'BRY'
+      AND ", country_condition, "
+      AND decimalLatitude IS NOT NULL 
+      AND decimalLongitude IS NOT NULL
+      GROUP BY stateProvince
+      ORDER BY count DESC
+      LIMIT 20
+    ")
+    
+    state_breakdown <- dbGetQuery(con, state_analysis_query)
+    cat("State breakdown for BRY (top 20):\n")
+    print(state_breakdown)
+    cat("\n")
+  }
+  
+  if (final_count < after_state) {
+    cat("ISSUE: Records lost due to missing county information\n")
+    
+    county_analysis_query <- paste0("
+      SELECT county, COUNT(*) as count
+      FROM ", TABLE_NAME, " 
+      WHERE institutionCode = 'BRY'
+      AND ", country_condition, "
+      AND decimalLatitude IS NOT NULL 
+      AND decimalLongitude IS NOT NULL
+      AND stateProvince IS NOT NULL 
+      AND stateProvince != ''
+      GROUP BY county
+      ORDER BY count DESC
+      LIMIT 20
+    ")
+    
+    county_breakdown <- dbGetQuery(con, county_analysis_query)
+    cat("County breakdown for BRY (top 20):\n")
+    print(county_breakdown)
+    cat("\n")
+  }
+  
+  # Step 5: If we have analyzable records, show some examples
+  if (final_count > 0) {
+    cat("STEP 5: Sample analyzable BRY records\n")
+    cat("=" %>% rep(50) %>% paste(collapse=""), "\n")
+    
+    analyzable_query <- paste0("
+      SELECT id, institutionCode, stateProvince, county, 
+             decimalLatitude, decimalLongitude, locality
+      FROM ", TABLE_NAME, " 
+      WHERE institutionCode = 'BRY'
+      AND ", country_condition, "
+      AND decimalLatitude IS NOT NULL 
+      AND decimalLongitude IS NOT NULL
+      AND stateProvince IS NOT NULL 
+      AND stateProvince != ''
+      AND county IS NOT NULL 
+      AND county != ''
+      LIMIT 5
+    ")
+    
+    analyzable_records <- dbGetQuery(con, analyzable_query)
+    cat("Sample analyzable BRY records:\n")
+    print(analyzable_records)
+    cat("\n")
+    
+    cat("DIAGNOSIS: BRY has", final_count, "analyzable records.\n")
+    cat("If no violations were found, it means all coordinates are within county boundaries.\n")
+    cat("This is actually a good thing - it suggests BRY has high data quality!\n")
+  } else {
+    cat("DIAGNOSIS: BRY has no records that pass all filters.\n")
+    cat("The main issue appears to be in the filtering step where most records are lost.\n")
+  }
+  
+  # Step 6: Multi-state records check
+  cat("\nSTEP 6: Checking for multi-state records (filtered out by main script)\n")
+  cat("=" %>% rep(50) %>% paste(collapse=""), "\n")
+  
+  multistate_query <- paste0("
+    SELECT COUNT(*) as multistate_count
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+    AND ", country_condition, "
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+    AND stateProvince IS NOT NULL 
+    AND stateProvince != ''
+    AND county IS NOT NULL 
+    AND county != ''
+    AND (stateProvince LIKE '%/%' OR stateProvince LIKE '%&%' OR stateProvince LIKE '% or %')
+  ")
+  
+  multistate_count <- dbGetQuery(con, multistate_query)$multistate_count
+  cat("Multi-state records (filtered out):", multistate_count, "\n")
+  
+  if (multistate_count > 0) {
+    multistate_examples_query <- paste0("
+      SELECT stateProvince, county, COUNT(*) as count
+      FROM ", TABLE_NAME, " 
+      WHERE institutionCode = 'BRY'
+      AND ", country_condition, "
+      AND decimalLatitude IS NOT NULL 
+      AND decimalLongitude IS NOT NULL
+      AND stateProvince IS NOT NULL 
+      AND stateProvince != ''
+      AND county IS NOT NULL 
+      AND county != ''
+      AND (stateProvince LIKE '%/%' OR stateProvince LIKE '%&%' OR stateProvince LIKE '% or %')
+      GROUP BY stateProvince, county
+      LIMIT 10
+    ")
+    
+    multistate_examples <- dbGetQuery(con, multistate_examples_query)
+    cat("Multi-state record examples:\n")
+    print(multistate_examples)
+  }
+  
+  dbDisconnect(con)
+  
+  # Final recommendations
+  cat("\n=== RECOMMENDATIONS ===\n")
+  if (final_count == 0) {
+    cat("1. Check if BRY uses different country naming conventions\n")
+    cat("2. Verify coordinate data completeness\n") 
+    cat("3. Check state/county field completeness\n")
+    cat("4. Consider if BRY might need different processing rules\n")
+  } else {
+    cat("1. BRY appears to have clean data with few boundary violations\n")
+    cat("2. Consider running a test with relaxed distance thresholds\n")
+    cat("3. Verify the boundary checking function is working correctly\n")
+  }
+}
+
+# =============================================================================
+# SIMPLIFIED TEST FUNCTION
+# =============================================================================
+
+test_bry_boundary_checking <- function() {
+  cat("\n=== SIMPLIFIED BRY BOUNDARY TEST ===\n")
+  
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # Get a few BRY records for manual testing
+  test_query <- paste0("
+    SELECT id, institutionCode, stateProvince, county, 
+           decimalLatitude, decimalLongitude, locality
+    FROM ", TABLE_NAME, " 
+    WHERE institutionCode = 'BRY'
+    AND (", paste0("LOWER(country) = '", tolower(US_VARIANTS), "'", collapse = " OR "), " OR country IS NULL)
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+    AND stateProvince IS NOT NULL 
+    AND stateProvince != ''
+    AND county IS NOT NULL 
+    AND county != ''
+    AND NOT (stateProvince LIKE '%/%' OR stateProvince LIKE '%&%' OR stateProvince LIKE '% or %')
+    LIMIT 3
+  ")
+  
+  test_records <- dbGetQuery(con, test_query)
+  
+  if (nrow(test_records) == 0) {
+    cat("No test records found for BRY\n")
+    dbDisconnect(con)
+    return()
+  }
+  
+  cat("Test records for boundary checking:\n")
+  print(test_records)
+  
+  dbDisconnect(con)
+  
+  cat("\nTo complete the test, manually run boundary checking on these records\n")
+  cat("using your existing functions to see if violations are detected.\n")
+}
+
+# =============================================================================
+# RUN DIAGNOSTICS
+# =============================================================================
+
+# Run the main diagnostic
+diagnose_bry_institution()
+
+# Run the simplified test
+test_bry_boundary_checking()
+
+```
+
+OUTPUT
+
+=== BRY INSTITUTION DIAGNOSTIC ANALYSIS ===
+
+STEP 1: Checking if BRY exists in database
+==================================================
+Total BRY records in database: 40998
+
+STEP 2: Sample BRY records
+==================================================
+Sample of first 10 BRY records:
+   institutionCode       country                       stateProvince   county decimalLatitude
+1              BRY         Italy                              Styria     <NA>              NA
+2              BRY United States                        North Dakota Billings              NA
+3              BRY United States                                Utah     Utah        39.95444
+4              BRY       Ireland Trentino-Alto Adige/Südtirol Region     <NA>              NA
+5              BRY         Italy Trentino-Alto Adige/Südtirol Region     <NA>        46.46667
+6              BRY United States                              Nevada    Clark        36.43333
+7              BRY       Austria                            Salzburg     <NA>        47.21111
+8              BRY United States                              Alaska     <NA>        68.80000
+9              BRY United States                              Alaska     <NA>        68.80000
+10             BRY United States                             Arizona     Pima              NA
+   decimalLongitude
+1                NA
+2                NA
+3        -112.03167
+4                NA
+5          11.28333
+6        -114.51667
+7          12.68333
+8        -164.33333
+9        -164.33333
+10               NA
+                                                                                                                                locality
+1                                                                                    Ostalpen: Ennstal, Purgschachener Moos bei Ardning.
+2                                                      Theodore Roosevelt National Park S Unit Ridge NW of Buck Hill (65 mi E of Medora)
+3                                                                             North Side fo Utah State Highway 6, 11.8 km west of Goshen
+4                                                                                                   Weingarten westlich des Stroblhofes.
+5                                                                 Oberetsch: An den Holzstutzen in einem Weingarten bei Girlan, ca 450m.
+6                                                                              Valley of Fire State Park: Mouse Tank Trail Mojave Desert
+7                 Hohe Tauern, Glockner-Gruppe, north ridge NW of Kitzsteinhorn, east and below Rettenwand, SW and above Krefelder Hütte
+8  Pitmegea Piver vicinity: along the Pitmegea Piver, 15 miles upstream from Cape Sabine, above animal burrow at top ridge north of camp
+9                                                  Pitmegea Piver vicinity: along the Pitmegea Piver, 15 miles upstream from Cape Sabine
+10                                        Organ Pipe Cactus National Monument: 4 miles east of visitor's center along Ajo Mountain Drive
+
+STEP 3: Filtering analysis step-by-step
+==================================================
+Starting records: 40998
+After country filter: 37711 (lost 3287 records)
+After coordinate filter: 28260 (lost 9451 records)
+After state filter: 28258 (lost 2 records)
+After county filter (final analyzable): 27227 (lost 1031 records)
+
+STEP 4: Detailed analysis of filtering issues
+==================================================
+ISSUE: Records lost in country filtering
+Country breakdown for BRY:
+                                                country count
+1                                         United States 37493
+2                                                Canada  1083
+3                                               Austria   443
+4                                                Mexico   285
+5                                        United Kingdom   253
+6                                                  <NA>   218
+7                                                Norway   125
+8                                               Germany   111
+9                                             Australia    96
+10                                                Japan    92
+11                                                Italy    92
+12                                               France    66
+13                                              Ecuador    50
+14                                          Switzerland    49
+15                                            Venezuela    36
+16                                              Finland    35
+17                                          New Zealand    31
+18                                             Slovakia    29
+19                                              Iceland    27
+20                                                Chile    24
+21                                                Spain    23
+22                                                 Peru    23
+23                                               Sweden    18
+24                                     Papua New Guinea    18
+25                                         South Africa    17
+26                         Tanzania, United Republic of    12
+27                                              Denmark    12
+28                                                 USSR    11
+29                                       Czech Republic    11
+30                                              Georgia    10
+31                            Taiwan, Province of China     9
+32                                          Philippines     8
+33                                                Nepal     8
+34                                              Moravia     8
+35                                             Malaysia     8
+36                                           Costa Rica     8
+37                                             Bulgaria     8
+38                                           Antarctica     8
+39                          Turkey (label says "Türkei"     7
+40                                              Romania     7
+41                Congo, the Democratic Republic of the     7
+42                                               Panama     6
+43                           Iran (label says "Persia")     6
+44                                                India     6
+45                                              Croatia     6
+46                                                China     6
+47                                              Jamaica     5
+48                                            Guatemala     5
+49                                              Bolivia     5
+50                                              Hungary     4
+51                                   Russian Federation     3
+52                                             Portugal     3
+53                                           Montenegro     3
+54                                              Ireland     3
+55                            Iran, Islamic Republic of     3
+56                                            Greenland     3
+57                                   Dominican Republic     3
+58                                           Azerbaijan     3
+59                                            Argentina     3
+60           United Republic of Tanganyika and Zanzibar     2
+61                                           Tanganyika     2
+62                                             Scotland     2
+63                                          Puerto Rico     2
+64                                          Netherlands     2
+65                                              Morocco     2
+66                                                Kenya     2
+67                  Karelia - Federal Subject of Russia     2
+68                                        Cote D'Ivoire     2
+69                                             Colombia     2
+70                                            not given     1
+71                                           Yugoslavia     1
+72                                                Wales     1
+73                                       Virgin Islands     1
+74                                              Vanuatu     1
+75                                             Thailand     1
+76 Territory of the French Southern and Antarctic Lands     1
+77                                     San Felix Island     1
+78                                               Poland     1
+79                                              Namibia     1
+80           Macedonia, the Former Yugoslav Republic of     1
+81                                           Luxembourg     1
+82                                                Korea     1
+83                                                Haiti     1
+84                                               Guinea     1
+85                                              GermanY     1
+86                                             Dominica     1
+87                                     Denmark(Zealand)     1
+88                                        Czechoslovaka     1
+89                                      Czech Republic?     1
+90                                       Canary Islands     1
+91                                               Brazil     1
+92                                              Belgium     1
+
+ISSUE: Records lost due to missing coordinates
+Coordinate analysis:
+  missing_lat missing_lon missing_either
+1        9451        9451           9451
+
+ISSUE: Records lost due to missing state information
+State breakdown for BRY (top 20):
+   stateProvince count
+1       Colorado  8647
+2           Utah  4355
+3          Idaho  3789
+4        Montana  2590
+5        Arizona  1934
+6         Nevada  1928
+7     New Mexico  1597
+8         Alaska  1056
+9        Wyoming   859
+10    Washington   389
+11     Minnesota   211
+12        Oregon   169
+13    California   133
+14       Vermont    67
+15         Texas    60
+16      Michigan    58
+17      Missouri    53
+18  South Dakota    51
+19       Georgia    38
+20     Louisiana    37
+
+ISSUE: Records lost due to missing county information
+County breakdown for BRY (top 20):
+       county count
+1       Lemhi  1595
+2     Boulder  1561
+3        <NA>  1031
+4       Idaho   995
+5        Iron   897
+6    Garfield   817
+7     Cochise   787
+8         Nye   688
+9    La Plata   679
+10     Moffat   638
+11   San Juan   635
+12     Custer   572
+13      Clark   533
+14    Larimer   503
+15   Missoula   495
+16       Taos   483
+17    Daggett   480
+18 White Pine   469
+19     Summit   464
+20   Duchesne   457
+
+STEP 5: Sample analyzable BRY records
+==================================================
+Sample analyzable BRY records:
+       id institutionCode stateProvince  county decimalLatitude decimalLongitude
+1 1075518             BRY          Utah    Utah        39.95444        -112.0317
+2 1075521             BRY        Nevada   Clark        36.43333        -114.5167
+3 1075533             BRY          Utah    Utah        40.45806        -111.6581
+4 1075534             BRY          Utah    Utah        40.45806        -111.6581
+5 1075537             BRY    Washington Douglas        47.10000        -119.6500
+                                                                                             locality
+1                                          North Side fo Utah State Highway 6, 11.8 km west of Goshen
+2                                           Valley of Fire State Park: Mouse Tank Trail Mojave Desert
+3 North fork of American Fork Canyon, vicinity of Roadhouse Campground, 16.2 km east of American Fork
+4 North fork of American Fork Canyon, vicinity of Roadhouse Campground, 16.2 km east of American Fork
+5                                                  Coulee City vicinity: 18 miles west of Coulee City
+
+DIAGNOSIS: BRY has 27227 analyzable records.
+If no violations were found, it means all coordinates are within county boundaries.
+This is actually a good thing - it suggests BRY has high data quality!
+
+STEP 6: Checking for multi-state records (filtered out by main script)
+==================================================
+Multi-state records (filtered out): 0
+
+=== RECOMMENDATIONS ===
+1. BRY appears to have clean data with few boundary violations
+2. Consider running a test with relaxed distance thresholds
+3. Verify the boundary checking function is working correctly
+>
+> # Run the simplified test
+> test_bry_boundary_checking()
+
+=== SIMPLIFIED BRY BOUNDARY TEST ===
+Test records for boundary checking:
+       id institutionCode stateProvince county decimalLatitude decimalLongitude
+1 1075518             BRY          Utah   Utah        39.95444        -112.0317
+2 1075521             BRY        Nevada  Clark        36.43333        -114.5167
+3 1075533             BRY          Utah   Utah        40.45806        -111.6581
+                                                                                             locality
+1                                          North Side fo Utah State Highway 6, 11.8 km west of Goshen
+2                                           Valley of Fire State Park: Mouse Tank Trail Mojave Desert
+3 North fork of American Fork Canyon, vicinity of Roadhouse Campground, 16.2 km east of American Fork
+
+To complete the test, manually run boundary checking on these records
+using your existing functions to see if violations are detected.
+
+
+===================================
+SECOND check.
+
+```
+# =============================================================================
+# BRY TARGETED ANALYSIS AND POTENTIAL FIXES
+# =============================================================================
+# Additional diagnostic tools and potential fixes for BRY processing issues
+
+library(RSQLite)
+library(dplyr)
+library(stringr)
+
+# Configuration (same as main script)
+DB_PATH <- "c:/Lichen/SQL/run_88.db"
+TABLE_NAME <- "narrow"
+
+# =============================================================================
+# TARGETED DIAGNOSTIC FUNCTIONS
+# =============================================================================
+
+check_bry_data_quality <- function() {
+  cat("=== BRY DATA QUALITY ANALYSIS ===\n\n")
+  
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # Check for data quality issues that might prevent processing
+  quality_query <- paste0("
+    SELECT 
+      COUNT(*) as total_records,
+      COUNT(CASE WHEN country IS NOT NULL AND TRIM(country) != '' THEN 1 END) as has_country,
+      COUNT(CASE WHEN stateProvince IS NOT NULL AND TRIM(stateProvince) != '' THEN 1 END) as has_state,
+      COUNT(CASE WHEN county IS NOT NULL AND TRIM(county) != '' THEN 1 END) as has_county,
+      COUNT(CASE WHEN decimalLatitude IS NOT NULL AND decimalLatitude BETWEEN -90 AND 90 THEN 1 END) as valid_lat,
+      COUNT(CASE WHEN decimalLongitude IS NOT NULL AND decimalLongitude BETWEEN -180 AND 180 THEN 1 END) as valid_lon,
+      COUNT(CASE WHEN locality IS NOT NULL AND TRIM(locality) != '' THEN 1 END) as has_locality
+    FROM ", TABLE_NAME, "
+    WHERE institutionCode = 'BRY'
+  ")
+  
+  quality_stats <- dbGetQuery(con, quality_query)
+  cat("BRY Data Quality Summary:\n")
+  print(quality_stats)
+  
+  # Calculate percentages
+  total <- quality_stats$total_records
+  if (total > 0) {
+    cat("\nData completeness percentages:\n")
+    cat(sprintf("Country: %.1f%%\n", (quality_stats$has_country / total) * 100))
+    cat(sprintf("State: %.1f%%\n", (quality_stats$has_state / total) * 100))
+    cat(sprintf("County: %.1f%%\n", (quality_stats$has_county / total) * 100))
+    cat(sprintf("Valid Latitude: %.1f%%\n", (quality_stats$valid_lat / total) * 100))
+    cat(sprintf("Valid Longitude: %.1f%%\n", (quality_stats$valid_lon / total) * 100))
+    cat(sprintf("Locality: %.1f%%\n", (quality_stats$has_locality / total) * 100))
+  }
+  
+  dbDisconnect(con)
+}
+
+check_bry_coordinate_patterns <- function() {
+  cat("\n=== BRY COORDINATE PATTERNS ===\n\n")
+  
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # Check coordinate distribution
+  coord_query <- paste0("
+    SELECT 
+      MIN(decimalLatitude) as min_lat,
+      MAX(decimalLatitude) as max_lat,
+      MIN(decimalLongitude) as min_lon,
+      MAX(decimalLongitude) as max_lon,
+      AVG(decimalLatitude) as avg_lat,
+      AVG(decimalLongitude) as avg_lon,
+      COUNT(CASE WHEN decimalLatitude = 0 OR decimalLongitude = 0 THEN 1 END) as zero_coords,
+      COUNT(CASE WHEN ABS(decimalLatitude) = ABS(decimalLongitude) THEN 1 END) as suspicious_coords
+    FROM ", TABLE_NAME, "
+    WHERE institutionCode = 'BRY'
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+  ")
+  
+  coord_stats <- dbGetQuery(con, coord_query)
+  cat("BRY Coordinate Statistics:\n")
+  print(coord_stats)
+  
+  # Check for specific coordinate issues
+  if (coord_stats$zero_coords > 0) {
+    cat(sprintf("\nWarning: %d records have zero coordinates (0,0)\n", coord_stats$zero_coords))
+  }
+  
+  if (coord_stats$suspicious_coords > 0) {
+    cat(sprintf("Note: %d records have identical absolute lat/lon values (potentially suspicious)\n", coord_stats$suspicious_coords))
+  }
+  
+  # Check if coordinates are in expected US range
+  us_lat_range <- coord_stats$min_lat >= 20 && coord_stats$max_lat <= 72
+  us_lon_range <- coord_stats$min_lon >= -180 && coord_stats$max_lon <= -60
+  
+  if (!us_lat_range) {
+    cat("Warning: Latitude range suggests non-US locations\n")
+  }
+  if (!us_lon_range) {
+    cat("Warning: Longitude range suggests non-US locations\n")
+  }
+  
+  dbDisconnect(con)
+}
+
+analyze_bry_geographic_distribution <- function() {
+  cat("\n=== BRY GEOGRAPHIC DISTRIBUTION ===\n\n")
+  
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # State distribution
+  state_query <- paste0("
+    SELECT stateProvince, COUNT(*) as count
+    FROM ", TABLE_NAME, "
+    WHERE institutionCode = 'BRY'
+    AND stateProvince IS NOT NULL
+    AND TRIM(stateProvince) != ''
+    GROUP BY stateProvince
+    ORDER BY count DESC
+    LIMIT 15
+  ")
+  
+  state_dist <- dbGetQuery(con, state_query)
+  cat("Top 15 states for BRY:\n")
+  print(state_dist)
+  
+  # County distribution for top states
+  if (nrow(state_dist) > 0) {
+    top_state <- state_dist$stateProvince[1]
+    cat(sprintf("\nCounty distribution for %s:\n", top_state))
+    
+    county_query <- paste0("
+      SELECT county, COUNT(*) as count
+      FROM ", TABLE_NAME, "
+      WHERE institutionCode = 'BRY'
+      AND stateProvince = '", top_state, "'
+      AND county IS NOT NULL
+      AND TRIM(county) != ''
+      GROUP BY county
+      ORDER BY count DESC
+      LIMIT 10
+    ")
+    
+    county_dist <- dbGetQuery(con, county_query)
+    print(county_dist)
+  }
+  
+  dbDisconnect(con)
+}
+
+run_bry_test_boundary_check <- function() {
+  cat("\n=== BRY MANUAL BOUNDARY CHECK TEST ===\n\n")
+  
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # Get some specific BRY records for manual testing
+  test_query <- paste0("
+    SELECT id, stateProvince, county, decimalLatitude, decimalLongitude, locality
+    FROM ", TABLE_NAME, "
+    WHERE institutionCode = 'BRY'
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+    AND stateProvince IS NOT NULL 
+    AND county IS NOT NULL
+    LIMIT 5
+  ")
+  
+  test_records <- dbGetQuery(con, test_query)
+  
+  if (nrow(test_records) > 0) {
+    cat("Sample BRY records for manual boundary testing:\n")
+    print(test_records)
+    
+    cat("\nTo test manually:\n")
+    cat("1. Pick a record from above\n")
+    cat("2. Look up the coordinates on a map\n") 
+    cat("3. Verify if they fall within the stated county\n")
+    cat("4. If they don't, there should be a violation detected\n")
+    cat("5. If they do, no violation should be detected (which is correct)\n")
+  } else {
+    cat("No suitable test records found\n")
+  }
+  
+  dbDisconnect(con)
+}
+
+check_institution_code_variants <- function() {
+  cat("\n=== CHECKING FOR BRY VARIANTS ===\n\n")
+  
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # Check for similar institution codes
+  variant_query <- paste0("
+    SELECT DISTINCT institutionCode, COUNT(*) as count
+    FROM ", TABLE_NAME, "
+    WHERE institutionCode LIKE '%BRY%' 
+    OR institutionCode LIKE '%bry%'
+    GROUP BY institutionCode
+    ORDER BY count DESC
+  ")
+  
+  variants <- dbGetQuery(con, variant_query)
+  
+  if (nrow(variants) > 0) {
+    cat("Institution codes containing 'BRY':\n")
+    print(variants)
+  } else {
+    cat("No institution codes containing 'BRY' found\n")
+  }
+  
+  dbDisconnect(con)
+}
+
+# =============================================================================
+# MODIFIED PROCESSING FUNCTION FOR BRY DEBUGGING
+# =============================================================================
+
+debug_bry_processing <- function() {
+  cat("\n=== DEBUG BRY PROCESSING ===\n\n")
+  
+  # Source the get_us_location function if not already loaded
+  if (!exists("get_us_location")) {
+    cat("Attempting to load get_us_location function...\n")
+    tryCatch({
+      source("c:/Lichen/SQL/R_Code/get_US_location.r")
+      cat("✓ get_us_location function loaded\n")
+    }, error = function(e) {
+      cat("✗ Could not load get_us_location function:", e$message, "\n")
+      cat("Skipping coordinate verification step\n")
+    })
+  }
+  
+  con <- dbConnect(SQLite(), DB_PATH)
+  
+  # US variants for filtering
+  US_VARIANTS <- c(
+    "United States", "United States of America", "USA", "U.S.A.", "U.S.A", "US", "U.S.",
+    "united states", "united states of america", "usa", "u.s.a.", "u.s.a", "us", "u.s.",
+    "UNITED STATES", "UNITED STATES OF AMERICA", 
+    "Unite States", "United State", "Untied States", "Unites States", "United Sates",
+    "U.S.A..", "USA.", "US.", "U. S. A.", "U. S. A", "U SA", "US USA",
+    "Etats-Unis", "[Etats-Unis]", "États-Unis", "tats-Unis",
+    "America", "AMERICA"
+  )
+  
+  country_condition <- paste0("(", paste0("LOWER(country) = '", tolower(US_VARIANTS), "'", collapse = " OR "), " OR country IS NULL)")
+  
+  # Get filtered BRY records
+  bry_query <- paste0("
+    SELECT id, institutionCode, stateProvince, county, 
+           decimalLatitude, decimalLongitude, locality, country
+    FROM ", TABLE_NAME, "
+    WHERE institutionCode = 'BRY'
+    AND ", country_condition, "
+    AND decimalLatitude IS NOT NULL 
+    AND decimalLongitude IS NOT NULL
+    AND stateProvince IS NOT NULL 
+    AND stateProvince != ''
+    AND county IS NOT NULL 
+    AND county != ''
+    AND NOT (stateProvince LIKE '%/%' OR stateProvince LIKE '%&%' OR stateProvince LIKE '% or %')
+  ")
+  
+  bry_records <- dbGetQuery(con, bry_query)
+  
+  cat("Filtered BRY records ready for boundary checking:", nrow(bry_records), "\n")
+  
+  if (nrow(bry_records) == 0) {
+    cat("No records pass all filters - this explains why no output is generated\n")
+    dbDisconnect(con)
+    return()
+  }
+  
+  # Show sample of filtered records
+  cat("\nFirst 3 filtered records:\n")
+  print(head(bry_records, 3))
+  
+  # If get_us_location is available, test a few records
+  if (exists("get_us_location")) {
+    cat("\nTesting coordinate verification on first record:\n")
+    test_record <- bry_records[1, ]
+    
+    cat(sprintf("Record ID: %s\n", test_record$id))
+    cat(sprintf("Claimed location: %s, %s\n", test_record$stateProvince, test_record$county))
+    cat(sprintf("Coordinates: %f, %f\n", test_record$decimalLatitude, test_record$decimalLongitude))
+    
+    # Test the coordinate lookup
+    tryCatch({
+      implied_location <- get_us_location(test_record$decimalLatitude, test_record$decimalLongitude)
+      cat("Implied location from coordinates:\n")
+      print(implied_location)
+      
+      if (implied_location$found) {
+        matches_state <- tolower(implied_location$state) == tolower(test_record$stateProvince)
+        matches_county <- tolower(implied_location$county) == tolower(gsub(" County", "", test_record$county))
+        
+        cat(sprintf("State matches: %s\n", matches_state))
+        cat(sprintf("County matches: %s\n", matches_county))
+        
+        if (!matches_state || !matches_county) {
+          cat("*** BOUNDARY VIOLATION DETECTED ***\n")
+          cat("This record should appear in the violation output\n")
+        } else {
+          cat("Coordinates match claimed location - no violation\n")
+        }
+      }
+      
+    }, error = function(e) {
+      cat("Error in coordinate verification:", e$message, "\n")
+    })
+  }
+  
+  dbDisconnect(con)
+}
+
+# =============================================================================
+# RUN ALL DIAGNOSTICS
+# =============================================================================
+
+run_complete_bry_diagnosis <- function() {
+  cat("Starting complete BRY diagnostic analysis...\n\n")
+  
+  check_institution_code_variants()
+  check_bry_data_quality()
+  check_bry_coordinate_patterns()
+  analyze_bry_geographic_distribution()
+  run_bry_test_boundary_check()
+  debug_bry_processing()
+  
+  cat("\n=== DIAGNOSIS COMPLETE ===\n")
+  cat("Review the output above to identify why BRY produces no violations.\n")
+  cat("Common reasons:\n")
+  cat("1. All BRY records have accurate coordinates (good data quality)\n")
+  cat("2. Records filtered out due to missing data\n")
+  cat("3. Non-US records filtered out\n")
+  cat("4. Processing error in boundary checking\n")
+}
+
+# Run the complete diagnosis
+run_complete_bry_diagnosis()
+
+```
+
+===================================================
+OUTPUT:
+
+Starting complete BRY diagnostic analysis...
+
+
+=== CHECKING FOR BRY VARIANTS ===
+
+Institution codes containing 'BRY':
+  institutionCode count
+1             BRY 40998
+=== BRY DATA QUALITY ANALYSIS ===
+
+BRY Data Quality Summary:
+  total_records has_country has_state has_county valid_lat valid_lon has_locality
+1         40998       40780     40516      37270     30473     30473        40579
+
+Data completeness percentages:
+Country: 99.5%
+State: 98.8%
+County: 90.9%
+Valid Latitude: 74.3%
+Valid Longitude: 74.3%
+Locality: 99.0%
+
+=== BRY COORDINATE PATTERNS ===
+
+BRY Coordinate Statistics:
+  min_lat  max_lat min_lon  max_lon  avg_lat   avg_lon zero_coords suspicious_coords
+1   -77.5 79.74167  -170.5 177.1617 41.17905 -103.9257           0                 0
+Warning: Latitude range suggests non-US locations
+Warning: Longitude range suggests non-US locations
+
+=== BRY GEOGRAPHIC DISTRIBUTION ===
+
+Top 15 states for BRY:
+   stateProvince count
+1       Colorado 12041
+2           Utah  4785
+3          Idaho  4037
+4        Montana  2996
+5        Arizona  2467
+6         Nevada  1988
+7     New Mexico  1940
+8         Alaska  1303
+9        Wyoming   987
+10        Oregon   664
+11    Washington   521
+12     Minnesota   460
+13       Ontario   376
+14    California   366
+15      Salzburg   286
+
+County distribution for Colorado:
+        county count
+1      Boulder  2503
+2      Larimer  1421
+3     Garfield   883
+4     La Plata   681
+5  Clear Creek   550
+6       Moffat   541
+7        Grand   430
+8     Saguache   386
+9    Jefferson   362
+10     Mineral   338
+
+=== BRY MANUAL BOUNDARY CHECK TEST ===
+
+Sample BRY records for manual boundary testing:
+       id stateProvince  county decimalLatitude decimalLongitude
+1 1075518          Utah    Utah        39.95444        -112.0317
+2 1075521        Nevada   Clark        36.43333        -114.5167
+3 1075533          Utah    Utah        40.45806        -111.6581
+4 1075534          Utah    Utah        40.45806        -111.6581
+5 1075537    Washington Douglas        47.10000        -119.6500
+                                                                                             locality
+1                                          North Side fo Utah State Highway 6, 11.8 km west of Goshen
+2                                           Valley of Fire State Park: Mouse Tank Trail Mojave Desert
+3 North fork of American Fork Canyon, vicinity of Roadhouse Campground, 16.2 km east of American Fork
+4 North fork of American Fork Canyon, vicinity of Roadhouse Campground, 16.2 km east of American Fork
+5                                                  Coulee City vicinity: 18 miles west of Coulee City
+
+To test manually:
+1. Pick a record from above
+2. Look up the coordinates on a map
+3. Verify if they fall within the stated county
+4. If they don't, there should be a violation detected
+5. If they do, no violation should be detected (which is correct)
+
+=== DEBUG BRY PROCESSING ===
+
+Filtered BRY records ready for boundary checking: 27227 
+
+First 3 filtered records:
+       id institutionCode stateProvince county decimalLatitude decimalLongitude
+1 1075518             BRY          Utah   Utah        39.95444        -112.0317
+2 1075521             BRY        Nevada  Clark        36.43333        -114.5167
+3 1075533             BRY          Utah   Utah        40.45806        -111.6581
+                                                                                             locality       country
+1                                          North Side fo Utah State Highway 6, 11.8 km west of Goshen United States
+2                                           Valley of Fire State Park: Mouse Tank Trail Mojave Desert United States
+3 North fork of American Fork Canyon, vicinity of Roadhouse Campground, 16.2 km east of American Fork United States
+
+Testing coordinate verification on first record:
+Record ID: 1075518
+Claimed location: Utah, Utah
+Coordinates: 39.954444, -112.031667
+State & County: Utah, Utah County
+State FIPS: 49
+County FIPS: 049
+Implied location from coordinates:
+$found
+[1] TRUE
+
+$state
+[1] "Utah"
+
+$state_fips
+[1] "49"
+
+$county
+[1] "Utah"
+
+$county_fips
+[1] "049"
+
+$message
+[1] "Successfully located: Utah County, Utah"
+
+State matches: TRUE
+County matches: TRUE
+Coordinates match claimed location - no violation
+
+=== DIAGNOSIS COMPLETE ===
+Review the output above to identify why BRY produces no violations.
+Common reasons:
+1. All BRY records have accurate coordinates (good data quality)
+2. Records filtered out due to missing data
+3. Non-US records filtered out
+4. Processing error in boundary checking
+
+===================================
+END OUTPUT

@@ -1,0 +1,5 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+49502	ASU	T.H. Nash III	Puerto Rico	Ceiba	0.68	outside_boundary_exact	ASUL033483	18.2666667,-65.7666667	Puerto Rico, Naguabo County	along road 930 to Pico del Este	https://lichenportal.org/portal/collections/individual/index.php?occid=49502
+35686	ASU	A. Aptroot	Puerto Rico	Mayaguez	NA	county_not_matched_no_match	NA	18.15,-66.9833333	county_not_matched	Reserva Forestal Maricao, N of Sabana Grande, along road 120, km 16-17.	https://lichenportal.org/portal/collections/individual/index.php?occid=35686
+35709	ASU	A. Aptroot	Puerto Rico	Mayaguez	NA	county_not_matched_no_match	NA	18.15,-66.9833333	county_not_matched	Reserva Forestal Maricao, N of Sabana Grande, along road 120, km 16-17.	https://lichenportal.org/portal/collections/individual/index.php?occid=35709
+35720	ASU	A. Aptroot	Puerto Rico	Mayaguez	NA	county_not_matched_no_match	NA	18.15,-66.9833333	county_not_matched	Reserva forestal Maricao, N of Sabana Grande, along road 120, km 16-17.	https://lichenportal.org/portal/collections/individual/index.php?occid=35720

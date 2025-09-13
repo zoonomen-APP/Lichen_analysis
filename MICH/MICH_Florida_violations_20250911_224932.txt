@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2426922	MICH	J. L. Crane | C. A. Shearer	Florida	Jackson	6018.76	outside_boundary_exact	254285	85.221806,-30.792917	not_found_in_US	Chipola River at junction with Route 166 at boat ramp.	https://lichenportal.org/portal/collections/individual/index.php?occid=2426922
+2427942	MICH	J. L. Crane | J. D. Schoknecht	Florida	Monroe	21.81	outside_boundary_exact	254018	25.404372,-80.633983	Florida, Miami-Dade County	Everglades National Park, Long Pine Key Hammock Number 22	https://lichenportal.org/portal/collections/individual/index.php?occid=2427942

@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: URV
+Generated: 2025-09-11 23:04:25.925256
+Processing time: 0.18 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1822
+After country filtering: 1822 (lost 0 non-US records)
+After coordinate filtering: 262 (lost 1560 records without coordinates)
+After state filtering: 262 (lost 0 records without state information)
+After county filtering: 262 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 262 (14.4% of total collection)
+Boundary violations detected: 1 (0.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 1.82 km
+First quartile: 1.82 km
+Median distance: 1.82 km
+Third quartile: 1.82 km
+Maximum distance: 1.82 km
+Mean distance: 1.82 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 14.4% of records have complete geographic data
+Boundary violation rate: 0.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/URV/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

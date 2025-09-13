@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: UNM
+Generated: 2025-09-11 23:04:14.942517
+Processing time: 0.44 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 2486
+After country filtering: 1235 (lost 1251 non-US records)
+After coordinate filtering: 852 (lost 383 records without coordinates)
+After state filtering: 852 (lost 0 records without state information)
+After county filtering: 852 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 852 (34.3% of total collection)
+Boundary violations detected: 66 (7.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 2.16 km
+Median distance: 4.47 km
+Third quartile: 40.23 km
+Maximum distance: 2598.45 km
+Mean distance: 66.17 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 34.3% of records have complete geographic data
+Boundary violation rate: 7.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/UNM/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

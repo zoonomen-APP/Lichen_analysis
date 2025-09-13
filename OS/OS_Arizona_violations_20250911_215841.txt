@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1768698	OS	T. H. Nash	Arizona	Santa Cruz	0.03	outside_boundary_exact	OS0007326	31.727,-110.876	Arizona, Santa Cruz County	Bog Springs Campground, Madera Canyon, Santa Rita Mts.; 31.727 -110.876	https://lichenportal.org/portal/collections/individual/index.php?occid=1768698

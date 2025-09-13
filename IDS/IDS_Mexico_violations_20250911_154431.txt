@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2571765	IDS	William H. Clark	Mexico	Baja California	NA	county_not_matched_no_match	IDS-L-0000122	29.733333,-115.15	county_not_matched	1 mile NE Santa Catarina (ranch)	https://lichenportal.org/portal/collections/individual/index.php?occid=2571765

@@ -1,0 +1,24 @@
+# INSTITUTION ANALYSIS SUMMARY: MNA
+Generated: 2025-09-11 16:00:59.196889
+Processing time: 0 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 5
+After country filtering: 5 (lost 0 non-US records)
+After coordinate filtering: 2 (lost 3 records without coordinates)
+After state filtering: 2 (lost 0 records without state information)
+After county filtering: 2 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 2 (40% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 40% of records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/MNA/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+154056	SBBG	J. Lendemer	Pennsylvania	Carbon	10518.17	outside_boundary_exact	SBBG012039L	40.971753,62.28869	not_found_in_US	Lehigh Gorge St Park; the margins of the gravel access road to Drakes Creek, Drakes Creek Access, south slope (north facing) of Drakes Creek Gorge.	https://lichenportal.org/portal/collections/individual/index.php?occid=154056

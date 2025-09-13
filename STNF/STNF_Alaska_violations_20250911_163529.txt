@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+4722535	STNF	C. Derr	Alaska	Juneau	187.01	outside_boundary_exact	STNF09431	56.006111,-134.01	not_found_in_US	Tongass National Forest. Mendenhall Glacier. Mendenhall Valley. East Glacier Trail, near observatory.	https://lichenportal.org/portal/collections/individual/index.php?occid=4722535

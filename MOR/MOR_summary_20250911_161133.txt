@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: MOR
+Generated: 2025-09-11 16:11:33.998156
+Processing time: 6.84 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 20125
+After country filtering: 19647 (lost 478 non-US records)
+After coordinate filtering: 12355 (lost 7292 records without coordinates)
+After state filtering: 12355 (lost 0 records without state information)
+After county filtering: 12354 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 12354 (61.4% of total collection)
+Boundary violations detected: 201 (1.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.26 km
+Median distance: 0.37 km
+Third quartile: 1.84 km
+Maximum distance: 13552.38 km
+Mean distance: 204.71 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 61.4% of records have complete geographic data
+Boundary violation rate: 1.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/MOR/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

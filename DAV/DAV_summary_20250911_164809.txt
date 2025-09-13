@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: DAV
+Generated: 2025-09-11 16:48:09.899866
+Processing time: 0.38 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1666
+After country filtering: 1345 (lost 321 non-US records)
+After coordinate filtering: 729 (lost 616 records without coordinates)
+After state filtering: 729 (lost 0 records without state information)
+After county filtering: 723 (lost 6 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 723 (43.4% of total collection)
+Boundary violations detected: 89 (12.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 2.16 km
+Median distance: 6.54 km
+Third quartile: 29.89 km
+Maximum distance: 8044.69 km
+Mean distance: 241.92 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 43.4% of records have complete geographic data
+Boundary violation rate: 12.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/DAV/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1444436	SRP	B. Goffinet	North Carolina	Dare	4.58	outside_boundary_exact	SRP-L-0008269	35.375,-75.377222	not_found_in_US	Hatteras Island. Cape Hatteras Lighthouse.	https://lichenportal.org/portal/collections/individual/index.php?occid=1444436

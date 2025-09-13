@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5579849	US	R. S. Egan	West Virginia	Tucker	0.04	outside_boundary_exact	NA	39.0653,-79.3011	West Virginia, Grant County	Tucker County: Dolly Sods Wilderness Area near Bear Rocks; Monongahela National Forest; 16 km SE of Davis.	https://lichenportal.org/portal/collections/individual/index.php?occid=5579849

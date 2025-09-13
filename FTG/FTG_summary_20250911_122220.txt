@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: FTG
+Generated: 2025-09-11 12:22:20.861841
+Processing time: 0.08 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 125
+After country filtering: 125 (lost 0 non-US records)
+After coordinate filtering: 124 (lost 1 records without coordinates)
+After state filtering: 124 (lost 0 records without state information)
+After county filtering: 124 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 124 (99.2% of total collection)
+Boundary violations detected: 21 (16.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.11 km
+First quartile: 0.5 km
+Median distance: 0.5 km
+Third quartile: 0.51 km
+Maximum distance: 21.4 km
+Mean distance: 3.48 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.2% of records have complete geographic data
+Boundary violation rate: 16.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/FTG/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

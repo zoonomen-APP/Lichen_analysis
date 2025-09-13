@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5830947	MONTU	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	MONTU01422	31.70833,-110.875	Arizona, Santa Cruz County	Madera Canyon, above Roundup Picnic Area	https://lichenportal.org/portal/collections/individual/index.php?occid=5830947
+5786662	MONTU	T.H. Nash	Arizona	Coconino	0.53	outside_boundary_exact	MONTU01014	34.3,-110.9166667	Arizona, Coconino County	1 km S of state route 260 on the Mogollon Rim	https://lichenportal.org/portal/collections/individual/index.php?occid=5786662

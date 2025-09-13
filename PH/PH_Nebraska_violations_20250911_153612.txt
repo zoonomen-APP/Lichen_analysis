@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1797633	PH	Sara Morgan	Nebraska	Dawes	47.71	outside_boundary_exact	PH00117959	42.6275,-102.188056	Nebraska, Sheridan County	Nebraska National Forest, 18 miles southwest of Chadron along East Ash Road (Forest Service Road #706), 1.8 road miles north of junction with Table Road (Forest Service Road #705)	https://lichenportal.org/portal/collections/individual/index.php?occid=1797633

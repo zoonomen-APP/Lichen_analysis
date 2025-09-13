@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2571691	IDS	K. Dillman	Wyoming	Yellowstone	NA	county_not_matched_no_match	IDS-L-0001271	45,-111	county_not_matched	Yellowstone National Park, west entrance	https://lichenportal.org/portal/collections/individual/index.php?occid=2571691
+2572440	IDS	K. Dillman	Wyoming	Gallatin	NA	county_not_matched_no_match	IDS-L-0001180	45,-111	county_not_matched	Yellowstone National Park Co. Midway Geyser Basin, at Sulphur Spring	https://lichenportal.org/portal/collections/individual/index.php?occid=2572440
+2572922	IDS	K. Dillman	Wyoming	Yellowstone	NA	county_not_matched_no_match	IDS-L-0001210	45,-111	county_not_matched	Yellowstone National Park, Midway Geyser Basin, at Sulpher Spring	https://lichenportal.org/portal/collections/individual/index.php?occid=2572922

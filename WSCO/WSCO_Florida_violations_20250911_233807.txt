@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5648616	WSCO	Robert S. Egan	Florida	Leon County	0.37	outside_boundary_exact	WSCO013439	30.3,-84.35	Florida, Wakulla County	Apalachicola National Forest, Leon Sinks Geological Area, along US Route 319 just N of Wakulla County line	https://lichenportal.org/portal/collections/individual/index.php?occid=5648616

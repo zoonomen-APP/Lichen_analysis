@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+111959	ASU	T.H. Nash III	Rhode Island	Washington	9.41	outside_boundary_exact	ASUL035597	41.504183,-71.289036	Rhode Island, Newport County	5 km N of US 1, along RI 214	https://lichenportal.org/portal/collections/individual/index.php?occid=111959

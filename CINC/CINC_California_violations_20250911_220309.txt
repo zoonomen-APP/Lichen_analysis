@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1814856	CINC	Shushan, Sam	California	San Mateo	10.67	outside_boundary_exact	CINC-L-0005265	37.568348,-122.023015	California, Alameda County	21 miles north of Saratoga	https://lichenportal.org/portal/collections/individual/index.php?occid=1814856

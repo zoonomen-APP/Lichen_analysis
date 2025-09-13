@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2592297	UCR(temp)	T.L. Esslinger	Idaho	Kootenai	167.99	outside_boundary_exact	SBBG014676L	45.85,-116.866667	Oregon, Wallowa County	Near the S end of Lower Twin Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=2592297

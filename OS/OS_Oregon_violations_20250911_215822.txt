@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1243328	OS	Sam Shushan	Oregon	Crook	28.69	outside_boundary_exact	OS0001295	44.715505,-120.093419	Oregon, Wheeler County	26 mi. NE of Pinevi11e; Cougar Forest Camp in Ochoco Ntl. Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=1243328

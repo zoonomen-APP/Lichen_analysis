@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5341729	WS	B. Ryan	California	Tuolumne	22.79	outside_boundary_exact	398695	38.1333333,-119.075	California, Mono County	Winter sports area, N of Hwy 108, 5 km SW of Fraser Flat Campground	https://lichenportal.org/portal/collections/individual/index.php?occid=5341729

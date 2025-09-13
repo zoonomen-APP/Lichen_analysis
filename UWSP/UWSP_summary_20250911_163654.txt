@@ -1,0 +1,24 @@
+# INSTITUTION ANALYSIS SUMMARY: UWSP
+Generated: 2025-09-11 16:36:54.864697
+Processing time: 0.15 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1725
+After country filtering: 1701 (lost 24 non-US records)
+After coordinate filtering: 506 (lost 1195 records without coordinates)
+After state filtering: 506 (lost 0 records without state information)
+After county filtering: 504 (lost 2 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 504 (29.2% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 29.2% of records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/UWSP/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

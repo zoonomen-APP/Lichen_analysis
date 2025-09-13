@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: WWB
+Generated: 2025-09-11 16:37:17.809289
+Processing time: 0.38 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 5076
+After country filtering: 5011 (lost 65 non-US records)
+After coordinate filtering: 1164 (lost 3847 records without coordinates)
+After state filtering: 1164 (lost 0 records without state information)
+After county filtering: 1157 (lost 7 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 1157 (22.8% of total collection)
+Boundary violations detected: 16 (1.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.83 km
+Median distance: 17.07 km
+Third quartile: 38.66 km
+Maximum distance: 1047.23 km
+Mean distance: 119.75 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 22.8% of records have complete geographic data
+Boundary violation rate: 1.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/WWB/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

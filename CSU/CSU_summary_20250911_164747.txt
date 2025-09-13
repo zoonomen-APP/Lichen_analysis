@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: CSU
+Generated: 2025-09-11 16:47:47.327253
+Processing time: 1.13 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1651
+After country filtering: 1628 (lost 23 non-US records)
+After coordinate filtering: 1594 (lost 34 records without coordinates)
+After state filtering: 1594 (lost 0 records without state information)
+After county filtering: 1594 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 1594 (96.5% of total collection)
+Boundary violations detected: 281 (17.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.23 km
+First quartile: 3.22 km
+Median distance: 42.24 km
+Third quartile: 85.81 km
+Maximum distance: 13366.02 km
+Mean distance: 148.77 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 96.5% of records have complete geographic data
+Boundary violation rate: 17.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/CSU/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

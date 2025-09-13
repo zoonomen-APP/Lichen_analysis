@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: CLEMS
+Generated: 2025-09-11 12:04:48.812274
+Processing time: 0.04 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 5542
+After country filtering: 5496 (lost 46 non-US records)
+After coordinate filtering: 57 (lost 5439 records without coordinates)
+After state filtering: 57 (lost 0 records without state information)
+After county filtering: 55 (lost 2 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 55 (1% of total collection)
+Boundary violations detected: 13 (23.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 11.64 km
+First quartile: 50.64 km
+Median distance: 50.64 km
+Third quartile: 1074.7 km
+Maximum distance: 11664.77 km
+Mean distance: 1417.1 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 1% of records have complete geographic data
+Boundary violation rate: 23.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/CLEMS/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

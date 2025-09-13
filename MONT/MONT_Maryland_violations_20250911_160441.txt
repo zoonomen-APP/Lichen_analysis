@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1437603	MONT	T. A. Williams	Maryland	Montgomery	2.29	outside_boundary_exact	MONT-L-0004722	38.959,-76.974	Maryland, Prince George's County	along Sligo Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=1437603
+1460988	MONT	Thomas A. Williams	Maryland	Montgomery	0.8	outside_boundary_exact	MONT-L-0005998	38.966667,-77.016667	District of Columbia, District of Columbia County	Takoma Park, D.C.	https://lichenportal.org/portal/collections/individual/index.php?occid=1460988

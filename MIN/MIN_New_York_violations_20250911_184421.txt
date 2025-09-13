@@ -1,0 +1,5 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+307022	MIN	Imshaug, H.; Brodo	New York	Suffolk	2502.73	outside_boundary_exact	626990	43.947,-103.97	South Dakota, Pennington County	Long Island, Se of Flanders	https://lichenportal.org/portal/collections/individual/index.php?occid=307022
+404907	MIN	Hermann, F.	New York	Hamilton	50.29	outside_boundary_exact	866318	44.571429,-74.307992	New York, Franklin County	Adirondack Mountains, N of Paul Smith'S	https://lichenportal.org/portal/collections/individual/index.php?occid=404907
+2904275	MIN	Brodo, I.; Smith, S.	New York	Albany	34.88	outside_boundary_exact	940141	42.58333333,-74.6666667	New York, Otsego County	Ravinia, Sw of Albany	https://lichenportal.org/portal/collections/individual/index.php?occid=2904275
+3512468	MIN	Irwin M Brodo	New York	Nassau	0.31	outside_boundary_exact	958009	40.853889,-73.456667	New York, Suffolk County	Cold Spring Harbor Woods above third lake	https://lichenportal.org/portal/collections/individual/index.php?occid=3512468

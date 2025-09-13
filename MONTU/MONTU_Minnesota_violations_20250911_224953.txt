@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5831014	MONTU	Shirley Colter	Minnesota	Yellow Medicine	0.76	outside_boundary_exact	MONTU01458	44.809108,-95.52637	Minnesota, Chippewa County	Granite Falls.	https://lichenportal.org/portal/collections/individual/index.php?occid=5831014

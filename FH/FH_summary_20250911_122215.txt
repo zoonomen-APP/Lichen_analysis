@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: FH
+Generated: 2025-09-11 12:22:15.523319
+Processing time: 1.49 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 61916
+After country filtering: 52004 (lost 9912 non-US records)
+After coordinate filtering: 3678 (lost 48326 records without coordinates)
+After state filtering: 3584 (lost 94 records without state information)
+After county filtering: 3537 (lost 47 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 3537 (5.7% of total collection)
+Boundary violations detected: 294 (8.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.03 km
+First quartile: 1.85 km
+Median distance: 13.78 km
+Third quartile: 148.19 km
+Maximum distance: 12042.88 km
+Mean distance: 1659.8 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 5.7% of records have complete geographic data
+Boundary violation rate: 8.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/FH/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: MDKY
+Generated: 2025-09-11 16:00:49.729551
+Processing time: 0.64 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1530
+After country filtering: 1530 (lost 0 non-US records)
+After coordinate filtering: 1497 (lost 33 records without coordinates)
+After state filtering: 1497 (lost 0 records without state information)
+After county filtering: 1474 (lost 23 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 1474 (96.3% of total collection)
+Boundary violations detected: 57 (3.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.57 km
+Median distance: 1 km
+Third quartile: 11.42 km
+Maximum distance: 239.25 km
+Mean distance: 35.6 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 96.3% of records have complete geographic data
+Boundary violation rate: 3.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/MDKY/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: HSC
+Generated: 2025-09-11 12:23:20.86368
+Processing time: 1 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 905
+After country filtering: 905 (lost 0 non-US records)
+After coordinate filtering: 883 (lost 22 records without coordinates)
+After state filtering: 883 (lost 0 records without state information)
+After county filtering: 883 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 883 (97.6% of total collection)
+Boundary violations detected: 303 (34.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.11 km
+First quartile: 184.95 km
+Median distance: 184.95 km
+Third quartile: 184.95 km
+Maximum distance: 288.91 km
+Mean distance: 173.81 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 97.6% of records have complete geographic data
+Boundary violation rate: 34.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/HSC/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

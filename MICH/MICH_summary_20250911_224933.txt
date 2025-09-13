@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: MICH
+Generated: 2025-09-11 22:49:33.105405
+Processing time: 2.7 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 57640
+After country filtering: 35394 (lost 22246 non-US records)
+After coordinate filtering: 7899 (lost 27495 records without coordinates)
+After state filtering: 7899 (lost 0 records without state information)
+After county filtering: 7010 (lost 889 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7010 (12.2% of total collection)
+Boundary violations detected: 212 (3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 1.42 km
+Median distance: 8.2 km
+Third quartile: 11.71 km
+Maximum distance: 6018.76 km
+Mean distance: 162.45 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 12.2% of records have complete geographic data
+Boundary violation rate: 3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/MICH/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

@@ -1,0 +1,10 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+801784	OMA	NA	Kansas	Washington	960.9	outside_boundary_exact	17185	30.973333,-97.074583	Texas, Milam County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=801784
+801782	OMA	NA	Kansas	Washington	960.9	outside_boundary_exact	17186	30.973333,-97.074583	Texas, Milam County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=801782
+799698	OMA	NA	Kansas	Sherman	106.31	outside_boundary_exact	17179	38.185,-101.777778	Kansas, Hamilton County	Sherman Co State Fishing Lake and Wildlife Area; 10.25 mi S, 2.75 mi W jct of KS Hwy 27 & US Hwy Business 24 in Goodland	https://lichenportal.org/portal/collections/individual/index.php?occid=799698
+802125	OMA	NA	Kansas	Linn	69.26	outside_boundary_exact	16897	38.138889,-95.874444	Kansas, Coffey County	Dingus Natural Area; Mound City	https://lichenportal.org/portal/collections/individual/index.php?occid=802125
+802117	OMA	NA	Kansas	Linn	69.26	outside_boundary_exact	16908	38.136944,-95.874444	Kansas, Coffey County	Dingus Natural Area; Mound City	https://lichenportal.org/portal/collections/individual/index.php?occid=802117
+800520	OMA	NA	Kansas	Grove	NA	county_not_matched_no_match	16874	38.855556,-100.165556	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800520
+800522	OMA	NA	Kansas	Grove	NA	county_not_matched_no_match	16906	38.856389,-100.182222	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800522
+800546	OMA	NA	Kansas	Grove	NA	county_not_matched_no_match	16930	38.856389,-100.168889	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800546
+3796198	OMA	NA	Kansas	Woodsen	NA	county_not_matched_no_match	19697	37.793889,-95.835833	county_not_matched	Woodson Co State Fishing Lake & Wildlife Area; 6 miles E of Toronto	https://lichenportal.org/portal/collections/individual/index.php?occid=3796198

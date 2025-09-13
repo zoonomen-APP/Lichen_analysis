@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1798280	WVA	James C. Lendemer	Tennessee	Blount	0.04	outside_boundary_exact	WVA-L-0002321	35.519722,-83.874444	Tennessee, Blount County	Great Smoky Mountains National Park. Gregory Bald Trail, Parsons Branch Rd. to Sheep Pen Gap (4 mi).	https://lichenportal.org/portal/collections/individual/index.php?occid=1798280

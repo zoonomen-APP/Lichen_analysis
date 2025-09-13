@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1091611	PH	William L. Culberson	Kansas	Montgomery	104.02	outside_boundary_exact	PH00045423	38.304919,-95.37277	Kansas, Anderson County	6.3 mi. N of Mount Ida	https://lichenportal.org/portal/collections/individual/index.php?occid=1091611

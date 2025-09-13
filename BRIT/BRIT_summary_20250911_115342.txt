@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: BRIT
+Generated: 2025-09-11 11:53:42.243756
+Processing time: 0.21 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 7252
+After country filtering: 1980 (lost 5272 non-US records)
+After coordinate filtering: 453 (lost 1527 records without coordinates)
+After state filtering: 453 (lost 0 records without state information)
+After county filtering: 447 (lost 6 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 447 (6.2% of total collection)
+Boundary violations detected: 7 (1.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 3.5 km
+First quartile: 8.22 km
+Median distance: 8.22 km
+Third quartile: 33.18 km
+Maximum distance: 937.86 km
+Mean distance: 147.49 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 6.2% of records have complete geographic data
+Boundary violation rate: 1.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/BRIT/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

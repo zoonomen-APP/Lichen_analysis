@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2821792	US	R. Santesson	Magallanes y de la Antártica Chilena (XII)	Tierra del Fuego	NA	county_not_matched_no_match	NA	-55,-68.67	county_not_matched	Isla Hoste, Peninsula Dumas, Canasaca.	https://lichenportal.org/portal/collections/individual/index.php?occid=2821792

@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: TROY
+Generated: 2025-09-11 16:35:36.715425
+Processing time: 0.13 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 493
+After country filtering: 493 (lost 0 non-US records)
+After coordinate filtering: 349 (lost 144 records without coordinates)
+After state filtering: 349 (lost 0 records without state information)
+After county filtering: 349 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 349 (70.8% of total collection)
+Boundary violations detected: 3 (0.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 15.56 km
+First quartile: 17.83 km
+Median distance: 20.1 km
+Third quartile: 26.11 km
+Maximum distance: 32.12 km
+Mean distance: 22.6 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 70.8% of records have complete geographic data
+Boundary violation rate: 0.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/TROY/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

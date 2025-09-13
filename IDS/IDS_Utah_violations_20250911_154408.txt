@@ -1,0 +1,5 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+2571566	IDS	J. Glennon	Utah	Millard	15.79	outside_boundary_exact	IDS-L-0001296	38.85,-114.233333	Nevada, White Pine County	on Utah-Nevada border near Great Basin National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=2571566
+2572119	IDS	J. Glennon	Utah	Millard	15.79	outside_boundary_exact	IDS-L-0001480	38.85,-114.233333	Nevada, White Pine County	on Utah-Nevada border near Great Basin National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=2572119
+2572960	IDS	J. Glennon	Utah	Millard	15.79	outside_boundary_exact	IDS-L-0001329	38.85,-114.23333	Nevada, White Pine County	on Utah-Nevada border, near Basin National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=2572960
+2572488	IDS	J. Glennon	Utah	Millard	6.44	outside_boundary_exact	IDS-L-0001133	38.516667,-113.766667	Utah, Beaver County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=2572488

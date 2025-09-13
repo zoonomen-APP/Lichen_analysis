@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: WIN
+Generated: 2025-09-11 23:13:54.80892
+Processing time: 0.04 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 5614
+After country filtering: 809 (lost 4805 non-US records)
+After coordinate filtering: 50 (lost 759 records without coordinates)
+After state filtering: 50 (lost 0 records without state information)
+After county filtering: 39 (lost 11 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 39 (0.7% of total collection)
+Boundary violations detected: 14 (35.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.12 km
+First quartile: 346.05 km
+Median distance: 346.05 km
+Third quartile: 346.05 km
+Maximum distance: 398.3 km
+Mean distance: 279.09 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 0.7% of records have complete geographic data
+Boundary violation rate: 35.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/WIN/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

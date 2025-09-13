@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5831188	CSCN	Steven B. Rolfsmeier	Nebraska	Dawes	35.52	outside_boundary_exact	CSCN-L-0000102	42.76475,-103.93884	Nebraska, Sioux County	Harrison, 5.4 mi N, 2.8 mi W. Pine Ridge Escarpment: Gilbert Baker Wildlife Management Area, 0.6 mi WSW of campground.	https://lichenportal.org/portal/collections/individual/index.php?occid=5831188

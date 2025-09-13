@@ -1,0 +1,3 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3124142	UNM	S. Shusham	Missouri	Howell	2.52	outside_boundary_exact	NA	36.95,-92.12	Missouri, Douglas County	7 miles southwest of Willow Springs, Mark Twain National Forest.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124142
+3124210	UNM	S. Shushan	Missouri	Howell	2.52	outside_boundary_exact	NA	36.95,-92.12	Missouri, Douglas County	Seven miles southwest of Willow Springs, Mark Twain National Forest.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124210

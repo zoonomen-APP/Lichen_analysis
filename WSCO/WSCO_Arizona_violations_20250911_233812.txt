@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5683391	WSCO	T. H. Nash III	Arizona	Gila	0.47	outside_boundary_exact	WSCO013864	34.4333,-111.4	Arizona, Coconino County	Gila National Forest, upper end of Pine Canyon adjacent Coconino County border	https://lichenportal.org/portal/collections/individual/index.php?occid=5683391

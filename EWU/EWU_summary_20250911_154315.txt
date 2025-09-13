@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: EWU
+Generated: 2025-09-11 15:43:15.494913
+Processing time: 0.75 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 2037
+After country filtering: 1968 (lost 69 non-US records)
+After coordinate filtering: 1932 (lost 36 records without coordinates)
+After state filtering: 1931 (lost 1 records without state information)
+After county filtering: 1931 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 1931 (94.8% of total collection)
+Boundary violations detected: 89 (4.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.57 km
+First quartile: 0.64 km
+Median distance: 0.64 km
+Third quartile: 138.4 km
+Maximum distance: 4447.1 km
+Mean distance: 462.16 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 94.8% of records have complete geographic data
+Boundary violation rate: 4.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/EWU/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

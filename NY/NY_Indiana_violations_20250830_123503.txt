@@ -1,0 +1,5 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3187533	NY	B. Fink	Indiana	Fayette Co.	94.26	outside_boundary_exact	1232374	39.9314,-86.3969	Indiana, Boone County	near Fayette	https://lichenportal.org/portal/collections/individual/index.php?occid=3187533
+3195678	NY	J. P. Dey	Indiana	Owen Co.	57.75	outside_boundary_exact	1230651	39.32,-87.73	Illinois, Clark County	Romona Quarry, ca. 2.5 mi. NE of Spencer	https://lichenportal.org/portal/collections/individual/index.php?occid=3195678
+3196083	NY	J. P. Dey	Indiana	Owen Co.	57.75	outside_boundary_exact	1230652	39.32,-87.73	Illinois, Clark County	Romona Quarry, ca. 2.5 mi. NE of Spencer	https://lichenportal.org/portal/collections/individual/index.php?occid=3196083
+870570	NY	C. C. Deam	Indiana	Harrison Co.	2.37	outside_boundary_exact	1079815	38.1997,-86.3442	Indiana, Crawford County	about 2 1/2 miles north of Leavenworth or first woods east of the Elisha Esary woods	https://lichenportal.org/portal/collections/individual/index.php?occid=870570

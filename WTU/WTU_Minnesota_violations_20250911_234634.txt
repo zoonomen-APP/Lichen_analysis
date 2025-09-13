@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+4804679	WTU	B. McCune	Minnesota	Itasca	10.32	outside_boundary_exact	WTU-L-027593	47.3467,-94.2209	Minnesota, Cass County	Near Highway 2 near Lake Winnibigoshish.	https://lichenportal.org/portal/collections/individual/index.php?occid=4804679
+1281125	WTU	B. Ryan	Minnesota	Ramsey	0.33	outside_boundary_exact	WTU-L-033003	44.916667,-93.083333	Minnesota, Dakota County	Como Park, St. Paul.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281125
+1281838	WTU	B. Ryan	Minnesota	Ramsey	0.33	outside_boundary_exact	WTU-L-034215	44.916667,-93.083333	Minnesota, Dakota County	Como Park, St. Paul.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281838

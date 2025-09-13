@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1474210	NEB	Dan Bench	Wyoming	Hot Springs	4.11	outside_boundary_exact	NEB00038466	44.116667,-108.683333	Wyoming, Park County	12 miles southeast of Meeteetse	https://lichenportal.org/portal/collections/individual/index.php?occid=1474210

@@ -1,0 +1,2 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+3124949	UNM	H. Willis	Kansas	Woodson	3.58	outside_boundary_exact	NA	38,-96	Kansas, Greenwood County	Woodson County State Lake; 8 miles southwest of Yates Center.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124949

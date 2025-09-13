@@ -1,0 +1,10 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+424244	MIN	Freeman, C.; Morse	Iowa	Monona	41.34	outside_boundary_exact	891171	41.4942,-96.0058	Nebraska, Washington County	Sw of Missouri Valley; Desoto Lake Wildlife Area	https://lichenportal.org/portal/collections/individual/index.php?occid=424244
+387210	MIN	Wetmore, C.	Iowa	Winneshiek	23.99	outside_boundary_exact	823443	42.86694444,-91.74027778	Iowa, Fayette County	Decorah, Near	https://lichenportal.org/portal/collections/individual/index.php?occid=387210
+387211	MIN	Wetmore, C.	Iowa	Winneshiek	23.99	outside_boundary_exact	823444	42.86694444,-91.74027778	Iowa, Fayette County	Decorah, Near	https://lichenportal.org/portal/collections/individual/index.php?occid=387211
+826833	MIN	Wetmore, C.	Iowa	Floyd	6.16	outside_boundary_exact	906780	42.8522,-92.8947	Iowa, Butler County	Marble Rock, 2 Mi Nw	https://lichenportal.org/portal/collections/individual/index.php?occid=826833
+395616	MIN	Wetmore, C.	Iowa	Allamakee	0.27	outside_boundary_exact	844539	43.10527778,-91.17194444	Wisconsin, Crawford County	Goat Prairie Sw of Hanging Rock; Effigy Mounds National Monument	https://lichenportal.org/portal/collections/individual/index.php?occid=395616
+304890	MIN	Wetmore, C.	Iowa	Clayton	0.25	outside_boundary_exact	624416	42.781906,-91.610501	Iowa, Fayette County	Volga, Sw of	https://lichenportal.org/portal/collections/individual/index.php?occid=304890
+304891	MIN	Wetmore, C.	Iowa	Clayton	0.25	outside_boundary_exact	624417	42.781906,-91.610501	Iowa, Fayette County	Volga, Sw of	https://lichenportal.org/portal/collections/individual/index.php?occid=304891
+308293	MIN	Wetmore, C.	Iowa	Clayton	0.25	outside_boundary_exact	628673	42.781906,-91.610501	Iowa, Fayette County	Volga, Sw of	https://lichenportal.org/portal/collections/individual/index.php?occid=308293
+2901479	MIN	Wetmore, C.	Iowa	Allamakee	0.19	outside_boundary_exact	919182	43.07861111,-91.1925	Iowa, Clayton County	Founders Pond, S of; Effigy Mounds National Monument	https://lichenportal.org/portal/collections/individual/index.php?occid=2901479

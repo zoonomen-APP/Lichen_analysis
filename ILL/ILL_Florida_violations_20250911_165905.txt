@@ -1,0 +1,5 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+1508014	ILL	Chase C. Deam	Florida	Highlands	417.29	outside_boundary_exact	ILL00037789	30.529642,-84.322115	Florida, Leon County	on the north side of Lake Jackson about a mile west of Sebring	https://lichenportal.org/portal/collections/individual/index.php?occid=1508014
+1508005	ILL	NA	Florida	Orange	2.04	outside_boundary_exact	ILL00037780	28.804066,-81.451816	Florida, Lake County	Rocky Spring Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1508005
+1507518	ILL	R.C. Harris	Florida	Orange	1.14	outside_boundary_exact	ILL00037293	28.79599,-81.453722	Florida, Lake County	Rock Spring Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1507518
+1509470	ILL	NA	Florida	Orange	1.14	outside_boundary_exact	ILL00039246	28.79599,-81.453722	Florida, Lake County	Rock Spring Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1509470

@@ -1,0 +1,32 @@
+# INSTITUTION ANALYSIS SUMMARY: EVE
+Generated: 2025-09-11 12:17:53.813111
+Processing time: 0.24 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 886
+After country filtering: 841 (lost 45 non-US records)
+After coordinate filtering: 379 (lost 462 records without coordinates)
+After state filtering: 379 (lost 0 records without state information)
+After county filtering: 319 (lost 60 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 319 (36% of total collection)
+Boundary violations detected: 47 (14.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 6.94 km
+First quartile: 20.39 km
+Median distance: 20.48 km
+Third quartile: 21.4 km
+Maximum distance: 77.66 km
+Mean distance: 22.14 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 36% of records have complete geographic data
+Boundary violation rate: 14.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen/SQL/txt/enhanced_analysis/EVE/
+File format: Tab-separated text files (.txt) with clickable specimen links
+

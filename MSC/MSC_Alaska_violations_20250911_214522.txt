@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+5368127	MSC	Alan M. Fryday	Alaska	Hoonah-Angoon District	5237.92	outside_boundary_reverse_partial	MSC0288577	58.83415,136.0573	not_found_in_US	Glacier Bay National Park, Muir Point.	https://lichenportal.org/portal/collections/individual/index.php?occid=5368127
+5368128	MSC	Alan M. Fryday	Alaska	Hoonah-Angoon District	5237.92	outside_boundary_reverse_partial	NA	58.83415,136.0573	not_found_in_US	Glacier Bay National Park, Muir Point.	https://lichenportal.org/portal/collections/individual/index.php?occid=5368128
+214674	MSC	Wetmore, Clifford M	Alaska	North Slope	4871.88	outside_boundary_exact	MSC0021806	34.5333328,-93.0594482	Arkansas, Garland County	Arkansas; Hot Springs National Park. Half	https://lichenportal.org/portal/collections/individual/index.php?occid=214674

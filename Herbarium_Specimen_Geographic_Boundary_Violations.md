@@ -165,7 +165,7 @@ Summary files contain statistical analysis including:
 - [SBBG](./data/SBBG/) - Santa Barbara Botanic Garden
 - [SD](./data/SD/) - University of South Dakota
 - [SFSU](./data/SFSU/) - San Francisco State University
-- [SRP](./data/SRP/) - Sul Ross State University
+- [SRP](./data/SRP/) - Boise State University Lichen Herbarium
 - [STNF](./data/STNF/) - Stephen F. Austin State University
 
 ### T-U

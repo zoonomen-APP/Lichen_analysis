@@ -52,10 +52,9 @@ The state-specific violation files are tab-separated text files containing the f
 
 | Variable | Description |
 |----------|-------------|
-| `occurrenceID` | Unique identifier for the specimen record in the database |
 | `institutionCode` | Herbarium abbreviation (e.g., OSC, DUKE, NY) |
 | `recordedBy` | Collector name(s) as recorded in the original specimen data |
-| `stateProvince` | State or province name where the specimen was reportedly collected |
+| `state` | State where the specimen was reportedly collected |
 | `county` | County name as recorded in the original specimen data |
 | `distance_km` | Distance in kilometers from the reported coordinates to the nearest boundary of the stated county |
 | `status` | Processing status indicating the type of boundary violation detected:<br/>• `outside_boundary_[confidence]` - coordinates fall outside stated county<br/>• `county_not_matched_[reason]` - county name could not be matched to official boundaries |

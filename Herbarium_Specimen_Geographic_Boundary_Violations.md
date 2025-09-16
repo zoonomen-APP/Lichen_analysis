@@ -170,13 +170,13 @@ Summary files contain statistical analysis including:
 ### T-U
 - [TENN](./data/TENN/) - University of Tennessee
 - [TROY](./data/TROY/) - Troy University
-- [UC](./data/UC/) - University of California system
-- [UCR(temp)](./data/UCR(temp)/) - UC Riverside (temporary) ⚠️ *Contains parentheses*
+- [UC](./data/UC/) - University of California, Berkeley
+- [UCR(temp)](./data/UCR(temp)/) - University of California, Riverside Lichens (in transfer to SBBG) ⚠️ *Contains parentheses*
 - [UCSB](./data/UCSB/) - UC Santa Barbara
 - [UCSC](./data/UCSC/) - UC Santa Cruz
 - [UConn](./data/UConn/) - University of Connecticut
-- [UNA](./data/UNA/) - University of North Alabama
-- [UNLV](./data/UNLV/) - University of Nevada, Las Vegas
+- [UNA](./data/UNA/) - University of Alabama
+- [UNLV](./data/UNLV/) - College of Southern Nevada, Henderson Campus, Henderson
 - [UNM](./data/UNM/) - University of New Mexico
 - [URV](./data/URV/) - University of Richmond Herbarium
 - [US](./data/US/) - United States National Herbarium

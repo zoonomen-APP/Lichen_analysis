@@ -162,10 +162,10 @@ Summary files contain statistical analysis including:
 - [PH](./data/PH/) - Academy of Natural Sciences of Drexel Univeristy, Philadelphia
 - [RM](./data/RM/) - University of Wyoming, Rocky Mountain Herbarium
 - [SBBG](./data/SBBG/) - Santa Barbara Botanic Garden
-- [SD](./data/SD/) - University of South Dakota
+- [SD](./data/SD/) - San Diego Natural History Museum
 - [SFSU](./data/SFSU/) - San Francisco State University
 - [SRP](./data/SRP/) - Boise State University Lichen Herbarium
-- [STNF](./data/STNF/) - Stephen F. Austin State University
+- [STNF](./data/STNF/) - Shasta-Trinity National Forest Herbarium
 
 ### T-U
 - [TENN](./data/TENN/) - University of Tennessee

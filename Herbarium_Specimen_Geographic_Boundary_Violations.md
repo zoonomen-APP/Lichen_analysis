@@ -102,11 +102,11 @@ Summary files contain statistical analysis including:
 - [CHSC](./data/CHSC/) - Ahart Herbarium, CSU Chico
 - [CINC](./data/CINC/) - University of Cincinnati
 - [CLEMS](./data/CLEMS/) - Clemson University
-- [CMN](./data/CMN/) - Colorado State University
+- [CMN](./data/CMN/) - Canadian Museum of Nature
 - [COLO](./data/COLO/) - University of Colorado
-- [CSCN](./data/CSCN/) - University of Nevada, Carson City
-- [CSU](./data/CSU/) - Colorado State University
-- [CUP](./data/CUP/) - Purdue University
+- [CSCN](./data/CSCN/) - High Plains Herbarium at Chadron State College
+- [CSU](./data/CSU/) - University of Central Oklahoma Lichen Herbarium
+- [CUP](./data/CUP/) - Cornell University Plant Pathology Herbarium
 
 ### D-G
 - [DAV](./data/DAV/) - University of California, Davis

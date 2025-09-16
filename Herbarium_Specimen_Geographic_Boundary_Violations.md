@@ -85,7 +85,7 @@ Summary files contain statistical analysis including:
 
 ## Herbarium Collections Analyzed
 
-*Click on herbarium codes to view detailed results*
+*Click on herbarium codes to view flagged records grouped by state and sorted by distance from border*
 
 ### A-C
 - [ALA](./data/ALA/) - University of Alaska Museum of the North Herbarium

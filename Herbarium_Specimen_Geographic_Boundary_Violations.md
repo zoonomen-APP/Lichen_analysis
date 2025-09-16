@@ -182,7 +182,7 @@ Summary files contain statistical analysis including:
 - [US](./data/US/) - United States National Herbarium
 - [USCH](./data/USCH/) - University of South Carolina
 - [USF](./data/USF/) - University of South Florida
-- [USFWS-PRR](./data/USFWS-PRR/) - U.S. Fish & Wildlife Service
+- [USFWS-PRR](./data/USFWS-PRR/) - U.S. Fish & Wildlife Service Herbarium of the Patuxent Research Refuge - Maryland
 - [USU](./data/USU/) - Utah State University
 - [UVSC](./data/UVSC/) - Utah Valley State College
 - [UWAL](./data/UWAL/) - University of West Alabama Herbarium

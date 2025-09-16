@@ -123,13 +123,13 @@ Summary files contain statistical analysis including:
 - [GMUF](./data/GMUF/) - George Mason University
 
 ### H-L
-- [HPSU](./data/HPSU/) - High Point University
-- [HSC](./data/HSC/) - Humboldt State University
+- [HPSU](./data/HPSU/) - Portland State University
+- [HSC](./data/HSC/) - Cal Poly Humboldt
 - [Harvard_University](./data/Harvard_University/) - Harvard University
 - [ID](./data/ID/) - University of Idaho
-- [IDS](./data/IDS/) - Idaho State University
+- [IDS](./data/IDS/) - Idaho Museum of Natural History
 - [ILL](./data/ILL/) - University of Illinois
-- [ILLS](./data/ILLS/) - Illinois State University
+- [ILLS](./data/ILLS/) - University of Illinois, Illinois Natural History Survey Fungarium
 - [IND](./data/IND/) - Indiana University
 - [ISC](./data/ISC/) - Iowa State University
 - [KANU](./data/KANU/) - University of Kansas

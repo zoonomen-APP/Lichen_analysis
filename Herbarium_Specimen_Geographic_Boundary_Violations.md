@@ -132,22 +132,22 @@ Summary files contain statistical analysis including:
 - [IND](./data/IND/) - Indiana University
 - [ISC](./data/ISC/) - Iowa State University
 - [KANU](./data/KANU/) - University of Kansas
-- [KE](./data/KE/) - Kenyon College
-- [KIRI](./data/KIRI/) - Kirtland Community College
+- [KE](./data/KE/) - Kent State University
+- [KIRI](./data/KIRI/) - University of Rhode Island
 - [LSU](./data/LSU/) - Louisiana State University
 
 ### M-O
 - [MAINE](./data/MAINE/) - University of Maine
-- [MCTC](./data/MCTC/) - Macomb Community College
-- [MDKY](./data/MDKY/) - University of Kentucky
+- [MCTC](./data/MCTC/) - Michigan Technological University
+- [MDKY](./data/MDKY/) - Morehead State University
 - [MICH](./data/MICH/) - University of Michigan
-- [MIL](./data/MIL/) - University of Wisconsin, Milwaukee
+- [MIL](./data/MIL/) - Milwaukee Public Museum
 - [MIN](./data/MIN/) - University of Minnesota
-- [MONT](./data/MONT/) - University of Montana
-- [MONTU](./data/MONTU/) - Montana State University
-- [MOR](./data/MOR/) - Missouri Botanical Garden
-- [MSC](./data/MSC/) - Mississippi State University
-- [MU](./data/MU/) - University of Missouri
+- [MONT](./data/MONT/) - Montana State University
+- [MONTU](./data/MONTU/) - University of Montana
+- [MOR](./data/MOR/) - Morton Arboretum Herbarium
+- [MSC](./data/MSC/) - Michigan State University
+- [MU](./data/MU/) - Miami University
 - [NBM](./data/NBM/) - New Brunswick Museum
 - [NCU](./data/NCU/) - University of North Carolina
 - [NEB](./data/NEB/) - University of Nebraska

@@ -92,14 +92,14 @@ Summary files contain statistical analysis including:
 - [ALA](./data/ALA/) - University of Alaska Museum of the North Herbarium
 - [APSC](./data/APSC/) - Austin Peay State University
 - [ASU](./data/ASU/) - Arizona State University
-- [AUA](./data/AUA/) - University of Alabama
-- [BALT](./data/BALT/) - Baltimore Museum
+- [AUA](./data/AUA/) - Auburn University, Freeman Herbarium
+- [BALT](./data/BALT/) - Towson University Biodiversity Center
 - [BRIT](./data/BRIT/) - Botanical Research Institute of Texas
 - [BRY](./data/BRY/) - Brigham Young University
 - [BUT](./data/BUT/) - Butler University
 - [CAS](./data/CAS/) - California Academy of Sciences
-- [CHRB](./data/CHRB/) - California State University, Chico
-- [CHSC](./data/CHSC/) - Charleston Southern University
+- [CHRB](./data/CHRB/) - Rutgers University, Chrysler Herbarium
+- [CHSC](./data/CHSC/) - Ahart Herbarium, CSU Chico
 - [CINC](./data/CINC/) - University of Cincinnati
 - [CLEMS](./data/CLEMS/) - Clemson University
 - [CMN](./data/CMN/) - Colorado State University

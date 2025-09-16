@@ -194,8 +194,8 @@ Summary files contain statistical analysis including:
 - [VPI](./data/VPI/) - Virginia Polytechnic Institute and State University, Massey Herbarium
 - [VT](./data/VT/) - University of Vermont
 - [WCUH](./data/WCUH/) - Western Carolina University
-- [WIN](./data/WIN/) - Winona State University
-- [WIS](./data/WIS/) - University of Wisconsin
+- [WIN](./data/WIN/) - University of Manitoba
+- [WIS](./data/WIS/) - University of Wisconsin, Wisconsin State Herbarium
 - [WS](./data/WS/) - Washington State University
 - [WSCO](./data/WSCO/) - Western State Colorado University
 - [WTU](./data/WTU/) - University of Washington

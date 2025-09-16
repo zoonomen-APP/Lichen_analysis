@@ -117,9 +117,9 @@ Summary files contain statistical analysis including:
 - [FH](./data/FH/) - Harvard University Farlow Herbarium
 - [FLAS](./data/FLAS/) - University of Florida
 - [FTG](./data/FTG/) - Fairchild Tropical Botanic Garden
-- [FTU](./data/FTU/) - Florida International University
+- [FTU](./data/FTU/) - University of Central Florida Herbarium
 - [GAM](./data/GAM/) - University of Georgia
-- [GEO](./data/GEO/) - Georgetown University
+- [GEO](./data/GEO/) - Lichen Collection of the Emory University Herbarium
 - [GMUF](./data/GMUF/) - George Mason University
 
 ### H-L

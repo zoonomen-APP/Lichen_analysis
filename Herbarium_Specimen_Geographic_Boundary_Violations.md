@@ -85,7 +85,7 @@ Summary files contain statistical analysis including:
 
 ## Herbarium Collections Analyzed
 
-*Click on herbarium codes to view flagged records grouped by state and sorted by distance from border*
+*Click on herbarium codes to view flagged record files grouped by state; records sorted by distance from county border*
 
 ### A-C
 - [ALA](./data/ALA/) - University of Alaska Museum of the North Herbarium
@@ -153,14 +153,14 @@ Summary files contain statistical analysis including:
 - [NEB](./data/NEB/) - University of Nebraska
 - [NHA](./data/NHA/) - New Hampshire
 - [NY](./data/NY/) - New York Botanical Garden
-- [OBI](./data/OBI/) - Oberlin College
+- [OBI](./data/OBI/) - Cal Poly State University
 - [OMA](./data/OMA/) - University of Nebraska, Omaha
 - [OS](./data/OS/) - Ohio State University
 - [OSC](./data/OSC/) - Oregon State University
 
 ### P-S
-- [PH](./data/PH/) - Academy of Natural Sciences of Philadelphia
-- [RM](./data/RM/) - Rocky Mountain Herbarium
+- [PH](./data/PH/) - Academy of Natural Sciences of Drexel Univeristy, Philadelphia
+- [RM](./data/RM/) - University of Wyoming, Rocky Mountain Herbarium
 - [SBBG](./data/SBBG/) - Santa Barbara Botanic Garden
 - [SD](./data/SD/) - University of South Dakota
 - [SFSU](./data/SFSU/) - San Francisco State University

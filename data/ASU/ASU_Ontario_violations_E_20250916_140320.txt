@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	P.Y. Wong	Ontario	Lambton	1996.3	outside_boundary_reverse_partial	not_found_in_US	43.0666667,-81.8333333	NA	Arkona, in town along country road 12	https://lichenportal.org/portal/collections/individual/index.php?occid=94159
+ASU	H.A. Imshaug	Ontario	Northumberland	678.8	outside_boundary_exact	not_found_in_US	44.033333,-77.733333	NA	Near Brighton, shore of Lake Ontario	https://lichenportal.org/portal/collections/individual/index.php?occid=94157
+ASU	S.R. Olszewski	Ontario	Niagara	28.85	outside_boundary_exact	not_found_in_US	42.8833333,-79.3083333	NA	Niagara Regional Municipality, Wainfleet Township, Quarry Road pits, W side of Quarry Rd., 800m S of Regional Rd. 3, UTM Grid Ref: 638300 4749200	https://lichenportal.org/portal/collections/individual/index.php?occid=93010

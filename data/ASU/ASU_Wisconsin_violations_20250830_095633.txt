@@ -1,8 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-96634	ASU	J.W. Thomson	Wisconsin	Douglas	170.92	outside_boundary_exact	NA	44.62,-91.605	Wisconsin, Eau Claire County	Copper Range, Brule, T48N R10W Sec. 22	https://lichenportal.org/portal/collections/individual/index.php?occid=96634
-4659715	ASU	Andrew Khitsun	Wisconsin	Dane	70.15	outside_boundary_exact	NA	42.23,-89.74	Illinois, Stephenson County	Mazomanie Oak Barrens State Natural Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4659715
-4659716	ASU	Andrew Khitsun	Wisconsin	Dane	70.15	outside_boundary_exact	NA	42.23,-89.74	Illinois, Stephenson County	Mazomanie Oak Barrens State Natural Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4659716
-4659729	ASU	Andrew Khitsun	Wisconsin	Dane	70.15	outside_boundary_exact	NA	42.23,-89.74	Illinois, Stephenson County	Mazomanie Oak Barrens State Natural Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4659729
-85469	ASU	G. Follmann	Wisconsin	Ashland	35.99	outside_boundary_exact	ASUL011443	45.997547,-89.836874	Wisconsin, Vilas County	Lac du Flambeau Indian Reservation, around White Sand Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=85469
-95853	ASU	J.W. Thomson	Wisconsin	Dane	0.91	outside_boundary_exact	NA	43.24,-89.82	Wisconsin, Sauk County	S of Sauk City on Hwy 78; sec 19, T9N, R6E	https://lichenportal.org/portal/collections/individual/index.php?occid=95853
-97761	ASU	J.W. Thomson	Wisconsin	Dane	0.14	outside_boundary_exact	NA	43.0175,-89.84	Wisconsin, Iowa County	West Blue Mounds	https://lichenportal.org/portal/collections/individual/index.php?occid=97761

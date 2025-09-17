@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5604615	ASU	Janet Walters	Arizonia	Yavapai	0.32	outside_boundary_exact	ASUL016369	34.813789,-111.775898	Arizona, Coconino County	Slim Shady Trail, Red Rock Ranger District, Coconino National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=5604615

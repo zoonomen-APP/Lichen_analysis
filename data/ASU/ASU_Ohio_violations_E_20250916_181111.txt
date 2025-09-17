@@ -1,0 +1,11 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	ASUL020049	Clifton Gorge, Little Miami River (Niagara limestone)	https://lichenportal.org/portal/collections/individual/index.php?occid=72586
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	ASUL030569	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=72682
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	NA	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=72776
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	NA	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=72876
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	ASUL013094	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=72973
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	NA	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=73064
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	NA	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=73157
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	NA	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=73356
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	NA	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=73454
+ASU	T.H. Nash III	Ohio	Clark	0.35	outside_boundary_exact	Ohio, Greene County	39.8,-83.8333333	ASUL001324	Clifton Gorge, Little Miami River	https://lichenportal.org/portal/collections/individual/index.php?occid=73549

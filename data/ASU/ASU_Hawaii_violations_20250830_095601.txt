@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-118583	ASU	Rock	Hawaii	Kauai	133.11	outside_boundary_exact	NA	21.6333333,-158.0666667	Hawaii, Honolulu County	Island of Kaua'i, Waimea Village	https://lichenportal.org/portal/collections/individual/index.php?occid=118583

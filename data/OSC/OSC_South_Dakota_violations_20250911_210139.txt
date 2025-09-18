@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4412394	OSC	M.K. Advaita	South Dakota	Hand	44.87	outside_boundary_exact	153657	44.63966667,-98.139	South Dakota, Spink County	6 mi N, 7 mi W of miller. Lake Louise State Recreation Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=4412394
-4412394	OSC	M.K. Advaita	South Dakota	Hand	44.87	outside_boundary_exact	153657	44.63966667,-98.139	South Dakota, Spink County	6 mi N, 7 mi W of miller. Lake Louise State Recreation Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=4412394

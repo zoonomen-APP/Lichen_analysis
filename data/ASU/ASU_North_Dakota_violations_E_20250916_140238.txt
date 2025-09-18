@@ -1,3 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-ASU	Clifford M. Wetmore	North Dakota	Billings	66.11	outside_boundary_exact	North Dakota, McKenzie County	47.9275,-103.4588889	NA	Theodore Roosevelt National Park, South Unit, ridge W of Bdlands Overlook (5 km E of Medora) Sec. 20, T140N, R101W	https://lichenportal.org/portal/collections/individual/index.php?occid=96348
-ASU	Clifford M. Wetmore	North Dakota	Stutsman	3.41	outside_boundary_exact	North Dakota, Kidder County	46.879714,-99.491629	NA	Near Crystal Springs at rest stop on Interstate 94	https://lichenportal.org/portal/collections/individual/index.php?occid=92867

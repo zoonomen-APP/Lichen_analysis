@@ -1,0 +1,32 @@
+# SINGLE INSTITUTION ANALYSIS SUMMARY: OSC
+Generated: 2025-09-18 17:13:25.385765
+Processing time: 166.48 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 348292
+After country filtering: 341008 (lost 7284 non-US records)
+After coordinate filtering: 313136 (lost 27872 records without coordinates)
+After state filtering: 312888 (lost 248 records without state information)
+After county filtering: 310594 (lost 2294 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 310594 (89.2% of total collection)
+Boundary violations detected: 12816 (4.1% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.6 km
+Median distance: 2.95 km
+Third quartile: 27.02 km
+Maximum distance: 15212.23 km
+Mean distance: 119.62 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 89.2% of records have complete geographic data
+Boundary violation rate: 4.1% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/data/OSC/
+File format: Tab-separated files (.txt) with clickable specimen links
+

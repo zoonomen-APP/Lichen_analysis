@@ -15,6 +15,7 @@ This contains links to the results of an analysis intended to identify herbarium
 
 ### Validation Process
 
+
 #### 1. Data Filtering
 - Records limited to United States specimens based on matching the 'country' value to a wide range of variant renderings of the name.
 - Only records with both latitude/longitude coordinates
@@ -33,12 +34,6 @@ This contains links to the results of an analysis intended to identify herbarium
   - Fuzzy matching for minor spelling variations
 - Coordinate validation (lat: -90 to 90, lon: -180 to 180)
 - Cross-reference with reverse geocoding for "implied location"
-
-### Output Files
-
-Each herbarium directory contains:
-- **State-specific violation files**: `{HERBARIUM}_{STATE}_violations_{timestamp}.txt`
-- **Summary report**: `{HERBARIUM}_summary_{timestamp}.txt`
 
 ### Output Files
 
@@ -232,5 +227,7 @@ Summary files contain statistical analysis including:
 - **Software**: R with sf, tigris, and dplyr packages
 
 ---
+appeterson37@gmail.com
+2025.09.23
 
 <!-- *For technical questions about the analysis methodology, see the R script: `multi_herbarium_boundary_validation_v3_09_11.R`* -->

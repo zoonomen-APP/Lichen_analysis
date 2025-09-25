@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+KANU	James C Lendemer; Jessica L Allen; William R Buck; Richard C Harris	South Carolina	Charleston	2.66	outside_boundary_exact	South Carolina, Berkeley County	33.1952778,-79.5227778	390149	Francis Marion National Forest: vicinity of FS 212 and FS 5216, 2.4 mi SW of jct of FS 212 and FS 204	https://lichenportal.org/portal/collections/individual/index.php?occid=3135894

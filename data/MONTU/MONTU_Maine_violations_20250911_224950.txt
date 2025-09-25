@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5774365	MONTU	James F. Smith	Maine	Somerset	1.81	outside_boundary_exact	MONTU00624	44.75,-69.25	Maine, Penobscot County	Northeast corner of Detroit township	https://lichenportal.org/portal/collections/individual/index.php?occid=5774365

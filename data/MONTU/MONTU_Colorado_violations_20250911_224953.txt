@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5830945	MONTU	Roger Rosentreter	Colorado	Hinsdale	5.95	outside_boundary_exact	MONTU01420	37.47,-107.55	Colorado, La Plata County	Vallecito Creek, San Juan Mts., near Durango Colorado	https://lichenportal.org/portal/collections/individual/index.php?occid=5830945

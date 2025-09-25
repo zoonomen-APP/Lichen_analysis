@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5830964	MONTU	P.O. Schallert	Florida	Osceola	2207.4	outside_boundary_exact	MONTU01439	44.806697,-95.545452	Minnesota, Yellow Medicine County	Near Narcoosee	https://lichenportal.org/portal/collections/individual/index.php?occid=5830964

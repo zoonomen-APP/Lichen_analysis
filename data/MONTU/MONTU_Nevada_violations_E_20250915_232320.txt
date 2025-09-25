@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MONTU	Tim Thomas	Nevada	Lincoln	10387.79	outside_boundary_exact	not_found_in_US	38.5409,114.3552	MONTU02515	Great Basin Desert: Spring Valley, east of White Pine Co. Rd. 47, Close to valley floor flood channels	https://lichenportal.org/portal/collections/individual/index.php?occid=5780918

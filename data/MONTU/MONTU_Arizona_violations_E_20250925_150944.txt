@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MONTU	T.H. Nash	Arizona	Coconino	0.53	outside_boundary_exact	Arizona, Coconino County	34.3,-110.9166667	MONTU01014	1 km S of state route 260 on the Mogollon Rim	https://lichenportal.org/portal/collections/individual/index.php?occid=5786662

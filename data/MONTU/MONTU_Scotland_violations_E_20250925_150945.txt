@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MONTU	M. Skytte Christiansen	Scotland	Ross	5964.73	outside_boundary_exact	not_found_in_US	57.5833333,-4.6333333	MONTU00691	Rogie Falls, between Garve and Contin	https://lichenportal.org/portal/collections/individual/index.php?occid=5780923

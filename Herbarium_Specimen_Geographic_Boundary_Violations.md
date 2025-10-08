@@ -1,15 +1,15 @@
-# Herbarium Specimen Geographic Boundary Validation
+# Lichen Herbarium Specimen Geographic Boundary Validation
 
 ## Overview
 
-This contains links to the results of an analysis intended to identify herbarium specimen records with Lat./Long. coordinates falling outside the boundaries of their reported collection counties. These "out-of-bounds" violation cases may be flagged due to data entry errors, coordinate conversion mistakes,  incorrect locality assignments or combinations of these. In many instances data review and possible editing may be appropriate. Very small apparent violations may be unimportant.
+This contains links to the results of an analysis identifying herbarium specimen records with Lat./Long. coordinates falling outside the boundaries of their reported collection counties. These "out-of-bounds" violation cases may result from data entry errors, coordinate conversion mistakes, incorrect locality assignments or combinations of these. In many instances data review and possible editing may be appropriate, depending on how the data are to be used. The deicrepancies range from 0 km (naming conflicts) to tens of thousands of kilometers (incorrect hemispheric assignements - common).
 
 ## Methodology
 
 ### Data Processing Pipeline
 
-1. **Data Sources**: United States herbarium specimen records from the Consortium of Lichen Herbaria portal database. 
-2. **Geographic Validation**: Stated specimen record locations are validated against official U.S. county boundaries (Census Bureau, 2020)
+1. **Data Sources**: North American herbarium specimen records from the Consortium of Lichen Herbaria portal database. 
+2. **Geographic Validation**: The stated specimen record locations are validated against official U.S. county boundaries (Census Bureau, 2020)
 3. **Coordinate System**: All distance from boundary calculations are performed using EPSG:5070 (Albers Equal Area Conic) projection for accurate distance measurements
 4. **Boundary Matching**: County names are standardized and matched using conservative fuzzy matching algorithms
 
@@ -17,15 +17,15 @@ This contains links to the results of an analysis intended to identify herbarium
 
 
 #### 1. Data Filtering
-- Records limited to United States specimens based on matching the 'country' value to a wide range of variant renderings of the name.
-- Only records with both latitude/longitude coordinates
-- Excludes records missing state or county information
-- Filters out multi-state/county entries (e.g., "CA/NV")
+- Records are limited to United States specimens based on matching the 'country' value to a wide range of variant renderings of the name.
+- The records include only cases with both latitude/longitude coordinates.
+- They exclude records missing state or county information
+- Multi-state/county entries (e.g., "CA/NV") are filetered out.
 
 #### 2. Geographic Analysis
 - Specimen record values of 'decimalLatitude' 'decimalLongitude' are tested for containment within reported county boundaries
-- Distance calculated from coordinates to nearest county boundary edge
-- Only violations (distance > 0 km) are reported
+- Boundary violation distances are calculated from record coordinates to nearest named county boundary edge
+- Violations (distance > 0 km) are reported (rare 0 km cases indicative of possible county naming conflicts are present)
 
 #### 3. Quality Assurance
 - County name matching includes handling of common variants:
@@ -199,6 +199,9 @@ Summary files contain statistical analysis including:
 - [YM](./data/YM/) - Yosemite National Park Lichen Herbarium
 - [YPM](./data/YPM/) - Yale Peabody Museum
 
+
+## Analyses by collector (under development)
+** Records grouped by "collector", only in the sense that the collectors surname appears somewhere in the string value of "recordedBy" in the record. It does not imply that the named collector is the only, or even the first nameed collector for the record.**
 ---
 
 ## Technical Notes

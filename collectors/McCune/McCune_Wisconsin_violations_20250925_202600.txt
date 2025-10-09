@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+WIS	B. McCune	Wisconsin	Ashland	12	outside_boundary_exact	Wisconsin, Bayfield County	46.570499,-91.083245	WIS-L-0105786	Moquah	https://lichenportal.org/portal/collections/individual/index.php?occid=1417610

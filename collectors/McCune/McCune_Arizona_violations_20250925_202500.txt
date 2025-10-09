@@ -1,0 +1,8 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+OSC	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	Arizona, Santa Cruz County	31.70833,-110.875	173143	Madera Canyon, above Roundup Picnic Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4620200
+OSC	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	Arizona, Santa Cruz County	31.70833,-110.875	171934	Madera Canyon, above Roundup Picnic Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4426521
+OSC	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	Arizona, Santa Cruz County	31.70833,-110.875	157246	Madera Canyon, above Roundup Picnic Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=4428077
+OSC	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	Arizona, Santa Cruz County	31.70833,-110.875	173143	Madera Canyon, above Roundup Picnic Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4620200
+OSC	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	Arizona, Santa Cruz County	31.70833,-110.875	171934	Madera Canyon, above Roundup Picnic Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4426521
+OSC	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	Arizona, Santa Cruz County	31.70833,-110.875	157246	Madera Canyon, above Roundup Picnic Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=4428077
+MONTU	Bruce McCune	Arizona	Pima	2.05	outside_boundary_exact	Arizona, Santa Cruz County	31.70833,-110.875	MONTU01422	Madera Canyon, above Roundup Picnic Area	https://lichenportal.org/portal/collections/individual/index.php?occid=5830947

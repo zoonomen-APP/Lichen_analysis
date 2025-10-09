@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+WTU	B. McCune	Minnesota	Itasca	10.32	outside_boundary_exact	Minnesota, Cass County	47.3467,-94.2209	WTU-L-027593	Near Highway 2 near Lake Winnibigoshish.	https://lichenportal.org/portal/collections/individual/index.php?occid=4804679
+ASU	B. McCune	Minnesota	Itasca	7.41	outside_boundary_exact	Minnesota, Beltrami County	47.5708333,-94.5125	NA	upland flats on Highland Trail on Muir property, N end of Highland Lake, 13 km E of Marcell	https://lichenportal.org/portal/collections/individual/index.php?occid=95402

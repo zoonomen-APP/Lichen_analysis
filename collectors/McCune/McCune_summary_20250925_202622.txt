@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: McCune
+Generated: 2025-09-25 20:26:22.754735
+Processing time: 9.71 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 22290
+After country filtering: 21304 (lost 986 non-US records)
+After coordinate filtering: 18922 (lost 2382 records without coordinates)
+After state filtering: 18912 (lost 10 records without state information)
+After county filtering: 18575 (lost 337 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 18575 (83.3% of collector's records)
+Boundary violations detected: 1352 (7.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.46 km
+Median distance: 4.89 km
+Third quartile: 31.48 km
+Maximum distance: 10040.19 km
+Mean distance: 273.79 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 83.3% of collector's records have complete geographic data
+Boundary violation rate: 7.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/McCune/
+File format: Tab-separated files (.txt) with clickable specimen links
+

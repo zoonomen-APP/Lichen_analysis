@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SRP	B. McCune, R. Rosentreter, A. DeBolt	Tennessee	Hamblen	204.1	outside_boundary_exact	Tennessee, Hamilton County	35.016667,-85.233333	SRP-L-0008051	just NE of Chattanooga; FHM Supplemental Lichen Plot #2.	https://lichenportal.org/portal/collections/individual/index.php?occid=1444224

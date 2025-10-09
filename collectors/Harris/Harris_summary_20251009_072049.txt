@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Harris
+Generated: 2025-10-09 07:20:49.601975
+Processing time: 14.71 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 54156
+After country filtering: 44821 (lost 9335 non-US records)
+After coordinate filtering: 33850 (lost 10971 records without coordinates)
+After state filtering: 33836 (lost 14 records without state information)
+After county filtering: 33628 (lost 208 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 33628 (62.1% of collector's records)
+Boundary violations detected: 1383 (4.1% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.35 km
+Median distance: 2.95 km
+Third quartile: 8.92 km
+Maximum distance: 9557.91 km
+Mean distance: 156.65 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 62.1% of collector's records have complete geographic data
+Boundary violation rate: 4.1% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Harris/
+File format: Tab-separated files (.txt) with clickable specimen links
+

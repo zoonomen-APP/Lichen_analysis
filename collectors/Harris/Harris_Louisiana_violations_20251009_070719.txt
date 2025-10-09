@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+FTU	Elizabeth M. Harris	Louisiana	Pope	NA	county_not_matched_no_match	county_not_matched	31.43694,-92.73444	FTU L123	Pope, sandstone rock	https://lichenportal.org/portal/collections/individual/index.php?occid=1558570

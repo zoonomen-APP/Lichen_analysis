@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	T.H. Nash III	Kentucky	Madison	15.37	outside_boundary_exact	Kentucky, Mercer County	37.75,-84.7	NA	20 miles south of Lexington, along I-75	https://lichenportal.org/portal/collections/individual/index.php?occid=49612

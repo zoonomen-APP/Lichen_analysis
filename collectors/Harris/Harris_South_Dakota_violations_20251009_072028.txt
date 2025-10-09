@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MSC	Harris, Richard C	South Dakota	Custer	0.56	outside_boundary_exact	South Dakota, Pennington County	43.861,-103.5469	MSC0060480	1.5 miles from Sylvan Lake on trail to Harney Peak (6 miles N NE of Custer)	https://lichenportal.org/portal/collections/individual/index.php?occid=207388

@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+CMN	Nash, Thomas H.	Idaho	Teton Co. (ID)	28.63	outside_boundary_reverse_partial	Wyoming, Teton County	44.0833,-110.717	CANL 113648	Between Grand Teton National Park and Yellowstone National Park, along secondary road ca. 3 km W of US 89, near Flagg Ranch	https://lichenportal.org/portal/collections/individual/index.php?occid=450495

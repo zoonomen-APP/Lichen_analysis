@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	T.H. Nash III	Connecticut	Fairfield	86.53	outside_boundary_exact	not_found_in_US	41.3,-72	NA	Groton Long Point	https://lichenportal.org/portal/collections/individual/index.php?occid=94161
+ASU	T.H. Nash III	Connecticut	Fairfield	86.53	outside_boundary_exact	not_found_in_US	41.3,-72	NA	Groton Long Point	https://lichenportal.org/portal/collections/individual/index.php?occid=111954
+MSC	Nash, T. H	Connecticut	Groton	NA	county_not_matched_no_match	county_not_matched	41.307043,-72.005074	MSC0069743	Groton Long Point	https://lichenportal.org/portal/collections/individual/index.php?occid=264157
+SFSU	T. H. Nash III	Connecticut	Waterford	NA	county_not_matched_no_match	county_not_matched	41.3833333,-72.1	SFSU-L-000685	Quaker Hill, 1 mile north Connecticut College	https://lichenportal.org/portal/collections/individual/index.php?occid=2679992

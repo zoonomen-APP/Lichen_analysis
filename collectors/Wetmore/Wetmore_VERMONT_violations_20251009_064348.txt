@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+PH	WETMORE, C	VERMONT	WINDHAM	88.63	outside_boundary_exact	Vermont, Washington County	44.05639,-72.80194	PH00146951	N SIDE RICE MTN, S OF WARDSBORO CENTER	https://lichenportal.org/portal/collections/individual/index.php?occid=2690384

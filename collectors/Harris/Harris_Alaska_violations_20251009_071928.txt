@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+OSC	S.A. Harris	Alaska	SE Fairbanks	NA	county_not_matched_no_match	county_not_matched	63.3258611111111,-142.835972222222	168579	Tok. West of Tok.	https://lichenportal.org/portal/collections/individual/index.php?occid=4423030
+OSC	S.A. Harris	Alaska	SE Fairbanks	NA	county_not_matched_no_match	county_not_matched	63.3258611111111,-142.835972222222	168579	Tok. West of Tok.	https://lichenportal.org/portal/collections/individual/index.php?occid=4423030

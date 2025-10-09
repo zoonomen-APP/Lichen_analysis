@@ -1,0 +1,9 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	NA	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=2588849
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	NA	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=2690121
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	NA	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=68772
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	NA	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=69070
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	ASUL011439	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=69172
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	ASUL011082	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=69273
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	ASUL011992	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=69374
+ASU	T.H. Nash III	Vermont	Chittenden	0.18	outside_boundary_exact	Vermont, Chittenden County	44.55,-72.8166667	NA	Mount Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=69466

@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MIN	Wetmore, C.	Nebraska	Polk	0.43	outside_boundary_exact	Nebraska, Merrick County	41.183552,-97.822266	626295	Platte River, 4 Mi E of	https://lichenportal.org/portal/collections/individual/index.php?occid=306482
+MIN	Wetmore, C.	Nebraska	Polk	0.43	outside_boundary_exact	Nebraska, Merrick County	41.183552,-97.822266	634479	Platte River, 4 Mi E of	https://lichenportal.org/portal/collections/individual/index.php?occid=310882
+MSC	Wetmore, Clifford M	Nebraska	Polk	0.43	outside_boundary_exact	Nebraska, Merrick County	41.183552,-97.822266	MSC0114173	Along Nebr. 92 four miles east of Platte River	https://lichenportal.org/portal/collections/individual/index.php?occid=186779
+MSC	Wetmore, Clifford M	Nebraska	Polk	0.43	outside_boundary_exact	Nebraska, Merrick County	41.183552,-97.822266	MSC0122069	Along Nebr. 92 four miles east of Platte River	https://lichenportal.org/portal/collections/individual/index.php?occid=190177

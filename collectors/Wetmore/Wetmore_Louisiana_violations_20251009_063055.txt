@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+WIS	Wetmore, Clifford M	Louisiana	Vernon	3.23	outside_boundary_exact	Louisiana, Sabine County	31.369274,-93.425622	WIS-L-0010286	About 3.5 mi NW of Hornbeck	https://lichenportal.org/portal/collections/individual/index.php?occid=961934

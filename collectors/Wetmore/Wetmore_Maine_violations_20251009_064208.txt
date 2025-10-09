@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+PH	Clifford M. Wetmore	Maine	Hancock	236.67	outside_boundary_exact	not_found_in_US	47.38333,-68.23333	PH00097700	Great Hill just west of Bar Harbor, Mount Desert Island, Acadia National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1742919
+PH	Clifford M. Wetmore	Maine	Hancock	236.67	outside_boundary_exact	not_found_in_US	47.38333,-68.23333	PH00097706	Acadia National Park. Mt. Desert Isl., Great Hill just west of Bar Harbor.	https://lichenportal.org/portal/collections/individual/index.php?occid=1742925
+KANU	Clifford M Wetmore	Maine	Hancock	236.67	outside_boundary_exact	not_found_in_US	47.3833333,-68.2333333	372918	Acadia National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1326992
+US	C. Wetmore	Maine	Hancock	236.28	outside_boundary_exact	not_found_in_US	47.38,-68.23	NA	Acadia National Park. Mt. Desert Isl. Great Hill just W of Bar Harbor	https://lichenportal.org/portal/collections/individual/index.php?occid=3606149

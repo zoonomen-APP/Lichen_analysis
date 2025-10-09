@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	S.A. Harris	Washington	Chelan	9.96	outside_boundary_exact	Washington, Kittitas County	47.2166667,-120.55	NA	Mile 158, Highway #97 to Wenatchee	https://lichenportal.org/portal/collections/individual/index.php?occid=104187
+ASU	S.A. Harris	Washington	Chelan	9.96	outside_boundary_exact	Washington, Kittitas County	47.2166667,-120.55	NA	Mile 158, Highway #97 to Wenatchee	https://lichenportal.org/portal/collections/individual/index.php?occid=104209
+ASU	S.A. Harris	Washington	Chelan	9.96	outside_boundary_exact	Washington, Kittitas County	47.2166667,-120.55	NA	Mile 158, Highway #97 to Wenatchee	https://lichenportal.org/portal/collections/individual/index.php?occid=104228

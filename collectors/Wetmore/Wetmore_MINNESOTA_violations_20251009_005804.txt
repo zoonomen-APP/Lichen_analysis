@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+WIS	Wetmore, C.M.	MINNESOTA	KOOCHICHING	3.83	outside_boundary_exact	Minnesota, Beltrami County	48.308056,-94.476111	WIS-L-0011643	Red Lake Peatlands (29 mi SSE of Baudette) E of highway 72.	https://lichenportal.org/portal/collections/individual/index.php?occid=967937
+WIS	Wetmore, Clifford M	MINNESOTA	CLEARWATER	0.09	outside_boundary_exact	Minnesota, Hubbard County	47.240833,-95.168056	WIS-L-0010088	Itasca State Park. Near Brower Inn.	https://lichenportal.org/portal/collections/individual/index.php?occid=957520

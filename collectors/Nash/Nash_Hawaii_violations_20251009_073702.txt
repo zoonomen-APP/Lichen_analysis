@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MIN	Nash, T.	Hawaii	Maui	608.75	outside_boundary_exact	not_found_in_US	20.81111111,-150.2361111	893693	North Haleakala; Olinda Koolan Forest Reserve	https://lichenportal.org/portal/collections/individual/index.php?occid=426506
+WIS	T.H. Nash III	Hawaii	Honululu	NA	county_not_matched_no_match	county_not_matched	21.3333333,-157.8333333	WIS-L-0019498	Island of Oahu, south end of Koola Range, Mount Tantalus above Honolulu	https://lichenportal.org/portal/collections/individual/index.php?occid=1023445
+WIS	T.H. Nash III	Hawaii	Honululu	NA	county_not_matched_no_match	county_not_matched	21.3333333,-157.8333333	WIS-L-0018966	Island of Oahu, south end of Koola Range, Mount Tantalus above Honolulu	https://lichenportal.org/portal/collections/individual/index.php?occid=1024634

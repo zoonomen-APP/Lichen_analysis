@@ -1,0 +1,6 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	T.H. Nash III	Nebraska	Lincoln	177.07	outside_boundary_exact	Nebraska, Morrill County	41.883186,-103.306556	NA	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=97235
+ASU	T.H. Nash III	Nebraska	Lincoln	177.07	outside_boundary_exact	Nebraska, Morrill County	41.883186,-103.306556	NA	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=97239
+WIS	T.H. Nash III	Nebraska	Lincoln	177.07	outside_boundary_exact	Nebraska, Morrill County	41.883186,-103.306556	WIS-L-0011313	Wildhorse Resevoir N. of Elko	https://lichenportal.org/portal/collections/individual/index.php?occid=1006615
+WIS	T.H. Nash III	Nebraska	Lincoln	177.07	outside_boundary_exact	Nebraska, Morrill County	41.883186,-103.306556	WIS-L-0015609	Wildhorse Revoir	https://lichenportal.org/portal/collections/individual/index.php?occid=1009257
+WIS	T.H. Nash III	Nebraska	Lincoln	177.07	outside_boundary_exact	Nebraska, Morrill County	41.883186,-103.306556	WIS-L-0010793	Wildhorse Resevoir	https://lichenportal.org/portal/collections/individual/index.php?occid=970121

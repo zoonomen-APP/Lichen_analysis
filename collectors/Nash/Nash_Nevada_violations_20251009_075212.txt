@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+BRY	Thomas H. Nash	Nevada	White Pine	7721.13	outside_boundary_exact	not_found_in_US	14.258333,-39.016667	BRY-L-0010619	Humboldt-Toiyabe National Forest: Snake Range north of Wheeler Peak, Lehman Campground	https://lichenportal.org/portal/collections/individual/index.php?occid=1219134
+COLO	Thomas H. Nash III	Nevada	San Juan	NA	county_not_matched_no_match	county_not_matched	36.2666667,-115.7	COLO-L-0046011	Charleston Peak, end of route 52	https://lichenportal.org/portal/collections/individual/index.php?occid=1732203

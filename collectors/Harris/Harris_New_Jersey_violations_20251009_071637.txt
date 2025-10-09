@@ -1,0 +1,11 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+NY	C. W. Harris	New Jersey	Essex Co.	337.61	outside_boundary_exact	New York, Essex County	43.880864,-73.583006	1489325	Chilson Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=965949
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	953080	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=865155
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	1068905	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=864899
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	1047508	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=864814
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	1077702	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=882423
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	1068909	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=865003
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	1077301	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=882335
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	952526	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=863178
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	973697	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=864770
+NY	R. C. Harris	New Jersey	Burlington Co.	5.31	outside_boundary_exact	New Jersey, Ocean County	39.88,-74.38	974010	Lacey Township, Webbs Mill	https://lichenportal.org/portal/collections/individual/index.php?occid=863890

@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+NY	R. C. Harris	Connecticut	Fairfield Co.	3.09	outside_boundary_exact	New York, Westchester County	41.13364,-73.726878	467829	Bartlett Arboretum, N of Stamford	https://lichenportal.org/portal/collections/individual/index.php?occid=840103
+NY	R. C. Harris	Connecticut	Fairfield Co.	3.09	outside_boundary_exact	New York, Westchester County	41.13364,-73.726878	318232	Bartlett Arboretum, N of Stamford	https://lichenportal.org/portal/collections/individual/index.php?occid=840102

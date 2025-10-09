@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+WIS	Richard C. Harris	Puerto Rico	Mayaguez	NA	county_not_matched_no_match	county_not_matched	18.152573,-66.986595	WIS-L-0013595	Maricao State Forest, along Hwy 120 at km 16.8, 1 km W of Universidad Catolica Estacion Biologica.	https://lichenportal.org/portal/collections/individual/index.php?occid=1432473

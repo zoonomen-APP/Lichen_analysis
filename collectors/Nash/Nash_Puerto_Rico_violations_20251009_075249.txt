@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	T.H. Nash III	Puerto Rico	Ceiba	0.68	outside_boundary_exact	Puerto Rico, Naguabo County	18.2666667,-65.7666667	ASUL033483	along road 930 to Pico del Este	https://lichenportal.org/portal/collections/individual/index.php?occid=49502

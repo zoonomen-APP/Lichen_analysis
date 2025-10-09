@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+US	R. C. Harris	Erongo	Swakopmund	NA	county_not_matched_no_match	county_not_matched	-22.2333,14.3333	NA	E of jaalsput	https://lichenportal.org/portal/collections/individual/index.php?occid=2775178

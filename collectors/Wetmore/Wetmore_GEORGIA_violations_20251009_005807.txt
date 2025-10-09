@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+WIS	Wetmore, Clifford M	GEORGIA	DE KALB	NA	county_not_matched_no_match	county_not_matched	33.808323,-84.141056	WIS-L-0010052	16 mi E of Atlanta in Stone Mountain Park.	https://lichenportal.org/portal/collections/individual/index.php?occid=957484

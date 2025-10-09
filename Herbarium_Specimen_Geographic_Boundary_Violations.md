@@ -227,7 +227,6 @@ Summary files contain statistical analysis including:
 
 ### M-O
 - [McCune](./collectors/McCune/) - McCune,BP
-- [McCune](./collectors/McCune/) - McCune,BP
 ---
 
 ## Technical Notes

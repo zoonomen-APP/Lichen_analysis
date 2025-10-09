@@ -2,7 +2,24 @@
 
 ## Overview
 
-This contains links to the results of an analysis identifying herbarium specimen records with Lat./Long. coordinates falling outside the boundaries of their reported collection counties. These "out-of-bounds" violation cases may result from data entry errors, coordinate conversion mistakes, incorrect locality assignments or combinations of these. In many instances data review and possible editing may be appropriate, depending on how the data are to be used. The deicrepancies range from 0 km (naming conflicts) to tens of thousands of kilometers (incorrect hemispheric assignements - common).
+This document contains links to herbarium specimen records with 
+latitude/longitude coordinates that fall outside the boundaries of 
+their reported collection counties. These "out-of-bounds" records 
+may result from:
+
+- Data entry errors
+- Coordinate conversion mistakes
+- Incorrect locality assignments
+- Combinations of the above
+
+The severity of these discrepancies varies widely, from minor naming 
+conflicts (0 km offset) to major errors such as incorrect hemispheric 
+assignments (offsets of thousands of kilometers). Hemispheric errors 
+are particularly common.
+
+Data review and correction are recommended for most records, with 
+priority depending on your intended use of the data.
+
 
 ## Methodology
 
@@ -202,6 +219,9 @@ Summary files contain statistical analysis including:
 
 ## Analyses by collector (under development)
 ** Records grouped by "collector", only in the sense that the collectors surname appears somewhere in the string value of "recordedBy" in the record. It does not imply that the named collector is the only, or even the first nameed collector for the record.**
+
+### M-O
+- [McCune](./collectors/McCune/) - McCune,BP
 ---
 
 ## Technical Notes

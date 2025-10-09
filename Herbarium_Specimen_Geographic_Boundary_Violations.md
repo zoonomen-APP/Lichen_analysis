@@ -229,14 +229,19 @@ management rather than field collection.
 - [Bungartz](./collectors/Bungartz/) - Bungartz,F
 
 ### H-L
+- [Harris](./collectors/Harris/) - Harris
 - [Lendemer](./collectors/Lendemer/) - Lendemer,JC
 
 ### M-O
 - [McCune](./collectors/McCune/) - McCune,BP
-- [Morse](./collectors/Morse/) - Morse,BP
+- [Morse](./collectors/Morse/) - Morse
+- [Nash](./collectors/Nash/) - Nash
 
 ### P-S
 - [Rosentreter](./collectors/Rosentreter/) - Rosentreter.R
+
+### V-Z
+- [Wetmore](./collectors/Wetmore/) - Wetmore
 ---
 
 ## Technical Notes

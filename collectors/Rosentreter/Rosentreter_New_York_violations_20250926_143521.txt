@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+UConn	Roger Rosentreter	New York	New York	189.2	outside_boundary_exact	New York, Albany County	42.56667,-74.13333	CONN01002122	Forest Health Monitoring Plot #27. Clean air site. Partridge Run Wildlife Area Valley. Near Berne, NY	https://lichenportal.org/portal/collections/individual/index.php?occid=1458295
+DUKE	Rosentreter, Roger; DeBolt, Ann	New York	Herkimer Co.	5.62	outside_boundary_exact	New York, Hamilton County	43.78972,-74.74591	388890	Adirondack State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=5342977
+DUKE	Rosentreter, Roger; DeBolt, Ann	New York	Herkimer Co.	5.62	outside_boundary_exact	New York, Hamilton County	43.78972,-74.74591	388884	Adirondack State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=5342975

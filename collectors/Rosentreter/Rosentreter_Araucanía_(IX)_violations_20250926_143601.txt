@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+US	R. Rosentreter	Araucanía (IX)	Malleco	NA	county_not_matched_no_match	county_not_matched	-38.6833,-71.25	NA	Lajo Gaulletue, source of the Bio-Bio river, 500 km S of Santiago	https://lichenportal.org/portal/collections/individual/index.php?occid=2773984

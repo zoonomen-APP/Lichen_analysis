@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SRP	Roger Rosentreter	Massachusetts	Hampshire	9.39	outside_boundary_exact	Massachusetts, Hampden County	42.099999,-72.699997	SRP-L-0000896	Westfield River, Massachusetts.	https://lichenportal.org/portal/collections/individual/index.php?occid=1130056
+SRP	Roger Rosentreter	Massachusetts	Hampshire	9.39	outside_boundary_exact	Massachusetts, Hampden County	42.099999,-72.699997	SRP-L-0008048	Westfield River, Massachusetts.	https://lichenportal.org/portal/collections/individual/index.php?occid=1444221
+SRP	Roger Rosentreter	Massachusetts	Hampshire	9.39	outside_boundary_exact	Massachusetts, Hampden County	42.099999,-72.699997	SRP-L-0010259	Westfield River, Massachusetts.	https://lichenportal.org/portal/collections/individual/index.php?occid=1446977

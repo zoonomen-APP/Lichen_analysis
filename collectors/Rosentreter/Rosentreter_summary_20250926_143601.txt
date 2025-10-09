@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Rosentreter
+Generated: 2025-09-26 14:36:01.465304
+Processing time: 8.45 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 16639
+After country filtering: 14295 (lost 2344 non-US records)
+After coordinate filtering: 12687 (lost 1608 records without coordinates)
+After state filtering: 12656 (lost 31 records without state information)
+After county filtering: 12482 (lost 174 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 12482 (75% of collector's records)
+Boundary violations detected: 1596 (12.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 3.65 km
+Median distance: 14.17 km
+Third quartile: 40.89 km
+Maximum distance: 11807.35 km
+Mean distance: 207.99 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 75% of collector's records have complete geographic data
+Boundary violation rate: 12.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Rosentreter/
+File format: Tab-separated files (.txt) with clickable specimen links
+

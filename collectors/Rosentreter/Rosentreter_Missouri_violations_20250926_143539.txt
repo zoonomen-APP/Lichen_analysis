@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SRP	Roger Rosentreter	Missouri	Iron	9.6	outside_boundary_exact	Missouri, Madison County	37.5527,-90.437103	SRP-L-0009941	Silver Mines Campground, MO.	https://lichenportal.org/portal/collections/individual/index.php?occid=1446764

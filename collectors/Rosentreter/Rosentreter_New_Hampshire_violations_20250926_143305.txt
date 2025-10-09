@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SRP	R. Rosentreter	New Hampshire	Caro	NA	county_not_matched_no_match	county_not_matched	44.05,-71.125	SRP-L-0005123	<br/>	https://lichenportal.org/portal/collections/individual/index.php?occid=1201896

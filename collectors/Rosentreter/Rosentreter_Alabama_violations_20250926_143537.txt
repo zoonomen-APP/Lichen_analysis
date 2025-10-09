@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SRP	Roger Rosentreter	Alabama	k	NA	county_not_matched_no_match	county_not_matched	60.1909,-149.6182	NA	Exit Glacer campground, near Exit Glacier Creek, Kenai Fjords National Park. Waypoint 926.	https://lichenportal.org/portal/collections/individual/index.php?occid=3352741

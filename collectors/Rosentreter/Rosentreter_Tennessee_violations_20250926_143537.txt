@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SRP	B. McCune, R. Rosentreter, A. DeBolt	Tennessee	Hamblen	204.1	outside_boundary_exact	Tennessee, Hamilton County	35.016667,-85.233333	SRP-L-0008051	just NE of Chattanooga; FHM Supplemental Lichen Plot #2.	https://lichenportal.org/portal/collections/individual/index.php?occid=1444224
+SRP	Roger Rosentreter	Tennessee	Carter	0.01	outside_boundary_exact	Tennessee, Carter County	36.107376,-82.108612	SRP-L-0004756	Carver\\'s Gap Ronan Mtn SP, in Appalachian Mountains.	https://lichenportal.org/portal/collections/individual/index.php?occid=1128873
+NY	R. D. Rosentreter	Tennessee	Carter Co.	0.01	outside_boundary_exact	Tennessee, Carter County	36.107375,-82.108608	1237146	Carvers Gap, Roan Mountain State Park, in Appalachian Mountains	https://lichenportal.org/portal/collections/individual/index.php?occid=3243167

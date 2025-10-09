@@ -1,0 +1,6 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SRP	Roger Rosentreter	Maine	Knox	3.81	outside_boundary_exact	not_found_in_US	43.770001,-69.309998	SRP-L-0003836	Monhegan Is, ME.	https://lichenportal.org/portal/collections/individual/index.php?occid=1125516
+SRP	Roger Rosentreter	Maine	Knox	3.81	outside_boundary_exact	not_found_in_US	43.770001,-69.309998	SRP-L-0004810	Monhegan Is, ME.	https://lichenportal.org/portal/collections/individual/index.php?occid=1128819
+SRP	Roger Rosentreter	Maine	Knox	3.81	outside_boundary_exact	not_found_in_US	43.770001,-69.309998	SRP-L-0003864	Monhegan Is, ME.	https://lichenportal.org/portal/collections/individual/index.php?occid=1125544
+SRP	Roger Rosentreter	Maine	Knox	3.81	outside_boundary_exact	not_found_in_US	43.770001,-69.309998	SRP-L-0001999	Monhegan Is, ME.	https://lichenportal.org/portal/collections/individual/index.php?occid=1445527
+SRP	Roger Rosentreter	Maine	Knox	3.81	outside_boundary_exact	not_found_in_US	43.770001,-69.309998	SRP-L-0009487	Monhegan Is, ME.	https://lichenportal.org/portal/collections/individual/index.php?occid=1446402

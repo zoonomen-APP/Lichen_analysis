@@ -225,6 +225,9 @@ Summary files contain statistical analysis including:
 ### A-C
 - [Bungartz](./collectors/Bungartz/) - Bungartz,F
 
+### H-L
+- [Lendemer](./collectors/Lendemer/) - Lendemer,JC
+
 ### M-O
 - [McCune](./collectors/McCune/) - McCune,BP
 ---

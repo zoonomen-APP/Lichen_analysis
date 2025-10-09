@@ -1,2 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-WIS	Wetmore, Clifford M	UTAH	WASATCH	12.91	outside_boundary_exact	Utah, Utah County	40.162537,-111.405386	WIS-L-0010136	Uinta National Forest, 10.4 mi E of Springville in Hobble Creek Canyon.	https://lichenportal.org/portal/collections/individual/index.php?occid=957572

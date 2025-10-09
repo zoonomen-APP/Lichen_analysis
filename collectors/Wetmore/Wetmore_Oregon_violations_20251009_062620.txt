@@ -1,3 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-MIN	Wetmore, C.	Oregon	Curry	6463.67	outside_boundary_exact	not_found_in_US	42.14361111,-42.14361111	932129	Whalehead Beach; Boardman State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=2903016
-CMN	Brodo, Irwin M. | Wetmore, Clifford M. | Pike, L.H.	Oregon	Lincoln Co. (OR)	32.65	outside_boundary_reverse_partial	not_found_in_US	44.42,-124.57	CANL 10020597	2 miles E of Waldport, W.B. Nelson Wayside	https://lichenportal.org/portal/collections/individual/index.php?occid=5700253

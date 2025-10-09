@@ -1,6 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-MIN	Wetmore, C.	Ohio	Portage	17.04	outside_boundary_exact	Ohio, Geauga County	41.5,-81.35	940162	7 Mi S of Kent On Rt 43	https://lichenportal.org/portal/collections/individual/index.php?occid=2904296
-MIN	Wetmore, Clifford M.	Ohio	Cuyahoga	0.46	outside_boundary_exact	Ohio, Summit County	41.27805556,-81.55694444	777976	Cuyahoga Valley National Recreation Area. One mile N of Boston on Stanford Road. Around old home	https://lichenportal.org/portal/collections/individual/index.php?occid=362239
-MIN	Wetmore, C.	Ohio	Cuyahoga	0.46	outside_boundary_exact	Ohio, Summit County	41.27805556,-81.55694444	777977	1 Mi N of Boston; Cuyahoga Valley National Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=362240
-MIN	Wetmore, C.	Ohio	Cuyahoga	0.46	outside_boundary_exact	Ohio, Summit County	41.27805556,-81.55694444	777978	1 Mi N of Boston; Cuyahoga Valley National Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=362241
-MIN	Wetmore, C.	Ohio	Cuyahoga	0.46	outside_boundary_exact	Ohio, Summit County	41.27805556,-81.55694444	777979	1 Mi N of Boston; Cuyahoga Valley National Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=362242

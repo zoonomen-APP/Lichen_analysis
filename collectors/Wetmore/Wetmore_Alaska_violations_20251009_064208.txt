@@ -1,2 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-MSC	Wetmore, Clifford M	Alaska	North Slope	4871.88	outside_boundary_exact	Arkansas, Garland County	34.5333328,-93.0594482	MSC0021806	Arkansas; Hot Springs National Park. Half	https://lichenportal.org/portal/collections/individual/index.php?occid=214674

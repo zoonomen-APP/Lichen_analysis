@@ -216,11 +216,14 @@ Summary files contain statistical analysis including:
 - [YM](./data/YM/) - Yosemite National Park Lichen Herbarium
 - [YPM](./data/YPM/) - Yale Peabody Museum
 
+## Analyses by Collector (Under Development)
 
-## Analyses by collector (under development)
-** Records grouped by "collector", only in the sense that the collectors surname appears somewhere in the string value of "recordedBy" in the record. It does not imply that the named collector is the only, or even the first nameed collector for the record.**
+Records grouped by collector surname appearing in `recordedBy` (may include 
+primary collectors, co-collectors, or team members). Errors may originate 
+from map or locality interpretation, data entry, digitization, or database 
+management rather than field collection.
 
-*Click on herbarium codes to view flagged record files grouped by state; records sorted by distance from county border*
+*Click collector name → view records by state, sorted by distance.*
 
 ### A-C
 - [Bungartz](./collectors/Bungartz/) - Bungartz,F

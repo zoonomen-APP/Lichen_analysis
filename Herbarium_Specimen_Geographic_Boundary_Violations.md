@@ -234,6 +234,9 @@ management rather than field collection.
 ### M-O
 - [McCune](./collectors/McCune/) - McCune,BP
 - [Morse](./collectors/Morse/) - Morse,BP
+
+### P-S
+- [Rosentrater.R](./collectors/Rosentrater.R/) - Rosentrater.R
 ---
 
 ## Technical Notes

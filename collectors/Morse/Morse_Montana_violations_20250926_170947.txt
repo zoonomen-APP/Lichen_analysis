@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+KANU	Caleb A Morse; Douglas M Ladd	Montana	Phillips	70.57	outside_boundary_exact	Montana, Petroleum County	46.89276,-108.3588	380316	Zortman: ca 1-1.5 mi S, 7.5-8 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=1327074

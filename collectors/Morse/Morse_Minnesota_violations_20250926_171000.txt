@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+NY	Caleb A. Morse	Minnesota	Yellow Medicine	7.48	outside_boundary_exact	Minnesota, Chippewa County	45,-95.766667	1358653	5 mi S, 4 mi E Granite Falls. Upper Sioux Agency State Park. T115N R38W section 29 W1/4 of SW1/4 & section 30 E1/4 of SE1/4.	https://lichenportal.org/portal/collections/individual/index.php?occid=957947

@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Morse
+Generated: 2025-09-26 17:10:26.219938
+Processing time: 4.89 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 11885
+After country filtering: 11885 (lost 0 non-US records)
+After coordinate filtering: 11612 (lost 273 records without coordinates)
+After state filtering: 11612 (lost 0 records without state information)
+After county filtering: 11610 (lost 2 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 11610 (97.7% of collector's records)
+Boundary violations detected: 207 (1.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.07 km
+First quartile: 29.97 km
+Median distance: 79.11 km
+Third quartile: 94.48 km
+Maximum distance: 13159.99 km
+Mean distance: 429.99 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 97.7% of collector's records have complete geographic data
+Boundary violation rate: 1.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Morse/
+File format: Tab-separated files (.txt) with clickable specimen links
+

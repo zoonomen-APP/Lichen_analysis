@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SBBG	C. A. Morse	Nebraska	Richardson	10166.52	outside_boundary_exact	not_found_in_US	4,0	SBBG001771L	2 mi S, 4 mi E of Rulo.TNC Rulo Bluffs Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=3555080
+SBBG	C. A. Morse	Nebraska	Richardson	24.74	outside_boundary_exact	Missouri, Holt County	40.016667,-95.016667	SBBG003288L	2 mi S, 4 mi E of Rulo. TNC Rulo Bluffs Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=3555126
+KANU	Caleb A Morse	Nebraska	Scotts Bluff	1.14	outside_boundary_exact	Nebraska, Banner County	41.68842,-103.58657	382833	Melbeta: 5.5-6.75 mi S, 3-4.25 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=1326233
+KANU	Caleb A Morse	Nebraska	Scotts Bluff	1.14	outside_boundary_exact	Nebraska, Banner County	41.68842,-103.58657	382832	Melbeta: 5.5-6.75 mi S, 3-4.25 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=1326915

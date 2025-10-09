@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+KANU	Caleb A Morse; Katherine J Logan	Idaho	Cassia	69.88	outside_boundary_exact	Idaho, Lincoln County	43.13797,-114.20856	382826	Oakley: ca 7 mi S, 16.5 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=1328895

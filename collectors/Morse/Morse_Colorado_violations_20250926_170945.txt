@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SBBG	C. A. Morse	Colorado	El Paso	3672.25	outside_boundary_exact	not_found_in_US	4.2189,-104.21	SBBG001808L	1.5 mi S, 2.5 mi W Ramah, Ramah Reservoir State Wildlife Area, W & N side	https://lichenportal.org/portal/collections/individual/index.php?occid=3555085
+SBBG	Caleb A. Morse	Colorado	Lincoln	13.39	outside_boundary_exact	Colorado, Cheyenne County	38.645496,-103.017315	SBBG006987L	8.5 mi S, 10.5 mi W of Punkin Center. TNC Smith Ranch: vicinity of headquarters housing complex	https://lichenportal.org/portal/collections/individual/index.php?occid=3555183

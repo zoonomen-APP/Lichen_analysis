@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SBBG	C. A. Morse	South Dakota	Butte	10753.62	outside_boundary_exact	not_found_in_US	44.71158,103.70189	SBBG018503L	2 mi N, 7.5 mi E of jct of US hwys 85 & 212 in Belle Fourche. Belle Fourche Reservoir, W side: Rocky Point Recreation Area, around Group Camp B	https://lichenportal.org/portal/collections/individual/index.php?occid=3039371

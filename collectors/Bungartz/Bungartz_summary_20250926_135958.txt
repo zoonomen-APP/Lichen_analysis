@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Bungartz
+Generated: 2025-09-26 13:59:58.320883
+Processing time: 0.52 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 1670
+After country filtering: 246 (lost 1424 non-US records)
+After coordinate filtering: 245 (lost 1 records without coordinates)
+After state filtering: 245 (lost 0 records without state information)
+After county filtering: 244 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 244 (14.6% of collector's records)
+Boundary violations detected: 75 (30.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.39 km
+First quartile: 2.32 km
+Median distance: 5.06 km
+Third quartile: 18.58 km
+Maximum distance: 1120.31 km
+Mean distance: 69.11 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 14.6% of collector's records have complete geographic data
+Boundary violation rate: 30.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Bungartz/
+File format: Tab-separated files (.txt) with clickable specimen links
+

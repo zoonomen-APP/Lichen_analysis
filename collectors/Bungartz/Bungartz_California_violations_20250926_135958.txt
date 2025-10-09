@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	Bungartz, F.	California	n/a	NA	county_not_matched_multi_county_insufficient	county_not_matched	40.187222,-121.530555	ASUL048322	Potato Campground, Deer Creek, along Ca Hwy 32	https://lichenportal.org/portal/collections/individual/index.php?occid=5615106

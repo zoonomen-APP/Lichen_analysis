@@ -230,6 +230,7 @@ Summary files contain statistical analysis including:
 
 ### M-O
 - [McCune](./collectors/McCune/) - McCune,BP
+- [Morse](./collectors/Morse/) - Morse,BP
 ---
 
 ## Technical Notes

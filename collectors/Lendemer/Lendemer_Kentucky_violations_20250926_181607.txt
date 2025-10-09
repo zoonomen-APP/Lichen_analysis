@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+NY	J. C. Lendemer	Kentucky	Letcher Co.	146.2	outside_boundary_exact	Kentucky, Pulaski County	37.0786,-84.8069	00741329	Pine Mountain, jct of Tower Rd. and Tower Hill Rd., ~0.5 mi E of US119	https://lichenportal.org/portal/collections/individual/index.php?occid=4985957

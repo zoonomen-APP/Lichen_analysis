@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SBBG	James C. Lendemer	Connecticutt	Litchfield	8391.78	outside_boundary_exact	not_found_in_US	41.951773,34.723437	SBBG009758L	Sam Yankee Woodlot, Great Mountain Forest, E of Canaan Mountain Road, Canaan.	https://lichenportal.org/portal/collections/individual/index.php?occid=154045

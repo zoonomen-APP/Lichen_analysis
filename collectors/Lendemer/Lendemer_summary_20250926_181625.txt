@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Lendemer
+Generated: 2025-09-26 18:16:25.425786
+Processing time: 39.14 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 85798
+After country filtering: 81486 (lost 4312 non-US records)
+After coordinate filtering: 78889 (lost 2597 records without coordinates)
+After state filtering: 78888 (lost 1 records without state information)
+After county filtering: 78803 (lost 85 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 78803 (91.8% of collector's records)
+Boundary violations detected: 3699 (4.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0 km
+Median distance: 0.13 km
+Third quartile: 3.35 km
+Maximum distance: 14032.38 km
+Mean distance: 72.24 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 91.8% of collector's records have complete geographic data
+Boundary violation rate: 4.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Lendemer/
+File format: Tab-separated files (.txt) with clickable specimen links
+

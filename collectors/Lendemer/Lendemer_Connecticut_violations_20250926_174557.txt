@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+OSC	James C. Lendemer	Connecticut	Litchfield	3890.13	outside_boundary_exact	California, Modoc County	41.951773,-121.276563	107802	Sam Yankee Woodlot, Great Mountain Forest, east of Canaan Mountain Road, Canaan.	https://lichenportal.org/portal/collections/individual/index.php?occid=5694099
+OSC	James C. Lendemer	Connecticut	Litchfield	3890.13	outside_boundary_exact	California, Modoc County	41.951773,-121.276563	107802	Sam Yankee Woodlot, Great Mountain Forest, east of Canaan Mountain Road, Canaan.	https://lichenportal.org/portal/collections/individual/index.php?occid=5694099

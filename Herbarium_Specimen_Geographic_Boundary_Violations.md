@@ -220,7 +220,13 @@ Summary files contain statistical analysis including:
 ## Analyses by collector (under development)
 ** Records grouped by "collector", only in the sense that the collectors surname appears somewhere in the string value of "recordedBy" in the record. It does not imply that the named collector is the only, or even the first nameed collector for the record.**
 
+*Click on herbarium codes to view flagged record files grouped by state; records sorted by distance from county border*
+
+### A-C
+- [Bungartz](./collectors/Bungartz/) - Bungartz,F
+
 ### M-O
+- [McCune](./collectors/McCune/) - McCune,BP
 - [McCune](./collectors/McCune/) - McCune,BP
 ---
 

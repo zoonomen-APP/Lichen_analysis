@@ -236,7 +236,7 @@ management rather than field collection.
 - [Morse](./collectors/Morse/) - Morse,BP
 
 ### P-S
-- [Rosentrater.R](./collectors/Rosentrater.R/) - Rosentrater.R
+- [Rosentreter](./collectors/Rosentreter/) - Rosentreter.R
 ---
 
 ## Technical Notes

@@ -239,6 +239,7 @@ management rather than field collection.
 
 ### P-S
 - [Rosentreter](./collectors/Rosentreter/) - Rosentreter.R
+- [Ryan](./collectors/Ryan/) - Ryan.R
 
 ### T-U
 - [Tucker](./collectors/Tucker/) - Tucker

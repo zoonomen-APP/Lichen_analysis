@@ -238,8 +238,8 @@ management rather than field collection.
 - [Nash](./collectors/Nash/) - Nash
 
 ### P-S
-- [Rosentreter](./collectors/Rosentreter/) - Rosentreter.R
-- [Ryan](./collectors/Ryan/) - Ryan.R
+- [Rosentreter](./collectors/Rosentreter/) - Rosentreter,R
+- [Ryan](./collectors/Ryan/) - Ryan
 
 ### T-U
 - [Tucker](./collectors/Tucker/) - Tucker

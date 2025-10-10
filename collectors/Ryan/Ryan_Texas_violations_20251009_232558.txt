@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+LSU	Kittie D. Bryan	Texas	Brazos	0.04	outside_boundary_exact	Texas, Brazos County	30.588988,-96.424989	LSU00147963	Along farm road 1688 along Brazos River, N of Bryan.	https://lichenportal.org/portal/collections/individual/index.php?occid=1472448
+LSU	Kittie D. Bryan	Texas	Brazos	0.04	outside_boundary_exact	Texas, Brazos County	30.588988,-96.424989	LSU00148204	Along farm road 1688 along Brazos River N. of Bryan.	https://lichenportal.org/portal/collections/individual/index.php?occid=1473113

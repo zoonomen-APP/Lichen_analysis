@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	B.D. Ryan	Vermont	Windsor	24.85	outside_boundary_exact	Vermont, Rutland County	43.75,-73.25	ASUL034518	rest stop along I-89, just N of Hartford, 14 km N of junction with Hwy 4	https://lichenportal.org/portal/collections/individual/index.php?occid=77040
+CUP	B.D. Ryan	Vermont	Winsor	NA	county_not_matched_no_match	county_not_matched	43.416667,-72.5	CUP-L-0008988	Mount Ascutney, Brownsville trail.	https://lichenportal.org/portal/collections/individual/index.php?occid=2939990

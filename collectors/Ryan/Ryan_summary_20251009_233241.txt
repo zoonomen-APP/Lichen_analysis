@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Ryan
+Generated: 2025-10-09 23:32:41.370595
+Processing time: 11.29 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 27785
+After country filtering: 24063 (lost 3722 non-US records)
+After coordinate filtering: 22785 (lost 1278 records without coordinates)
+After state filtering: 22664 (lost 121 records without state information)
+After county filtering: 22398 (lost 266 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 22398 (80.6% of collector's records)
+Boundary violations detected: 2823 (12.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 1.39 km
+Median distance: 4.15 km
+Third quartile: 26.46 km
+Maximum distance: 8273.4 km
+Mean distance: 117.8 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 80.6% of collector's records have complete geographic data
+Boundary violation rate: 12.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Ryan/
+File format: Tab-separated files (.txt) with clickable specimen links
+

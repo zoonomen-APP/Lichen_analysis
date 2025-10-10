@@ -1,0 +1,7 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ASU	B.D. Ryan	Virginia	Fairfax	14.84	outside_boundary_exact	Virginia, Fairfax County	39,-77.25	NA	Great Falls of the Potomac River	https://lichenportal.org/portal/collections/individual/index.php?occid=80212
+ASU	B.D. Ryan	Virginia	Fairfax	14.84	outside_boundary_exact	Virginia, Fairfax County	39,-77.25	NA	Great Falls of the Potomac River	https://lichenportal.org/portal/collections/individual/index.php?occid=87181
+WTU	B. D. Ryan	Virginia	Fairfax	14.84	outside_boundary_exact	Virginia, Fairfax County	39,-77.25	WTU-L-033011	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281133
+WTU	B. D. Ryan	Virginia	Fairfax	14.84	outside_boundary_exact	Virginia, Fairfax County	39,-77.25	WTU-L-033348	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281168
+WTU	B. D. Ryan	Virginia	Fairfax	14.84	outside_boundary_exact	Virginia, Fairfax County	39,-77.25	WTU-L-034236	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281859
+WTU	B. D. Ryan	Virginia	Fairfax	14.84	outside_boundary_exact	Virginia, Fairfax County	39,-77.25	WTU-L-034458	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1282078

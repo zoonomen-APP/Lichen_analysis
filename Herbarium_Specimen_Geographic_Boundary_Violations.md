@@ -240,6 +240,9 @@ management rather than field collection.
 ### P-S
 - [Rosentreter](./collectors/Rosentreter/) - Rosentreter.R
 
+### T-U
+- [Tucker](./collectors/Tucker/) - Tucker
+
 ### V-Z
 - [Wetmore](./collectors/Wetmore/) - Wetmore
 ---

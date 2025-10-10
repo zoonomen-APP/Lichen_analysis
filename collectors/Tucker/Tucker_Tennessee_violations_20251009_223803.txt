@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+LSU	Shirley C. Tucker	Tennessee	Madison	8.86	outside_boundary_exact	Tennessee, Haywood County	35.613991,-89.170788	LSU00146585	At rest area on U.S. 40, 20 mi. W of Jackson.	https://lichenportal.org/portal/collections/individual/index.php?occid=1465960
+LSU	Shirley C. Tucker	Tennessee	Madison	8.86	outside_boundary_exact	Tennessee, Haywood County	35.613991,-89.170788	LSU00147906	At rest area on U. S. 40, 20 mi. W of Jackson.	https://lichenportal.org/portal/collections/individual/index.php?occid=1472377

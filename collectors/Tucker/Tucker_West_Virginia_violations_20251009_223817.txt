@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+LSU	Shirley C. Tucker; R. C. Harris	West Virginia	Tucker	0.42	outside_boundary_exact	West Virginia, Randolph County	38.96295,-79.363979	LSU00130478	Dolly Sods Wilderness Area c. 11 mi. W-NW of Petersburg.	https://lichenportal.org/portal/collections/individual/index.php?occid=1527377

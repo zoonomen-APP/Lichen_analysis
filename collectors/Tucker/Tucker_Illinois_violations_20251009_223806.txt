@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MSC	Tucker, Shirley C	Illinois	Jackson	3.46	outside_boundary_exact	Illinois, Union County	37.567777,-89.21675	MSC0073139	At Giant City State park, 11 mi. S. of Carbondale, Shawnee Natinoal Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=267919

@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Tucker
+Generated: 2025-10-09 22:38:20.473539
+Processing time: 13.5 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 43802
+After country filtering: 38338 (lost 5464 non-US records)
+After coordinate filtering: 26114 (lost 12224 records without coordinates)
+After state filtering: 26080 (lost 34 records without state information)
+After county filtering: 25516 (lost 564 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 25516 (58.3% of collector's records)
+Boundary violations detected: 1587 (6.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 1.06 km
+Median distance: 8.2 km
+Third quartile: 8.2 km
+Maximum distance: 11683.12 km
+Mean distance: 181.76 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 58.3% of collector's records have complete geographic data
+Boundary violation rate: 6.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Tucker/
+File format: Tab-separated files (.txt) with clickable specimen links
+

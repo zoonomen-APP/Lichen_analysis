@@ -1,0 +1,3 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+LSU	Shirley C. Tucker	Arizona	Coconino	4.57	outside_boundary_exact	Arizona, Navajo County	35.333333,-110.7	LSU00143984	Near base of ski lift, Arizona Snow Bowl, San Francisco Peaks.	https://lichenportal.org/portal/collections/individual/index.php?occid=1443189
+PH	Shirley C. Tucker & Ken Tucker	Arizona	Greenlee	0.91	outside_boundary_exact	Arizona, Apache County	33.785951,-109.206049	PH00094314	On U.S. #191, Apache National Forest, ca. 50 miles north of Morenci.	https://lichenportal.org/portal/collections/individual/index.php?occid=1727827

@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+LSU	Shirley C. Tucker	Iowa	Iowa	160.48	outside_boundary_exact	Iowa, Winneshiek County	43.298145,-91.992109	LSU00146255	About 1 mile north of U.S. route 151 at Ridgeway.	https://lichenportal.org/portal/collections/individual/index.php?occid=1466081
+LSU	Shirley C. Tucker	Iowa	Park	NA	county_not_matched_no_match	county_not_matched	42.766667,-92.616667	LSU00146857	Henry Woods State Park, 1.5 mi N of Hwy. 3 on Co. Rd. T47 and 3 mi E; E of Allison.	https://lichenportal.org/portal/collections/individual/index.php?occid=1469965
+LSU	Shirley C. Tucker	Iowa	Park	NA	county_not_matched_no_match	county_not_matched	42.766667,-92.625	LSU00151310	Henry Woods State Park, 1.5 mi N of Hwy. 3 on Co. Rd. T47 and 3 mi E; E of Allison.	https://lichenportal.org/portal/collections/individual/index.php?occid=1486743

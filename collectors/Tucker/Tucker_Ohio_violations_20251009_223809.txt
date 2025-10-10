@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+LSU	Shirley C. Tucker	Ohio	Hamilton	5.03	outside_boundary_exact	Ohio, Clermont County	39.125827,-84.246085	LSU00143515	Along paths in Cincinnati Nature Center (formerly Krippendorf property), Cincinnati.	https://lichenportal.org/portal/collections/individual/index.php?occid=1442369
+LSU	Shirley C. Tucker	Ohio	Hamilton	5.03	outside_boundary_exact	Ohio, Clermont County	39.125827,-84.246085	LSU00144095	Cincinnati Nature center (Krippendorf estate), Cincinnati.	https://lichenportal.org/portal/collections/individual/index.php?occid=1452161
+LSU	Shirley C. Tucker	Ohio	Hamilton	5.03	outside_boundary_exact	Ohio, Clermont County	39.125827,-84.246085	LSU00146204	Krippendorf property (Cincinnati Nature Center), Cincinnati.	https://lichenportal.org/portal/collections/individual/index.php?occid=1466029

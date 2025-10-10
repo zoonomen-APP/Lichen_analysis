@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MSC	Tucker, Shirley C	Georgia	Chatham	4.72	outside_boundary_exact	not_found_in_US	32.083281,-80.842897	MSC0049166	Cultivated on grounds of Fort Pulaski, 0.5 mi. N of U.S. 80, about 15 mi. east of Savannah	https://lichenportal.org/portal/collections/individual/index.php?occid=243703

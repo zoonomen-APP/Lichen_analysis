@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MAINE	Edward Tuckerman	MASSACHUSETTS	HAMPSHIRE	92.16	outside_boundary_exact	Connecticut, Lower Connecticut River Valley County	41.367,-72.517	MAINE-L-0008153	Amherst	https://lichenportal.org/portal/collections/individual/index.php?occid=2692849

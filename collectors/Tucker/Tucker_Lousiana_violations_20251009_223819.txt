@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+SBBG	S. Tucker	Lousiana	Washington	263.8	outside_boundary_exact	Louisiana, Washington County	30.733333,-90.133333	NA	on bluff & slope above Swamp at base. Billy's Bluff S of Franklinton, ca. 9 mi S of Bogue Chitto bridge on LA Hwy 25 in Franklinton	https://lichenportal.org/portal/collections/individual/index.php?occid=3555360

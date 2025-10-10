@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+LSU	Shirley C. Tucker	South Dakota	Pennington	1.1	outside_boundary_exact	South Dakota, Custer County	43.846025,-103.563399	LSU00114501	Sylvan Lake, Black Hills.	https://lichenportal.org/portal/collections/individual/index.php?occid=1524048
+LSU	Shirley C. Tucker	South Dakota	Pennington	1.1	outside_boundary_exact	South Dakota, Custer County	43.846025,-103.563399	LSU00115991	Black Hills, Sylvan Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=1524068
+LSU	Shirley C. Tucker	South Dakota	Pennington	1.1	outside_boundary_exact	South Dakota, Custer County	43.846025,-103.563399	LSU00115990	Black Hills, Sylvan Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=1524844
+DAV	Shirley Cotter Tucker	South Dakota	Pennington	1.1	outside_boundary_exact	South Dakota, Custer County	43.846025,-103.563399	DAV235649	Sylvan Lake, Black Hills. [Exact location unknown, coordinates estimated based on collector's locality.]	https://lichenportal.org/portal/collections/individual/index.php?occid=3788571

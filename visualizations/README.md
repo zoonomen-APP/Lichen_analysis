@@ -1,4 +1,4 @@
-# Lichen Herbarium Specimen Visualizations
+# Lichen Herbarium Specimen Location Visualizations
 
 This directory contains geographic distribution maps and other visualizations derived from lichen herbarium specimen data downloaded from the Consortium of Lichen Herbaria (https://lichenportal.org/portal/index.php).
 

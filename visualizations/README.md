@@ -39,7 +39,8 @@ Maps are generated from North American herbarium specimen data ( my file: NA_her
 
 ## Usage
 
-View the markdown preview files (`.md`) in any markdown viewer or in GitHub to see embedded images with clickable PDF links for high-resolution versions.
+View the markdown preview files (`.md`) in any markdown viewer or in GitHub to see embedded images.
+There are also clickable PDF links for high-resolution versions.
 
 
 ---

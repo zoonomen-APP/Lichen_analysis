@@ -1,0 +1,2 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+UCR(temp)	James Lendemer	Maryland	Dorchester	79.84	outside_boundary_exact	not_found_in_US	38.658889,-74.781667	SBBG008728L	Idylwild State Wildlife Management area, c. 2.5 miles SW of Ferderalsburg, along Tara Road	https://lichenportal.org/portal/collections/individual/index.php?occid=2595322

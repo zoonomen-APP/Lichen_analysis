@@ -1,0 +1,152 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+NY	M. K. Advaita	North Dakota	Pierce Co.	239.67	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.36967,-97.514	1078089	ca 9 mi E, 5 mi S of Lisbon, private land	https://lichenportal.org/portal/collections/individual/index.php?occid=884739
+SBBG	M K Advaita	North Dakota	Rolette	68.26	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.016667,-99.016667	SBBG006675L	5.5 mi W of St. John. Wakopa Wildlife Management Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=4993865
+KANU	M K Advaita	North Dakota	McIntosh	57.91	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.8058,-99.4763	400285	Wishek: 3.5 mi S, 3.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134011
+MIN	Advaita, M.	North Dakota	McClean	53.46	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.157,-100.0161667	902675	South Unit; Brown Ranch Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=431453
+SBBG	M. K. Advaita	North Dakota	Walsh	21.64	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.016667,-97.016667	SBBG006672L	3.5 mi E, 4 mi S of Minto. Ardoch National Wildlife Refuge.	https://lichenportal.org/portal/collections/individual/index.php?occid=4993858
+KANU	M K Advaita	North Dakota	Pierce	20.59	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.66093,-100.097	418781	Harvey: 7.5 mi S, 7 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=5384487
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400451	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134177
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400456	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134182
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400454	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134180
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400457	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134183
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400464	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134190
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400460	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134186
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400458	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134184
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400452	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134178
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	418655	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=5384372
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	409361	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3152167
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400455	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134181
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400459	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134185
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400461	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134187
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	411802	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3579412
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400453	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134179
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400462	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134188
+KANU	M K Advaita	North Dakota	Emmons	10.2	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02768,-99.74801	400463	Hague: 12 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134189
+F	M. K. Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	C2030061F	Pembina Gorge State Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=5812885
+F	M. K. Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	C2030083F	Pembina Gorge State Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=5813260
+MIN	M. K. Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	0970343	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5638989
+MIN	M. K. Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	970401	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5639028
+MOR	M.K. Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	0130196MOR	2 mi N, 6.5 mi W of Walhalla. Pembina Gorge State Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=5694385
+SBBG	M. K. Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	SBBG006829L	2 mi N, 6.5 mi W of Walhalla. Pembina Gorge State Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4994491
+SBBG	M. K. Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	SBBG008037L	2 mi N, 6.5 mi W of Walhalla. Pembina Gorge State Recreation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=5031336
+KANU	M K Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	416239	Walhalla: 2 mi N, 6.5 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=4993269
+KANU	M K Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	416224	Walhalla: 2 mi N, 6.5 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=4993254
+KANU	M K Advaita	North Dakota	Pembina	8.58	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	48.94774,-98.06641	399134	Walhalla: 2 mi N, 6.5 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=3034053
+MIN	Advaita, M.	North Dakota	McClean	3.1	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.157,-101.0162	902676	South Unit; Brown Ranch Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=431454
+MOR	M.K. Advaita	North Dakota	McClean	2.1	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.22283,-101.01283	L-0019202-MOR	ca 2 mi SE of Hensler, The Nature Conservancy's Cross Ranch Preserve, Central Unit at kiosk and cemetery	https://lichenportal.org/portal/collections/individual/index.php?occid=5420786
+MOR	M.K. Advaita	North Dakota	McClean	2.1	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.22283,-101.01283	L-0019203-MOR	ca 2 mi SE of Hensler, The Nature Conservancy's Cross Ranch Preserve, Central Unit at kiosk and cemetery	https://lichenportal.org/portal/collections/individual/index.php?occid=5420787
+MIN	Advaita, M.	North Dakota	McClean	2.01	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.2228333,-101.0116667	902677	Central Unit; Brown Ranch Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=431455
+MIN	Advaita, M.	North Dakota	McClean	2.01	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.2228333,-101.0116667	902682	Brown Ranch Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=431460
+MIN	Advaita, M.	North Dakota	McClean	2.01	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.2228,-101.0117	902683	Brown Ranch Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=431461
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400474	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134200
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400472	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134198
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400467	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134193
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400465	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134191
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	409362	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3152182
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400466	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134192
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400468	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134194
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400470	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134196
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400471	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134197
+KANU	M K Advaita	North Dakota	Emmons	1.71	outside_boundary_exact	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	46.02856,-99.85753	400469	Hague: 6.5 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=3134195
+MIN	Advaita, M.	North Dakota	McClean	0.58	outside_boundary_similarity_0.833	lookup_error: Input must be in the format: latitude -longitude
+Example: get_US_location(46.022 -68.278)
+Note: No quotes, no comma, space before the minus sign	47.18,-100.995	902220	E of Hensler; Cross Ranch Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=431001
+MIN	M. K. Advaita	North Dakota	Brookings	NA	county_not_matched_no_match	county_not_matched	44.453167,-96.9875	0970346	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5638986

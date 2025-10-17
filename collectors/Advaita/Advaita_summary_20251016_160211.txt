@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Advaita
+Generated: 2025-10-16 16:02:11.081047
+Processing time: 10.25 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 28686
+After country filtering: 28686 (lost 0 non-US records)
+After coordinate filtering: 28238 (lost 448 records without coordinates)
+After state filtering: 28238 (lost 0 records without state information)
+After county filtering: 28233 (lost 5 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 28233 (98.4% of collector's records)
+Boundary violations detected: 449 (1.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.83 km
+Median distance: 13.18 km
+Third quartile: 63.9 km
+Maximum distance: 11948.77 km
+Mean distance: 62.06 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 98.4% of collector's records have complete geographic data
+Boundary violation rate: 1.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Advaita/
+File format: Tab-separated files (.txt) with clickable specimen links
+

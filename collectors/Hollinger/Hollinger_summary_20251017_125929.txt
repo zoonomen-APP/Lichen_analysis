@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: HOllinger
+Generated: 2025-10-17 12:59:29.033971
+Processing time: 5.19 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 4205
+After country filtering: 3820 (lost 385 non-US records)
+After coordinate filtering: 3743 (lost 77 records without coordinates)
+After state filtering: 3743 (lost 0 records without state information)
+After county filtering: 3734 (lost 9 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 3734 (88.8% of collector's records)
+Boundary violations detected: 147 (3.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.04 km
+Median distance: 0.51 km
+Third quartile: 4.17 km
+Maximum distance: 13072.69 km
+Mean distance: 131.19 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 88.8% of collector's records have complete geographic data
+Boundary violation rate: 3.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/HOllinger/
+File format: Tab-separated files (.txt) with clickable specimen links
+

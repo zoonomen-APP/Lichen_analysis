@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+WIS	John W. Thomson	Indiana	Vermillion	193.11	outside_boundary_exact	Indiana, Jefferson County	38.759504,-85.41857	WIS-L-0033250	Clifty Falls State Park, Madison	https://lichenportal.org/portal/collections/individual/index.php?occid=1067182
+WIS	John W. Thomson	Indiana	Vermillion	49.44	outside_boundary_exact	Indiana, Putnam County	39.695718,-86.798179	WIS-L-0101592	5 miles northeast of Greencastle	https://lichenportal.org/portal/collections/individual/index.php?occid=1385473
+WIS	John W. Thomson	Indiana	Vermillion	44.05	outside_boundary_exact	Indiana, Putnam County	39.64449,-86.864732	WIS-L-0068436	Hoosier Highlands near Greencastle	https://lichenportal.org/portal/collections/individual/index.php?occid=1288470
+WIS	John W. Thomson	Indiana	Putnum	NA	county_not_matched_no_match	county_not_matched	39.64449,-86.864732	WIS-L-0051995	Hoosier Highlands near Greencastle	https://lichenportal.org/portal/collections/individual/index.php?occid=1128026

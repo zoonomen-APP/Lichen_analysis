@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Thomson
+Generated: 2025-10-17 08:26:49.375923
+Processing time: 21.51 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 31864
+After country filtering: 20508 (lost 11356 non-US records)
+After coordinate filtering: 18062 (lost 2446 records without coordinates)
+After state filtering: 18060 (lost 2 records without state information)
+After county filtering: 13589 (lost 4471 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 13589 (42.6% of collector's records)
+Boundary violations detected: 805 (5.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.57 km
+Median distance: 2.75 km
+Third quartile: 66.4 km
+Maximum distance: 8705.68 km
+Mean distance: 294.25 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 42.6% of collector's records have complete geographic data
+Boundary violation rate: 5.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Thomson/
+File format: Tab-separated files (.txt) with clickable specimen links
+

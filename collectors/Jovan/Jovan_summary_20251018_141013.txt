@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Jovan
+Generated: 2025-10-18 14:10:13.70801
+Processing time: 13.62 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 7268
+After country filtering: 7268 (lost 0 non-US records)
+After coordinate filtering: 7214 (lost 54 records without coordinates)
+After state filtering: 7214 (lost 0 records without state information)
+After county filtering: 7202 (lost 12 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7202 (99.1% of collector's records)
+Boundary violations detected: 336 (4.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 14.04 km
+First quartile: 26.06 km
+Median distance: 29.93 km
+Third quartile: 31.47 km
+Maximum distance: 9779.28 km
+Mean distance: 86.84 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.1% of collector's records have complete geographic data
+Boundary violation rate: 4.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Jovan/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Solano
+Generated: 2025-10-18 13:29:36.976333
+Processing time: 6.09 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 6014
+After country filtering: 6014 (lost 0 non-US records)
+After coordinate filtering: 6008 (lost 6 records without coordinates)
+After state filtering: 6008 (lost 0 records without state information)
+After county filtering: 6008 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 6008 (99.9% of collector's records)
+Boundary violations detected: 144 (2.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.9 km
+First quartile: 0.9 km
+Median distance: 43.34 km
+Third quartile: 43.34 km
+Maximum distance: 43.34 km
+Mean distance: 27.42 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.9% of collector's records have complete geographic data
+Boundary violation rate: 2.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Solano/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

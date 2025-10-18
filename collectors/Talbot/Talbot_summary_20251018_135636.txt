@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Talbot
+Generated: 2025-10-18 13:56:36.24679
+Processing time: 9.47 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 11549
+After country filtering: 10909 (lost 640 non-US records)
+After coordinate filtering: 10298 (lost 611 records without coordinates)
+After state filtering: 10287 (lost 11 records without state information)
+After county filtering: 4359 (lost 5928 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4359 (37.7% of collector's records)
+Boundary violations detected: 244 (5.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.4 km
+First quartile: 0.4 km
+Median distance: 0.4 km
+Third quartile: 3.32 km
+Maximum distance: 1142.99 km
+Mean distance: 16.87 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 37.7% of collector's records have complete geographic data
+Boundary violation rate: 5.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Talbot/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

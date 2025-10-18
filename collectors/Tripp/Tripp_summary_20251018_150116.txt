@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Tripp
+Generated: 2025-10-18 15:01:16.235518
+Processing time: 23.36 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 10845
+After country filtering: 10385 (lost 460 non-US records)
+After coordinate filtering: 8499 (lost 1886 records without coordinates)
+After state filtering: 8499 (lost 0 records without state information)
+After county filtering: 8498 (lost 1 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 8498 (78.4% of collector's records)
+Boundary violations detected: 1000 (11.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.02 km
+Median distance: 0.85 km
+Third quartile: 5.86 km
+Maximum distance: 13334.25 km
+Mean distance: 146.47 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 78.4% of collector's records have complete geographic data
+Boundary violation rate: 11.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Tripp/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

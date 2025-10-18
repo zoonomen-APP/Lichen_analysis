@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Reed
+Generated: 2025-10-18 13:47:07.92772
+Processing time: 17.05 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 8983
+After country filtering: 8513 (lost 470 non-US records)
+After coordinate filtering: 6184 (lost 2329 records without coordinates)
+After state filtering: 6184 (lost 0 records without state information)
+After county filtering: 6149 (lost 35 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 6149 (68.5% of collector's records)
+Boundary violations detected: 589 (9.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 1.05 km
+Median distance: 11.3 km
+Third quartile: 68.44 km
+Maximum distance: 8546.97 km
+Mean distance: 67.96 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 68.5% of collector's records have complete geographic data
+Boundary violation rate: 9.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Reed/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

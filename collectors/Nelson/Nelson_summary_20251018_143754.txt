@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Nelson
+Generated: 2025-10-18 14:37:54.581446
+Processing time: 27.68 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 7679
+After country filtering: 7335 (lost 344 non-US records)
+After coordinate filtering: 6108 (lost 1227 records without coordinates)
+After state filtering: 6106 (lost 2 records without state information)
+After county filtering: 4301 (lost 1805 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4301 (56% of collector's records)
+Boundary violations detected: 723 (16.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.08 km
+First quartile: 7.97 km
+Median distance: 31.47 km
+Third quartile: 71.53 km
+Maximum distance: 878.52 km
+Mean distance: 48.99 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 56% of collector's records have complete geographic data
+Boundary violation rate: 16.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Nelson/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

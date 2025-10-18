@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Gerould
+Generated: 2025-10-18 15:10:33.914335
+Processing time: 4.48 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 8787
+After country filtering: 8685 (lost 102 non-US records)
+After coordinate filtering: 4750 (lost 3935 records without coordinates)
+After state filtering: 4750 (lost 0 records without state information)
+After county filtering: 4750 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4750 (54.1% of collector's records)
+Boundary violations detected: 80 (1.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.07 km
+First quartile: 0.37 km
+Median distance: 0.37 km
+Third quartile: 2.39 km
+Maximum distance: 237.33 km
+Mean distance: 14.11 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 54.1% of collector's records have complete geographic data
+Boundary violation rate: 1.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Gerould/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

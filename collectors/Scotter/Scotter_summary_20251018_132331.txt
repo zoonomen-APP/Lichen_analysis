@@ -1,0 +1,24 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Scotter
+Generated: 2025-10-18 13:23:31.608842
+Processing time: 1.21 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 14261
+After country filtering: 131 (lost 14130 non-US records)
+After coordinate filtering: 59 (lost 72 records without coordinates)
+After state filtering: 59 (lost 0 records without state information)
+After county filtering: 28 (lost 31 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 28 (0.2% of collector's records)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 0.2% of collector's records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Scotter/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

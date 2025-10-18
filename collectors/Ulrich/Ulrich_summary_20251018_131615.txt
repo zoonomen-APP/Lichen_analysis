@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Ulrich
+Generated: 2025-10-18 13:16:15.469703
+Processing time: 11.31 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 6350
+After country filtering: 6340 (lost 10 non-US records)
+After coordinate filtering: 6338 (lost 2 records without coordinates)
+After state filtering: 6338 (lost 0 records without state information)
+After county filtering: 6338 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 6338 (99.8% of collector's records)
+Boundary violations detected: 282 (4.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.06 km
+First quartile: 0.3 km
+Median distance: 0.42 km
+Third quartile: 0.77 km
+Maximum distance: 1.29 km
+Mean distance: 0.56 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.8% of collector's records have complete geographic data
+Boundary violation rate: 4.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Ulrich/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

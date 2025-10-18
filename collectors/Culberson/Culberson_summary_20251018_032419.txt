@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Culberson
+Generated: 2025-10-18 03:24:19.079793
+Processing time: 10.85 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 24464
+After country filtering: 13575 (lost 10889 non-US records)
+After coordinate filtering: 8987 (lost 4588 records without coordinates)
+After state filtering: 8986 (lost 1 records without state information)
+After county filtering: 8943 (lost 43 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 8943 (36.6% of collector's records)
+Boundary violations detected: 374 (4.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.16 km
+Median distance: 2.53 km
+Third quartile: 10.56 km
+Maximum distance: 6840.64 km
+Mean distance: 96.54 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 36.6% of collector's records have complete geographic data
+Boundary violation rate: 4.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Culberson/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

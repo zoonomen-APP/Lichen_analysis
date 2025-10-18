@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Boyll
+Generated: 2025-10-18 01:34:17.444347
+Processing time: 12.7 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 11696
+After country filtering: 11696 (lost 0 non-US records)
+After coordinate filtering: 11332 (lost 364 records without coordinates)
+After state filtering: 11320 (lost 12 records without state information)
+After county filtering: 11320 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 11320 (96.8% of collector's records)
+Boundary violations detected: 358 (3.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.07 km
+First quartile: 0.23 km
+Median distance: 0.48 km
+Third quartile: 10.28 km
+Maximum distance: 153.78 km
+Mean distance: 7.93 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 96.8% of collector's records have complete geographic data
+Boundary violation rate: 3.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Boyll/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

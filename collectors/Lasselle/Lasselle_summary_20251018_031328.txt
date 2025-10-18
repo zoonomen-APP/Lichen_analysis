@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Lasselle
+Generated: 2025-10-18 03:13:28.212971
+Processing time: 3.78 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 8186
+After country filtering: 8186 (lost 0 non-US records)
+After coordinate filtering: 8098 (lost 88 records without coordinates)
+After state filtering: 8098 (lost 0 records without state information)
+After county filtering: 8098 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 8098 (98.9% of collector's records)
+Boundary violations detected: 4 (0% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 257.65 km
+First quartile: 257.65 km
+Median distance: 257.65 km
+Third quartile: 257.65 km
+Maximum distance: 257.65 km
+Mean distance: 257.65 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 98.9% of collector's records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Lasselle/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

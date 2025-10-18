@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Lay
+Generated: 2025-10-18 04:34:08.486641
+Processing time: 14.6 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 15176
+After country filtering: 6569 (lost 8607 non-US records)
+After coordinate filtering: 5942 (lost 627 records without coordinates)
+After state filtering: 5941 (lost 1 records without state information)
+After county filtering: 5789 (lost 152 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 5789 (38.1% of collector's records)
+Boundary violations detected: 536 (9.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 1.3 km
+Median distance: 6.07 km
+Third quartile: 38.35 km
+Maximum distance: 7629.88 km
+Mean distance: 108.73 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 38.1% of collector's records have complete geographic data
+Boundary violation rate: 9.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Lay/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

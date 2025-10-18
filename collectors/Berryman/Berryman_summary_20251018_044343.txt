@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Berryman
+Generated: 2025-10-18 04:43:43.332633
+Processing time: 9.58 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 9434
+After country filtering: 9185 (lost 249 non-US records)
+After coordinate filtering: 9087 (lost 98 records without coordinates)
+After state filtering: 9087 (lost 0 records without state information)
+After county filtering: 7048 (lost 2039 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7048 (74.7% of collector's records)
+Boundary violations detected: 254 (3.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.12 km
+First quartile: 0.52 km
+Median distance: 0.62 km
+Third quartile: 1.05 km
+Maximum distance: 6.88 km
+Mean distance: 0.88 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 74.7% of collector's records have complete geographic data
+Boundary violation rate: 3.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Berryman/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

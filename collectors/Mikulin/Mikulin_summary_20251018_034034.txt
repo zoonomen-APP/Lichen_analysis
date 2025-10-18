@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Mikulin
+Generated: 2025-10-18 03:40:34.637048
+Processing time: 15.87 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 10486
+After country filtering: 10335 (lost 151 non-US records)
+After coordinate filtering: 9892 (lost 443 records without coordinates)
+After state filtering: 9890 (lost 2 records without state information)
+After county filtering: 9886 (lost 4 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 9886 (94.3% of collector's records)
+Boundary violations detected: 515 (5.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.06 km
+First quartile: 0.33 km
+Median distance: 0.78 km
+Third quartile: 0.95 km
+Maximum distance: 99.03 km
+Mean distance: 1.65 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 94.3% of collector's records have complete geographic data
+Boundary violation rate: 5.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Mikulin/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

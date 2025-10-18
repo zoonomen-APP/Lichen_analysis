@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Dey
+Generated: 2025-10-18 02:59:06.613911
+Processing time: 45.55 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 21733
+After country filtering: 21363 (lost 370 non-US records)
+After coordinate filtering: 14356 (lost 7007 records without coordinates)
+After state filtering: 14356 (lost 0 records without state information)
+After county filtering: 14351 (lost 5 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 14351 (66% of collector's records)
+Boundary violations detected: 1789 (12.5% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.01 km
+Median distance: 0.03 km
+Third quartile: 0.35 km
+Maximum distance: 2536.56 km
+Mean distance: 8.46 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 66% of collector's records have complete geographic data
+Boundary violation rate: 12.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Dey/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

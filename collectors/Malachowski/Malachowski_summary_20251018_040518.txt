@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Malachowski
+Generated: 2025-10-18 04:05:18.487395
+Processing time: 7.56 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 7608
+After country filtering: 6284 (lost 1324 non-US records)
+After coordinate filtering: 5089 (lost 1195 records without coordinates)
+After state filtering: 5089 (lost 0 records without state information)
+After county filtering: 4767 (lost 322 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4767 (62.7% of collector's records)
+Boundary violations detected: 287 (6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 2.2 km
+First quartile: 34.93 km
+Median distance: 171.85 km
+Third quartile: 171.85 km
+Maximum distance: 438.11 km
+Mean distance: 144.68 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 62.7% of collector's records have complete geographic data
+Boundary violation rate: 6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Malachowski/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

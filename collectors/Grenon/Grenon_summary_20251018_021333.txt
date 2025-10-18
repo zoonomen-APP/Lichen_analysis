@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Grenon
+Generated: 2025-10-18 02:13:33.781962
+Processing time: 28.34 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 10661
+After country filtering: 10661 (lost 0 non-US records)
+After coordinate filtering: 10523 (lost 138 records without coordinates)
+After state filtering: 10473 (lost 50 records without state information)
+After county filtering: 10471 (lost 2 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 10471 (98.2% of collector's records)
+Boundary violations detected: 1028 (9.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 0.95 km
+Median distance: 3.6 km
+Third quartile: 15.88 km
+Maximum distance: 317.04 km
+Mean distance: 51.01 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 98.2% of collector's records have complete geographic data
+Boundary violation rate: 9.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Grenon/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Shushan
+Generated: 2025-10-18 04:19:32.616598
+Processing time: 14.24 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 18649
+After country filtering: 18091 (lost 558 non-US records)
+After coordinate filtering: 8980 (lost 9111 records without coordinates)
+After state filtering: 8980 (lost 0 records without state information)
+After county filtering: 7812 (lost 1168 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7812 (41.9% of collector's records)
+Boundary violations detected: 566 (7.2% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.24 km
+Median distance: 0.34 km
+Third quartile: 4.76 km
+Maximum distance: 12278.24 km
+Mean distance: 289.54 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 41.9% of collector's records have complete geographic data
+Boundary violation rate: 7.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Shushan/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

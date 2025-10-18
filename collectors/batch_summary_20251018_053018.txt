@@ -1,0 +1,40 @@
+================================================================================
+BATCH COLLECTOR BOUNDARY VIOLATION ANALYSIS - MASTER SUMMARY
+================================================================================
+Generated: 2025-10-18 05:30:18.886658
+Total batch processing time: 271.02 minutes
+
+Collectors processed: 17
+
+COLLECTOR SUMMARY:
+Collector                         Records Violations  Time(min) Status
+--------------------------------------------------------------------------------
+Knudsen                             14852        786       22.3 Success
+Boyll                               11320        358       12.7 Success
+Glavich                             10811        319       10.9 Success
+Grenon                              10471       1028       28.3 Success
+Dey                                 14351       1789       45.5 Success
+Brodo                                3476        280       10.6 Success
+Lasselle                             8098          4        3.8 Success
+Culberson                            8943        374       10.8 Success
+Goward                                 17          6        0.4 Success
+Mikulin                              9886        515       15.9 Success
+Hutchinson                           7352        124        6.5 Success
+Curtis                              12076        317       10.7 Success
+Malachowski                          4767        287        7.6 Success
+Shushan                              7812        566       14.2 Success
+Lay                                  5789        536       14.6 Success
+Berryman                             7048        254        9.6 Success
+Root                                 6107       1332       46.6 Success
+--------------------------------------------------------------------------------
+
+BATCH STATISTICS:
+Total collectors processed: 17
+Successful: 17
+Failed: 0
+Total records analyzed: 143176
+Total violations found: 8875
+Overall violation rate: 6.2 %
+
+Individual collector summaries available in respective directories
+================================================================================

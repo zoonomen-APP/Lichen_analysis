@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Hutchinson
+Generated: 2025-10-18 03:47:03.106608
+Processing time: 6.47 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 7779
+After country filtering: 7733 (lost 46 non-US records)
+After coordinate filtering: 7386 (lost 347 records without coordinates)
+After state filtering: 7356 (lost 30 records without state information)
+After county filtering: 7352 (lost 4 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7352 (94.5% of collector's records)
+Boundary violations detected: 124 (1.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.07 km
+First quartile: 7.67 km
+Median distance: 7.67 km
+Third quartile: 16.55 km
+Maximum distance: 8967.83 km
+Mean distance: 317.9 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 94.5% of collector's records have complete geographic data
+Boundary violation rate: 1.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Hutchinson/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

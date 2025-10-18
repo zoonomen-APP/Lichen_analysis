@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Root
+Generated: 2025-10-18 05:30:18.820443
+Processing time: 46.59 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 10801
+After country filtering: 7503 (lost 3298 non-US records)
+After coordinate filtering: 6948 (lost 555 records without coordinates)
+After state filtering: 6893 (lost 55 records without state information)
+After county filtering: 6107 (lost 786 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 6107 (56.5% of collector's records)
+Boundary violations detected: 1332 (21.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 0.74 km
+Median distance: 5.77 km
+Third quartile: 27.02 km
+Maximum distance: 10140.32 km
+Mean distance: 75.16 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 56.5% of collector's records have complete geographic data
+Boundary violation rate: 21.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Root/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

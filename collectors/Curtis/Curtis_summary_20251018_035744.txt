@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Curtis
+Generated: 2025-10-18 03:57:44.878016
+Processing time: 10.7 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 18941
+After country filtering: 14569 (lost 4372 non-US records)
+After coordinate filtering: 12878 (lost 1691 records without coordinates)
+After state filtering: 12878 (lost 0 records without state information)
+After county filtering: 12076 (lost 802 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 12076 (63.8% of collector's records)
+Boundary violations detected: 317 (2.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.2 km
+Median distance: 0.2 km
+Third quartile: 3.4 km
+Maximum distance: 884.59 km
+Mean distance: 27.32 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 63.8% of collector's records have complete geographic data
+Boundary violation rate: 2.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Curtis/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

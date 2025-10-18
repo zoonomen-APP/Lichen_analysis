@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Glavich
+Generated: 2025-10-18 01:45:13.482182
+Processing time: 10.93 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 11210
+After country filtering: 10916 (lost 294 non-US records)
+After coordinate filtering: 10811 (lost 105 records without coordinates)
+After state filtering: 10811 (lost 0 records without state information)
+After county filtering: 10811 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 10811 (96.4% of collector's records)
+Boundary violations detected: 319 (3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.33 km
+First quartile: 0.72 km
+Median distance: 7.8 km
+Third quartile: 216.22 km
+Maximum distance: 257.61 km
+Mean distance: 80.17 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 96.4% of collector's records have complete geographic data
+Boundary violation rate: 3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Glavich/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

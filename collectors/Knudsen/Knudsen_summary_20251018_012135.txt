@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Knudsen
+Generated: 2025-10-18 01:21:35.171476
+Processing time: 22.29 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 15591
+After country filtering: 15579 (lost 12 non-US records)
+After coordinate filtering: 15042 (lost 537 records without coordinates)
+After state filtering: 15041 (lost 1 records without state information)
+After county filtering: 14852 (lost 189 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 14852 (95.3% of collector's records)
+Boundary violations detected: 786 (5.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 2.03 km
+Median distance: 6.34 km
+Third quartile: 124.3 km
+Maximum distance: 12343 km
+Mean distance: 373.05 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 95.3% of collector's records have complete geographic data
+Boundary violation rate: 5.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Knudsen/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

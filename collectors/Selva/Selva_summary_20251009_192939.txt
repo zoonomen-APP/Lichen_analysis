@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Selva
+Generated: 2025-10-09 19:29:39.348539
+Processing time: 0.19 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 47099
+After country filtering: 30643 (lost 16456 non-US records)
+After coordinate filtering: 65 (lost 30578 records without coordinates)
+After state filtering: 65 (lost 0 records without state information)
+After county filtering: 63 (lost 2 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 63 (0.1% of collector's records)
+Boundary violations detected: 4 (6.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.25 km
+First quartile: 0.38 km
+Median distance: 0.47 km
+Third quartile: 0.53 km
+Maximum distance: 0.53 km
+Mean distance: 0.43 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 0.1% of collector's records have complete geographic data
+Boundary violation rate: 6.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Selva/
+File format: Tab-separated files (.txt) with clickable specimen links
+

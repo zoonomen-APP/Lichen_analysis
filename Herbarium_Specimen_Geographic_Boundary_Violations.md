@@ -308,6 +308,6 @@ management rather than field collection.
 
 ---
 appeterson37@gmail.com
-2025.10.17
+2025.10.18
 
 <!-- *For technical questions about the analysis methodology, see the R script: `multi_herbarium_boundary_validation_v3_09_11.R`* -->

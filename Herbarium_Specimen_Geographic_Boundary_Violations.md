@@ -226,10 +226,13 @@ management rather than field collection.
 *Click collector name → view records by state, sorted by distance.*
 
 ### A-C
+- [Advaita](./collectors/Advaita/) - Advaita
 - [Bungartz](./collectors/Bungartz/) - Bungartz,F
 
 ### H-L
 - [Harris](./collectors/Harris/) - Harris
+- [Hollinger](./collectors/Hollinger/) - Hollinger
+- [Imshaug](./collectors/Imshaug/) - Imshaug
 - [Lendemer](./collectors/Lendemer/) - Lendemer,JC
 
 ### M-O
@@ -240,9 +243,11 @@ management rather than field collection.
 ### P-S
 - [Rosentreter](./collectors/Rosentreter/) - Rosentreter,R
 - [Ryan](./collectors/Ryan/) - Ryan
+- [St. Clair](./collectors/St__Clair/) - St. Clair
 
 ### T-U
 - [Tucker](./collectors/Tucker/) - Tucker
+- [Thomson](./collectors/Thomson/) - Thomson
 
 ### V-Z
 - [Wetmore](./collectors/Wetmore/) - Wetmore
@@ -275,6 +280,6 @@ management rather than field collection.
 
 ---
 appeterson37@gmail.com
-2025.09.23
+2025.10.17
 
 <!-- *For technical questions about the analysis methodology, see the R script: `multi_herbarium_boundary_validation_v3_09_11.R`* -->

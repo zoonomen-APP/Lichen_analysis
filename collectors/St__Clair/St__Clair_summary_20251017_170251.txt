@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: St. Clair
+Generated: 2025-10-17 17:02:51.193881
+Processing time: 62.81 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 19166
+After country filtering: 18922 (lost 244 non-US records)
+After coordinate filtering: 17971 (lost 951 records without coordinates)
+After state filtering: 17971 (lost 0 records without state information)
+After county filtering: 17943 (lost 28 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 17943 (93.6% of collector's records)
+Boundary violations detected: 1335 (7.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.45 km
+Median distance: 2.76 km
+Third quartile: 111.32 km
+Maximum distance: 11900.34 km
+Mean distance: 549.85 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 93.6% of collector's records have complete geographic data
+Boundary violation rate: 7.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/St__Clair/
+File format: Tab-separated files (.txt) with clickable specimen links
+

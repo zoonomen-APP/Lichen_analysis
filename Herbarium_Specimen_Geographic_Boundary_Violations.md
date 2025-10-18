@@ -225,32 +225,60 @@ management rather than field collection.
 
 *Click collector name → view records by state, sorted by distance.*
 
-### A-C
-- [Advaita](./collectors/Advaita/) - Advaita
-- [Bungartz](./collectors/Bungartz/) - Bungartz,F
+**Batch Summaries:**
+- [Batch Summary (Oct 17, 2024)](./collectors/batch_summary_20251017_223421.txt) - 3 collectors
+- [Batch Summary (Oct 18, 2024)](./collectors/batch_summary_20251018_053018.txt) - 17 collectors
 
-### H-L
+### A-C
+- [Advaita](./collectors/Advaita/) - Advaita, M.K.
+- [Berryman](./collectors/Berryman/) - Berryman
+- [Boyll](./collectors/Boyll/) - Boyll
+- [Brodo](./collectors/Brodo/) - Brodo
+- [Buck](./collectors/Buck/) - Buck
+- [Bungartz](./collectors/Bungartz/) - Bungartz, F.
+- [Culberson](./collectors/Culberson/) - Culberson
+- [Curtis](./collectors/Curtis/) - Curtis
+
+### D-F
+- [Dey](./collectors/Dey/) - Dey
+
+### G-I
+- [Geiser](./collectors/Geiser/) - Geiser
+- [Glavich](./collectors/Glavich/) - Glavich
+- [Goward](./collectors/Goward/) - Goward
+- [Grenon](./collectors/Grenon/) - Grenon
+- [Hardman](./collectors/Hardman/) - Hardman
 - [Harris](./collectors/Harris/) - Harris
 - [Hollinger](./collectors/Hollinger/) - Hollinger
+- [Hutchinson](./collectors/Hutchinson/) - Hutchinson
 - [Imshaug](./collectors/Imshaug/) - Imshaug
-- [Lendemer](./collectors/Lendemer/) - Lendemer,JC
+
+### J-L
+- [Knudsen](./collectors/Knudsen/) - Knudsen
+- [Lasselle](./collectors/Lasselle/) - Lasselle
+- [Lay](./collectors/Lay/) - Lay
+- [Lendemer](./collectors/Lendemer/) - Lendemer, J.C.
 
 ### M-O
-- [McCune](./collectors/McCune/) - McCune,BP
+- [Malachowski](./collectors/Malachowski/) - Malachowski
+- [McCune](./collectors/McCune/) - McCune, B.P.
+- [Mikulin](./collectors/Mikulin/) - Mikulin
 - [Morse](./collectors/Morse/) - Morse
 - [Nash](./collectors/Nash/) - Nash
 
 ### P-S
-- [Rosentreter](./collectors/Rosentreter/) - Rosentreter,R
+- [Root](./collectors/Root/) - Root
+- [Rosentreter](./collectors/Rosentreter/) - Rosentreter, R.
 - [Ryan](./collectors/Ryan/) - Ryan
+- [Selva](./collectors/Selva/) - Selva
+- [Shushan](./collectors/Shushan/) - Shushan
 - [St. Clair](./collectors/St__Clair/) - St. Clair
 
-### T-U
-- [Tucker](./collectors/Tucker/) - Tucker
+### T-Z
 - [Thomson](./collectors/Thomson/) - Thomson
-
-### V-Z
+- [Tucker](./collectors/Tucker/) - Tucker
 - [Wetmore](./collectors/Wetmore/) - Wetmore
+
 ---
 
 ## Technical Notes

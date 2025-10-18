@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Geiser
+Generated: 2025-10-17 22:34:20.925735
+Processing time: 20.66 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 20915
+After country filtering: 20437 (lost 478 non-US records)
+After coordinate filtering: 19757 (lost 680 records without coordinates)
+After state filtering: 19731 (lost 26 records without state information)
+After county filtering: 18267 (lost 1464 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 18267 (87.3% of collector's records)
+Boundary violations detected: 469 (2.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.02 km
+First quartile: 0.04 km
+Median distance: 0.62 km
+Third quartile: 8.08 km
+Maximum distance: 312.9 km
+Mean distance: 29.24 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 87.3% of collector's records have complete geographic data
+Boundary violation rate: 2.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Geiser/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

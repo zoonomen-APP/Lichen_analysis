@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Hardman
+Generated: 2025-10-17 22:13:41.389059
+Processing time: 20.06 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 17106
+After country filtering: 17106 (lost 0 non-US records)
+After coordinate filtering: 16709 (lost 397 records without coordinates)
+After state filtering: 16687 (lost 22 records without state information)
+After county filtering: 16687 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 16687 (97.6% of collector's records)
+Boundary violations detected: 476 (2.9% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.33 km
+First quartile: 0.58 km
+Median distance: 3.89 km
+Third quartile: 6.33 km
+Maximum distance: 31.2 km
+Mean distance: 4.7 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 97.6% of collector's records have complete geographic data
+Boundary violation rate: 2.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Hardman/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

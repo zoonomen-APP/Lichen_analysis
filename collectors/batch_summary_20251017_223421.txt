@@ -1,0 +1,26 @@
+================================================================================
+BATCH COLLECTOR BOUNDARY VIOLATION ANALYSIS - MASTER SUMMARY
+================================================================================
+Generated: 2025-10-17 22:34:21.023536
+Total batch processing time: 58.9 minutes
+
+Collectors processed: 3
+
+COLLECTOR SUMMARY:
+Collector                         Records Violations  Time(min) Status
+--------------------------------------------------------------------------------
+Buck                                13609        489       18.2 Success
+Hardman                             16687        476       20.1 Success
+Geiser                              18267        469       20.7 Success
+--------------------------------------------------------------------------------
+
+BATCH STATISTICS:
+Total collectors processed: 3
+Successful: 3
+Failed: 0
+Total records analyzed: 48563
+Total violations found: 1434
+Overall violation rate: 2.95 %
+
+Individual collector summaries available in respective directories
+================================================================================

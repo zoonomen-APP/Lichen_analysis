@@ -226,8 +226,9 @@ management rather than field collection.
 *Click collector name → view records by state, sorted by distance.*
 
 **Batch Summaries:**
-- [Batch Summary (Oct 17, 2024)](./collectors/batch_summary_20251017_223421.txt) - 3 collectors
-- [Batch Summary (Oct 18, 2024)](./collectors/batch_summary_20251018_053018.txt) - 17 collectors
+- [Batch Summary (Oct 17, 2024)](./collectors/batch_summary_20251017_223421.txt) - 3 collectors, 48.6K records
+- [Batch Summary (Oct 18 AM)](./collectors/batch_summary_20251018_053018.txt) - 17 collectors, 143.2K records
+- [Batch Summary (Oct 18 PM)](./collectors/batch_summary_20251018_151033.txt) - 12 collectors, 59.6K records
 
 ### A-C
 - [Advaita](./collectors/Advaita/) - Advaita, M.K.
@@ -236,6 +237,7 @@ management rather than field collection.
 - [Brodo](./collectors/Brodo/) - Brodo
 - [Buck](./collectors/Buck/) - Buck
 - [Bungartz](./collectors/Bungartz/) - Bungartz, F.
+- [Burnett](./collectors/Burnett/) - Burnett
 - [Culberson](./collectors/Culberson/) - Culberson
 - [Curtis](./collectors/Curtis/) - Curtis
 
@@ -244,16 +246,20 @@ management rather than field collection.
 
 ### G-I
 - [Geiser](./collectors/Geiser/) - Geiser
+- [Gerould](./collectors/Gerould/) - Gerould
 - [Glavich](./collectors/Glavich/) - Glavich
 - [Goward](./collectors/Goward/) - Goward
 - [Grenon](./collectors/Grenon/) - Grenon
+- [Haldeman](./collectors/Haldeman/) - Haldeman
 - [Hardman](./collectors/Hardman/) - Hardman
 - [Harris](./collectors/Harris/) - Harris
+- [Havaas](./collectors/Havaas/) - Havaas
 - [Hollinger](./collectors/Hollinger/) - Hollinger
 - [Hutchinson](./collectors/Hutchinson/) - Hutchinson
 - [Imshaug](./collectors/Imshaug/) - Imshaug
 
 ### J-L
+- [Jovan](./collectors/Jovan/) - Jovan
 - [Knudsen](./collectors/Knudsen/) - Knudsen
 - [Lasselle](./collectors/Lasselle/) - Lasselle
 - [Lay](./collectors/Lay/) - Lay
@@ -265,18 +271,25 @@ management rather than field collection.
 - [Mikulin](./collectors/Mikulin/) - Mikulin
 - [Morse](./collectors/Morse/) - Morse
 - [Nash](./collectors/Nash/) - Nash
+- [Nelson](./collectors/Nelson/) - Nelson
 
 ### P-S
+- [Reed](./collectors/Reed/) - Reed
 - [Root](./collectors/Root/) - Root
 - [Rosentreter](./collectors/Rosentreter/) - Rosentreter, R.
 - [Ryan](./collectors/Ryan/) - Ryan
+- [Scotter](./collectors/Scotter/) - Scotter
 - [Selva](./collectors/Selva/) - Selva
 - [Shushan](./collectors/Shushan/) - Shushan
+- [Solano](./collectors/Solano/) - Solano
 - [St. Clair](./collectors/St__Clair/) - St. Clair
 
 ### T-Z
+- [Talbot](./collectors/Talbot/) - Talbot
 - [Thomson](./collectors/Thomson/) - Thomson
+- [Tripp](./collectors/Tripp/) - Tripp
 - [Tucker](./collectors/Tucker/) - Tucker
+- [Ulrich](./collectors/Ulrich/) - Ulrich
 - [Wetmore](./collectors/Wetmore/) - Wetmore
 
 ---

@@ -1,4 +1,4 @@
-# Lichen Herbarium Specimen Geographic Boundary Validation
+# Lichen Herbarium Specimen Geographic Boundary Validation by herbarium and by collector
 
 ## Overview
 

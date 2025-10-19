@@ -232,6 +232,7 @@ management rather than field collection.
 
 ### A-C
 - [Advaita](./collectors/Advaita/) - Advaita, M.K.
+- [Allen](./collectors/Allen/) - Allen
 - [Berryman](./collectors/Berryman/) - Berryman
 - [Boyll](./collectors/Boyll/) - Boyll
 - [Brodo](./collectors/Brodo/) - Brodo
@@ -321,6 +322,6 @@ management rather than field collection.
 
 ---
 appeterson37@gmail.com
-2025.10.18
+2025.10.19
 
 <!-- *For technical questions about the analysis methodology, see the R script: `multi_herbarium_boundary_validation_v3_09_11.R`* -->

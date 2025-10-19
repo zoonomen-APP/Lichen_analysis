@@ -1,0 +1,35 @@
+================================================================================
+BATCH COLLECTOR BOUNDARY VIOLATION ANALYSIS - MASTER SUMMARY
+================================================================================
+Generated: 2025-10-19 13:15:08.310784
+Total batch processing time: 124.72 minutes
+
+Collectors processed: 12
+
+COLLECTOR SUMMARY:
+Collector                         Records Violations  Time(min) Status
+--------------------------------------------------------------------------------
+Lumbsch                               320          4       37.8 Success
+Clayden                                59          0        0.4 Success
+Lücking                              462         26        1.0 Success
+Schoknecht                           2934        401       12.8 Success
+Esslinger                            4723        143        5.8 Success
+Chesnut                              4798        182        6.6 Success
+Eversman                             4281        314       11.7 Success
+Waters                               4221         14        3.0 Success
+Perlmutter                           4980         85        4.4 Success
+Holt                                 4085        802       33.2 Success
+Scharnagl                            3850          0        1.7 No analyzable data
+Weber                                4015        148        6.3 Success
+--------------------------------------------------------------------------------
+
+BATCH STATISTICS:
+Total collectors processed: 12
+Successful: 11
+Failed: 0
+Total records analyzed: 34878
+Total violations found: 2119
+Overall violation rate: 6.08 %
+
+Individual collector summaries available in respective directories
+================================================================================

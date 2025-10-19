@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Weber
+Generated: 2025-10-19 13:15:08.229782
+Processing time: 6.32 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 25561
+After country filtering: 15485 (lost 10076 non-US records)
+After coordinate filtering: 4414 (lost 11071 records without coordinates)
+After state filtering: 4413 (lost 1 records without state information)
+After county filtering: 4015 (lost 398 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4015 (15.7% of collector's records)
+Boundary violations detected: 148 (3.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.21 km
+Median distance: 7.82 km
+Third quartile: 443.3 km
+Maximum distance: 6070.14 km
+Mean distance: 1133.19 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 15.7% of collector's records have complete geographic data
+Boundary violation rate: 3.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Weber/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

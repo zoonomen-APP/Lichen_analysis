@@ -1,0 +1,24 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Scharnagl
+Generated: 2025-10-19 13:08:48.900668
+Processing time: 1.72 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 3850
+After country filtering: 995 (lost 2855 non-US records)
+After coordinate filtering: 986 (lost 9 records without coordinates)
+After state filtering: 986 (lost 0 records without state information)
+After county filtering: 0 (lost 986 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 0 (0% of collector's records)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 0% of collector's records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Scharnagl/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

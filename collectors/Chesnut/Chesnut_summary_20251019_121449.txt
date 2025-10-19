@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Chesnut
+Generated: 2025-10-19 12:14:49.515852
+Processing time: 6.62 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 4803
+After country filtering: 4803 (lost 0 non-US records)
+After coordinate filtering: 4798 (lost 5 records without coordinates)
+After state filtering: 4798 (lost 0 records without state information)
+After county filtering: 4798 (lost 0 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4798 (99.9% of collector's records)
+Boundary violations detected: 182 (3.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.39 km
+First quartile: 0.39 km
+Median distance: 63.02 km
+Third quartile: 63.02 km
+Maximum distance: 63.02 km
+Mean distance: 36.86 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 99.9% of collector's records have complete geographic data
+Boundary violation rate: 3.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Chesnut/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

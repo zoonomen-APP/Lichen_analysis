@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ILLS	J.L. Crane & J.D. Schoknecht	Missouri	Ste. Genevieve	6112.42	outside_boundary_standardized_exact	not_found_in_US	37.862588,-18.034444	ILLS00006885	Ozora.	https://lichenportal.org/portal/collections/individual/index.php?occid=2708197
+ILLS	J.L. Crane & J.D. Schoknecht	Missouri	Butler	49.78	outside_boundary_exact	Missouri, Madison County	37.370069,-90.317883	ILLS00007647	Mark Twain National Forest, Forest Road 528 and Missoure Route 67	https://lichenportal.org/portal/collections/individual/index.php?occid=2705227
+ILLS	J.L. Crane & J.D. Schoknecht	Missouri	Butler	49.78	outside_boundary_exact	Missouri, Madison County	37.370069,-90.317883	ILLS00007756	Mark Twain National Forest, Forest Road 528 and Missoure Route 67	https://lichenportal.org/portal/collections/individual/index.php?occid=2705254
+ILLS	J.L. Crane & J.D. Schoknecht	Missouri	St. Genevieve County	NA	county_not_matched_no_match	county_not_matched	37.830491,-90.034107	ILLS00098014	Donze Lake.	https://lichenportal.org/portal/collections/individual/index.php?occid=2714403

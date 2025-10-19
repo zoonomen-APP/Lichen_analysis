@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Schoknecht
+Generated: 2025-10-19 12:02:21.519331
+Processing time: 12.83 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 5252
+After country filtering: 3942 (lost 1310 non-US records)
+After coordinate filtering: 3819 (lost 123 records without coordinates)
+After state filtering: 3817 (lost 2 records without state information)
+After county filtering: 2934 (lost 883 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 2934 (55.9% of collector's records)
+Boundary violations detected: 401 (13.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 1.43 km
+Median distance: 7.88 km
+Third quartile: 49.78 km
+Maximum distance: 7747.25 km
+Mean distance: 263.29 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 55.9% of collector's records have complete geographic data
+Boundary violation rate: 13.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Schoknecht/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

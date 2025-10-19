@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Eversman
+Generated: 2025-10-19 12:26:31.256111
+Processing time: 11.7 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 4626
+After country filtering: 4505 (lost 121 non-US records)
+After coordinate filtering: 4325 (lost 180 records without coordinates)
+After state filtering: 4325 (lost 0 records without state information)
+After county filtering: 4281 (lost 44 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4281 (92.5% of collector's records)
+Boundary violations detected: 314 (7.3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.27 km
+Median distance: 1.78 km
+Third quartile: 13.15 km
+Maximum distance: 117.67 km
+Mean distance: 13.39 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 92.5% of collector's records have complete geographic data
+Boundary violation rate: 7.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Eversman/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

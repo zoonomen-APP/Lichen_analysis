@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Esslinger
+Generated: 2025-10-19 12:08:12.516687
+Processing time: 5.85 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 5355
+After country filtering: 5117 (lost 238 non-US records)
+After coordinate filtering: 4798 (lost 319 records without coordinates)
+After state filtering: 4798 (lost 0 records without state information)
+After county filtering: 4723 (lost 75 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4723 (88.2% of collector's records)
+Boundary violations detected: 143 (3% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 3.23 km
+Median distance: 9.22 km
+Third quartile: 167.99 km
+Maximum distance: 7912.7 km
+Mean distance: 392.85 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 88.2% of collector's records have complete geographic data
+Boundary violation rate: 3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Esslinger/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

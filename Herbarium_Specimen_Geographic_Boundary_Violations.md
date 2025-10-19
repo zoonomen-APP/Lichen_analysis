@@ -274,7 +274,7 @@ management rather than field collection.
 - [Lay](./collectors/Lay/) - Lay
 - [Lendemer](./collectors/Lendemer/) - Lendemer, J.C.
 - [Lumbsch](./collectors/Lumbsch/) - Lumbsch
-- [Lücking](./collectors/Lücking/) - Lücking
+- [Lücking](./collectors/L_cking/) - Lücking
 
 ### M-O
 - [Malachowski](./collectors/Malachowski/) - Malachowski

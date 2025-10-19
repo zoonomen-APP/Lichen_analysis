@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Allen
+Generated: 2025-10-19 07:51:39.493887
+Processing time: 6.7 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 5518
+After country filtering: 4996 (lost 522 non-US records)
+After coordinate filtering: 4609 (lost 387 records without coordinates)
+After state filtering: 4606 (lost 3 records without state information)
+After county filtering: 4594 (lost 12 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4594 (83.3% of collector's records)
+Boundary violations detected: 125 (2.7% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 0.38 km
+Median distance: 11.3 km
+Third quartile: 63.01 km
+Maximum distance: 688.67 km
+Mean distance: 40.58 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 83.3% of collector's records have complete geographic data
+Boundary violation rate: 2.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/Allen/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

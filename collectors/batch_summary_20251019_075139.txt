@@ -1,0 +1,24 @@
+================================================================================
+BATCH COLLECTOR BOUNDARY VIOLATION ANALYSIS - MASTER SUMMARY
+================================================================================
+Generated: 2025-10-19 07:51:39.537092
+Total batch processing time: 6.7 minutes
+
+Collectors processed: 1
+
+COLLECTOR SUMMARY:
+Collector                         Records Violations  Time(min) Status
+--------------------------------------------------------------------------------
+Allen                                4594        125        6.7 Success
+--------------------------------------------------------------------------------
+
+BATCH STATISTICS:
+Total collectors processed: 1
+Successful: 1
+Failed: 0
+Total records analyzed: 4594
+Total violations found: 125
+Overall violation rate: 2.72 %
+
+Individual collector summaries available in respective directories
+================================================================================

@@ -1,0 +1,32 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Lücking
+Generated: 2025-10-19 11:49:31.563102
+Processing time: 0.96 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records matching collector pattern: 6006
+After country filtering: 1160 (lost 4846 non-US records)
+After coordinate filtering: 1150 (lost 10 records without coordinates)
+After state filtering: 479 (lost 671 records without state information)
+After county filtering: 462 (lost 17 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 462 (7.7% of collector's records)
+Boundary violations detected: 26 (5.6% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 12.91 km
+First quartile: 12.91 km
+Median distance: 12.91 km
+Third quartile: 4906.98 km
+Maximum distance: 4913.32 km
+Mean distance: 1707.78 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 7.7% of collector's records have complete geographic data
+Boundary violation rate: 5.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/collectors/L_cking/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

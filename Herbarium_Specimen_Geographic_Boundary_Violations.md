@@ -224,11 +224,14 @@ from map or locality interpretation, data entry, digitization, or database
 management rather than field collection.
 
 *Click collector name → view records by state, sorted by distance.*
+*Click collector name → view records by state, sorted by distance.*
 
 **Batch Summaries:**
-- [Batch Summary (Oct 17, 2024)](./collectors/batch_summary_20251017_223421.txt) - 3 collectors, 48.6K records
+- [Batch Summary (Oct 17)](./collectors/batch_summary_20251017_223421.txt) - 3 collectors, 48.6K records
 - [Batch Summary (Oct 18 AM)](./collectors/batch_summary_20251018_053018.txt) - 17 collectors, 143.2K records
 - [Batch Summary (Oct 18 PM)](./collectors/batch_summary_20251018_151033.txt) - 12 collectors, 59.6K records
+- [Batch Summary (Oct 19 AM)](./collectors/batch_summary_20251019_075139.txt) - 1 collector, 4.6K records
+- [Batch Summary (Oct 19 PM)](./collectors/batch_summary_20251019_131508.txt) - 12 collectors, 34.9K records
 
 ### A-C
 - [Advaita](./collectors/Advaita/) - Advaita, M.K.
@@ -239,11 +242,15 @@ management rather than field collection.
 - [Buck](./collectors/Buck/) - Buck
 - [Bungartz](./collectors/Bungartz/) - Bungartz, F.
 - [Burnett](./collectors/Burnett/) - Burnett
+- [Chesnut](./collectors/Chesnut/) - Chesnut
+- [Clayden](./collectors/Clayden/) - Clayden
 - [Culberson](./collectors/Culberson/) - Culberson
 - [Curtis](./collectors/Curtis/) - Curtis
 
 ### D-F
 - [Dey](./collectors/Dey/) - Dey
+- [Esslinger](./collectors/Esslinger/) - Esslinger
+- [Eversman](./collectors/Eversman/) - Eversman
 
 ### G-I
 - [Geiser](./collectors/Geiser/) - Geiser
@@ -256,6 +263,7 @@ management rather than field collection.
 - [Harris](./collectors/Harris/) - Harris
 - [Havaas](./collectors/Havaas/) - Havaas
 - [Hollinger](./collectors/Hollinger/) - Hollinger
+- [Holt](./collectors/Holt/) - Holt
 - [Hutchinson](./collectors/Hutchinson/) - Hutchinson
 - [Imshaug](./collectors/Imshaug/) - Imshaug
 
@@ -265,6 +273,8 @@ management rather than field collection.
 - [Lasselle](./collectors/Lasselle/) - Lasselle
 - [Lay](./collectors/Lay/) - Lay
 - [Lendemer](./collectors/Lendemer/) - Lendemer, J.C.
+- [Lumbsch](./collectors/Lumbsch/) - Lumbsch
+- [Lücking](./collectors/Lücking/) - Lücking
 
 ### M-O
 - [Malachowski](./collectors/Malachowski/) - Malachowski
@@ -275,10 +285,13 @@ management rather than field collection.
 - [Nelson](./collectors/Nelson/) - Nelson
 
 ### P-S
+- [Perlmutter](./collectors/Perlmutter/) - Perlmutter
 - [Reed](./collectors/Reed/) - Reed
 - [Root](./collectors/Root/) - Root
 - [Rosentreter](./collectors/Rosentreter/) - Rosentreter, R.
 - [Ryan](./collectors/Ryan/) - Ryan
+- [Scharnagl](./collectors/Scharnagl/) - Scharnagl
+- [Schoknecht](./collectors/Schoknecht/) - Schoknecht
 - [Scotter](./collectors/Scotter/) - Scotter
 - [Selva](./collectors/Selva/) - Selva
 - [Shushan](./collectors/Shushan/) - Shushan
@@ -291,6 +304,8 @@ management rather than field collection.
 - [Tripp](./collectors/Tripp/) - Tripp
 - [Tucker](./collectors/Tucker/) - Tucker
 - [Ulrich](./collectors/Ulrich/) - Ulrich
+- [Waters](./collectors/Waters/) - Waters
+- [Weber](./collectors/Weber/) - Weber
 - [Wetmore](./collectors/Wetmore/) - Wetmore
 
 ---

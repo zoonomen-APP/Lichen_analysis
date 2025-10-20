@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5077328	NCU	Chapman, Stuart Francis	Pennsylvania	Pike	759.06	outside_boundary_exact	NCU-L-0006887	35.596806,-80.221164	North Carolina, Davidson County	Milford	https://lichenportal.org/portal/collections/individual/index.php?occid=5077328
-5361453	NCU	Chapman, Stuart Francis	Pennsylvania	Pike	759.06	outside_boundary_exact	NCU-L-0007063	35.596806,-80.221164	North Carolina, Davidson County	Milford	https://lichenportal.org/portal/collections/individual/index.php?occid=5361453

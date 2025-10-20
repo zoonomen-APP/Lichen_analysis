@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3132779	BUT	Ray C. Friesner	Maine	Franklin	134.32	outside_boundary_exact	BUT-L-0800136	44.586944,-68.232222	Maine, Hancock County	behind Baptist Church, Franklin; 44.586944 -68.232222	https://lichenportal.org/portal/collections/individual/index.php?occid=3132779

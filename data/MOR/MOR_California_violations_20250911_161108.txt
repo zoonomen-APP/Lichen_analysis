@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2237381	MOR	Jeanne A. Larson	California	Madera	19.25	outside_boundary_exact	L-0009774-MOR	37.4396,-120.0405	California, Mariposa County	Greenamyer's Hill, 3 miles south of Mormon Bar.	https://lichenportal.org/portal/collections/individual/index.php?occid=2237381
-2237935	MOR	Jeanne A. Larson	California	Madera	19.25	outside_boundary_exact	L-0009775-MOR	37.4396,-120.0405	California, Mariposa County	3 mi S of Mormon Bar. Greenamyer's Hill.	https://lichenportal.org/portal/collections/individual/index.php?occid=2237935

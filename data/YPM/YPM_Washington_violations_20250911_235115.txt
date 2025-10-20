@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1654571	YPM	J. B. Flett	Washington	Pierce	0.19	outside_boundary_exact	YU.239690	46.782047,-121.729278	Washington, Lewis County	Mt. Rainier, Paradise Valley	https://lichenportal.org/portal/collections/individual/index.php?occid=1654571
-1652427	YPM	Charles J. Gould	Washington	Pierce-Kittitas	NA	county_not_matched_no_match	YU.237312	47.139836,-121.302869	county_not_matched	Blowout Mountain, a few miles north of Chinook Pass, on Cascade Crest Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=1652427

@@ -1,5 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1010620	TENN	H.A. Sierk	Oklahoma	McCurtain	554.89	outside_boundary_exact	TENN-L-0000292	36.816137,-100.519871	Oklahoma, Beaver County	Beaver's Bend State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1010620
-1066877	TENN	H.A. Sierk	Oklahoma	Mccurtain	553.81	outside_boundary_exact	TENN-L-0005707	36.81,-100.51	Oklahoma, Beaver County	Beaver's Bend State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1066877
-1066818	TENN	A.J. Sharp	Oklahoma	Mcclain	2.82	outside_boundary_exact	TENN-L-0005648	34.83,-97.6	Oklahoma, Garvin County	New Lindsay	https://lichenportal.org/portal/collections/individual/index.php?occid=1066818
-1112134	TENN	M. E. Hale	Oklahoma	Osage	1.75	outside_boundary_exact	TENN-L-0006016	36.747311,-95.980818	Oklahoma, Washington County	near Bartlesville	https://lichenportal.org/portal/collections/individual/index.php?occid=1112134

@@ -1,5 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-OSC	Clyde Reed	Massachusetts	Berkshire	253.72	outside_boundary_exact	not_found_in_US	45.0189,-73.125	136933	Montville, 2 mi S of Montville.	https://lichenportal.org/portal/collections/individual/index.php?occid=2223557
-OSC	Clyde Reed	Massachusetts	Berkshire	253.72	outside_boundary_exact	not_found_in_US	45.0189,-73.125	136933	Montville, 2 mi S of Montville.	https://lichenportal.org/portal/collections/individual/index.php?occid=2223557
-OSC	Ken Gooch	Massachusetts	Hampden	0.08	outside_boundary_exact	Massachusetts, Berkshire County	42.0625,-73.0625	OSC-M-054795	Hex Plot Number: 4207311, Cole Number: 8998	https://lichenportal.org/portal/collections/individual/index.php?occid=5428895
-OSC	Ken Gooch	Massachusetts	Hampden	0.08	outside_boundary_exact	Massachusetts, Berkshire County	42.0625,-73.0625	OSC-M-054795	Hex Plot Number: 4207311, Cole Number: 8998	https://lichenportal.org/portal/collections/individual/index.php?occid=5428895

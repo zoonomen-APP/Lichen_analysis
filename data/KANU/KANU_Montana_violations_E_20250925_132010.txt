@@ -1,5 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-KANU	Caleb A Morse; Douglas M Ladd	Montana	Phillips	70.57	outside_boundary_exact	Montana, Petroleum County	46.89276,-108.3588	380316	Zortman: ca 1-1.5 mi S, 7.5-8 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=1327074
-KANU	Clifford M Wetmore	Montana	Park	3.12	outside_boundary_exact	Wyoming, Park County	44.965,-110.7161111	381153	Gardiner: grazing exclosure 1 mi W	https://lichenportal.org/portal/collections/individual/index.php?occid=3133917
-KANU	Theodore L Esslinger	Montana	Meagher	0.04	outside_boundary_exact	Montana, Cascade County	46.83611,-110.68667	381472	White Sulphur Springs: ca 25 mi N	https://lichenportal.org/portal/collections/individual/index.php?occid=1331147
-KANU	Theodore L Esslinger	Montana	Meagher	0.04	outside_boundary_exact	Montana, Cascade County	46.83611,-110.68667	381471	White Sulphur Springs: ca 25 mi N	https://lichenportal.org/portal/collections/individual/index.php?occid=1335134

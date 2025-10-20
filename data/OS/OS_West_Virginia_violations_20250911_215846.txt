@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5708898	OS	Shaun Pogacnik	West Virginia	Pocahontas	8.52	outside_boundary_exact	OS0383724	38.69875,-79.531278	West Virginia, Pendleton County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5708898
-5077437	OS	Shaun Pogacnik	West Virginia	Pocahontas	0.11	outside_boundary_exact	OS0150155	38.609667,-79.843639	West Virginia, Randolph County	Gaudineer Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=5077437

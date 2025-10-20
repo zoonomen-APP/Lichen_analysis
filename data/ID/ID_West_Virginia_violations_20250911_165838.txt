@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2911322	ID	Karen L. Gray	West Virginia	Nez Perce	NA	county_not_matched_no_match	ID-L-0007074	38.223453,-80.09451	county_not_matched	Kee Rocks, Marlinton	https://lichenportal.org/portal/collections/individual/index.php?occid=2911322

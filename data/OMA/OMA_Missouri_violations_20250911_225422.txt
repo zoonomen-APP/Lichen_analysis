@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-802408	OMA	NA	Missouri	Miller	23.39	outside_boundary_exact	17249	38.111111,-92.924167	Missouri, Camden County	Saline Valley Conservation Area; Tuscambia, 4.3 mi NE along MO 17	https://lichenportal.org/portal/collections/individual/index.php?occid=802408
-804376	OMA	NA	Missouri	Howell	2.23	outside_boundary_exact	14424	36.95,-92.116667	Missouri, Douglas County	Mark Twain National Forest; 7 miles SW of Willow Springs	https://lichenportal.org/portal/collections/individual/index.php?occid=804376

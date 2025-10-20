@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3435157	CSU	S. Strawn	Tennessee	Carter	73.12	outside_boundary_exact	CSU-L-000601	36.2,-81.1161	North Carolina, Wilkes County	Dennis Cove	https://lichenportal.org/portal/collections/individual/index.php?occid=3435157

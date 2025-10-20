@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1775418	PH	R. A. Anderson	South Dakota	Lawrence	136.97	outside_boundary_exact	PH00103458	45.83481,-103.50442	South Dakota, Harding County	Black Hills, 12.5 miles southwest of Lead on US Highway 85, 4 miles southwest of Cheyenne Crossing, Ice Box Canyon	https://lichenportal.org/portal/collections/individual/index.php?occid=1775418

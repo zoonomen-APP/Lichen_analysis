@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2574216	WWB	B. D. Ryan	Wyoming	Washakie	78	outside_boundary_exact	WWB-L-4375	44.158333,-106.15	Wyoming, Johnson County	W side of Hwy 6, 24 mi E of Tensleep	https://lichenportal.org/portal/collections/individual/index.php?occid=2574216

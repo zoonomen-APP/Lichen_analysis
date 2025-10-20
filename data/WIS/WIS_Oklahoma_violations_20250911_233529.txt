@@ -1,5 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1391078	WIS	J.W.Thomson	Oklahoma	Payne	27.55	outside_boundary_exact	WIS-L-0103905	36.492456,-97.056908	Oklahoma, Noble County	15 miles south of Ponca City	https://lichenportal.org/portal/collections/individual/index.php?occid=1391078
-1099692	WIS	D. Samuelsen	Oklahoma	Tulsa	19.39	outside_boundary_exact	WIS-L-0043853	36.081488,-95.544421	Oklahoma, Rogers County	Along Inola Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=1099692
-1376698	WIS	Don Samuelsen	Oklahoma	Tulsa	19.39	outside_boundary_exact	WIS-L-0098647	36.081488,-95.544421	Oklahoma, Rogers County	along Inola Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=1376698
-1486079	WIS	Mason E. Hale	Oklahoma	Osage	1.75	outside_boundary_exact	WIS-L-0109185	36.747311,-95.980818	Oklahoma, Washington County	near Bartlesville	https://lichenportal.org/portal/collections/individual/index.php?occid=1486079

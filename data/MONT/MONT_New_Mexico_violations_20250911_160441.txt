@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1384821	MONT	B.D. Ryan	New Mexico	Los Alamos	322.97	outside_boundary_exact	MONT-L-0003274	32.866667,-106.366667	New Mexico, Otero County	Road to Los Alamos Ski Hill, 2.5 mi SW of Los Alamos	https://lichenportal.org/portal/collections/individual/index.php?occid=1384821

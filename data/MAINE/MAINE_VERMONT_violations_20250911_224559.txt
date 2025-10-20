@@ -1,5 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1971830	MAINE	J. Nelson	VERMONT	WINDSOR	162.82	outside_boundary_exact	MAINE-L-0005440	44.373,-70.347	Maine, Oxford County	Hartford	https://lichenportal.org/portal/collections/individual/index.php?occid=1971830
-1972200	MAINE	J. Nelson	VERMONT	WINDSOR	162.82	outside_boundary_exact	MAINE-L-0005810	44.373,-70.347	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1972200
-1972974	MAINE	J. Nelson	VERMONT	WINDSOR	162.82	outside_boundary_exact	MAINE-L-0006631	44.373,-70.347	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1972974
-1973074	MAINE	J. Nelson	VERMONT	WINDSOR	162.82	outside_boundary_exact	MAINE-L-0006731	44.373,-70.347	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1973074

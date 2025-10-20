@@ -1,4 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3776823	UWO	L. Orloci	West Virginia	Tucker	1.7	outside_boundary_exact	12	39,-79.3	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776823
-3776825	UWO	L. Orloci	West Virginia	Tucker	1.7	outside_boundary_exact	14	39,-79.3	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776825
-3776826	UWO	L. Orloci	West Virginia	Tucker	1.7	outside_boundary_exact	15	39,-79.3	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776826

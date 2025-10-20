@@ -1,4 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-KANU	Clyde F Reed	Kentucky	Garrard	0.1	outside_boundary_exact	Kentucky, Garrard County	37.694879,-84.711966	379347	Dix River: along	https://lichenportal.org/portal/collections/individual/index.php?occid=1328643
-KANU	Leslie Hubricht	Kentucky	Madison	0.01	outside_boundary_exact	Kentucky, Rockcastle County	37.522954,-84.296322	3385	Berea: 3.3 mi S, on Madison-Rockcastle Co line	https://lichenportal.org/portal/collections/individual/index.php?occid=1758749
-KANU	Emma L Braun	Kentucky	Whitley	0	outside_boundary_exact	Kentucky, McCreary County	36.838808,-84.345011	3578	Cumberland Falls	https://lichenportal.org/portal/collections/individual/index.php?occid=1758941

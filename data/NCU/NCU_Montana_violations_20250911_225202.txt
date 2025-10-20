@@ -1,4 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-789686	NCU	Hollinger, Jason P.	Montana	Park	0.13	outside_boundary_exact	NCU-l-0001402	45.49,-110.217778	Montana, Sweet Grass County	Absaroka Range, campground about one mile past Main Boulder Station	https://lichenportal.org/portal/collections/individual/index.php?occid=789686
-789692	NCU	Hollinger, Jason P.	Montana	Park	0.13	outside_boundary_exact	NCU-L-0003233	45.49,-110.217778	Montana, Sweet Grass County	Absaroka Range, campground about one mile past Main Boulder Station	https://lichenportal.org/portal/collections/individual/index.php?occid=789692
-826643	NCU	Hollinger, Jason P.	Montana	Park	0.13	outside_boundary_exact	NCU-L-0000861	45.49,-110.217778	Montana, Sweet Grass County	Absaroka Range, campground about one mile past Main Boulder Station	https://lichenportal.org/portal/collections/individual/index.php?occid=826643

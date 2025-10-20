@@ -1,4 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-802337	OMA	NA	Washington	Pierce	770.26	outside_boundary_exact	11588	46.85,-111.3	Montana, Meagher County	Charles L. Pack Experimental Forest; 5 km S of Eatonville	https://lichenportal.org/portal/collections/individual/index.php?occid=802337
-802254	OMA	NA	Washington	Garfield	1.57	outside_boundary_exact	15174	46.633333,-117.366667	Washington, Whitman County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802254
-800385	OMA	NA	Washington	Whitman	0.49	outside_boundary_exact	14003	46.541667,-117.033333	Idaho, Nez Perce County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800385

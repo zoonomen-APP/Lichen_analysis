@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3788571	DAV	Shirley Cotter Tucker	South Dakota	Pennington	1.1	outside_boundary_exact	DAV235649	43.846025,-103.563399	South Dakota, Custer County	Sylvan Lake, Black Hills. [Exact location unknown, coordinates estimated based on collector's locality.]	https://lichenportal.org/portal/collections/individual/index.php?occid=3788571

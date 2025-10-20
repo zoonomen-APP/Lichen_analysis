@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3768785	USCH	Nelson, John; Bradley, Keith	Nebraska	Dawes County	34.58	outside_boundary_exact	NA	42.767167,-103.927395	Nebraska, Sioux County	Harrison	https://lichenportal.org/portal/collections/individual/index.php?occid=3768785

@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4906084	PH	Moul, E.T.	Massachusetts	Barnstable	52.16	outside_boundary_exact	PH00049156	41,-70	not_found_in_US	Falmouth	https://lichenportal.org/portal/collections/individual/index.php?occid=4906084
-4906086	PH	Moul, E.T.	Massachusetts	Barnstable	52.16	outside_boundary_exact	PH00049158	41,-70	not_found_in_US	Woods Hole	https://lichenportal.org/portal/collections/individual/index.php?occid=4906086

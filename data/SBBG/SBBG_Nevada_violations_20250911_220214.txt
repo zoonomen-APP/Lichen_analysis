@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4817821	SBBG	J. Hollinger	Nevada	Lincoln	844.79	outside_boundary_exact	SBBG000531L	32.369667,-106.56225	New Mexico, Doña Ana County	Terry Branches, ca. 20 km N of Mesquite	https://lichenportal.org/portal/collections/individual/index.php?occid=4817821

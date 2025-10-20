@@ -1,9 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-OSC	Carly DelSignore	Maine	Penobscot	79.69	outside_boundary_exact	Maine, Somerset County	45.3125,-70.3125	OSC-M-054779	Hex Plot: 4507053, Cole Number: 8923	https://lichenportal.org/portal/collections/individual/index.php?occid=5428879
-OSC	Carly DelSignore	Maine	Penobscot	79.69	outside_boundary_exact	Maine, Somerset County	45.3125,-70.3125	OSC-M-054779	Hex Plot: 4507053, Cole Number: 8923	https://lichenportal.org/portal/collections/individual/index.php?occid=5428879
-OSC	Laurie Mann	Maine	Penobscot	68.19	outside_boundary_exact	not_found_in_US	44.0625,-68.5625	OSC-M-054789	Hex Plot Number: 4406885, Cole Number: 9081	https://lichenportal.org/portal/collections/individual/index.php?occid=5428889
-OSC	Laurie Mann	Maine	Penobscot	68.19	outside_boundary_exact	not_found_in_US	44.0625,-68.5625	OSC-M-054789	Hex Plot Number: 4406885, Cole Number: 9081	https://lichenportal.org/portal/collections/individual/index.php?occid=5428889
-OSC	Laurie Mann	Maine	Penobscot	28.93	outside_boundary_exact	Maine, Aroostook County	46.1875,-68.0625	OSC-M-054798	Hex Plot Number: 4606828	https://lichenportal.org/portal/collections/individual/index.php?occid=5428898
-OSC	Laurie Mann	Maine	Penobscot	28.93	outside_boundary_exact	Maine, Aroostook County	46.1875,-68.0625	OSC-M-054798	Hex Plot Number: 4606828	https://lichenportal.org/portal/collections/individual/index.php?occid=5428898
-OSC	Laurie Mann	Maine	Washington	28.71	outside_boundary_exact	Maine, Aroostook County	45.9375,-67.9375	OSC-M-054794	Hex Plot Number: 4506788, Cole Number: 8854	https://lichenportal.org/portal/collections/individual/index.php?occid=5428894
-OSC	Laurie Mann	Maine	Washington	28.71	outside_boundary_exact	Maine, Aroostook County	45.9375,-67.9375	OSC-M-054794	Hex Plot Number: 4506788, Cole Number: 8854	https://lichenportal.org/portal/collections/individual/index.php?occid=5428894

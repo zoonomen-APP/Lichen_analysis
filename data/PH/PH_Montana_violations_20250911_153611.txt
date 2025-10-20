@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1797589	PH	Theodore L. Esslinger	Montana	Judith Basin	5339.65	outside_boundary_exact	PH00117915	47.065278,-38.05	not_found_in_US	Lewis and Clark National Forest, along forest route #120, ca. 19.5 km east-southeast of Monarch at ridge top in the Little Belt Mountains	https://lichenportal.org/portal/collections/individual/index.php?occid=1797589
-1777607	PH	Clifford M. Wetmore	Montana	Park	13.71	outside_boundary_exact	PH00107160	44.87361,-110.21167	Wyoming, Park County	Lamar Valley Picnic Area, between Tower and Pebble Creek, Yellowstone National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1777607

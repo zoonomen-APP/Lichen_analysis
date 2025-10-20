@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2412068	MIL	Thomas H. Nash, III	Alaska	Aleutians West	5.23	outside_boundary_exact	125669	57.333333,-170.25	not_found_in_US	Behind the town of St. Paul on St. Paul Island in the Pribloff Islands.	https://lichenportal.org/portal/collections/individual/index.php?occid=2412068

@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1681124	COLO	W. Kienera	Nebraska	Keya Paha	1.77	outside_boundary_exact	COLO-L-0024198	42.705833,-99.591944	Nebraska, Rock County	3 mi. North of Riverview	https://lichenportal.org/portal/collections/individual/index.php?occid=1681124

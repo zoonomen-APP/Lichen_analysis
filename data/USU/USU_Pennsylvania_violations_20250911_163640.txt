@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2939140	USU	J.C. Lendemer	Pennsylvania	Monroe	2.4	outside_boundary_exact	UTC00277151	41.198611,-75.600556	Pennsylvania, Lackawanna County	State Game Lands no. 38, Hypsy Gap, E of Hypsy Gap Road	https://lichenportal.org/portal/collections/individual/index.php?occid=2939140

@@ -1,3 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-KANU	James C Lendemer; Walter Bien; Carrie Kiel	New Jersey	Burlington	1.21	outside_boundary_exact	New Jersey, Ocean County	39.7066667,-74.3758333	380464	Stafford Forge Wildlife Management Area	https://lichenportal.org/portal/collections/individual/index.php?occid=1331622
-KANU	James C Lendemer	New Jersey	Cumberland	0.9	outside_boundary_exact	New Jersey, Atlantic County	39.5069444,-74.9583333	381120	Manumsukin: 0.25 mi N	https://lichenportal.org/portal/collections/individual/index.php?occid=1336136

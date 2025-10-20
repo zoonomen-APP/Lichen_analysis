@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1550055	NHA	A.C. Mathieson	Maine	Knox	0.87	outside_boundary_exact	NHA-499432	44.017268,-69.372927	Maine, Lincoln County	Friendship, Black River Cove boat ramp at the mouth of the Medomak River	https://lichenportal.org/portal/collections/individual/index.php?occid=1550055

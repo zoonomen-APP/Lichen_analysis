@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1416068	MOR	James R. Rastorfer	Alaska	Barrow-Kobuk District	NA	county_not_matched_no_match	L-0000724-MOR	70.425154,-156.788611	county_not_matched	Along the Meade River, 60 miles south of Barrow.	https://lichenportal.org/portal/collections/individual/index.php?occid=1416068
-1440804	MOR	Los A. Viereck	Alaska	Bering Strait District	NA	county_not_matched_no_match	L-0006908-MOR	68.7,-166.25	county_not_matched	Cape Lewis.	https://lichenportal.org/portal/collections/individual/index.php?occid=1440804

@@ -1,5 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-KANU	Clifford M Wetmore	Georgia	Charlton	1296.57	outside_boundary_exact	not_found_in_US	42.6666667,-82.1333333	372897	Okefenokee National Wildlife Refuge	https://lichenportal.org/portal/collections/individual/index.php?occid=1331524
-KANU	Jonathan P Dey	Georgia	Rabun	141.8	outside_boundary_exact	Georgia, Chattooga County	34.502399,-85.165822	390173	Calhoun: ca 12.2 mi W on US Hwy 76	https://lichenportal.org/portal/collections/individual/index.php?occid=3135920
-KANU	Gerould Wilhelm	Georgia	Franklin	105.07	outside_boundary_exact	Georgia, Fannin County	34.950636,-84.384923	435996	Epworth: near, off the S side of Pine Grove Dr	https://lichenportal.org/portal/collections/individual/index.php?occid=5766903
-KANU	Clifford M Wetmore	Georgia	De Kalb	NA	county_not_matched_no_match	county_not_matched	33.8333333,-84.0833333	372914	Atlanta: 18 mi E	https://lichenportal.org/portal/collections/individual/index.php?occid=1338049

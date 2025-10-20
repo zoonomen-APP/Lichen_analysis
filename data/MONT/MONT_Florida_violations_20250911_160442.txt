@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1437935	MONT	B.D. Ryan	Florida	Wakulla	20	outside_boundary_exact	MONT-L-0005054	30.4833333,-84.3083333	Florida, Leon County	vicinity of Cabot Lodge, 0.4 km S of Hwy I-10 on US Hwy 27 (2735 Monroe St.), Talahassee	https://lichenportal.org/portal/collections/individual/index.php?occid=1437935

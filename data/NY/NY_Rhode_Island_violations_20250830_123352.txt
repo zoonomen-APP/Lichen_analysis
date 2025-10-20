@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5396145	NY	C. J. Raithel	Rhode Island	Washington Co.	31.79	outside_boundary_exact	4304457	41.47682,-71.02147	not_found_in_US	Carolina Management Area, east of Diamond Pond	https://lichenportal.org/portal/collections/individual/index.php?occid=5396145

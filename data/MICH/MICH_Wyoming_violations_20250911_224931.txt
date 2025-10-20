@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4576673	MICH	Lewis E. Wehmeyer	Wyoming	Sublette	12.57	outside_boundary_exact	14399	43.3206,-110.7289	Wyoming, Teton County	Hoback Canyon	https://lichenportal.org/portal/collections/individual/index.php?occid=4576673

@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2569059	BALT	J.A. Snider	Michigan	Mackinac	89.67	outside_boundary_exact	BALT-L-0002997	45.055851,-83.61166	Michigan, Alpena County	surrounding Paxton Lake in Paxton.	https://lichenportal.org/portal/collections/individual/index.php?occid=2569059

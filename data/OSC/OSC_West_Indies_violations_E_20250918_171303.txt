@@ -1,3 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-OSC	Bernard Goffinet	West Indies	St. Peter	NA	county_not_matched_no_match	county_not_matched	15.5125,-61.4333333333333	169022	Dominica. W of Morne Diablotins, from turnoff of trail to about 0.5km N of it.	https://lichenportal.org/portal/collections/individual/index.php?occid=4423399
-OSC	Bernard Goffinet	West Indies	St. Peter	NA	county_not_matched_no_match	county_not_matched	15.5125,-61.4333333333333	169022	Dominica. W of Morne Diablotins, from turnoff of trail to about 0.5km N of it.	https://lichenportal.org/portal/collections/individual/index.php?occid=4423399

@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-762405	NCU	Hollinger, Jason P.	West Virginia	Preston	3.89	outside_boundary_exact	NCU-L-0001352	39.64,-79.833333	West Virginia, Monongalia County	Coopers Rock State Forest, near Morgantown	https://lichenportal.org/portal/collections/individual/index.php?occid=762405
-761214	NCU	Perkins, Fern S.	West Virginia	Monogalia	0.67	outside_boundary_similarity_0.778	NCU-L-0003295	39.665833,-79.772222	West Virginia, Preston County	Coopers Rock State Forest, near Morgantown	https://lichenportal.org/portal/collections/individual/index.php?occid=761214

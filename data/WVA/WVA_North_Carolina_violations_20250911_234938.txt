@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1715721	WVA	James C. Lendemer	North Carolina	Swain	0.61	outside_boundary_exact	WVA-L-0000892	35.611111,-83.169444	North Carolina, Swain County	Great Smoky Mountains National Park, along Balsam Mountain Road (gravel) 1.5 mi S of Palmer Creek trailhead	https://lichenportal.org/portal/collections/individual/index.php?occid=1715721

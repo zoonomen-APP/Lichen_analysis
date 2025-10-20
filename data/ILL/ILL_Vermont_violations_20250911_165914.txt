@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1508194	ILL	Harold N. Molderke	Vermont	Windsor	1266.65	outside_boundary_exact	ILL00037969	35.754065,-83.966473	Tennessee, Blount County	Tyson	https://lichenportal.org/portal/collections/individual/index.php?occid=1508194

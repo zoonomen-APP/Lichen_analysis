@@ -1,6 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1709804	OS	D.W. Francis	Vermont	Chittenden	0.22	outside_boundary_exact	OS0006122	44.549,-72.811	Vermont, Lamoille County	Mt. Mansfield, near Lake of Clouds	https://lichenportal.org/portal/collections/individual/index.php?occid=1709804
-2423723	OS	D. Lewis Dutton	Vermont	Lamoille	0.16	outside_boundary_exact	OS0013096	44.543663,-72.81429	Vermont, Chittenden County	The Chin, Mt. Mansfield; 44.543663 -72.81429	https://lichenportal.org/portal/collections/individual/index.php?occid=2423723
-2425445	OS	D. Lewis Dutton	Vermont	Lamoille	0.16	outside_boundary_exact	OS0012876	44.543663,-72.81429	Vermont, Chittenden County	The Chin, Mt. Mansfield; 44.543663 -72.81429	https://lichenportal.org/portal/collections/individual/index.php?occid=2425445
-3409487	OS	D. Lewis Dutton	Vermont	Addison Co.	0.05	outside_boundary_exact	OS0071180	43.8503,-72.9669	Vermont, Windsor County	Ledges - Mt. Horrid, Rochester	https://lichenportal.org/portal/collections/individual/index.php?occid=3409487
-2408996	OS	D. Lewis Dutton	Vermont	Rutland	0.03	outside_boundary_exact	OS0022200	43.84443,-73.10612	Vermont, Addison County	Brandon-Leicester; 43.84443 -73.10612	https://lichenportal.org/portal/collections/individual/index.php?occid=2408996

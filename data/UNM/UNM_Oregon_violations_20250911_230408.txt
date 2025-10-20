@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3124453	UNM	T. L. Esslinger	Oregon	Multnomah	36.72	outside_boundary_exact	NA	45.13,-121.95	Oregon, Clackamas County	At Bonneville Dam site.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124453
-3124604	UNM	G. D. Carr	Oregon	Benton	9.66	outside_boundary_exact	NA	44.58,-123	Oregon, Linn County	Two miles North of Corvallis.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124604

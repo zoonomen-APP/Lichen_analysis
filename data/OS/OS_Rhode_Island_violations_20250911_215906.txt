@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2406639	OS	Don Flenniken	Rhode island	Kent	109.43	outside_boundary_exact	OS0021626	40.621383,-71.703967	not_found_in_US	W. Alton Jones Campus; Nature Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=2406639

@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4993473	CUP	William L. Culberson	Arizona	Pima	2583.53	outside_boundary_exact	CUP-L-0011151	31.7422222,-82.8536111	Georgia, Coffee County	Mount Lemmon, near road to winter sports area.	https://lichenportal.org/portal/collections/individual/index.php?occid=4993473

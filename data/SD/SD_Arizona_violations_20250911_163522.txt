@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5381299	SD	T.H. Nash III	Arizona	Coconino	0.53	outside_boundary_exact	143172	34.3,-110.9166667	Arizona, Coconino County	Mogollon Rim immediately S of where Route 260 crosses the rim	https://lichenportal.org/portal/collections/individual/index.php?occid=5381299

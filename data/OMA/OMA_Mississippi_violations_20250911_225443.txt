@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-802735	OMA	NA	Mississippi	Choctaw	5.16	outside_boundary_exact	16689	33.358333,-89.509722	Mississippi, Montgomery County	Natchez Trace National Parkway; miles marker 187	https://lichenportal.org/portal/collections/individual/index.php?occid=802735

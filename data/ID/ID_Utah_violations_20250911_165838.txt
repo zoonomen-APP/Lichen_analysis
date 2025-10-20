@@ -1,4 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2914500	ID	T.H. Nash III	Utah	Washington	1.39	outside_boundary_exact	ID-L-0001869	37.2166667,-112.8833333	Utah, Kane County	Zion National Park, East Zion, small canyon on north side of Checkerboard Mesa	https://lichenportal.org/portal/collections/individual/index.php?occid=2914500
-2911693	ID	T.H. Nash III	Utah	San Juan	0.28	outside_boundary_exact	ID-L-0007768	37,-110.8333333	Arizona, Coconino County	South side of Navajo Mountain.	https://lichenportal.org/portal/collections/individual/index.php?occid=2911693
-2911662	ID	H.A. Imshaug	Utah	Juab	0.03	outside_boundary_exact	ID-L-0007776	39.821623,-111.759931	Utah, Utah County	Summit of Mt. Nebo, Wasatch Mts.	https://lichenportal.org/portal/collections/individual/index.php?occid=2911662

@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4798982	BRIT	Steven R. Hill	South Carolina	Henderson	58.14	outside_boundary_similarity_0.667	BRIT694264	35.33766,-82.43837	North Carolina, Henderson County	Lot next to Red Roof Inn, 240 Mitchelle Drive near Rt. I-26, Hendersonville.	https://lichenportal.org/portal/collections/individual/index.php?occid=4798982

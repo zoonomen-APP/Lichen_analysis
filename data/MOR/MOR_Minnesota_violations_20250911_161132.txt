@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5031371	MOR	M.K. Advaita	Minnesota	Lac qui Parle	13.18	outside_boundary_exact	L-0017877-MOR	45.249667,-96.620833	South Dakota, Grant County	3 mi S, 3 mi W of Odessa. Big Stone National Wildlife Refuge, central area.	https://lichenportal.org/portal/collections/individual/index.php?occid=5031371
-5070304	MOR	M.K. Advaita	Minnesota	Lac Qui Parle	13.18	outside_boundary_exact	L-0018000-MOR	45.249667,-96.620833	South Dakota, Grant County	3 mi S, 3 mi W of Odessa. Big Stone National Wildlife Refuge, central area.	https://lichenportal.org/portal/collections/individual/index.php?occid=5070304

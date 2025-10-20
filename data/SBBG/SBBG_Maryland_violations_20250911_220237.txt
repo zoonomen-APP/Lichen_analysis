@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1315650	SBBG	J. Lendemer	Maryland	Cecil	14.78	outside_boundary_exact	NA	39.536111,-75.605556	Delaware, New Castle County	Elk Neck St Forest; Black Hill Tract, Black Hill 0.1 mile S of McKinhneytown Rd	https://lichenportal.org/portal/collections/individual/index.php?occid=1315650

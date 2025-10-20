@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2910851	ID	Doyle E. Anderegg	Montana	Sweet Grass	79.1	outside_boundary_exact	ID-L-0004923	45.0125,-109.0125	Montana, Carbon County	65 mi west of Billings, Montana, Sec. 21, T11S, R16E	https://lichenportal.org/portal/collections/individual/index.php?occid=2910851

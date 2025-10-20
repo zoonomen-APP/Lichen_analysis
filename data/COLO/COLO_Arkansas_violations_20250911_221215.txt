@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3171143	COLO	J. P. Dey	Arkansas	Benton	47.55	outside_boundary_exact	COLO-L-0051767	36.5933,-93.3439	Missouri, Stone County	Hobbs State Park-Conservation Area, southern shore of Beaver Lake, off AR Hwy 12, east of Rodgers.	https://lichenportal.org/portal/collections/individual/index.php?occid=3171143

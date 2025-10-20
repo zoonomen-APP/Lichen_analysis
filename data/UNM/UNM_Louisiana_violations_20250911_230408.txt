@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3124290	UNM	American Bryological Society Foray	Louisiana	Sabine	46.36	outside_boundary_exact	NA	31,-93	Louisiana, Vernon County	Hodge's Gardens; 12 miles south of Many.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124290
-3124248	UNM	American Bryological Society Foray	Louisiana	Sabine	46.36	outside_boundary_exact	NA	31,-93	Louisiana, Vernon County	Hodge's Gardens; 12 miles south of Many.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124248

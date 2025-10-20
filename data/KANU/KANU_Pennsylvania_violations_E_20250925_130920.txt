@@ -1,5 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-KANU	James C Lendemer; Daniel Atha	Pennsylvania	Lycoming	0.82	outside_boundary_exact	Pennsylvania, Tioga County	41.5805556,-76.9333333	382882	Tiadaghton State Forest: McIntyre Wild Area	https://lichenportal.org/portal/collections/individual/index.php?occid=1327885
-KANU	James C Lendemer; William R Buck; Richard C Harris	Pennsylvania	Pike	0.35	outside_boundary_exact	Pennsylvania, Pike County	41.1391667,-75.0886111	390074	Delaware State Forest: Pennel Run Natural Area, S of Snow Hill Rd, 1.2 mi SW of PA 402, Porter Twp	https://lichenportal.org/portal/collections/individual/index.php?occid=3135820
-KANU	James C Lendemer	Pennsylvania	Adams	0.24	outside_boundary_exact	Pennsylvania, Franklin County	39.8708333,-77.4694444	382948	Michaux State Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=1327585
-KANU	James C Lendemer	Pennsylvania	Wayne	0.03	outside_boundary_exact	Pennsylvania, Lackawanna County	41.2583333,-75.4408333	379975	Lehigh: E	https://lichenportal.org/portal/collections/individual/index.php?occid=1326530

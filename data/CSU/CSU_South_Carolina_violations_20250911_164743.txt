@@ -1,6 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5361873	CSU	S. Strawn	South Carolina	Beaufort	0.66	outside_boundary_exact	CSU-L-3439	32.23104,-81.021087	South Carolina, Jasper County	Parrot Creek Drive	https://lichenportal.org/portal/collections/individual/index.php?occid=5361873
-5361874	CSU	S. Strawn	South Carolina	Beaufort	0.66	outside_boundary_exact	CSU-L-3452	32.231041,-81.021088	South Carolina, Jasper County	Parrot Creek Drive	https://lichenportal.org/portal/collections/individual/index.php?occid=5361874
-5361875	CSU	S. Strawn	South Carolina	Beaufort	0.66	outside_boundary_exact	CSU-L-3499	32.231042,-81.021089	South Carolina, Jasper County	Parrot Creek Drive	https://lichenportal.org/portal/collections/individual/index.php?occid=5361875
-5361876	CSU	S. Strawn	South Carolina	Beaufort	0.66	outside_boundary_exact	CSU-L-3446	32.231043,-81.02109	South Carolina, Jasper County	Parrot Creek Drive	https://lichenportal.org/portal/collections/individual/index.php?occid=5361876
-5361877	CSU	S. Strawn	South Carolina	Beaufort	0.66	outside_boundary_exact	CSU-L-3437	32.231044,-81.021091	South Carolina, Jasper County	Parrot Creek Drive	https://lichenportal.org/portal/collections/individual/index.php?occid=5361877

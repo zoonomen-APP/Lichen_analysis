@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1819379	UNLV	Roger Rosentreter	Nevada	White Pine	51.23	outside_boundary_exact	UNLV-L-0000086	40.58,-114.98	Nevada, Elko County	South of Wells	https://lichenportal.org/portal/collections/individual/index.php?occid=1819379

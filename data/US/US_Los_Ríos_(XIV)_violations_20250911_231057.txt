@@ -1,9 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2749400	US	R. Santesson	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-39.8667,-72.1667	county_not_matched	Lago Rinihue, Enco.	https://lichenportal.org/portal/collections/individual/index.php?occid=2749400
-2777643	US	R. Santesson	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-39.8667,-72.1667	county_not_matched	Lago Rinihue, Enco.	https://lichenportal.org/portal/collections/individual/index.php?occid=2777643
-2821800	US	R. Santesson	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-39.87,-72.17	county_not_matched	Lago Rinihue, Enco.	https://lichenportal.org/portal/collections/individual/index.php?occid=2821800
-2749430	US	R. Santesson	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-39.8667,-72.1667	county_not_matched	Lago Rinihue, Enco.	https://lichenportal.org/portal/collections/individual/index.php?occid=2749430
-2801244	US	M. Wedin	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-40.07,-73.55	county_not_matched	Ca 40 km SW Valdivia, Monumente Natural Alerce Costero, El Mirador.	https://lichenportal.org/portal/collections/individual/index.php?occid=2801244
-2821806	US	R. Santesson	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-39.85,-72.35	county_not_matched	Lago Rinihue.	https://lichenportal.org/portal/collections/individual/index.php?occid=2821806
-2821801	US	R. Santesson	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-39.85,-72.35	county_not_matched	Lago Rinihue, Rinihue.	https://lichenportal.org/portal/collections/individual/index.php?occid=2821801
-3384062	US	R. Santesson	Los Ríos (XIV)	Valdivia	NA	county_not_matched_no_match	NA	-39.87,-72.17	county_not_matched	Prov. Valdivia, Lago Rinihue, Enco.	https://lichenportal.org/portal/collections/individual/index.php?occid=3384062

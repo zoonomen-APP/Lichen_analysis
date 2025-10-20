@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-803391	OMA	NA	Florida	Alachua	85.2	outside_boundary_exact	12055	28.693333,-82.48	Florida, Hernando County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=803391
-803355	OMA	NA	Florida	Wakulla	20	outside_boundary_exact	16525	30.483333,-84.308333	Florida, Leon County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=803355

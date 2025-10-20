@@ -1,4 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4804570	WTU	Clifford M. Wetmore	Wyoming	Teton	90.59	outside_boundary_exact	WTU-L-025439	45.468056,-110.467222	Montana, Park County	Yellowstone National Park. Spruce-Fir Picnic Area, 7 mi SW of Bridge Bay. W shore of Yellowstone Lake.	https://lichenportal.org/portal/collections/individual/index.php?occid=4804570
-1280403	WTU	B. D. Ryan	Wyoming	Washakie	78	outside_boundary_exact	WTU-L-032843	44.158333,-106.15	Wyoming, Johnson County	W side of Hwy 6, 24 mi E of Tensleep.	https://lichenportal.org/portal/collections/individual/index.php?occid=1280403
-1281018	WTU	James B. Ryan	Wyoming	Park	9.22	outside_boundary_exact	WTU-L-032287	44.5,-110.5	Wyoming, Teton County	Yellowstone National Park.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281018

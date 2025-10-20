@@ -1,3 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-OSC	Claire K. Schmitt	New York	Warren	0.08	outside_boundary_exact	New York, Washington County	43.566667,-73.6	OSC-M-050734	Town of Bolton, Tongue Mountain, Lake George.	https://lichenportal.org/portal/collections/individual/index.php?occid=4788258
-OSC	Claire K. Schmitt	New York	Warren	0.08	outside_boundary_exact	New York, Washington County	43.566667,-73.6	OSC-M-050734	Town of Bolton, Tongue Mountain, Lake George.	https://lichenportal.org/portal/collections/individual/index.php?occid=4788258

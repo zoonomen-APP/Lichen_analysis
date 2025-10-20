@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4572886	F	E. L. Moseley	Louisiana	West Carroll	12.87	outside_boundary_exact	NA	32.469872,-91.628399	Louisiana, Richland County	Holly Ridge	https://lichenportal.org/portal/collections/individual/index.php?occid=4572886
-3047075	F	S. C. Tucker	Louisiana	East Feliciana	8.2	outside_boundary_exact	C0089274F	30.8,-90.75	Louisiana, St. Helena County	Idlewild Research Station, 5.6 kilometers southeast of Clinton	https://lichenportal.org/portal/collections/individual/index.php?occid=3047075

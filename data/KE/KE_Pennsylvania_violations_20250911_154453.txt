@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-4775056	KE	Tomás Curtis	Pennsylvania	Clarion County	0.12	outside_boundary_exact	6169	41.3329,-79.2074	Pennsylvania, Forest County	Cook Forest State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=4775056
-4775306	KE	Tomás Curtis	Pennsylvania	Clarion County	0.04	outside_boundary_exact	6419	41.3338,-79.2083	Pennsylvania, Forest County	Cooksburg, Cook Forest State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=4775306

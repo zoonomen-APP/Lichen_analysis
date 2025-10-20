@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-5492459	CLEMS	Ciegler, Alex	Alabama	De Kalb	NA	county_not_matched_no_match	66110	34.475317,-86.050883	county_not_matched	Bucks Pocket State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=5492459

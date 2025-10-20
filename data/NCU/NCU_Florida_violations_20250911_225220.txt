@@ -1,6 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1417966	NCU	Coker, William Chambers	Florida	Charlotte	133.34	outside_boundary_exact	NCU-L-0003697	27.6075,-80.382778	Florida, Indian River County	Campobello	https://lichenportal.org/portal/collections/individual/index.php?occid=1417966
-4776892	NCU	Spence, Lundie	Florida	Palm Beach	80.54	outside_boundary_exact	NCU-L-0006463	25.9833,-81.5833	Florida, Collier County	Royal Palm [Beach]	https://lichenportal.org/portal/collections/individual/index.php?occid=4776892
-4776893	NCU	Spence, Lundie	Florida	Palm Beach	80.54	outside_boundary_exact	NCU-L-0006462	25.9833,-81.5833	Florida, Collier County	Royal Palm [Beach]	https://lichenportal.org/portal/collections/individual/index.php?occid=4776893
-1417995	NCU	Small, John K.	Florida	Miami-Dade	7.25	outside_boundary_exact	NCU-L-0003717	25.316667,-80.933333	Florida, Monroe County	Goodburn Hammock, Everglade Keys	https://lichenportal.org/portal/collections/individual/index.php?occid=1417995
-1312761	NCU	Schallert, Paul O.	Florida	St. Johns	0.35	outside_boundary_standardized_exact	NCU-L-0003494	29.6675,-81.213611	Florida, Flagler County	Marineland	https://lichenportal.org/portal/collections/individual/index.php?occid=1312761

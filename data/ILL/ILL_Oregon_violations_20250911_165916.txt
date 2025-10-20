@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1509680	ILL	George Neville Jones	Oregon	Jackson	10.77	outside_boundary_exact	ILL00039456	42.9333,-122.15	Oregon, Klamath County	Near Vidae Falls; Crater Lake National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1509680

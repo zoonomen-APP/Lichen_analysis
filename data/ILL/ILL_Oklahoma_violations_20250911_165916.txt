@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1509553	ILL	M.E. Hale	Oklahoma	Adair	52.45	outside_boundary_exact	ILL00039329	36.435262,-95.275696	Oklahoma, Mayes County	Near stillwell	https://lichenportal.org/portal/collections/individual/index.php?occid=1509553
-1509581	ILL	M.E. Hale	Oklahoma	Osage	1.75	outside_boundary_exact	ILL00039357	36.747311,-95.980818	Oklahoma, Washington County	Near Bartlesville	https://lichenportal.org/portal/collections/individual/index.php?occid=1509581

@@ -1,5 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-KANU	William C Barbour	Pennsylvanica	Mercer	860.06	outside_boundary_exact	Pennsylvania, Mercer County	41.157838,-80.08867	8016	Grove City	https://lichenportal.org/portal/collections/individual/index.php?occid=5614078
-KANU	William C Barbour	Pennsylvanica	Mercer	860.06	outside_boundary_exact	Pennsylvania, Mercer County	41.157838,-80.08867	8222	Grove City	https://lichenportal.org/portal/collections/individual/index.php?occid=5614212
-KANU	William C Barbour	Pennsylvanica	Mercer	860.06	outside_boundary_exact	Pennsylvania, Mercer County	41.157838,-80.08867	8421	Grove City	https://lichenportal.org/portal/collections/individual/index.php?occid=5614286
-KANU	William C Barbour	Pennsylvanica	Mercer	860.06	outside_boundary_exact	Pennsylvania, Mercer County	41.157838,-80.08867	8412	Grove City	https://lichenportal.org/portal/collections/individual/index.php?occid=5614292

@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1243323	OS	John W Thomson	Montana	Missoula	0.22	outside_boundary_exact	OS0001290	47.001587,-114.473455	Montana, Missoula County	Forest Service Hwy. 38 S of Alberton.	https://lichenportal.org/portal/collections/individual/index.php?occid=1243323

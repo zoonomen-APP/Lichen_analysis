@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1296414	FH	B. D. Ryan	Washington	Skagit County	1.41	outside_boundary_exact	barcode-00259884	48.28333333,-121.24166667	Washington, Snohomish County	Glacier Peak Wilderness. Plot 5 (5000 ft.), off Green Mountain Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=1296414

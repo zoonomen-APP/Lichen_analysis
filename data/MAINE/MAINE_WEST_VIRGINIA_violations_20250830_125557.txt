@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-2692823	MAINE	L. W. Nuttall	WEST VIRGINIA	FAYETTE	1022.33	outside_boundary_exact	MAINE-L-0008127	42.843,-91.803	Iowa, Fayette County	Fayette	https://lichenportal.org/portal/collections/individual/index.php?occid=2692823

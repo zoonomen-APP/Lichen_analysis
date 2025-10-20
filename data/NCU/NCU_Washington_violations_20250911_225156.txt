@@ -1,5 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1312763	NCU	Schallert, Paul O.	Washington	Clallam	210.95	outside_boundary_exact	NCU-L-0003490	47.905278,-127.626111	not_found_in_US	near La Push	https://lichenportal.org/portal/collections/individual/index.php?occid=1312763
-1312748	NCU	Schallert, Paul Otto	Washington	Grays Harbor	100.13	outside_boundary_exact	NCU-L-0003503	45.890833,-124.11	not_found_in_US	near Westport	https://lichenportal.org/portal/collections/individual/index.php?occid=1312748
-5604627	NCU	Perlmutter, Gary B.	Washington	San Juan	4.51	outside_boundary_exact	NCU-L-0007495	48.501802,-122.68061	not_found_in_US	Anacortes, trail from parking lot to ferry terminal	https://lichenportal.org/portal/collections/individual/index.php?occid=5604627
-1312779	NCU	Schallert, Paul O.	Washington	Pierce	3.47	outside_boundary_exact	NCU-L-0003476	46.75,-121.75	Washington, Lewis County	Mt. Rainier	https://lichenportal.org/portal/collections/individual/index.php?occid=1312779

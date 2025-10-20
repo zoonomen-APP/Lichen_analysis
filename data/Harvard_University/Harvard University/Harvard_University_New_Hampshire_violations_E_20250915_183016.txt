@@ -1,2 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-Harvard University	M. A. Sherwood, D. T. Plas, D. Gregory & G. A. Caccavio	New Hampshire	Coos County	233.06	outside_boundary_exact	Massachusetts, Hampshire County	42.364038,-72.9659888	barcode-00811533	White Mountains	https://lichenportal.org/portal/collections/individual/index.php?occid=5825895

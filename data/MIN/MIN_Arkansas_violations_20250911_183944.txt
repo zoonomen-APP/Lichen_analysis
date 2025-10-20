@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-353827	MIN	Johnson, G.	Arkansas	Chicot	175.53	outside_boundary_exact	757142	35.021668,-92.166575	Arkansas, Faulkner County	Macon, 7 Mi N of	https://lichenportal.org/portal/collections/individual/index.php?occid=353827

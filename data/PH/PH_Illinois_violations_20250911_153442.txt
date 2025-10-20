@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1775530	PH	T.H. Nash III	Illinois	Jackson	14.86	outside_boundary_exact	PH00103570	37.46667,-89.28333	Illinois, Union County	About 10 km south of Southern Illinois University Campus and just south of Giant City State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1775530

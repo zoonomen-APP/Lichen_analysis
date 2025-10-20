@@ -1,4 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-UCR(temp)	T.H. Nash III	Oregon	Hood River	1062.84	outside_boundary_exact	not_found_in_US	35.75694,-121.5625	UCR-154887	Mt. Hood National Forest, 1 km below Sherwood campground along rte 35	https://lichenportal.org/portal/collections/individual/index.php?occid=2591653
-UCR(temp)	T.H. Nash III	Oregon	Hood River	1062.84	outside_boundary_exact	not_found_in_US	35.75694,-121.5625	UCR-155576	Mt. Hood National Forest, 1 km below Sherwood campground along rte 35	https://lichenportal.org/portal/collections/individual/index.php?occid=2591788
-UCR(temp)	T.H. Nash III	Oregon	Marrion	0.2	outside_boundary_similarity_0.833	Oregon, Clackamas County	44.8875,-121.85	SBBG007482L	Along Forest Service rd 4690 at the Clackamas River, Mt. Hood National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=2592296

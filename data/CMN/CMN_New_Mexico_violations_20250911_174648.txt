@@ -1,3 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-3322232	CMN	Brodo, Irwin M. | Brodo, Fenja	New Mexico	McKinley Co.	7.88	outside_boundary_exact	CANL 128330	35.2333,-107.6	New Mexico, Cibola County	road to Mount Taylor at end of pavement, ca. 25 km NE of Grants	https://lichenportal.org/portal/collections/individual/index.php?occid=3322232
-5707731	CMN	Brodo, Irwin M.	New Mexico	San Miguel Co. (NM)	0.24	outside_boundary_reverse_partial	CANL 10020132	35.67,-105.72	New Mexico, Santa Fe County	Santa Fe National Forest, Dalton Canyon, Forest Service Road 123, near end of road	https://lichenportal.org/portal/collections/individual/index.php?occid=5707731

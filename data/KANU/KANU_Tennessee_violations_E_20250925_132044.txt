@@ -1,3 +1,0 @@
-institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-KANU	Erin A Tripp; James C Lendemer	Tennessee	Sevier	790.73	outside_boundary_exact	Michigan, Lapeer County	43.1,-83.3502778	390165	Great Smoky Mountains National Park: ca 0.5 mi SW of summit of Greenbrier Pinnacle up and unmarked/unnamed trail (via Ramsey Cascades Trail)	https://lichenportal.org/portal/collections/individual/index.php?occid=3135909
-KANU	James C Lendemer	Tennessee	Sevier	0.02	outside_boundary_exact	Tennessee, Sevier County	35.6622222,-83.3433333	390131	Great Smoky Mountains National Park: Appalachian Trail 0-1 mi E of False Gap	https://lichenportal.org/portal/collections/individual/index.php?occid=3135876

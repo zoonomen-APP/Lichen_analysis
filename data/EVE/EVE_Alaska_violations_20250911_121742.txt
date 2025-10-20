@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1322903	EVE	K. Dillman	Alaska	Sitka	53.07	outside_boundary_exact	194	57.083333,-133.833333	Alaska, Prince of Wales-Hyder County	Schooner Is., off N shore of Kupreanof Is. Tongass NF	https://lichenportal.org/portal/collections/individual/index.php?occid=1322903

@@ -1,2 +1,0 @@
-occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
-1418554	MOR	Steven Apfelbaum	Texas	Hardin	1.6	outside_boundary_exact	L-0002389-MOR	30.54123,-94.341006	Texas, Tyler County	East of Houston, Big Thicket National Preserve and vicinity.	https://lichenportal.org/portal/collections/individual/index.php?occid=1418554

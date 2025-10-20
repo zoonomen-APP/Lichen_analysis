@@ -1,0 +1,10 @@
+Alan@DESKTOP-30GEGVP MINGW64 /c/Lichen_analysis/data/OSC (master)
+$ e FIA OSC_dwnld_0919.txt|wc
+ 127385 14098048 134694646
+
+Alan@DESKTOP-30GEGVP MINGW64 /c/Lichen_analysis/data/OSC (master)
+$ wc  OSC_dwnld_0919.txt
+   174969  17591340 174286016 OSC_dwnld_0919.txt
+
+
+127385/174969 = 0.73

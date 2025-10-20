@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+VT	C. E. Cummings	Massachusetts	Essex	195.58	outside_boundary_exact	Maine, Knox County	44.182576,-69.117408	UVMVT017637	Rockport	https://lichenportal.org/portal/collections/individual/index.php?occid=1313336
+VT	C. J. Sprague	Massachusetts	Plymouth	167.21	outside_boundary_exact	New Hampshire, Grafton County	43.742874,-71.724778	UVMVT016028	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1287236
+VT	C. E. Cummings	Massachusetts	Rockford	NA	county_not_matched_no_match	county_not_matched	42.25,-71.8333	UVMVT016675	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1305325

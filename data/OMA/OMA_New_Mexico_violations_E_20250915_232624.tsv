@@ -1,0 +1,13 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+OMA	NA	New Mexico	Eddy	5176.93	outside_boundary_exact	not_found_in_US	32.030278,-47.616667	11799	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=796921
+OMA	NA	New Mexico	Eddy	219.95	outside_boundary_exact	not_found_in_US	30.019722,-104.800278	11594	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=796888
+OMA	NA	New Mexico	Eddy	219.95	outside_boundary_exact	not_found_in_US	30.019722,-104.800278	11604	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=796892
+OMA	NA	New Mexico	Eddy	218.1	outside_boundary_exact	not_found_in_US	30.036389,-104.800278	11543	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=796839
+OMA	NA	New Mexico	Catron	90.45	outside_boundary_exact	New Mexico, Hidalgo County	32.397222,-108.592778	16331	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=796323
+OMA	NA	New Mexico	Hidalgo	89.03	outside_boundary_exact	Arizona, Cochise County	32.1615,-109.997222	16334	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=798890
+OMA	NA	New Mexico	Lincoln	2.27	outside_boundary_exact	New Mexico, Otero County	33.37,-105.793333	12061	Lincoln National Forest; Tanbark Canyon near Skull Spring	https://lichenportal.org/portal/collections/individual/index.php?occid=796167
+OMA	NA	New Mexico	Torrence	NA	county_not_matched_no_match	county_not_matched	34.666667,-106.4125	15764	Cibola National Forest; New Canyon Campground, 4 miles W of Manzano	https://lichenportal.org/portal/collections/individual/index.php?occid=796432
+OMA	NA	New Mexico	Torrence	NA	county_not_matched_no_match	county_not_matched	34.666667,-106.4125	16602	Cibola National Forest; New Canyon Campground, 4 miles W of Manzano	https://lichenportal.org/portal/collections/individual/index.php?occid=796429
+OMA	NA	New Mexico	Torrence	NA	county_not_matched_no_match	county_not_matched	34.666667,-106.4125	16631	Cibola National Forest; New Canyon Campground, 4 miles W of Manzano	https://lichenportal.org/portal/collections/individual/index.php?occid=796427
+OMA	NA	New Mexico	Torrence	NA	county_not_matched_no_match	county_not_matched	34.666667,-106.4125	16632	Cibola National Forest; New Canyon Campground, 4 miles W of Manzano	https://lichenportal.org/portal/collections/individual/index.php?occid=796426
+OMA	NA	New Mexico	Torrence	NA	county_not_matched_no_match	county_not_matched	34.666667,-106.4125	16661	Cibola National Forest; New Canyon Campground, 4 miles W of Manzano	https://lichenportal.org/portal/collections/individual/index.php?occid=796428

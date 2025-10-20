@@ -1,0 +1,4 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+ILL	Alice L. Crockett	Maine	Knox	0.94	outside_boundary_exact	Maine, Waldo County	44.2692,-69.123514	ILL00039482	Lake Megunticook	https://lichenportal.org/portal/collections/individual/index.php?occid=1509706
+ILL	Alice L. Crockett	Maine	Camden	NA	county_not_matched_no_match	county_not_matched	44.209801,-69.064759	ILL00038331	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1508555
+ILL	Alice L. Crockett	Maine	Camden	NA	county_not_matched_no_match	county_not_matched	44.209801,-69.064759	ILL00038339	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1508563

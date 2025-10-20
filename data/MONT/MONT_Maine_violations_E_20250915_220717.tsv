@@ -1,0 +1,5 @@
+institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+MONT	Clara E. Cummings	Maine	Aroostook	0.24	outside_boundary_exact	Maine, Aroostook County	47.166667,-67.933333	MONT-L-0000572	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1319809
+MONT	Clara E. Cummings	Maine	Aroostook	0.24	outside_boundary_exact	Maine, Aroostook County	47.166667,-67.933333	MONT-L-0003525	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1388269
+MONT	Clara E. Cummings	Maine	Aroostook	0.24	outside_boundary_exact	Maine, Aroostook County	47.166667,-67.933333	MONT-L-0003935	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1389426
+MONT	Clara E. Cummings	Maine	Madawaska	NA	county_not_matched_no_match	county_not_matched	47.166667,-67.933333	MONT-L-0003502	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1388246

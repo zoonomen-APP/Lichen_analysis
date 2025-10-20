@@ -1,0 +1,4 @@
+occurrenceID	institutionCode	recordedBy	stateProvince	county	distance_km	status	catalogNumber	coordinates	implied_location	locality	record_link
+795356	OMA	NA	North Carolina	Macon	12.4	outside_boundary_exact	16306	35.25,-83.083333	North Carolina, Jackson County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=795356
+800162	OMA	NA	North Carolina	Haywood-Jackson	NA	county_not_matched_no_match	16337	35.616667,-83.116667	county_not_matched	Great Smoky Mountains National Park; Woody's Place along Rough Fork Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=800162
+797859	OMA	NA	North Carolina	Haywood-Jackson	NA	county_not_matched_no_match	16340	35.366667,-82.983333	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=797859

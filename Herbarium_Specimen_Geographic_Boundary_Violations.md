@@ -323,6 +323,24 @@ Records grouped by claimed state (what the database says), sorted by error sever
 
 Within each error type, records are sorted by distance from boundary (descending - worst offenders first).
 
+
+### Important Notes on Error Classification and Sorting
+
+**Error Type Priority System:**
+
+Records are sorted first by error type priority, then by distance (descending):
+1. **COUNTRY** (Priority 1000) - Coordinates fall outside recognized US boundaries
+2. **STATE** (Priority 100) - Coordinates fall in different US state than claimed  
+3. **COUNTY** (Priority 10) - Coordinates fall outside claimed county (state correct)
+
+**Limitation of This Approach:**
+
+This priority system does not account for the magnitude of the error. A record with coordinates 0.3 km offshore (COUNTRY error, likely GPS drift or shoreline ambiguity) will sort before a record 50 km across a state line (STATE error, clearly wrong location). 
+
+**Approximately 3,384 records** have `implied_location = "not_found_in_US"`, indicating coordinates outside recognized US boundaries. Many of these are minor offshore errors rather than catastrophic location problems.
+
+**Recommendation:** When reviewing violations, consider BOTH the error type AND the distance from boundary. The most severe errors are often those with large distances, regardless of type classification. Within each error type, records are sorted by distance (worst first), which helps identify the most problematic cases.
+
 **State Files:**
 - [Alabama](./geography/by_state/Alabama/)
 - [Alaska](./geography/by_state/Alaska/)

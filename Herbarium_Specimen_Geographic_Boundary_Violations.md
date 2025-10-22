@@ -297,6 +297,7 @@ management rather than field collection.
 - [Shushan](./collectors/Shushan/) - Shushan
 - [Solano](./collectors/Solano/) - Solano
 - [St. Clair](./collectors/St__Clair/) - St. Clair
+- [Stone](./collectors/Stone/) - Stone
 
 ### T-Z
 - [Talbot](./collectors/Talbot/) - Talbot
@@ -337,6 +338,6 @@ management rather than field collection.
 
 ---
 appeterson37@gmail.com
-2025.10.19
+2025.10.21
 
 <!-- *For technical questions about the analysis methodology, see the R script: `multi_herbarium_boundary_validation_v3_09_11.R`* -->

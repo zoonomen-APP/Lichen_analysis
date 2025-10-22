@@ -311,6 +311,69 @@ management rather than field collection.
 
 ---
 
+
+## Analyses by Geography (NEW)
+
+Records grouped by claimed state (what the database says), sorted by error severity and distance. Each state file prioritizes records by error type:
+
+**Error Type Priority:**
+1. **COUNTRY** (Priority 1000) - Coordinates fall outside the US or in wrong country
+2. **STATE** (Priority 100) - Coordinates fall in different US state than claimed
+3. **COUNTY** (Priority 10) - Coordinates fall outside claimed county (but state is correct)
+
+Within each error type, records are sorted by distance from boundary (descending - worst offenders first).
+
+**State Files:**
+- [Alabama](./geography/by_state/Alabama/)
+- [Alaska](./geography/by_state/Alaska/)
+- [Arizona](./geography/by_state/Arizona/)
+- [Arkansas](./geography/by_state/Arkansas/)
+- [California](./geography/by_state/California/)
+- [Colorado](./geography/by_state/Colorado/)
+- [Connecticut](./geography/by_state/Connecticut/)
+- [Delaware](./geography/by_state/Delaware/)
+- [Florida](./geography/by_state/Florida/)
+- [Georgia](./geography/by_state/Georgia/)
+- [Hawaii](./geography/by_state/Hawaii/)
+- [Idaho](./geography/by_state/Idaho/)
+- [Illinois](./geography/by_state/Illinois/)
+- [Indiana](./geography/by_state/Indiana/)
+- [Iowa](./geography/by_state/Iowa/)
+- [Kansas](./geography/by_state/Kansas/)
+- [Kentucky](./geography/by_state/Kentucky/)
+- [Louisiana](./geography/by_state/Louisiana/)
+- [Maine](./geography/by_state/Maine/)
+- [Maryland](./geography/by_state/Maryland/)
+- [Massachusetts](./geography/by_state/Massachusetts/)
+- [Michigan](./geography/by_state/Michigan/)
+- [Minnesota](./geography/by_state/Minnesota/)
+- [Mississippi](./geography/by_state/Mississippi/)
+- [Missouri](./geography/by_state/Missouri/)
+- [Montana](./geography/by_state/Montana/)
+- [Nebraska](./geography/by_state/Nebraska/)
+- [Nevada](./geography/by_state/Nevada/)
+- [New Hampshire](./geography/by_state/New_Hampshire/)
+- [New Jersey](./geography/by_state/New_Jersey/)
+- [New Mexico](./geography/by_state/New_Mexico/)
+- [New York](./geography/by_state/New_York/)
+- [North Carolina](./geography/by_state/North_Carolina/)
+- [North Dakota](./geography/by_state/North_Dakota/)
+- [Ohio](./geography/by_state/Ohio/)
+- [Oklahoma](./geography/by_state/Oklahoma/)
+- [Oregon](./geography/by_state/Oregon/)
+- [Pennsylvania](./geography/by_state/Pennsylvania/)
+- [Rhode Island](./geography/by_state/Rhode_Island/)
+- [South Carolina](./geography/by_state/South_Carolina/)
+- [South Dakota](./geography/by_state/South_Dakota/)
+- [Tennessee](./geography/by_state/Tennessee/)
+- [Texas](./geography/by_state/Texas/)
+- [Utah](./geography/by_state/Utah/)
+- [Vermont](./geography/by_state/Vermont/)
+- [Virginia](./geography/by_state/Virginia/)
+- [Washington](./geography/by_state/Washington/)
+- [West Virginia](./geography/by_state/West_Virginia/)
+- [Wisconsin](./geography/by_state/Wisconsin/)
+- [Wyoming](./geography/by_state/Wyoming/)
 ## Technical Notes
 
 ### Known Issues

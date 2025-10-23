@@ -1,2 +1,2 @@
-error_type	priority	herbarium	id	institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-COUNTRY	1000	MOR	5686829	MOR	Douglas Ladd	Arkansas	Stone	13552.38	outside_boundary_exact	not_found_in_US	35.91,92.08	0130134MOR	Hell Creek Natural Area, ca. 3.5 mi NNE of Mountain View	https://lichenportal.org/portal/collections/individual/index.php?occid=5686829
+error_type	priority	herbarium	id	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+COUNTRY	1000	MOR	5686829	Douglas Ladd	Arkansas	Stone	13552.38	outside_boundary_exact	not_found_in_US	35.91,92.08	0130134MOR	Hell Creek Natural Area, ca. 3.5 mi NNE of Mountain View	https://lichenportal.org/portal/collections/individual/index.php?occid=5686829

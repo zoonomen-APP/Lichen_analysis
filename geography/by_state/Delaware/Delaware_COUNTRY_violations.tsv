@@ -1,3 +1,3 @@
-error_type	priority	herbarium	id	institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-COUNTRY	1000	PH	1742031	PH	Albert Commons	Delaware	New Castle	4999.05	outside_boundary_exact	not_found_in_US	39.74583,-15.53333	PH00095724	Wilmington	https://lichenportal.org/portal/collections/individual/index.php?occid=1742031
-COUNTRY	1000	PH	1831172	PH	Albert Commons	Delaware	Townsend	NA	county_not_matched_no_match	county_not_matched	39.395112,-75.691597	PH00146222	Townsend	https://lichenportal.org/portal/collections/individual/index.php?occid=1831172
+error_type	priority	herbarium	id	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+COUNTRY	1000	PH	1742031	Albert Commons	Delaware	New Castle	4999.05	outside_boundary_exact	not_found_in_US	39.74583,-15.53333	PH00095724	Wilmington	https://lichenportal.org/portal/collections/individual/index.php?occid=1742031
+COUNTRY	1000	PH	1831172	Albert Commons	Delaware	Townsend	NA	county_not_matched_no_match	county_not_matched	39.395112,-75.691597	PH00146222	Townsend	https://lichenportal.org/portal/collections/individual/index.php?occid=1831172

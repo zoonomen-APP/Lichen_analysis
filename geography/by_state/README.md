@@ -29,6 +29,17 @@ Coordinates place the specimen in a different US state than the one recorded in 
 ### COUNTY (Priority 10)
 Coordinates place the specimen in a different county than recorded, but within the correct state. These represent the least severe boundary violations.
 
+## Known Limitations
+
+### Boundary Precision Artifacts
+
+A small number of records (<0.2% of COUNTY violations) show matching county names in both the stated and implied locations but are flagged as violations because coordinates fall just outside county boundary polygons. These represent sub-kilometer discrepancies (typically 0.04-0.4 km) and result from differences between:
+- Strict polygon-based boundary tests used for validation
+- Geographic coordinate precision and projection systems
+- Geocoding services that return the nearest named location
+
+These records are retained in the dataset for completeness and transparency about the validation methodology.
+
 ## File Organization
 
 ### Directory Structure

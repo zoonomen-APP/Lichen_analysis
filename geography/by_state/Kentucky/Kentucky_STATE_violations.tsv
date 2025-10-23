@@ -1,0 +1,3 @@
+error_type	priority	herbarium	id	institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+STATE	100	MDKY	3046032	MDKY	Allen C. Risk	Kentucky	Carter	98.03	outside_boundary_exact	Ohio, Ross County	39.378611,-83.1225	MDKY-L-0000336	Carter Caves State Resort Park, unnamed tributary of Cave Branch, just upstream of Welcome Center	https://lichenportal.org/portal/collections/individual/index.php?occid=3046032
+STATE	100	UWAL	3581069	UWAL	Haskell C. Phillips	Kentucky	Lyon	68.89	outside_boundary_exact	Tennessee, Benton County	36.25438,-88.09236	UWAL-L-0000894	0.67 mi W of Quadron 4D4, east shore of Kentucky Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=3581069

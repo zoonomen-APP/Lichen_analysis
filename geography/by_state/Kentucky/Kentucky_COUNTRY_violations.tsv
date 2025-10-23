@@ -1,0 +1,3 @@
+error_type	priority	herbarium	id	institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+COUNTRY	1000	CINC	1807549	CINC	Fulford, Margaret Hannah	Kentucky	Whitely	NA	county_not_matched_no_match	county_not_matched	36.838808,-84.345011	CINC-L-0000855	Cumberland Falls	https://lichenportal.org/portal/collections/individual/index.php?occid=1807549
+COUNTRY	1000	ILL	1508814	ILL	Bruce Fink	Kentucky	Conway	NA	county_not_matched_no_match	county_not_matched	37.47256,-84.332153	ILL00038590	New Fink Farm	https://lichenportal.org/portal/collections/individual/index.php?occid=1508814

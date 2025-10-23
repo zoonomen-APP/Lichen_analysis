@@ -1,0 +1,6 @@
+error_type	priority	herbarium	id	institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+COUNTRY	1000	OMA	3796198	OMA	NA	Kansas	Woodsen	NA	county_not_matched_no_match	county_not_matched	37.793889,-95.835833	19697	Woodson Co State Fishing Lake & Wildlife Area; 6 miles E of Toronto	https://lichenportal.org/portal/collections/individual/index.php?occid=3796198
+COUNTRY	1000	OMA	800520	OMA	NA	Kansas	Grove	NA	county_not_matched_no_match	county_not_matched	38.855556,-100.165556	16874	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800520
+COUNTRY	1000	OMA	800522	OMA	NA	Kansas	Grove	NA	county_not_matched_no_match	county_not_matched	38.856389,-100.182222	16906	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800522
+COUNTRY	1000	OMA	800546	OMA	NA	Kansas	Grove	NA	county_not_matched_no_match	county_not_matched	38.856389,-100.168889	16930	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800546
+COUNTRY	1000	SBBG	3040025	SBBG	C. A. Morse	Kansas	Russell	4660.9	outside_boundary_exact	not_found_in_US	38.981111,-43.35	SBBG001130L	ca. 7 mi N, 1 mi W of Bunker hill, Wilson Lake: Wildlife Management Area on W side of lake	https://lichenportal.org/portal/collections/individual/index.php?occid=3040025

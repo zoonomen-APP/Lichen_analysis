@@ -1,0 +1,4 @@
+error_type	priority	herbarium	id	institutionCode	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
+COUNTRY	1000	KIRI	5423599	KIRI	C. J. Raithel	Rhode Island	Washington	1.48	outside_boundary_exact	not_found_in_US	41.159123,-71.69657	KIRI 12797	Arcadia Management Area, 0.25 miles southeast of Breakheart Pond	https://lichenportal.org/portal/collections/individual/index.php?occid=5423599
+COUNTRY	1000	KIRI	5647941	KIRI	G. W. Burlingame	Rhode Island	Providence	46.1	outside_boundary_exact	not_found_in_US	41.315182,-71.67496	KIRI 12835	Chepachet	https://lichenportal.org/portal/collections/individual/index.php?occid=5647941
+COUNTRY	1000	OS	2406639	OS	Don Flenniken	Rhode Island	Kent	109.43	outside_boundary_exact	not_found_in_US	40.621383,-71.703967	OS0021626	W. Alton Jones Campus; Nature Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=2406639

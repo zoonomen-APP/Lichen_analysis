@@ -1,3 +1,3 @@
 error_type	priority	herbarium	id	recordedBy	state	county	distance_km	status	implied_location	coordinates	catalogNumber	locality	record_link
-COUNTRY	1000	MIN	5638986	M. K. Advaita	North Dakota	Brookings	NA	county_not_matched_no_match	county_not_matched	44.453167,-96.9875	0970346	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5638986
 COUNTRY	1000	US	2790827	C. Wetmore	North Dakota	Mckenzie	2413.63	outside_boundary_exact	not_found_in_US	25.8,-100	NA	Theodore Roosevelt Nat. Park, N Unit 1.5 mi NE of overlook on N side of Cedar Canyon (14 mi of Watford City).	https://lichenportal.org/portal/collections/individual/index.php?occid=2790827
+COUNTRY	1000	MIN	5638986	M. K. Advaita	North Dakota	Brookings	NA	county_not_matched_no_match	county_not_matched	44.453167,-96.9875	0970346	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5638986

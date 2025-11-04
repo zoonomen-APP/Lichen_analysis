@@ -7,3 +7,4 @@ shortComm001.txt
 # Exclude large raw data files
 data/*/*_dwnld_*.txt
 data/*/*.tab
+visualizations/specimen_maps/interactive/

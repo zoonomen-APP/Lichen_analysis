@@ -1,0 +1,25 @@
+# COLLECTOR BOUNDARY VIOLATION ANALYSIS SUMMARY: Leavitt
+# Generated: 2025-11-30 08:42:09
+
+## RECORD FILTERING
+Total records for collector: 1366
+  After country filter (US): 1307 (lost 59 non-US)
+  After coordinates filter: 1160 (lost 147 without coords)
+  After state filter: 1154 (lost 6 without state)
+  Final analyzable: 1125 (lost 29 without county)
+
+Analyzable percentage: 82.4%
+
+## BOUNDARY VIOLATIONS
+Total violations found: 44
+Violation rate: 3.9% of analyzable records
+
+## DISTANCE STATISTICS (km outside boundary)
+  Min: 0.04
+  Max: 11585.84
+  Mean: 304.43
+  Median: 8.45
+
+## PROCESSING
+Processing time: 0.83 minutes
+

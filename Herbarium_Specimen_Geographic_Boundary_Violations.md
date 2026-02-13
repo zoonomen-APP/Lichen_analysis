@@ -1,10 +1,12 @@
 # Lichen Herbarium Specimen Geographic Boundary Validation by herbarium and by collector
 
+*This analysis was conducted independently by A. Peterson and is not affiliated with or endorsed by the Symbiota Support Hub or the Consortium of Lichen Herbaria (CLH).*
+
 ## Overview
 
-This document contains links to herbarium specimen records with 
-latitude/longitude coordinates that fall outside the boundaries of 
-their reported collection counties. These "out-of-bounds" records 
+This document contains links to herbarium specimen records with
+latitude/longitude coordinates that fall outside the boundaries of
+their reported collection counties. These "out-of-bounds" records
 may result from:
 
 - Data entry errors
@@ -12,20 +14,19 @@ may result from:
 - Incorrect locality assignments
 - Combinations of the above
 
-The severity of these discrepancies varies widely, from minor naming 
-conflicts (0 km offset) to major errors such as incorrect hemispheric 
-assignments (offsets of thousands of kilometers). Hemispheric errors 
+The severity of these discrepancies varies widely, from minor naming
+conflicts (0 km offset) to major errors such as incorrect hemispheric
+assignments (offsets of thousands of kilometers). Hemispheric errors
 are particularly common.
 
-Data review and correction are recommended for most records, with 
+Data review and correction are recommended for most records, with
 priority depending on your intended use of the data.
-
 
 ## Methodology
 
 ### Data Processing Pipeline
 
-1. **Data Sources**: North American herbarium specimen records from the Consortium of Lichen Herbaria portal database. 
+1. **Data Sources**: Specimen records from the Consortium of Lichen Herbaria (CLH) portal database (https://lichenportal.org), a Symbiota-based biodiversity data portal
 2. **Geographic Validation**: The stated specimen record locations are validated against official U.S. county boundaries (Census Bureau, 2020)
 3. **Coordinate System**: All distance from boundary calculations are performed using EPSG:5070 (Albers Equal Area Conic) projection for accurate distance measurements
 4. **Boundary Matching**: County names are standardized and matched using conservative fuzzy matching algorithms

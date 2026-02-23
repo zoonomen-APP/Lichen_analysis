@@ -1,0 +1,24 @@
+# HERBARIUM BOUNDARY VIOLATION ANALYSIS SUMMARY: COLO
+Generated: 2026-02-13 06:26:38.019435
+Processing time: 7.23 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in database: 103001
+After country filtering: 51588 (lost 51413 non-US records)
+After coordinate filtering: 17066 (lost 34522 records without coordinates)
+After state filtering: 17064 (lost 2 records without state information)
+After county filtering: 15646 (lost 1418 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 15646 (15.2% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 15.2% of records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/herbaria/COLO/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

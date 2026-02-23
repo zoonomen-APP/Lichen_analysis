@@ -1,0 +1,32 @@
+# HERBARIUM BOUNDARY VIOLATION ANALYSIS SUMMARY: WTU
+Generated: 2026-02-16 12:43:12.136342
+Processing time: 29.59 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in download: 32002
+After country filtering: 31089 (lost 913 non-US records)
+After coordinate filtering: 27089 (lost 4000 records without coordinates)
+After state filtering: 27088 (lost 1 records without state information)
+After county filtering: 25911 (lost 1177 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 25911 (81% of total collection)
+Boundary violations detected: 1143 (4.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 3.14 km
+Median distance: 52.28 km
+Third quartile: 87.33 km
+Maximum distance: 6670.63 km
+Mean distance: 98.68 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 81% of records have complete geographic data
+Boundary violation rate: 4.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/herbaria/WTU/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

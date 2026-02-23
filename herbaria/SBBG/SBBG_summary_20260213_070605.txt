@@ -1,0 +1,24 @@
+# HERBARIUM BOUNDARY VIOLATION ANALYSIS SUMMARY: SBBG
+Generated: 2026-02-13 07:06:05.995716
+Processing time: 1.48 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in database: 38595
+After country filtering: 32546 (lost 6049 non-US records)
+After coordinate filtering: 7602 (lost 24944 records without coordinates)
+After state filtering: 7599 (lost 3 records without state information)
+After county filtering: 7532 (lost 67 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7532 (19.5% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 19.5% of records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/herbaria/SBBG/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

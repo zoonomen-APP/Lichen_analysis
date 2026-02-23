@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Nebraska
+Generated: 2026-01-04 20:15:08
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 9274
+Records with coordinates (analyzed): 4442 (48% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4442 (48% of total collection)
+Boundary violations detected: 109 (2.5% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 101
+STATE violations: 6
+COUNTRY violations: 2
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 35.16 km
+Median distance: 47.71 km
+Third quartile: 47.71 km
+Maximum distance: 10166.52 km
+Mean distance: 154.56 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 48% of records have coordinates
+Boundary violation rate: 2.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Nebraska/
+  - Nebraska_COUNTY_violations.tsv (101 records)
+  - Nebraska_STATE_violations.tsv (6 records)
+  - Nebraska_COUNTRY_violations.tsv (2 records)
+

@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Arkansas
+Generated: 2026-01-04 20:12:17
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 14182
+Records with coordinates (analyzed): 10284 (73% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 10284 (73% of total collection)
+Boundary violations detected: 39 (0.4% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 36
+STATE violations: 2
+COUNTRY violations: 1
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.21 km
+First quartile: 1.28 km
+Median distance: 6.07 km
+Third quartile: 134.28 km
+Maximum distance: 13552.38 km
+Mean distance: 404.69 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 73% of records have coordinates
+Boundary violation rate: 0.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Arkansas/
+  - Arkansas_COUNTY_violations.tsv (36 records)
+  - Arkansas_STATE_violations.tsv (2 records)
+  - Arkansas_COUNTRY_violations.tsv (1 records)
+

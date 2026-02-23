@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Vermont
+Generated: 2026-01-04 20:17:14
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 16583
+Records with coordinates (analyzed): 6929 (42% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 6929 (42% of total collection)
+Boundary violations detected: 298 (4.3% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 226
+STATE violations: 19
+COUNTRY violations: 53
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.28 km
+Median distance: 0.33 km
+Third quartile: 35.05 km
+Maximum distance: 10679.93 km
+Mean distance: 91.55 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 42% of records have coordinates
+Boundary violation rate: 4.3% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Vermont/
+  - Vermont_COUNTY_violations.tsv (226 records)
+  - Vermont_STATE_violations.tsv (19 records)
+  - Vermont_COUNTRY_violations.tsv (53 records)
+

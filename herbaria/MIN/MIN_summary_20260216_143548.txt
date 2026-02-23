@@ -1,0 +1,32 @@
+# HERBARIUM BOUNDARY VIOLATION ANALYSIS SUMMARY: MIN
+Generated: 2026-02-16 14:35:48.536206
+Processing time: 78.13 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in download: 169151
+After country filtering: 124732 (lost 44419 non-US records)
+After coordinate filtering: 79273 (lost 45459 records without coordinates)
+After state filtering: 79270 (lost 3 records without state information)
+After county filtering: 78546 (lost 724 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 78546 (46.4% of total collection)
+Boundary violations detected: 2660 (3.4% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0 km
+First quartile: 1.21 km
+Median distance: 9.89 km
+Third quartile: 67.54 km
+Maximum distance: 10736.72 km
+Mean distance: 321.52 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 46.4% of records have complete geographic data
+Boundary violation rate: 3.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/herbaria/MIN/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

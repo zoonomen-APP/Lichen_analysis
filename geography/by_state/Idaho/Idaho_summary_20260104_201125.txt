@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Idaho
+Generated: 2026-01-04 20:13:16
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 33446
+Records with coordinates (analyzed): 25632 (77% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 25632 (77% of total collection)
+Boundary violations detected: 1563 (6.1% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 1291
+STATE violations: 247
+COUNTRY violations: 25
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 1.81 km
+Median distance: 9.78 km
+Third quartile: 106.58 km
+Maximum distance: 12278.24 km
+Mean distance: 150.71 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 77% of records have coordinates
+Boundary violation rate: 6.1% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Idaho/
+  - Idaho_COUNTY_violations.tsv (1291 records)
+  - Idaho_STATE_violations.tsv (247 records)
+  - Idaho_COUNTRY_violations.tsv (25 records)
+

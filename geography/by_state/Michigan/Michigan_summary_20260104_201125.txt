@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Michigan
+Generated: 2026-01-04 20:14:30
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 64542
+Records with coordinates (analyzed): 49517 (77% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 49517 (77% of total collection)
+Boundary violations detected: 1480 (3.0% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 1303
+STATE violations: 15
+COUNTRY violations: 162
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 4.95 km
+Median distance: 41.91 km
+Third quartile: 171.85 km
+Maximum distance: 11686.31 km
+Mean distance: 369.36 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 77% of records have coordinates
+Boundary violation rate: 3.0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Michigan/
+  - Michigan_COUNTY_violations.tsv (1303 records)
+  - Michigan_STATE_violations.tsv (15 records)
+  - Michigan_COUNTRY_violations.tsv (162 records)
+

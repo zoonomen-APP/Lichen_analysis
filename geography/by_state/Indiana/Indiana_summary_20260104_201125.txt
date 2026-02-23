@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Indiana
+Generated: 2026-01-04 20:13:31
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 5451
+Records with coordinates (analyzed): 3238 (59% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 3238 (59% of total collection)
+Boundary violations detected: 61 (1.9% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 50
+STATE violations: 0
+COUNTRY violations: 11
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.05 km
+Median distance: 9.86 km
+Third quartile: 81.53 km
+Maximum distance: 13692.39 km
+Mean distance: 1011.49 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 59% of records have coordinates
+Boundary violation rate: 1.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Indiana/
+  - Indiana_COUNTY_violations.tsv (50 records)
+  - Indiana_STATE_violations.tsv (0 records)
+  - Indiana_COUNTRY_violations.tsv (11 records)
+

@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Hawaii
+Generated: 2026-01-04 20:13:08
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 14746
+Records with coordinates (analyzed): 5675 (38% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 5675 (38% of total collection)
+Boundary violations detected: 258 (4.5% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 20
+STATE violations: 0
+COUNTRY violations: 238
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.00 km
+Median distance: 4174.26 km
+Third quartile: 4896.66 km
+Maximum distance: 4913.32 km
+Mean distance: 2491.99 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 38% of records have coordinates
+Boundary violation rate: 4.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Hawaii/
+  - Hawaii_COUNTY_violations.tsv (20 records)
+  - Hawaii_STATE_violations.tsv (0 records)
+  - Hawaii_COUNTRY_violations.tsv (238 records)
+

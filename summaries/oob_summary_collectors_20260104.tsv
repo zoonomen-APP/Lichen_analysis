@@ -1,0 +1,64 @@
+Category	Entity	Total_Records	Records_Analyzed	Pct_Analyzed	Violations	Pct_Violations	Dist_Min_km	Dist_Q1_km	Dist_Median_km	Dist_Q3_km	Dist_Max_km	Dist_Mean_km
+collectors	Advaita		28233		449	1.6	0	0.83	13.18	63.9	11948.77	62.06
+collectors	Allen		4594		125	2.7	0	0.38	11.3	63.01	688.67	40.58
+collectors	Berryman		7048		254	3.6	0.12	0.52	0.62	1.05	6.88	0.88
+collectors	Boyll		11320		358	3.2	0.07	0.23	0.48	10.28	153.78	7.93
+collectors	Brodo		3476		280	8.1	0.02	0.8	1.33	32.35	10201.34	278.71
+collectors	Buck		13609		489	3.6	0	0.35	0.75	6.47	6451.28	40.63
+collectors	Bungartz		244		75	30.7	0.39	2.32	5.06	18.58	1120.31	69.11
+collectors	Burnett		6241		82	1.3	0.01	0.1	0.47	0.81	282.01	8.54
+collectors	Chesnut		4798		182	3.8	0.39	0.39	63.02	63.02	63.02	36.86
+collectors	Clayden		59		0	0						
+collectors	Culberson		8943		374	4.2	0	0.16	2.53	10.56	6840.64	96.54
+collectors	Curtis		12076		317	2.6	0.01	0.2	0.2	3.4	884.59	27.32
+collectors	Dey		14351	66	1789	12.5	0	0.01	0.03	0.35	2536.56	8.46
+collectors	Esslinger		4723		143	3	0.01	3.23	9.22	167.99	7912.7	392.85
+collectors	Eversman		4281		314	7.3	0.01	0.27	1.78	13.15	117.67	13.39
+collectors	Geiser		18267		469	2.6	0.02	0.04	0.62	8.08	312.9	29.24
+collectors	Gerould		4750		80	1.7	0.07	0.37	0.37	2.39	237.33	14.11
+collectors	Glavich		10811		319	3	0.33	0.72	7.8	216.22	257.61	80.17
+collectors	Goward		17		6	35.3	10.67	10.7	10.78	161.38	309.63	94.02
+collectors	Grenon		10471		1028	9.8	0.02	0.95	3.6	15.88	317.04	51.01
+collectors	Haldeman		5755		6	0.1	3.94	53.85	203.57	203.57	203.57	137.02
+collectors	Hardman		16687		476	2.9	0.33	0.58	3.89	6.33	31.2	4.7
+collectors	Harris		33628		1383	4.1	0	0.35	2.95	8.92	9557.91	156.65
+collectors	Havaas		0	0	0	0						
+collectors	Hollinger		3734		147	3.9	0	0.04	0.51	4.17	13072.69	131.19
+collectors	Holt		4085		802	19.6	0.59	2.52	4.25	13.58	4837.95	24.25
+collectors	Hutchinson		7352		124	1.7	0.07	7.67	7.67	16.55	8967.83	317.9
+collectors	Imshaug		8583		773	9	0	0.59	6.48	21.85	9363.03	677.25
+collectors	Jovan		7202		336	4.7	14.04	26.06	29.93	31.47	9779.28	86.84
+collectors	Knudsen		14852		786	5.3	0.01	2.03	6.34	124.3	12343	373.05
+collectors	L_cking		462		26	5.6	12.91	12.91	12.91	4906.98	4913.32	1707.78
+collectors	Lasselle		8098		4	0	257.65	257.65	257.65	257.65	257.65	257.65
+collectors	Lay		5789		536	9.3	0.01	1.3	6.07	38.35	7629.88	108.73
+collectors	Leavitt											
+collectors	Lendemer		78803		3699	4.7	0	0	0.13	3.35	14032.38	72.24
+collectors	Lumbsch		320	3	4	1.2	0.37	0.37	0.52	1.1	2.37	0.95
+collectors	Malachowski		4767		287	6	2.2	34.93	171.85	171.85	438.11	144.68
+collectors	McCune		18575		1352	7.3	0	0.46	4.89	31.48	10040.19	273.79
+collectors	Mikulin		9886		515	5.2	0.06	0.33	0.78	0.95	99.03	1.65
+collectors	Morse		11610		207	1.8	0.07	29.97	79.11	94.48	13159.99	429.99
+collectors	Nash		31608		2657	8.4	0.01	0.93	9.61	67.21	8633.55	94.58
+collectors	Nelson		4301	56	723	16.8	0.08	7.97	31.47	71.53	878.52	48.99
+collectors	Perlmutter		4980		85	1.7	0.01	23.33	82.75	166.97	12517.13	1542.18
+collectors	Reed		6149		589	9.6	0	1.05	11.3	68.44	8546.97	67.96
+collectors	Root		6107		1332	21.8	0.02	0.74	5.77	27.02	10140.32	75.16
+collectors	Rosentreter		12482	75	1596	12.8	0	3.65	14.17	40.89	11807.35	207.99
+collectors	Ryan		22398		2823	12.6	0.01	1.39	4.15	26.46	8273.4	117.8
+collectors	Scharnagl		0	0	0	0						
+collectors	Schoknecht		2934		401	13.7	0	1.43	7.88	49.78	7747.25	263.29
+collectors	Scotter		28		0	0						
+collectors	Selva		63		4	6.3	0.25	0.38	0.47	0.53	0.53	0.43
+collectors	Shushan		7812		566	7.2	0	0.24	0.34	4.76	12278.24	289.54
+collectors	Solano		6008		144	2.4	0.9	0.9	43.34	43.34	43.34	27.42
+collectors	St__Clair		17943		1335	7.4	0.01	0.45	2.76	111.32	11900.34	549.85
+collectors	Stone		3106		133	4.3	0.95	0.95	0.95	5.88	305.16	10.91
+collectors	Talbot		4359		244	5.6	0.4	0.4	0.4	3.32	1142.99	16.87
+collectors	Thomson		13589		805	5.9	0	0.57	2.75	66.4	8705.68	294.25
+collectors	Tripp		8498		1000	11.8	0	0.02	0.85	5.86	13334.25	146.47
+collectors	Tucker		25516		1587	6.2	0	1.06	8.2	8.2	11683.12	181.76
+collectors	Ulrich		6338		282	4.4	0.06	0.3	0.42	0.77	1.29	0.56
+collectors	Waters		4221		14	0.3	0.92	0.92	6.64	32.95	933.7	78.33
+collectors	Weber		4015		148	3.7	0	0.21	7.82	443.3	6070.14	1133.19
+collectors	Wetmore		81777		2000	2.4	0.01	1.78	9.99	76.43	11686.31	519.79

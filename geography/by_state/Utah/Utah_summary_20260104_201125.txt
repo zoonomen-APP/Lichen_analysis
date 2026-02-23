@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Utah
+Generated: 2026-01-04 20:17:06
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 17707
+Records with coordinates (analyzed): 13353 (75% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 13353 (75% of total collection)
+Boundary violations detected: 694 (5.2% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 509
+STATE violations: 54
+COUNTRY violations: 131
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.43 km
+Median distance: 1.39 km
+Third quartile: 12.94 km
+Maximum distance: 10643.71 km
+Mean distance: 183.99 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 75% of records have coordinates
+Boundary violation rate: 5.2% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Utah/
+  - Utah_COUNTY_violations.tsv (509 records)
+  - Utah_STATE_violations.tsv (54 records)
+  - Utah_COUNTRY_violations.tsv (131 records)
+

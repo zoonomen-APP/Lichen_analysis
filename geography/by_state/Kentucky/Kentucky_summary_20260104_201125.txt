@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Kentucky
+Generated: 2026-01-04 20:13:54
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 9153
+Records with coordinates (analyzed): 6471 (71% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 6471 (71% of total collection)
+Boundary violations detected: 155 (2.4% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 151
+STATE violations: 2
+COUNTRY violations: 2
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.00 km
+Median distance: 1.38 km
+Third quartile: 8.37 km
+Maximum distance: 265.25 km
+Mean distance: 20.46 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 71% of records have coordinates
+Boundary violation rate: 2.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Kentucky/
+  - Kentucky_COUNTY_violations.tsv (151 records)
+  - Kentucky_STATE_violations.tsv (2 records)
+  - Kentucky_COUNTRY_violations.tsv (2 records)
+

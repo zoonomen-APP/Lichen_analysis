@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Georgia
+Generated: 2026-01-04 20:13:01
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 31297
+Records with coordinates (analyzed): 25267 (81% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 25267 (81% of total collection)
+Boundary violations detected: 594 (2.4% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 512
+STATE violations: 39
+COUNTRY violations: 43
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.60 km
+Median distance: 3.81 km
+Third quartile: 32.70 km
+Maximum distance: 13582.83 km
+Mean distance: 341.59 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 81% of records have coordinates
+Boundary violation rate: 2.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Georgia/
+  - Georgia_COUNTY_violations.tsv (512 records)
+  - Georgia_STATE_violations.tsv (39 records)
+  - Georgia_COUNTRY_violations.tsv (43 records)
+

@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Montana
+Generated: 2026-01-04 20:15:00
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 33743
+Records with coordinates (analyzed): 23791 (71% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 23791 (71% of total collection)
+Boundary violations detected: 1649 (6.9% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 1448
+STATE violations: 154
+COUNTRY violations: 47
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.51 km
+Median distance: 4.41 km
+Third quartile: 15.88 km
+Maximum distance: 10377.60 km
+Mean distance: 185.05 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 71% of records have coordinates
+Boundary violation rate: 6.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Montana/
+  - Montana_COUNTY_violations.tsv (1448 records)
+  - Montana_STATE_violations.tsv (154 records)
+  - Montana_COUNTRY_violations.tsv (47 records)
+

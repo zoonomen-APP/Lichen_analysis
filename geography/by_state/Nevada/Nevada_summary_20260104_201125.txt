@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Nevada
+Generated: 2026-01-04 20:15:15
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 16273
+Records with coordinates (analyzed): 14884 (91% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 14884 (91% of total collection)
+Boundary violations detected: 134 (0.9% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 111
+STATE violations: 10
+COUNTRY violations: 13
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 1.03 km
+Median distance: 1.70 km
+Third quartile: 5.95 km
+Maximum distance: 10387.79 km
+Mean distance: 237.12 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 91% of records have coordinates
+Boundary violation rate: 0.9% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Nevada/
+  - Nevada_COUNTY_violations.tsv (111 records)
+  - Nevada_STATE_violations.tsv (10 records)
+  - Nevada_COUNTRY_violations.tsv (13 records)
+

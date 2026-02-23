@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Ohio
+Generated: 2026-01-04 20:16:00
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 24417
+Records with coordinates (analyzed): 11446 (47% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 11446 (47% of total collection)
+Boundary violations detected: 234 (2.0% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 195
+STATE violations: 25
+COUNTRY violations: 14
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.77 km
+Median distance: 2.28 km
+Third quartile: 89.36 km
+Maximum distance: 12262.92 km
+Mean distance: 476.25 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 47% of records have coordinates
+Boundary violation rate: 2.0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Ohio/
+  - Ohio_COUNTY_violations.tsv (195 records)
+  - Ohio_STATE_violations.tsv (25 records)
+  - Ohio_COUNTRY_violations.tsv (14 records)
+

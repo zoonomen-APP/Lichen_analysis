@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: North_Dakota
+Generated: 2026-01-04 20:15:52
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 14352
+Records with coordinates (analyzed): 12388 (86% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 12388 (86% of total collection)
+Boundary violations detected: 176 (1.4% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 167
+STATE violations: 7
+COUNTRY violations: 2
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 3.23 km
+Median distance: 10.20 km
+Third quartile: 66.11 km
+Maximum distance: 2413.63 km
+Mean distance: 67.30 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 86% of records have coordinates
+Boundary violation rate: 1.4% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/North_Dakota/
+  - North_Dakota_COUNTY_violations.tsv (167 records)
+  - North_Dakota_STATE_violations.tsv (7 records)
+  - North_Dakota_COUNTRY_violations.tsv (2 records)
+

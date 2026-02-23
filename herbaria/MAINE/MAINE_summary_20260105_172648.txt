@@ -1,0 +1,32 @@
+# HERBARIUM BOUNDARY VIOLATION ANALYSIS SUMMARY: MAINE
+Generated: 2026-01-05 17:26:48.240887
+Processing time: 7.02 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in download: 9449
+After country filtering: 8467 (lost 982 non-US records)
+After coordinate filtering: 8042 (lost 425 records without coordinates)
+After state filtering: 8041 (lost 1 records without state information)
+After county filtering: 7811 (lost 230 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7811 (82.7% of total collection)
+Boundary violations detected: 140 (1.8% of analyzed records)
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.9 km
+Median distance: 2.33 km
+Third quartile: 28.33 km
+Maximum distance: 2374.26 km
+Mean distance: 85.35 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 82.7% of records have complete geographic data
+Boundary violation rate: 1.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/herbaria/MAINE/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

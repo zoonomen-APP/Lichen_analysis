@@ -1,0 +1,24 @@
+# HERBARIUM BOUNDARY VIOLATION ANALYSIS SUMMARY: US
+Generated: 2026-02-13 05:55:57.857857
+Processing time: 1.56 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in database: 220861
+After country filtering: 161998 (lost 58863 non-US records)
+After coordinate filtering: 12267 (lost 149731 records without coordinates)
+After state filtering: 9466 (lost 2801 records without state information)
+After county filtering: 3684 (lost 5782 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 3684 (1.7% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 1.7% of records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/herbaria/US/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

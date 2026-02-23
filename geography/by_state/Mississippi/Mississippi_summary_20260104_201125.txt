@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Mississippi
+Generated: 2026-01-04 20:14:45
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 6084
+Records with coordinates (analyzed): 3939 (65% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 3939 (65% of total collection)
+Boundary violations detected: 45 (1.1% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 33
+STATE violations: 8
+COUNTRY violations: 4
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 1.64 km
+Median distance: 13.16 km
+Third quartile: 55.53 km
+Maximum distance: 6405.32 km
+Mean distance: 200.38 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 65% of records have coordinates
+Boundary violation rate: 1.1% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Mississippi/
+  - Mississippi_COUNTY_violations.tsv (33 records)
+  - Mississippi_STATE_violations.tsv (8 records)
+  - Mississippi_COUNTRY_violations.tsv (4 records)
+

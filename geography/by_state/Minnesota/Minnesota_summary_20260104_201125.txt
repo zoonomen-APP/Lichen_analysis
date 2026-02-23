@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Minnesota
+Generated: 2026-01-04 20:14:38
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 65107
+Records with coordinates (analyzed): 42454 (65% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 42454 (65% of total collection)
+Boundary violations detected: 1259 (3.0% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 962
+STATE violations: 131
+COUNTRY violations: 166
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.77 km
+Median distance: 4.98 km
+Third quartile: 67.41 km
+Maximum distance: 11664.77 km
+Mean distance: 567.06 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 65% of records have coordinates
+Boundary violation rate: 3.0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Minnesota/
+  - Minnesota_COUNTY_violations.tsv (962 records)
+  - Minnesota_STATE_violations.tsv (131 records)
+  - Minnesota_COUNTRY_violations.tsv (166 records)
+

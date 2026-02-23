@@ -1,0 +1,14 @@
+Additional suggestions you didn't mention:
+
+"Suspiciously round" coordinates — You noticed records at 44.0, -122.0. A quick scan for coordinates ending in .0 or .00 across the dataset might reveal systematic placeholder/centroid usage. That's a distinct error type with different implications (deliberate imprecision vs. accidental error).
+Coordinate precision vs. stated precision — How many records have 6 decimal places but cluster on round values? If 44.500000 appears 50 times, something's wrong. That's checkable.
+Distance-from-locality analysis — For records that HAVE both coordinates and text locality, how often can you verify the match? "3 mi NW of Eugene" + coordinates = testable. Could sample 100 records and manually check.
+The collector effect — Do certain collectors have systematically higher OOB rates? That would indicate equipment or workflow issues, and might let you flag suspect batches.
+Visual for the talk — The displacement table cries out for a log-scale bar chart showing error magnitude by digit position, with a horizontal line marking "typical county width." Everything below the line = silent zone.
+
+Not a dead end at all. You now have:
+
+A framework (noisy vs. silent)
+A quantitative estimate (6:1 ratio, ~20% silent)
+Geographic validation (ratio varies sensibly with county size)
+A memorable punchline ("decimal places don't encode provenance")

@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: South_Dakota
+Generated: 2026-01-04 20:16:44
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 18974
+Records with coordinates (analyzed): 14370 (76% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 14370 (76% of total collection)
+Boundary violations detected: 538 (3.7% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 238
+STATE violations: 13
+COUNTRY violations: 287
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.00 km
+Median distance: 0.00 km
+Third quartile: 8.79 km
+Maximum distance: 10753.62 km
+Mean distance: 126.79 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 76% of records have coordinates
+Boundary violation rate: 3.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/South_Dakota/
+  - South_Dakota_COUNTY_violations.tsv (238 records)
+  - South_Dakota_STATE_violations.tsv (13 records)
+  - South_Dakota_COUNTRY_violations.tsv (287 records)
+

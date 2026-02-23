@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Rhode_Island
+Generated: 2026-01-04 20:16:29
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 453
+Records with coordinates (analyzed): 433 (96% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 433 (96% of total collection)
+Boundary violations detected: 3 (0.7% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 0
+STATE violations: 0
+COUNTRY violations: 3
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 1.48 km
+First quartile: 1.48 km
+Median distance: 46.10 km
+Third quartile: 109.43 km
+Maximum distance: 109.43 km
+Mean distance: 52.34 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 96% of records have coordinates
+Boundary violation rate: 0.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Rhode_Island/
+  - Rhode_Island_COUNTY_violations.tsv (0 records)
+  - Rhode_Island_STATE_violations.tsv (0 records)
+  - Rhode_Island_COUNTRY_violations.tsv (3 records)
+

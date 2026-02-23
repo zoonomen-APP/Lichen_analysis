@@ -1,0 +1,8 @@
+herbaria	US	220861	3684		0	0						
+herbaria	WIS	151789	52435		0	0						
+herbaria	COLO	103001	15646		0	0						
+herbaria	DUKE	107253	28214		0	0						
+herbaria	MSC	107414	27171		0	0						
+herbaria	BRY	39990	26514		0	0						
+herbaria	SBBG	38595	7532		0	0						
+herbaria	LSU	40778	28310		0	0						

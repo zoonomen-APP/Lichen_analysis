@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: South_Carolina
+Generated: 2026-01-04 20:16:37
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 19423
+Records with coordinates (analyzed): 9699 (50% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 9699 (50% of total collection)
+Boundary violations detected: 142 (1.5% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 92
+STATE violations: 44
+COUNTRY violations: 6
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 15.51 km
+Median distance: 58.99 km
+Third quartile: 171.36 km
+Maximum distance: 3206.21 km
+Mean distance: 130.32 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 50% of records have coordinates
+Boundary violation rate: 1.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/South_Carolina/
+  - South_Carolina_COUNTY_violations.tsv (92 records)
+  - South_Carolina_STATE_violations.tsv (44 records)
+  - South_Carolina_COUNTRY_violations.tsv (6 records)
+

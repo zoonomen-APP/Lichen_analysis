@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Connecticut
+Generated: 2026-01-04 20:12:39
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 10611
+Records with coordinates (analyzed): 5432 (51% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 5432 (51% of total collection)
+Boundary violations detected: 41 (0.8% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 11
+STATE violations: 7
+COUNTRY violations: 23
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.00 km
+Median distance: 0.25 km
+Third quartile: 69.67 km
+Maximum distance: 3890.13 km
+Mean distance: 179.25 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 51% of records have coordinates
+Boundary violation rate: 0.8% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Connecticut/
+  - Connecticut_COUNTY_violations.tsv (11 records)
+  - Connecticut_STATE_violations.tsv (7 records)
+  - Connecticut_COUNTRY_violations.tsv (23 records)
+

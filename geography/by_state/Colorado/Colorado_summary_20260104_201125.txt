@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Colorado
+Generated: 2026-01-04 20:12:32
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 70851
+Records with coordinates (analyzed): 36825 (52% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 36825 (52% of total collection)
+Boundary violations detected: 2603 (7.1% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 2090
+STATE violations: 271
+COUNTRY violations: 242
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.28 km
+Median distance: 5.67 km
+Third quartile: 67.21 km
+Maximum distance: 11583.16 km
+Mean distance: 323.06 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 52% of records have coordinates
+Boundary violation rate: 7.1% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Colorado/
+  - Colorado_COUNTY_violations.tsv (2090 records)
+  - Colorado_STATE_violations.tsv (271 records)
+  - Colorado_COUNTRY_violations.tsv (242 records)
+

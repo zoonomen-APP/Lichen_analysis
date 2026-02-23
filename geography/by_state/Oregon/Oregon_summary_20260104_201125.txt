@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Oregon
+Generated: 2026-01-04 20:16:15
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 106774
+Records with coordinates (analyzed): 84855 (79% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 84855 (79% of total collection)
+Boundary violations detected: 3995 (4.7% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 3696
+STATE violations: 184
+COUNTRY violations: 115
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.58 km
+Median distance: 2.56 km
+Third quartile: 27.02 km
+Maximum distance: 13173.23 km
+Mean distance: 76.32 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 79% of records have coordinates
+Boundary violation rate: 4.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Oregon/
+  - Oregon_COUNTY_violations.tsv (3696 records)
+  - Oregon_STATE_violations.tsv (184 records)
+  - Oregon_COUNTRY_violations.tsv (115 records)
+

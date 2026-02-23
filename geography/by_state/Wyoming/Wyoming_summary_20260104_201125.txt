@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Wyoming
+Generated: 2026-01-04 20:17:51
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 18069
+Records with coordinates (analyzed): 14085 (78% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 14085 (78% of total collection)
+Boundary violations detected: 505 (3.6% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 248
+STATE violations: 79
+COUNTRY violations: 178
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 9.89 km
+Median distance: 78.00 km
+Third quartile: 5261.14 km
+Maximum distance: 10649.82 km
+Mean distance: 1840.69 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 78% of records have coordinates
+Boundary violation rate: 3.6% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Wyoming/
+  - Wyoming_COUNTY_violations.tsv (248 records)
+  - Wyoming_STATE_violations.tsv (79 records)
+  - Wyoming_COUNTRY_violations.tsv (178 records)
+

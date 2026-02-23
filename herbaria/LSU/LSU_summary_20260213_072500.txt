@@ -1,0 +1,24 @@
+# HERBARIUM BOUNDARY VIOLATION ANALYSIS SUMMARY: LSU
+Generated: 2026-02-13 07:25:00.128098
+Processing time: 18.89 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in database: 40778
+After country filtering: 28756 (lost 12022 non-US records)
+After coordinate filtering: 28620 (lost 136 records without coordinates)
+After state filtering: 28618 (lost 2 records without state information)
+After county filtering: 28310 (lost 308 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 28310 (69.4% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 69.4% of records have complete geographic data
+Boundary violation rate: 0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved by state in: c:/Lichen_analysis/herbaria/LSU/
+File format: Tab-separated files (.tsv) with clickable specimen links
+

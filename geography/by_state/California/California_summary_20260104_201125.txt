@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: California
+Generated: 2026-01-04 20:12:24
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 174143
+Records with coordinates (analyzed): 91731 (53% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 91731 (53% of total collection)
+Boundary violations detected: 3714 (4.0% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 2817
+STATE violations: 139
+COUNTRY violations: 758
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 2.20 km
+Median distance: 23.23 km
+Third quartile: 124.30 km
+Maximum distance: 14032.38 km
+Mean distance: 345.31 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 53% of records have coordinates
+Boundary violation rate: 4.0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/California/
+  - California_COUNTY_violations.tsv (2817 records)
+  - California_STATE_violations.tsv (139 records)
+  - California_COUNTRY_violations.tsv (758 records)
+

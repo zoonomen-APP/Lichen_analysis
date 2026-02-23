@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Massachusetts
+Generated: 2026-01-04 20:14:23
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 29405
+Records with coordinates (analyzed): 8999 (31% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 8999 (31% of total collection)
+Boundary violations detected: 314 (3.5% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 84
+STATE violations: 108
+COUNTRY violations: 122
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 1.85 km
+Median distance: 39.01 km
+Third quartile: 148.19 km
+Maximum distance: 10824.12 km
+Mean distance: 862.01 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 31% of records have coordinates
+Boundary violation rate: 3.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Massachusetts/
+  - Massachusetts_COUNTY_violations.tsv (84 records)
+  - Massachusetts_STATE_violations.tsv (108 records)
+  - Massachusetts_COUNTRY_violations.tsv (122 records)
+

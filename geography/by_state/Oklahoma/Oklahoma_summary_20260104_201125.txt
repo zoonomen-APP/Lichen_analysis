@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Oklahoma
+Generated: 2026-01-04 20:16:07
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 6434
+Records with coordinates (analyzed): 4772 (74% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 4772 (74% of total collection)
+Boundary violations detected: 149 (3.1% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 126
+STATE violations: 13
+COUNTRY violations: 10
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 2.35 km
+Median distance: 19.39 km
+Third quartile: 75.34 km
+Maximum distance: 13366.02 km
+Mean distance: 416.49 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 74% of records have coordinates
+Boundary violation rate: 3.1% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Oklahoma/
+  - Oklahoma_COUNTY_violations.tsv (126 records)
+  - Oklahoma_STATE_violations.tsv (13 records)
+  - Oklahoma_COUNTRY_violations.tsv (10 records)
+

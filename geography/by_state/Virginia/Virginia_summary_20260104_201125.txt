@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Virginia
+Generated: 2026-01-04 20:17:21
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 32960
+Records with coordinates (analyzed): 16732 (51% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 16732 (51% of total collection)
+Boundary violations detected: 279 (1.7% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 233
+STATE violations: 12
+COUNTRY violations: 34
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.02 km
+Median distance: 0.12 km
+Third quartile: 4.09 km
+Maximum distance: 12802.97 km
+Mean distance: 298.66 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 51% of records have coordinates
+Boundary violation rate: 1.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Virginia/
+  - Virginia_COUNTY_violations.tsv (233 records)
+  - Virginia_STATE_violations.tsv (12 records)
+  - Virginia_COUNTRY_violations.tsv (34 records)
+

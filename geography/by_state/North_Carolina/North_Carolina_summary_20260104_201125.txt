@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: North_Carolina
+Generated: 2026-01-04 20:15:45
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 88509
+Records with coordinates (analyzed): 68306 (77% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 68306 (77% of total collection)
+Boundary violations detected: 2373 (3.5% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 1948
+STATE violations: 325
+COUNTRY violations: 100
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.01 km
+Median distance: 0.21 km
+Third quartile: 12.40 km
+Maximum distance: 12847.12 km
+Mean distance: 100.33 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 77% of records have coordinates
+Boundary violation rate: 3.5% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/North_Carolina/
+  - North_Carolina_COUNTY_violations.tsv (1948 records)
+  - North_Carolina_STATE_violations.tsv (325 records)
+  - North_Carolina_COUNTRY_violations.tsv (100 records)
+

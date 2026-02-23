@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Missouri
+Generated: 2026-01-04 20:14:53
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 24798
+Records with coordinates (analyzed): 18581 (75% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 18581 (75% of total collection)
+Boundary violations detected: 366 (2.0% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 212
+STATE violations: 144
+COUNTRY violations: 10
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 2.43 km
+Median distance: 42.80 km
+Third quartile: 248.35 km
+Maximum distance: 13382.82 km
+Mean distance: 208.59 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 75% of records have coordinates
+Boundary violation rate: 2.0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Missouri/
+  - Missouri_COUNTY_violations.tsv (212 records)
+  - Missouri_STATE_violations.tsv (144 records)
+  - Missouri_COUNTRY_violations.tsv (10 records)
+

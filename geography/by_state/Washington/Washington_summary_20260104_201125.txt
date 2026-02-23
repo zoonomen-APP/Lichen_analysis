@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Washington
+Generated: 2026-01-04 20:17:29
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 95251
+Records with coordinates (analyzed): 72281 (76% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 72281 (76% of total collection)
+Boundary violations detected: 3380 (4.7% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 2971
+STATE violations: 185
+COUNTRY violations: 224
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.48 km
+Median distance: 1.41 km
+Third quartile: 5.88 km
+Maximum distance: 8705.61 km
+Mean distance: 87.16 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 76% of records have coordinates
+Boundary violation rate: 4.7% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Washington/
+  - Washington_COUNTY_violations.tsv (2971 records)
+  - Washington_STATE_violations.tsv (185 records)
+  - Washington_COUNTRY_violations.tsv (224 records)
+

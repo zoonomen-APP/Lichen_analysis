@@ -1,0 +1,35 @@
+# SINGLE STATE ANALYSIS SUMMARY: Alabama
+Generated: 2026-01-04 20:11:54
+
+## RECORD FILTERING ANALYSIS
+Total records in state: 24073
+Records with coordinates (analyzed): 17584 (73% of total)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 17584 (73% of total collection)
+Boundary violations detected: 354 (2.0% of analyzed records)
+
+## VIOLATION BREAKDOWN BY TYPE
+COUNTY violations: 181
+STATE violations: 6
+COUNTRY violations: 167
+
+## VIOLATION DISTANCE STATISTICS
+Minimum distance: 0.00 km
+First quartile: 0.00 km
+Median distance: 0.48 km
+Third quartile: 5.12 km
+Maximum distance: 4566.02 km
+Mean distance: 30.55 km
+
+## DATA QUALITY ASSESSMENT
+Collection completeness: 73% of records have coordinates
+Boundary violation rate: 2.0% of analyzable records
+Priority for correction: Records with distance > 10 km likely represent clear errors
+
+## OUTPUT FILES
+Detailed violation records saved in: /c/Lichen_analysis/geography/by_state/Alabama/
+  - Alabama_COUNTY_violations.tsv (181 records)
+  - Alabama_STATE_violations.tsv (6 records)
+  - Alabama_COUNTRY_violations.tsv (167 records)
+

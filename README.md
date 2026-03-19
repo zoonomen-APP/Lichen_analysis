@@ -1,196 +1,108 @@
-# Geolocation Data in Consortium of Lichen Herbaria Portal Data
-## Correlation of County Location and decimalLatitude-decimalLongitude Values
+# Lichen Herbarium Specimen Geographic Boundary Validation
 
-Symbiota records (e.g. Lichen Portal records) include administrative (country, stateProvince, county, locality descriptions) and coordinate components (decimalLatitude, decimalLongitude).
+*This analysis was conducted independently by A. Peterson and is not affiliated with or endorsed by the Symbiota Support Hub or the Consortium of Lichen Herbaria (CLH).*
 
-For US records containing both stateProvince and county information as well as latitude and longitude coordinates, potential data errors can be identified by checking for mismatches. When stated county boundaries are exceeded by geographic coordinates, the coordinates, administrative region, or both may be incorrect.
+## What This Is
 
-## Methods
+This repository contains the results of a geographic boundary check on lichen herbarium specimen records from the Consortium of Lichen Herbaria (CLH) portal. For United States records that include both a county name and latitude/longitude coordinates, I tested whether the coordinates fall within the stated county boundary. Records where they do not are flagged and listed here.
 
-I used US Census TIGER/Line boundary data via the R 'tigris' package to test whether record coordinates fall within stated county boundaries. The 2024 state and county boundaries use the GCS NAD83 datum with six decimal places (though positional accuracy may be less precise).
+Each flagged record includes a clickable link to the current specimen record in CLH. Note that the linked record may have been corrected since the analysis was performed; the data shown in the violation file reflects the record as it existed at the time of download.
 
-For records with adequate data, the process:
+## Browse the Data
 
-- Checked if decimalLatitude/decimalLongitude coordinates fell within the named county boundary
-- Calculated distances to the nearest relevant county boundary for mismatched records
-- Identified which county actually contains the recorded coordinate pair
-- Extracted and saved flagged records by herbarium and by state, ranking them by distance from stated county boundary
+Results are organized three ways:
 
-## TIGER/Line Boundary Data
+- **[By Herbarium](./herbaria/)** — flagged records grouped by institution
+- **[By Collector](./collectors/)** — flagged records grouped by collector name
+- **[By State](./geography/by_state/)** — flagged records grouped by claimed state
 
-The US Census TIGER/Line boundary data was used via the R 'tigris' package allowing digital latitude and longitude delimitation of the administrative boundaries.
+## What the Files Contain
 
-The TIGER/Line data has these characteristics according to the [TIGER/Line Technical Documentation](https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2024/TGRSHP2024_TechDoc_Ch3.pdf):
+Each violation file is a tab-separated text file with one row per flagged record. The key fields are:
 
-### 3.3.3 Datum (GCS NAD 83)
+| Field | Description |
+|-------|-------------|
+| `institutionCode` | Herbarium abbreviation |
+| `recordedBy` | Collector name as recorded |
+| `state` | State where the specimen was reportedly collected |
+| `county` | County as recorded in the original data |
+| `distance_km` | Distance from the coordinate to the nearest edge of the stated county boundary (see interpretation below) |
+| `status` | Type of mismatch detected |
+| `implied_location` | The state and county where the coordinates actually fall |
+| `coordinates` | Latitude, longitude as recorded |
+| `locality` | Locality description from the original record |
+| `record_link` | Clickable URL to the current specimen record in CLH |
 
-> Each shapefile contains a projection (.prj) file that contains the GIS industry standard well-known text (WKT) format to describe the coordinate system, projection, datum information for each shapefile. All Census Bureau generated TIGER/Line Shapefiles are in Global Coordinate System North American Datum of 1983 (GCS NAD83).
+Within each file, records are sorted by distance from the county boundary, largest first.
 
-### 3.3.6 Coordinates
+### Status Codes
 
-> Coordinates in the TIGER/Line Shapefiles have six decimal places, but the positional accuracy of these coordinates may not be as great as the six decimal places suggest. The spatial accuracy varies with the source materials used. The Census Bureau cannot specify the spatial accuracy of features changed or added by field staff or through local updates, features derived from the GBF/DIME Files (TIGER's predecessor in 1970 and 1980), or other map or digital sources.
+- **`outside_boundary_exact`** — County name matched exactly; coordinate falls outside that county
+- **`outside_boundary_standardized`** — County name matched after standardizing abbreviations (e.g., "Co." to "County")
+- **`outside_boundary_partial_match`** — County name partially matched
+- **`outside_boundary_similarity_[score]`** — County name matched by fuzzy string comparison
+- **`county_not_matched_no_match`** — County name could not be matched to any official county in the stated state
 
-## Data Precision
+## How to Interpret the Distance Values
 
-Data within the Portal has decimalLatitude and decimalLongitude recorded with precision as high as 16 decimal places.
+### The reported distance is a minimum, not an estimate
 
-| id | institutionCode | stateProvince | county | locality | decimalLatitude | decimalLongitude |
-|---|---|---|---|---|---|---|
-| 5657769 | hb. Schumm | Amapá |  | Mazagão, Reserva extrativista Moracá, along BR 156 | -0.0333333333333333 | 51.75 |
-| 5657793 | hb. Schumm | Amapá |  | Mazagão, Reserva extrativista Moracá, along BR 156 | -0.0333333333333333 | 51.75 |
-| 5657781 | hb. Schumm | Amapá |  | Mazagão, Reserva extrativista Moracá, along BR 156 | -0.0166666666666667 | 51.85 |
+The `distance_km` value is the shortest distance from the flagged coordinate to the nearest edge of the stated county boundary. This is the **minimum possible error** — the smallest distance the coordinate would need to move to enter the stated county.
 
-**Note**: At 45 degrees latitude, 0.0000000000000001 degrees of longitude spans picometers.
+The actual distance between the reported coordinate and the correct collection location is almost certainly larger. The boundary distance equals the true error only in the uncommon case where the correct location is immediately inside the county border. For specimens collected near the interior of a county, the true error may be many times the reported distance.
 
-For United States tigris data the precision is recorded to as high as 7.86 cm.
+**The true error is greater than or equal to the reported distance. Treat reported distances as a lower bound.**
 
-The most current (2024) state and county boundaries were used.
+### What a distance of zero means
 
-## Correlation Analysis
+A record with distance_km = 0 means the coordinate falls within the stated county. **This does not confirm that the coordinate is correct** — only that the coordinate and county are not in detectable disagreement. A specimen from a mountain summit geocoded to a valley 80 km away will show distance_km = 0 if both locations are in the same county.
 
-Correlation between latitude and longitude with stated county location was determined as follows:
+### Border type matters
 
-A process, written in R, used decimalLatitude and decimalLatitude values to output the State and county implied by the given coordinates.
+Not all county borders carry the same consequence when crossed:
 
-This function determines if a geographic point falls within a county boundary and calculates the distance to the boundary if it's outside.
+- **Internal county border**: The county boundary is entirely within a single state — not shared with a state line or coastline. The specimen is assigned to the wrong county but remains in the correct state. Least consequential for most analyses.
+- **State boundary**: The county border coincides with a state line. Both county and state assignment change, potentially affecting checklists and distribution records.
+- **Coastline**: The specimen falls outside all political boundaries and may be silently excluded from any analysis that clips to boundary polygons. A 50-meter error with an inland value may move the record location to a neighboring county; the same error at the coast may remove the record from a "United States" restricted analysis completely.
 
-### Function Parameters
+Border classification by type is derivable from FIPS codes in the boundary data and is planned but not yet implemented.
 
-```r
-calculate_distance_to_boundary <- function(lat, lon, county_geom)
-```
+### Guidance for review
 
-- **`lat`**: Latitude coordinate (decimal degrees, -90 to 90)
-- **`lon`**: Longitude coordinate (decimal degrees, -180 to 180)
-- **`county_geom`**: County boundary geometry (sf object from tigris/Census data)
+- **Large distances (hundreds of km or more)**: Usually obvious errors — hemisphere flips, transposed coordinates, wrong-country assignments. Often easy to diagnose and correct.
+- **Mid-range distances (10-100 km)**: The most ambiguous cases. May represent genuine geocoding errors, wrong county assignments, or confusion between similarly named places. These often deserve the most attention.
+- **Small distances (under 1 km)**: May reflect coordinate rounding, GPS drift, or the inherent precision limit of boundary polygons. Many of these are functionally correct.
 
-### Step-by-Step Process
+## Important Limitations
 
-#### 1. Input Validation
+**Records not flagged by this analysis are not necessarily correct.** A coordinate that falls within the stated county passes the boundary check but may still be substantially wrong — placed in the correct county but far from the actual collection site. This analysis identifies records where the coordinate and county *demonstrably disagree*. It cannot validate records where they happen to agree.
 
-```r
-if (is.na(lat) || is.na(lon) || lat < -90 || lat > 90 || lon < -180 || lon > 180) {
-    return(list(distance_km = NA, status = "invalid_coordinates"))
-}
-```
+**Flagged records require individual review in context.** The flag indicates a discrepancy, not a diagnosis. The coordinate may be wrong, the county may be wrong, the state may be wrong, or some combination. The locality text, collector history, and surrounding records often provide the context needed to determine what happened. Automated flagging scales; correction does not.
 
-**What it does**: Checks if coordinates are valid
-- Rejects missing values (NA)
-- Ensures latitude is between -90° and 90° (North/South poles)
-- Ensures longitude is between -180° and 180° (International Date Line)
-- Returns immediately if invalid
+**County name matching is imperfect.** The analysis attempts to match recorded county names to official Census Bureau county names using exact matching, standardization of common abbreviations, and fuzzy string matching. Some legitimate county names may fail to match, producing false flags. The `status` field indicates the matching method used.
 
-#### 2. Create Point Geometry
+**Locality text is often more reliable than coordinates.** When coordinates conflict with a detailed written locality description, the written description should generally be given priority. Coordinates are more prone to transcription errors, datum conversion issues, and data entry mistakes.
 
-```r
-point <- st_sfc(st_point(c(lon, lat)), crs = 4326)
-```
+## Methodology
 
-**What it does**: Converts lat/lon numbers into a spatial geometry object
-- `st_point(c(lon, lat))`: Creates a point geometry (note: longitude first, then latitude)
-- `st_sfc()`: Creates a simple feature column (spatial object container)
-- `crs = 4326`: Assigns WGS84 coordinate reference system (standard GPS coordinates)
+Specimen records were downloaded from the CLH portal (https://lichenportal.org). For United States records with coordinates and county information, each coordinate pair was tested for containment within the stated county boundary using US Census Bureau TIGER/Line shapefiles (2020) accessed through the R `tigris` package. Distances were calculated using the EPSG:5070 (Albers Equal Area Conic) projection for accuracy.
 
-#### 3. Coordinate System Transformation
+County name matching used a layered approach: exact matching, standardization of common abbreviations and suffixes, partial matching, and fuzzy string comparison with a similarity threshold of 0.6.
 
-```r
-point_proj <- st_transform(point, crs = 5070)
-county_proj <- st_transform(county_geom, crs = 5070)
-```
+For full technical details including R code and projection specifications, see [Technical_details.md](./Technical_details.md).
 
-**Why this is crucial**:
-- **Problem**: WGS84 (4326) uses degrees on a curved Earth surface - distance calculations are inaccurate
-- **Solution**: Transform to EPSG:5070 (North America Albers Equal Area Conic)
-- **EPSG:5070 benefits**:
-  - Uses meters instead of degrees
-  - Minimizes distortion across continental US
-  - Allows accurate distance measurements
-  - Equal-area projection preserves area relationships
+## Planned Improvements
 
-#### 4. Boundary Check
+- **Centroid-based error estimation**: Compare flagged coordinates to the centroid of accepted specimens in the stated county, providing an expected error distance to complement the current minimum-bound boundary distance.
+- **Border classification**: Classify county borders as internal, state boundary, or coastline using FIPS codes, to better assess the functional consequence of boundary violations.
 
-```r
-is_within <- st_within(point_proj, county_proj, sparse = FALSE)[1,1]
-```
+## Data Sources and Currency
 
-**What it does**: Tests if the point is inside the county boundary
-- `st_within()`: Spatial predicate that returns TRUE if point is completely within the polygon
-- `sparse = FALSE`: Returns a dense matrix instead of sparse matrix (easier to work with)
-- `[1,1]`: Extracts the boolean result from the matrix
+- **Specimen data**: Consortium of Lichen Herbaria (CLH) portal, various download dates 2025-2026
+- **County boundaries**: US Census Bureau TIGER/Line Shapefiles, 2020
+- **Software**: R with sf, tigris, and dplyr packages
 
-#### 5. Distance Calculation Logic
+---
 
-```r
-if (is_within) {
-    return(list(distance_km = 0, status = "within_boundary"))
-} else {
-    distance_m <- as.numeric(st_distance(point_proj, county_proj))
-    return(list(distance_km = distance_m / 1000, status = "outside_boundary"))
-}
-```
-
-**Two scenarios**:
-
-**A. Point is inside boundary**:
-- Distance = 0 km (no violation)
-- Status indicates it's within the correct county
-
-**B. Point is outside boundary**:
-- `st_distance()`: Calculates shortest distance from point to nearest edge of county
-- Uses projected coordinates (meters), so distance is accurate
-- Converts meters to kilometers (`/1000`)
-- Status indicates boundary violation
-
-#### 6. Error Handling
-
-```r
-tryCatch({
-    # ... all the spatial operations ...
-}, error = function(e) {
-    return(list(distance_km = NA, status = "calculation_error"))
-})
-```
-
-**Catches potential errors**:
-- Malformed geometry data
-- Coordinate transformation failures
-- Invalid spatial operations
-- Returns graceful error status instead of crashing
-
-### Return Values
-
-The function always returns a list with these elements:
-
-| Return Value | distance_km | status | Meaning |
-|--------------|-------------|---------|---------|
-| Valid, inside boundary | 0 | "within_boundary" | Coordinates match claimed county |
-| Valid, outside boundary | X.XX | "outside_boundary" | Potential data error - X.XX km from county |
-| Invalid coordinates | NA | "invalid_coordinates" | Bad lat/lon values |
-| Processing error | NA | "calculation_error" | Technical problem with calculation |
-
-### Why This Approach Works
-
-1. **Accuracy**: Uses proper map projections for precise distance measurement
-2. **Robustness**: Handles edge cases and errors gracefully
-3. **Efficiency**: Single function call determines both containment and distance
-4. **Standards**: Uses established GIS libraries and coordinate systems
-5. **Interpretability**: Clear status codes for different scenarios
-
-### Example Use Context
-
-In the herbarium analysis, this function identifies specimens where:
-- **distance_km = 0**: Coordinates are correct ✓
-- **distance_km > 0**: Possible georeferencing errors may prompt review
-- **distance_km > 10**: Likely significant errors needing review
-```
-
-**Key formatting improvements made:**
-
-1. **Consistent heading hierarchy** using `#`, `##`, `###`, `####`
-2. **Proper code blocks** with language specification (```r)
-3. **Uniform lists** using `-` for bullets
-4. **Formatted tables** with proper alignment
-5. **Consistent spacing** between sections
-6. **Proper blockquotes** for citations (using `>`)
-7. **Bold/italic formatting** for emphasis
-8. **Clean paragraph breaks** and logical flow
+appeterson37@gmail.com
+2026.03.19

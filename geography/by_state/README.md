@@ -1,5 +1,7 @@
 # Geographic Boundary Violations by State
 
+
+For guidance on interpreting these files, see the [main README](../../README.md).
 This directory contains lichen herbarium specimen records from the Consortium of Lichen Herbaria (CLH) that exhibit geographic boundary mismatches - cases where the recorded coordinates do not align with the stated collection location.
 
 ## Data Source

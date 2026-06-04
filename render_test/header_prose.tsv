@@ -1,7 +1,0 @@
-CLH corpus download: 2026-05
-Institution: OSC   State: (multiple)   Flagged rows: 3
-See README for distance interpretation (minimum, not estimate).
-id	institutionCode	recordedBy	distance_km	state	county	status
-4938626	OSC	M. E. Dorris	15212.23	Florida	Jackson	outside_boundary_exact
-4938622	OSC	Lawrence H. Pike	12038.41	Virginia	Madison	outside_boundary_exact
-4660733	OSC	Clifford M. Wetmore	11686.31	Michigan	Keweenaw	outside_boundary_exact

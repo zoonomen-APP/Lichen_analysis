@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1467981	UConn	CONN01002678	J. Nelson	64	1.32	Vermont	Orange	43.766667	-72.233333	outside_boundary_exact	Vermont, Windsor County	Town of Thetoford	https://lichenportal.org/portal/collections/individual/index.php?occid=1467981
+1423880	UConn	CONN01000745	David S. Brown	13	NA	Vermont	Poultney	43.459583	-73.167297	county_not_matched_no_match	county_not_matched	Off Route. 140E Main Street. St Catherine Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=1423880

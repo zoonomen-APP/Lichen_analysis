@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1326992	KANU	372918	Clifford M Wetmore	45906	236.67	Maine	Hancock	47.3833333	-68.2333333	outside_boundary_exact	not_found_in_US	Acadia National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1326992
+3136010	KANU	381734	Clara E Cummings; Emma A Teller	s.n.	0.01	Maine	Aroostook	47.24957	-69.044491	outside_boundary_exact	not_found_in_US	On the banks of the Saint Francis River	https://lichenportal.org/portal/collections/individual/index.php?occid=3136010
+3136187	KANU	7903	Clara E Cummings; Emma A Teller	s.n.	0.01	Maine	Aroostook	47.24957	-69.044491	outside_boundary_exact	not_found_in_US	On the banks of the Saint Francis River	https://lichenportal.org/portal/collections/individual/index.php?occid=3136187

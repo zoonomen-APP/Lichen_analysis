@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3601678	US	NA	R. Holmgren	186	6285.05	Nevada	Humbold	41	-39	outside_boundary_partial_match	not_found_in_US	8 mi. S of Paradise Town	https://lichenportal.org/portal/collections/individual/index.php?occid=3601678
+3600990	US	NA	R. Holmgren	195	5015.13	Nevada	Elko	38	-54	outside_boundary_exact	not_found_in_US	2.5 mi N of Dinner Sta. 36	https://lichenportal.org/portal/collections/individual/index.php?occid=3600990
+3361038	US	NA	B. D. Ryan	15050	5.66	Nevada	Nye	37.1	-117.23	outside_boundary_exact	Nevada, Esmeralda County	S side of Hwy 267, 4 mi. NE of Esmeraldo Co. line.	https://lichenportal.org/portal/collections/individual/index.php?occid=3361038
+3361299	US	NA	B. D. Ryan	15016	5.66	Nevada	Nye	37.1	-117.23	outside_boundary_exact	Nevada, Esmeralda County	S side of Hwy 267, 4 mi. NE of Esmeraldo Co. line	https://lichenportal.org/portal/collections/individual/index.php?occid=3361299

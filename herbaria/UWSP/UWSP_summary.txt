@@ -1,0 +1,35 @@
+# SINGLE INSTITUTION ANALYSIS SUMMARY: UWSP
+Generated: 2026-06-06 05:50:48.55969
+Processing time: 0.12 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 1686
+After country filtering: 1686 (lost 0 non-US records)
+After coordinate filtering: 507 (lost 1179 records without coordinates)
+After state filtering: 507 (lost 0 records without state information)
+After county filtering: 505 (lost 2 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 505 (30% of total collection)
+Boundary violations detected: 0 (0% of analyzed records)
+
+## SUMMARY OBSERVATIONS
+
+Scope: counts are of records caught by the CONUS48 state + US-country filters.
+Some in-scope records with misspelled or variant state/country values may be missed (see README).
+
+Geographic-field completeness: 30% of records had the fields needed for testing
+
+Unresolved-location rate: 0% of analyzable records
+
+Unresolved records carry the project's "out-of-bounds" (OOB) flag. More precisely, these records include an unresolved match between the stated location and the recorded coordinates, either or both of which may be wrong. A misspelling alone may produce a mismatch, and in some instances the coordinates sit on a boundary where OUT versus IN is model-dependent and indeterminate.
+
+Flags mark unresolved incoherence, not confirmed error; importance of this finding cannot be inferred from distance alone.
+
+
+## OUTPUT FILES
+
+Detailed flagged records saved by state in: c:/Lichen/Out_of_bounds/exports/run_output/herbaria/UWSP/
+
+File format: Tab-separated files (.txt) with clickable specimen record links
+

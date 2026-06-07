@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1656787	YPM	YU.239918	G. K. Merrill	NA	467.77	Florida	Washington	29.031006	-80.92545	outside_boundary_exact	Florida, Volusia County	New Smyrna	https://lichenportal.org/portal/collections/individual/index.php?occid=1656787

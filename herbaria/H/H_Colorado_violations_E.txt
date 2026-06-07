@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5460846	H	http://id.luomus.fi/HA.H9216925	Nash III, T. H.	Nash 17753	69.06	Colorado	San Juan	37.166666	-108.475	outside_boundary_exact	Colorado, Montezuma County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5460846

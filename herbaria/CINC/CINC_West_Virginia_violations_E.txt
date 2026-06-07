@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1815374	CINC	CINC-L-0006477	Cusick, Allison W.	s.n.	8.06	West Virginia	Grant	38.779002	-79.225316	outside_boundary_exact	West Virginia, Pendleton County	Greenwalt Gap, Co. Rt. 1-2, 0.5 southeast of Co. Rt. 1 at Kline, Mozer Quad	https://lichenportal.org/portal/collections/individual/index.php?occid=1815374
+1810219	CINC	CINC-L-0002205	Small, John K.	135	NA	West Virginia	Smyth	39.512306	-80.236749	county_not_matched_no_match	county_not_matched	Walker Mountain (Chatham Hill Gap)	https://lichenportal.org/portal/collections/individual/index.php?occid=1810219
+1810958	CINC	CINC-L-0002944	Small, John K.	154	NA	West Virginia	Smyth	36.843875	-81.533316	county_not_matched_no_match	county_not_matched	Hungry Mother Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=1810958

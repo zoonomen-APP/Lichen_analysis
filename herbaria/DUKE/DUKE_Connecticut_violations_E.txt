@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1884704	DUKE	185202	Schneider, C., W.	2491	0.26	Connecticut	Hartford Co.	42.0051	-72.77148	outside_boundary_exact	Massachusetts, Hampden County	Mountain Brook, Suffield, 0.1 mi on Copper Hill Road off Phelps Road.	https://lichenportal.org/portal/collections/individual/index.php?occid=1884704

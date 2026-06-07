@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+707357	ASU	ASUL005546	Clifford M. Wetmore	15699	6.16	Iowa	Floyd	42.852222222222	-92.894722222222	outside_boundary_exact	Iowa, Butler County	Winnebago Boy Scout Camp 2 miles [3.2 km] NW of town of Marble Rock	https://lichenportal.org/portal/collections/individual/index.php?occid=707357
+72749	ASU	ASUL032963	Clifford M. Wetmore	76399	0.19	Iowa	Allamakee	43.0786111	-91.1925	outside_boundary_exact	Iowa, Clayton County	Effigy Mounds National Monument, S of Founders Pond, Sec. 33, T96N, R3W	https://lichenportal.org/portal/collections/individual/index.php?occid=72749
+70932	ASU	ASUL013413	H.A. Imshaug	28021	0	Iowa	Clayton	42.644431	-91.401252	outside_boundary_exact	Iowa, Delaware County	Bixby, N of Edgewood, T91N, R5W	https://lichenportal.org/portal/collections/individual/index.php?occid=70932

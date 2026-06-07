@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+154283	SBBG	NA	J. Lendemer	874	98.92	New Jersey	Cumberland	40.441667	-75.265833	outside_boundary_exact	Pennsylvania, Bucks County	Nature Conserfvancy prperty boundary,	https://lichenportal.org/portal/collections/individual/index.php?occid=154283
+147118	SBBG	SBBG008472L	Claire K. Schmitt	9150	0.69	New Jersey	Atlantic	39.65	-74.65	outside_boundary_exact	New Jersey, Burlington County	Wharton State Forest, Batsto Natural Area	https://lichenportal.org/portal/collections/individual/index.php?occid=147118

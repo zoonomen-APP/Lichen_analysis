@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2597072	UCR(temp)	SBBG004895L	Shirley Tucker	17931	6869.35	Louisiana	Tangipahoa	30.333333	-16.666667	outside_boundary_exact	not_found_in_US	Along mouth of Tangipahoa River. On Lake Pontchartrain (north shore).	https://lichenportal.org/portal/collections/individual/index.php?occid=2597072

@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3919600	LD	1007342	Clifford M. Wetmore	NA	282.94	Missouri	Taney	36.07805556	-96.45027778	outside_boundary_exact	Oklahoma, Creek County	Mark Twain National Forest, Hercules Glades Wilderness Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=3919600
+3930183	LD	1045647	Douglas Ladd	NA	0.03	Missouri	Laclede	37.72083333	-92.85222222	outside_boundary_exact	Missouri, Dallas County	Bennett Spring State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=3930183

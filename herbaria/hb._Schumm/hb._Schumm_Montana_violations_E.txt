@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5660224	hb. Schumm	9431	B. McCune	9431	10.55	Montana	Ravalli	45.38333	-114.25	outside_boundary_exact	Idaho, Lemhi County	On semi-exposed lower branches of Larix occidentalis, near road end, Bear Creek Canyon Bitterroot Range. 45°23'N, 114°15' W, 1260 m	https://lichenportal.org/portal/collections/individual/index.php?occid=5660224

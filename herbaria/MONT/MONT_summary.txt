@@ -1,0 +1,43 @@
+# SINGLE INSTITUTION ANALYSIS SUMMARY: MONT
+Generated: 2026-06-05 23:15:44.678236
+Processing time: 8.83 minutes
+
+## RECORD FILTERING ANALYSIS
+Total records in data file: 8131
+After country filtering: 8131 (lost 0 non-US records)
+After coordinate filtering: 7614 (lost 517 records without coordinates)
+After state filtering: 7614 (lost 0 records without state information)
+After county filtering: 7539 (lost 75 records without county information)
+
+## ANALYSIS RESULTS
+Records analyzed for boundary violations: 7539 (92.7% of total collection)
+Boundary violations detected: 552 (7.3% of analyzed records)
+
+## DISTANCE STATISTICS
+Minimum distance: 0.01 km
+First quartile: 0.59 km
+Median distance: 5.26 km
+Third quartile: 13.15 km
+Maximum distance: 322.97 km
+Mean distance: 16.59 km
+
+## SUMMARY OBSERVATIONS
+
+Scope: counts are of records caught by the CONUS48 state + US-country filters.
+Some in-scope records with misspelled or variant state/country values may be missed (see README).
+
+Geographic-field completeness: 92.7% of records had the fields needed for testing
+
+Unresolved-location rate: 7.3% of analyzable records
+
+Unresolved records carry the project's "out-of-bounds" (OOB) flag. More precisely, these records include an unresolved match between the stated location and the recorded coordinates, either or both of which may be wrong. A misspelling alone may produce a mismatch, and in some instances the coordinates sit on a boundary where OUT versus IN is model-dependent and indeterminate.
+
+Flags mark unresolved incoherence, not confirmed error; importance of this finding cannot be inferred from distance alone.
+
+
+## OUTPUT FILES
+
+Detailed flagged records saved by state in: c:/Lichen/Out_of_bounds/exports/run_output/herbaria/MONT/
+
+File format: Tab-separated files (.txt) with clickable specimen record links
+

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1783645	MAINE	MAINE-L-0003332	P. L. or J. W. Hinds	3836	NA	New York	KNOX	44.107	-69.136	county_not_matched_no_match	county_not_matched	ROCKLAND. EXPOSED ROCK NEAR HURLEY QUAR	https://lichenportal.org/portal/collections/individual/index.php?occid=1783645

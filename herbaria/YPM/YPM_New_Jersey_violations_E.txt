@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1652765	YPM	YU.237661	R. H. Torrey	NA	23.28	New Jersey	Sussex	40.938428	-75.184068	outside_boundary_exact	Pennsylvania, Monroe County	Kittatinny Mountain	https://lichenportal.org/portal/collections/individual/index.php?occid=1652765

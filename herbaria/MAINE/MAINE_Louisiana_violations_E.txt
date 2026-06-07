@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1783817	MAINE	MAINE-L-0003504	J. W. Hinds	4320	1955.56	Louisiana	IBERVILLE	30.417	-70.6	outside_boundary_exact	not_found_in_US	GROSSE TETE. I-10 REST STOP, 30 25N/91 26W	https://lichenportal.org/portal/collections/individual/index.php?occid=1783817

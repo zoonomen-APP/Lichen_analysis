@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5857624	hb. Kellman	2377	K.M. Kellman	10407.00	89.54	New York	Suffolk	41.99079	-72.59622	outside_boundary_exact	Connecticut, Hartford County	Hallock State Park Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=5857624

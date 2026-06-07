@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5339299	WS	206996	F.L. Pickett	14	NA	Indiana	Ottawa	39.042216	-86.590867	county_not_matched_no_match	county_not_matched	W. of old quarry N. of Harrodsburg.	https://lichenportal.org/portal/collections/individual/index.php?occid=5339299
+5339300	WS	206979	F.L. Pickett	25	NA	Indiana	McLean	39.287648	-86.538065	county_not_matched_no_match	county_not_matched	Mattocks Pastures (open) 1 mi. N. of Bloomington.	https://lichenportal.org/portal/collections/individual/index.php?occid=5339300

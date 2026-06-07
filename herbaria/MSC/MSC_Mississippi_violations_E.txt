@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+247873	MSC	MSC0053510	Evans, A. W	NA	131.92	Mississippi	Jones	32.972554	-89.560059	outside_boundary_exact	Mississippi, Attala County	Near Lawell	https://lichenportal.org/portal/collections/individual/index.php?occid=247873
+186573	MSC	MSC0113975	Smith, Edward M	NA	0	Mississippi	Webster	33.665675	-89.034629	outside_boundary_exact	Mississippi, Clay County	Natchez Trace Parkway National  Scenic Trail, at Line Creek historic site,	https://lichenportal.org/portal/collections/individual/index.php?occid=186573

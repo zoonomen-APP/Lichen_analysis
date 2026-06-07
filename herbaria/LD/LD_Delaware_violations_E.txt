@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3964362	LD	1471483	Clyde F. Reed	NA	0.08	Delaware	Kent	38.9125	-75.42805556	outside_boundary_exact	Delaware, Sussex County	Milford	https://lichenportal.org/portal/collections/individual/index.php?occid=3964362

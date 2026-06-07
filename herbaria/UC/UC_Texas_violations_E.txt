@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1712959	UC	UC1999703	Sylivia Sharnoff, Stephen Sharnoff	1020.03	0.1	Texas	Gillespie	30.5	-98.833333	outside_boundary_exact	Texas, Llano County	Enchanted Rock State National Area, North of Fredericksburg, Texas Farm Road 965, North side of Buzzard's Roost, Gillepie/Llano County	https://lichenportal.org/portal/collections/individual/index.php?occid=1712959

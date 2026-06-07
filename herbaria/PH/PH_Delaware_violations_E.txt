@@ -1,0 +1,9 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1742031	PH	PH00095724	Albert Commons	11	4999.05	Delaware	New Castle	39.74583	-15.53333	outside_boundary_exact	not_found_in_US	Wilmington	https://lichenportal.org/portal/collections/individual/index.php?occid=1742031
+1724609	PH	PH00089677	Albert Commons	150	89.01	Delaware	Sussex	39.745947	-75.546589	outside_boundary_exact	Delaware, New Castle County	Wilmington	https://lichenportal.org/portal/collections/individual/index.php?occid=1724609
+1724617	PH	PH00089685	Albert Commons	s.n.	82.23	Delaware	New Castle	38.560263	-75.571142	outside_boundary_exact	Delaware, Sussex County	Laurel	https://lichenportal.org/portal/collections/individual/index.php?occid=1724617
+1775304	PH	PH00103344	Albert Commons	99[-A]	82.23	Delaware	New Castle	38.560263	-75.571142	outside_boundary_exact	Delaware, Sussex County	Laurel	https://lichenportal.org/portal/collections/individual/index.php?occid=1775304
+1796386	PH	PH00116712	Albert Commons	101	42.97	Delaware	Kent and Sussex	39.716525	-75.740682	outside_boundary_first_word_match	Delaware, New Castle County	Milford cross roads, Mill Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=1796386
+1724870	PH	PH00090087	Albert Commons	78	42.43	Delaware	Kent	39.747612	-75.635484	outside_boundary_exact	Delaware, New Castle County	Faulkland	https://lichenportal.org/portal/collections/individual/index.php?occid=1724870
+1724766	PH	PH00089982	Albert Commons	75	1.04	Delaware	New Castle	39.298771	-75.603276	outside_boundary_exact	Delaware, Kent County	Smyrna.	https://lichenportal.org/portal/collections/individual/index.php?occid=1724766
+1831172	PH	PH00146222	Albert Commons	s.n.	NA	Delaware	Townsend	39.395112	-75.691597	county_not_matched_no_match	county_not_matched	Townsend	https://lichenportal.org/portal/collections/individual/index.php?occid=1831172

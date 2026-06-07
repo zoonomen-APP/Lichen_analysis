@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1281133	WTU	WTU-L-033011	B. D. Ryan	2577	0.39	Virginia	Fairfax	39	-77.25	outside_boundary_exact	Maryland, Montgomery County	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281133
+1281168	WTU	WTU-L-033348	B. D. Ryan	2580	0.39	Virginia	Fairfax	39	-77.25	outside_boundary_exact	Maryland, Montgomery County	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281168
+1281859	WTU	WTU-L-034236	B. D. Ryan	2576	0.39	Virginia	Fairfax	39	-77.25	outside_boundary_exact	Maryland, Montgomery County	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281859
+1282078	WTU	WTU-L-034458	B. D. Ryan	2575	0.39	Virginia	Fairfax	39	-77.25	outside_boundary_exact	Maryland, Montgomery County	Great Falls of the Potomac River.	https://lichenportal.org/portal/collections/individual/index.php?occid=1282078

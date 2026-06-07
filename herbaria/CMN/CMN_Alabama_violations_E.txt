@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5700687	CMN	CANL 10022106	Sharnoff, Sylvia D. | Sharnoff, Stephen	1585.35	NA	Alabama	Dalles (Co.)	32.6	-86.98	county_not_matched_no_match	county_not_matched	Dalles Co., Paul M. Grist State Park, N of Selma, off rd 222 off AL 22, by lakeshore	https://lichenportal.org/portal/collections/individual/index.php?occid=5700687

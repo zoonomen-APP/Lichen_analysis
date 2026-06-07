@@ -1,0 +1,6 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3171771	COLO	COLO-L-0052177	M. H. Nee	56471	207.97	Wisconsin	Richland	41.3075	-90.3333	outside_boundary_exact	Illinois, Henry County	3 miles SE of Richland Center	https://lichenportal.org/portal/collections/individual/index.php?occid=3171771
+1640584	COLO	COLO-L-0018593	J. W. Thomson	4412	2.99	Wisconsin	Shawano	44.97	-88.82	outside_boundary_exact	Wisconsin, Menominee County	Neopit	https://lichenportal.org/portal/collections/individual/index.php?occid=1640584
+1718120	COLO	COLO-L-0038953	M. Nee	13643	0.15	Wisconsin	Richland	43.42	-90.19	outside_boundary_exact	Wisconsin, Sauk County	2 1/2 miles east of Loyd.	https://lichenportal.org/portal/collections/individual/index.php?occid=1718120
+1582526	COLO	COLO-L-0002904	H. A. Imshaug	19183	0.14	Wisconsin	Dane	43.0175	-89.84	outside_boundary_exact	Wisconsin, Iowa County	West Blue Mounds	https://lichenportal.org/portal/collections/individual/index.php?occid=1582526
+1710029	COLO	COLO-L-0034723	H. A. Imshaug	19185	0.14	Wisconsin	Dane	43.0175	-89.84	outside_boundary_exact	Wisconsin, Iowa County	West Blue Mounds	https://lichenportal.org/portal/collections/individual/index.php?occid=1710029

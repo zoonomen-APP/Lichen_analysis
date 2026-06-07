@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1738731	FLAS	FLAS L6286	[n/a]	NA	NA	Iowa	La Salle	41.273757	-95.830657	county_not_matched_no_match	county_not_matched	Deer Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1738731

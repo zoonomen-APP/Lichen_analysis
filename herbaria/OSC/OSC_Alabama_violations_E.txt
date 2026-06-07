@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4428497	OSC	173245	NA	9	3.51	Alabama	Blount	33.81	-86.81	outside_boundary_exact	Alabama, Jefferson County	Plot: FHM Plot 3308677.	https://lichenportal.org/portal/collections/individual/index.php?occid=4428497

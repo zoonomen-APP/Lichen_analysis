@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5373890	LD	2116490	I. M. Brodo	NA	346.05	North Carolina	Haywood	35.73333333	-87.11666667	outside_boundary_exact	Tennessee, Maury County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=5373890
+4010348	LD	1981043	Richard C. Harris	NA	37.64	North Carolina	Dare	35.96666667	-75.1	outside_boundary_exact	not_found_in_US	Kill Devil Hills along Old Nags Head Woods Road	https://lichenportal.org/portal/collections/individual/index.php?occid=4010348
+4010724	LD	1987299	R. Moberg	NA	0.92	North Carolina	Jackson	35.01666667	-83.01666667	outside_boundary_exact	South Carolina, Oconee County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=4010724

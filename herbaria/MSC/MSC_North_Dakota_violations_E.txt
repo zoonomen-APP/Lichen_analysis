@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+184752	MSC	MSC0112287	Trana, Thomas D	NA	1.8	North Dakota	Rolette	49.015659	-100.060968	outside_boundary_exact	not_found_in_US	Turtle Mountains. 14 mi. N of Dunseith	https://lichenportal.org/portal/collections/individual/index.php?occid=184752

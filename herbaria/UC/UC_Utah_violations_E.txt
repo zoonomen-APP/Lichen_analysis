@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1561707	UC	UC1573914	B. D. Ryan	18126	1.17	Utah	Sevier	38.5	-112.5	outside_boundary_exact	Utah, Piute County	Along Highway 4.10 miles East of Interstate Highway 15	https://lichenportal.org/portal/collections/individual/index.php?occid=1561707

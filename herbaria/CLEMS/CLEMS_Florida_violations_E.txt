@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5851674	CLEMS	62788	Ciegler, Alex	22333	15388.75	Florida	Leon	30.309583	84.346033	outside_boundary_exact	not_found_in_US	Appalachicola Natl. Forest; Leon Sink Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=5851674
+5856431	CLEMS	69037	Ciegler, Alex	22332	15388.75	Florida	Leon	30.309583	84.346033	outside_boundary_exact	not_found_in_US	Leon Sink Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=5856431
+6015572	CLEMS	65869	Ciegler, Alex	NA	15388.75	Florida	Leon	30.309583	84.346033	outside_boundary_exact	not_found_in_US	Appalachicola Natl. Forest: Leon Sink Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=6015572
+5995334	CLEMS	63282	Ciegler, Alex	22335	3.8	Florida	Walton	30.50005	-86.432833	outside_boundary_exact	Florida, Okaloosa County	Fred Gannon Rocky Bottom SP	https://lichenportal.org/portal/collections/individual/index.php?occid=5995334

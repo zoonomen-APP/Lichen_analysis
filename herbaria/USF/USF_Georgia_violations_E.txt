@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2417068	USF	USF 272653	Alan R. Franck	3283	327.95	Georgia	Gilmer	37.784167	-84.3025	outside_boundary_exact	Kentucky, Madison County	Along Stanley Creek Road, 0.3 km W of Fannin County line, 7.8 km E of Cherry Log.	https://lichenportal.org/portal/collections/individual/index.php?occid=2417068

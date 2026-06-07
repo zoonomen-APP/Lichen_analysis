@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5683253	WSCO	WSCO013829	D. O'Bryan	19529	1.06	Alabama	Clay	33.47873	-85.8087	outside_boundary_exact	Alabama, Cleburne County	Cheaha State Park, Talladega National Forest, 12 mi S of Anniston, 2407 ft NN	https://lichenportal.org/portal/collections/individual/index.php?occid=5683253

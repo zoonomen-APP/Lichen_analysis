@@ -1,0 +1,9 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5361846	CSU	CSU-L-000371	S. Strawn	371	408.53	Ohio	Adams	38.7719	-88.4457	outside_boundary_exact	Illinois, Clay County	Appalachia Nat'l Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361846
+5361847	CSU	CSU-L-000375	S. Strawn	375	408.53	Ohio	Adams	38.7719	-88.4457	outside_boundary_exact	Illinois, Clay County	Appalachia Nat'l Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361847
+5361849	CSU	CSU-L-000454	S. Strawn	CSU-L-454	408.53	Ohio	Adams	38.7719	-88.4457	outside_boundary_exact	Illinois, Clay County	Appalachia Nat'l Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361849
+5361851	CSU	CSU-L-382	S. Strawn	382	408.53	Ohio	Adams	38.7719	-88.4457	outside_boundary_exact	Illinois, Clay County	Appalachia Nat'l Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361851
+5361841	CSU	CSU-L-000232	S. Strawn	232	2.03	Ohio	Jackson	38.828	-82.471	outside_boundary_exact	Ohio, Gallia County	Lake Katherine St.Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361841
+5361843	CSU	CSU-L-000473	S. Strawn	473	2.03	Ohio	Jackson	38.828	-82.471	outside_boundary_exact	Ohio, Gallia County	Lake Katherine St.Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361843
+5361844	CSU	CSU-L-000282	S. Strawn	282	2.03	Ohio	Jackson	38.828	-82.471	outside_boundary_exact	Ohio, Gallia County	Lake Katherine St.Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361844
+5361845	CSU	CSU-L-000283	S. Strawn	283	2.03	Ohio	Jackson	38.828	-82.471	outside_boundary_exact	Ohio, Gallia County	Lake Katherine St.Pres	https://lichenportal.org/portal/collections/individual/index.php?occid=5361845

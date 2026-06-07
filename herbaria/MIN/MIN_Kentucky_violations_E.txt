@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+416754	MIN	881883	Harris, R.	36888	0.37	Kentucky	Bath	38.05	-83.53333333	outside_boundary_exact	Kentucky, Menifee County	Tater Knob, off Fs Road 918; Daniel Boone National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=416754
+395358	MIN	843644	Harris, R.	36811	0	Kentucky	Rowan	38.05	-83.46666667	outside_boundary_exact	Kentucky, Menifee County	Ne of Claylick Boat Ramp; Daniel Boone National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=395358
+395359	MIN	843645	Harris, R.	36863	0	Kentucky	Rowan	38.05	-83.46666667	outside_boundary_exact	Kentucky, Menifee County	Ne of Claylick Boat Ramp; Daniel Boone National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=395359

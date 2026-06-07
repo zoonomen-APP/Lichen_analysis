@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+146161	SBBG	SBBG024775L	J. Nelson	732	10101.75	Maine	Kennebec	44.2	69.966667	outside_boundary_exact	not_found_in_US	Mud pond near Woodbury Game Sanctuary,3 mi SW of Litchfield along Hwy 126.	https://lichenportal.org/portal/collections/individual/index.php?occid=146161
+5069333	SBBG	SBBG090126L	J. C. Lendemer	22966	6.82	Maine	Washington Co.	44.584722	-68.103056	outside_boundary_exact	Maine, Hancock County	T10 SD, Donnell Pond Public Reserve Lands, Black Mountain, Big Chief Trail to summit of Black Mountain	https://lichenportal.org/portal/collections/individual/index.php?occid=5069333

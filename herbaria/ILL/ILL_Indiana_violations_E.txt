@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1509086	ILL	ILL00038862	Bruce Fink	NA	189.85	Indiana	Montgomery	38.896393	-84.870133	outside_boundary_exact	Indiana, Switzerland County	near north side of Nutt barn	https://lichenportal.org/portal/collections/individual/index.php?occid=1509086

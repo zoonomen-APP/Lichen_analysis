@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1736866	FLAS	FLAS L11315	Doyle E. Anderegg	1608	4.09	Virginia	Page	38.566667	-78.333333	outside_boundary_exact	Virginia, Madison County	along Dark Hollow Trail, near Skyline Drive	https://lichenportal.org/portal/collections/individual/index.php?occid=1736866
+1740175	FLAS	FLAS L7628	Fred W. Gray	NA	0.96	Virginia	Charlotte	37.237091	-78.761675	outside_boundary_exact	Virginia, Appomattox County	Long Creek, Charlotte	https://lichenportal.org/portal/collections/individual/index.php?occid=1740175
+1740347	FLAS	FLAS L7787	Fred W. Gray	NA	0.96	Virginia	Charlotte	37.237091	-78.761675	outside_boundary_exact	Virginia, Appomattox County	Long Creek, Charlotte	https://lichenportal.org/portal/collections/individual/index.php?occid=1740347
+1740575	FLAS	FLAS L8006	Fred W. Gray	NA	0.96	Virginia	Charlotte	37.237091	-78.761675	outside_boundary_exact	Virginia, Appomattox County	Long Creek, Charlotte	https://lichenportal.org/portal/collections/individual/index.php?occid=1740575

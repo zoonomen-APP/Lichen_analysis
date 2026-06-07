@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1458028	UConn	CONN01001852	John G. Guccion	s.n.	0.88	Virginia	Madison	38.53333	-78.45	outside_boundary_exact	Virginia, Page County	Shenandoah National Park, Upper Franklin Cliffs Overlook	https://lichenportal.org/portal/collections/individual/index.php?occid=1458028
+1458638	UConn	CONN01002465	John G. Guccion	s.n.	0.47	Virginia	Madison	38.53333	-78.43333	outside_boundary_exact	Virginia, Page County	Upper Franklin Cliffs overlook along Skyline Drive, Shenandoah National Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1458638

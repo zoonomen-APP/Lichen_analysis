@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1458735	UConn	CONN01002562	Shirley C. Tucker	18437	8.2	Louisiana	East Feliciana	30.8	-90.75	outside_boundary_exact	Louisiana, St. Helena County	Idlewild Experimental farm, about 3 miles SE of Clinton	https://lichenportal.org/portal/collections/individual/index.php?occid=1458735

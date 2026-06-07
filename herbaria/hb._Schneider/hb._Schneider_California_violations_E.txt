@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5825417	hb. Schneider	NA	Ken Schneider	KSLICH 0196	0.32	California	Alameda	37.8976	-122.2505	outside_boundary_exact	California, Contra Costa County	Tilden Park, Lake Anza	https://lichenportal.org/portal/collections/individual/index.php?occid=5825417
+5825418	hb. Schneider	NA	Ken Schneider	KSLICH 0197	0.32	California	Alameda	37.8976	-122.2505	outside_boundary_exact	California, Contra Costa County	Tilden Park, Lake Anza	https://lichenportal.org/portal/collections/individual/index.php?occid=5825418

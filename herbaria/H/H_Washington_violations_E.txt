@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5454702	H	http://id.luomus.fi/HA.H9232316	McCune, Bruce	McCune 27390	3.65	Washington	Yakima	46.854	-120.486333	outside_boundary_exact	Washington, Kittitas County	Wenas Wildlife Area | slopes above Umtanum Creek near its mouth at Yakima River, 16.5 km south of Ellesburg.	https://lichenportal.org/portal/collections/individual/index.php?occid=5454702

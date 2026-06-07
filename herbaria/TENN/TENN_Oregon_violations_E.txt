@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5078941	TENN	TENN-L-0008855	Rick Demmer	300045	216.92	Oregon	Gilliam	43.943336	-122.727379	outside_boundary_exact	Oregon, Lane County	Horn Butte Grazing allotment	https://lichenportal.org/portal/collections/individual/index.php?occid=5078941
+5078957	TENN	TENN-L-0008871	Rick Demmer	315030	3.95	Oregon	Deschutes	44.170593	-121.018672	outside_boundary_exact	Oregon, Crook County	Southwest of Powell Butte west of Johnson Ranch.	https://lichenportal.org/portal/collections/individual/index.php?occid=5078957

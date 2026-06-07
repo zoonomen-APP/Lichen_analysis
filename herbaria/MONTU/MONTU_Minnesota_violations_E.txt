@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5831014	MONTU	MONTU01458	Shirley Colter	1276	0.76	Minnesota	Yellow Medicine	44.809108	-95.52637	outside_boundary_exact	Minnesota, Chippewa County	Granite Falls.	https://lichenportal.org/portal/collections/individual/index.php?occid=5831014
+5781915	MONTU	MONTU00801	Shirley Cotter	2024C	NA	Minnesota	Bayfield	46.720882	-91.449441	county_not_matched_no_match	county_not_matched	South shore of Lake Superior, 1 mile west of Orienta.	https://lichenportal.org/portal/collections/individual/index.php?occid=5781915

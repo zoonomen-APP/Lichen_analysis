@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5780520	CHRB	CHRB-L-0003016	Nancy Hillyard	Howe #778	NA	California	Almeda	37.915471	-122.259167	county_not_matched_no_match	county_not_matched	Tilden Nature Area, Laurel Canyon Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=5780520

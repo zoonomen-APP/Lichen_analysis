@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1815809	CINC	CINC-L-0006142	Snider, Jerry A.	1219	49.51	Arkansas	Searcy	35.743686	-91.867182	outside_boundary_exact	Arkansas, Stone County	on Ark. 66, 1 mile west of Melrose	https://lichenportal.org/portal/collections/individual/index.php?occid=1815809
+2954626	CINC	CINC-L-0006978	Snider, Jerry A.	1218	49.51	Arkansas	Searcy	35.743686	-91.867182	outside_boundary_exact	Arkansas, Stone County	on Ark. 66, 1 mile west of Melrose	https://lichenportal.org/portal/collections/individual/index.php?occid=2954626

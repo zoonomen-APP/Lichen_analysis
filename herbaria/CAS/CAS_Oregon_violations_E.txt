@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2642559	CAS	449680	Wagner, D. H.	5030	422.22	Oregon	Lincoln County	40.4980555556	-124.0844444444	outside_boundary_exact	California, Humboldt County	Seal Rocks	https://lichenportal.org/portal/collections/individual/index.php?occid=2642559

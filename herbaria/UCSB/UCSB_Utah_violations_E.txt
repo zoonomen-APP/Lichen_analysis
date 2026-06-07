@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3023204	UCSB	UCSB043882	Robert S. Egan	16,551	0.08	Utah	Summit	40.657778	-110.945556	outside_boundary_exact	Utah, Wasatch County	Unita Mountains, Provo River Falls Overlook along Route 150, Wasatch National Forest.; 40.657778 -110.945556	https://lichenportal.org/portal/collections/individual/index.php?occid=3023204

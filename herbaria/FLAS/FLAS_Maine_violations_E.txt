@@ -1,0 +1,10 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1358074	FLAS	FLAS L9372	C.C.P.	Mt. D-15	144.01	Maine	Hancock	43.487863	-70.386994	outside_boundary_exact	Maine, York County	Bay View Drive, Salisbury Cove	https://lichenportal.org/portal/collections/individual/index.php?occid=1358074
+1740733	FLAS	FLAS L8156	C.C.P.	Mt.D.-4	144.01	Maine	Hancock	43.487863	-70.386994	outside_boundary_exact	Maine, York County	Bay View Drive, Salisbury Cove	https://lichenportal.org/portal/collections/individual/index.php?occid=1740733
+1380613	FLAS	FLAS L10496	G.K. Merrill	NA	17.56	Maine	Knox	44.51771	-69.216125	outside_boundary_exact	Maine, Waldo County	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1380613
+1380614	FLAS	FLAS L10497	G.K. Merrill	NA	17.56	Maine	Knox	44.51771	-69.216125	outside_boundary_exact	Maine, Waldo County	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1380614
+1381137	FLAS	FLAS L10866	G.K. Merrill	NA	17.47	Maine	Knox	44.516241	-69.212692	outside_boundary_exact	Maine, Waldo County	various localities	https://lichenportal.org/portal/collections/individual/index.php?occid=1381137
+1384735	FLAS	FLAS L11969	A.L. Crocketts	NA	0.23	Maine	Knox	44.258568	-69.105014	outside_boundary_exact	Maine, Waldo County	Lake Megunticook, Camden	https://lichenportal.org/portal/collections/individual/index.php?occid=1384735
+1740528	FLAS	FLAS L7964	Alice L. Crockett	NA	0.23	Maine	Knox	44.258568	-69.105014	outside_boundary_exact	Maine, Waldo County	Lake Megunticool, Camden	https://lichenportal.org/portal/collections/individual/index.php?occid=1740528
+1360047	FLAS	FLAS L10051	G.K. Merrill	NA	NA	Maine	[n/a]	45.22189	-69.213379	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1360047
+1384421	FLAS	FLAS L11994	G.K. Merrill	NA	NA	Maine	know	44.184524	-69.076149	county_not_matched_no_match	county_not_matched	Rockport	https://lichenportal.org/portal/collections/individual/index.php?occid=1384421

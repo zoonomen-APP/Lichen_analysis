@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1281541	WTU	WTU-L-033911	Lawrence Pike	4483	73.7	North Carolina	Yancey	36.74	-82.28	outside_boundary_exact	Virginia, Russell County	Near summit of Mount Mitchell.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281541

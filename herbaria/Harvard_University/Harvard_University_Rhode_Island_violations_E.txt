@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5825813	Harvard University	barcode-00811397	Har. Schaefer	1575	15.06	Rhode Island	Bristol County	41.6671	-71.52213	outside_boundary_exact	Rhode Island, Kent County	Mount Hope Farm, off Rhode Island Rt. 136	https://lichenportal.org/portal/collections/individual/index.php?occid=5825813
+6001843	Harvard University	barcode-01205391	Har. Schaefer	1574	15.06	Rhode Island	Bristol County	41.6671	-71.52213	outside_boundary_exact	Rhode Island, Kent County	Mount Hope Farm, off Rhode Island Rt 136.	https://lichenportal.org/portal/collections/individual/index.php?occid=6001843

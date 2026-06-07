@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1797616	PH	PH00117942	James C. Lendemer	1452	64.18	West Virginia	Pocahontas	39.236111	-80.149748	outside_boundary_exact	West Virginia, Barbour County	Monongahela National Forest, Cranberry Wilderness, ca. 2 miles from WVA Route #150, along Big Beechy Trail at intersection with District Line Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=1797616

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1381124	FLAS	FLAS L10850	[W.W. Calkins]	NA	NA	Wisconsin	[n/a]	44.088228	-89.691895	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1381124

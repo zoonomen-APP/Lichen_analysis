@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6019978	hb. LaGreca	SALG00965	Jonathan P. Dey	8026	0.27	Alabama	Clay Co.	33.2978	-86.0744	outside_boundary_exact	Alabama, Talladega County	Horn Mt. 16 mi SE of Talladega	https://lichenportal.org/portal/collections/individual/index.php?occid=6019978

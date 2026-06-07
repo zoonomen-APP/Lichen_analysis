@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1304756	VT	UVMVT015157	E. E. Bogue	s.n.	206.06	Ohio	Ashtabula	41.300953	-83.471888	outside_boundary_exact	Ohio, Wood County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1304756

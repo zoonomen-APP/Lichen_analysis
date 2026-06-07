@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1859100	DUKE	159844	Flenniken, Don	s.n.	5.47	Ohio	Wayne Co.	40.61916	-81.70326	outside_boundary_exact	Ohio, Holmes County	Paint Township	https://lichenportal.org/portal/collections/individual/index.php?occid=1859100

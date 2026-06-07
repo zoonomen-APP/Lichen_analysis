@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1322581	FLAS	FLAS L236	M. Bourell	3873	16.37	California	Modoc	41.038222	-121.14775	outside_boundary_exact	California, Lassen County	north end of Big Valley	https://lichenportal.org/portal/collections/individual/index.php?occid=1322581
+2408238	FLAS	FLAS L9233	C.C.H.	NA	15.1	California	Santa Clara	37.016553	-122.049078	outside_boundary_exact	California, Santa Cruz County	Bayou Creek, Santa Cruz Mts.	https://lichenportal.org/portal/collections/individual/index.php?occid=2408238
+1381128	FLAS	FLAS L10855	A.C. Herre	291	1.37	California	Santa Cruz	37.110781	-121.844676	outside_boundary_exact	California, Santa Clara County	Santa Cruz Mountains	https://lichenportal.org/portal/collections/individual/index.php?occid=1381128
+1380659	FLAS	FLAS L11660	Doyle E. Anderegg	3353	NA	California	Grays Harbor	46.866667	-124.15	county_not_matched_no_match	county_not_matched	West of Arcata. ABLS Forray 1975.	https://lichenportal.org/portal/collections/individual/index.php?occid=1380659

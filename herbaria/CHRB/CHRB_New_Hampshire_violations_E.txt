@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1412740	CHRB	CHRB-L-0001334	Erica M. Frank	NH-62	315.06	New Hampshire	Coos	41.266667	-71.283333	outside_boundary_exact	not_found_in_US	Alpine Meadows, Mount Washington	https://lichenportal.org/portal/collections/individual/index.php?occid=1412740
+1412985	CHRB	CHRB-L-0001579	Erica M. Frank	NH-45	177.48	New Hampshire	Grafton	41.95	-71.7	outside_boundary_exact	Rhode Island, Providence County	Hubbard Brook Experimental Forest, W Thornton, White Mtns.	https://lichenportal.org/portal/collections/individual/index.php?occid=1412985

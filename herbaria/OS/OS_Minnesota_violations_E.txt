@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2416468	OS	OS0011959	J. W. Thomson	NA	148.2	Minnesota	Cook	48	-93	outside_boundary_exact	Minnesota, St. Louis County	shore of Horseshoe Island, Lake Saganaga	https://lichenportal.org/portal/collections/individual/index.php?occid=2416468

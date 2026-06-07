@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+808554	OMA	16329	NA	621	12.13	California	San Francisco	37.6	-122.4	outside_boundary_exact	California, San Mateo County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=808554

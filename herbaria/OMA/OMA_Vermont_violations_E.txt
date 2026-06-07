@@ -1,0 +1,8 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+801434	OMA	12388	NA	6018	0.33	Vermont	Bennington	43	-73	outside_boundary_exact	Vermont, Windham County	Green Mountain National Forest; Winhall Township	https://lichenportal.org/portal/collections/individual/index.php?occid=801434
+799506	OMA	15675	NA	3299	NA	Vermont	Washington-Chittenden	44.320833	-72.920833	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799506
+799507	OMA	15673	NA	3302	NA	Vermont	Washington-Chittenden	44.320833	-72.920833	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799507
+799508	OMA	15672	NA	3301	NA	Vermont	Washington-Chittenden	44.320833	-72.920833	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799508
+799509	OMA	15666	NA	3300	NA	Vermont	Washington-Chittenden	44.320833	-72.920833	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799509
+799510	OMA	16596	NA	3298	NA	Vermont	Washington-Chittenden	44.320833	-72.920833	county_not_matched_no_match	county_not_matched	Green Mountain National Forest; Camels Hump, 6.5 miles WSW of Waterbury	https://lichenportal.org/portal/collections/individual/index.php?occid=799510
+799511	OMA	16606	NA	3265	NA	Vermont	Washington-Chittenden	44.320833	-72.920833	county_not_matched_no_match	county_not_matched	Green Mountain National Forest; Camels Hump, 6.5 miles WSW of Waterbury	https://lichenportal.org/portal/collections/individual/index.php?occid=799511

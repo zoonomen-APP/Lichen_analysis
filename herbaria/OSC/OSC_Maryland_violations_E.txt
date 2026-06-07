@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2230271	OSC	54690	Thos. A. Williams	NA	20.03	Maryland	Montgomery	38.778	-77.007	outside_boundary_exact	Maryland, Prince George's County	Takoma Park	https://lichenportal.org/portal/collections/individual/index.php?occid=2230271

@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1648972	KANU	386861	Clifford M Wetmore	12073	88.63	Vermont	Windham	44.05639	-72.80194	outside_boundary_exact	Vermont, Washington County	Wardsboro Center: S	https://lichenportal.org/portal/collections/individual/index.php?occid=1648972
+5410992	KANU	411304	George K Merrill	s.n.	0.16	Vermont	Lamoille	44.543663	-72.81429	outside_boundary_exact	Vermont, Chittenden County	Mt Mansfield: summit	https://lichenportal.org/portal/collections/individual/index.php?occid=5410992
+5410993	KANU	411305	George K Merrill	s.n.	0.16	Vermont	Lamoille	44.543663	-72.81429	outside_boundary_exact	Vermont, Chittenden County	Mt Mansfield: summit	https://lichenportal.org/portal/collections/individual/index.php?occid=5410993
+5410994	KANU	411313	George K Merrill	s.n.	0.16	Vermont	Lamoille	44.543663	-72.81429	outside_boundary_exact	Vermont, Chittenden County	Mt Mansfield: summit	https://lichenportal.org/portal/collections/individual/index.php?occid=5410994

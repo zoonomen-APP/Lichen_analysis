@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1314029	VT	UVMVT018330	C. G. Pringle	s.n.	298.22	West Virginia	Kanawha	39.275577	-77.862929	outside_boundary_exact	West Virginia, Jefferson County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1314029

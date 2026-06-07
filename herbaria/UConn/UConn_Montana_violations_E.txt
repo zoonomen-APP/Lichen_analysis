@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2880327	UConn	CONN01010777	Roger Rosentreter	NA	2181.8	Montana	Flathead	47.330002	-144	outside_boundary_exact	not_found_in_US	Mission Falls area, Flathead Indian Reservation. E of St. Ignatius, MT.; 47.330002 -144	https://lichenportal.org/portal/collections/individual/index.php?occid=2880327
+1457624	UConn	CONN01001446	B. McCune	19293	10.55	Montana	Ravalli	45.3833333	-114.25	outside_boundary_exact	Idaho, Lemhi County	Bear Creek Canyon, Bitterroot Range	https://lichenportal.org/portal/collections/individual/index.php?occid=1457624
+1423887	UConn	CONN01000752	Roger Rosentreter	1427	0.58	Montana	Lake	47.476045	-113.935658	outside_boundary_exact	Montana, Missoula County	Mollman lakes, Mission Mts, St. Ignatius	https://lichenportal.org/portal/collections/individual/index.php?occid=1423887

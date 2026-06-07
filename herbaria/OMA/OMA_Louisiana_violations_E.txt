@@ -1,0 +1,13 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+805464	OMA	13556	NA	17,317	22.15	Louisiana	Est Feliciana	30.95	-90.95	outside_boundary_partial_match	Louisiana, East Feliciana County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=805464
+802806	OMA	17079	NA	657	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802806
+802807	OMA	17063	NA	654AA	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802807
+802808	OMA	17051	NA	654A	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802808
+802809	OMA	17064	NA	655	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802809
+802810	OMA	17052	NA	653B	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802810
+802811	OMA	17078	NA	656	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802811
+802812	OMA	17081	NA	661	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802812
+802813	OMA	17077	NA	659	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802813
+802814	OMA	17067	NA	662	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802814
+802816	OMA	17073	NA	658	NA	Louisiana	Desoto	31.860778	-93.555583	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802816
+802884	OMA	17080	NA	660	NA	Louisiana	Desoto	31.853444	-93.513917	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802884

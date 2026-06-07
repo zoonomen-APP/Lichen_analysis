@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2592297	UCR(temp)	SBBG014676L	T.L. Esslinger	14095	167.99	Idaho	Kootenai	45.85	-116.866667	outside_boundary_exact	Oregon, Wallowa County	Near the S end of Lower Twin Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=2592297
+2602115	UCR(temp)	SBBG024415L	Larry St. Clair	15788	140.39	Idaho	Lemhi	45.053167	-116.559583	outside_boundary_exact	Idaho, Adams County	Salmon-Challis National Forest: head of East Fork of Kenney Creek.	https://lichenportal.org/portal/collections/individual/index.php?occid=2602115

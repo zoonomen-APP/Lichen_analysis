@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5367585	UConn	CONN00234083	Yahr, Rebecca	2074	11.68	Georgia	Columbia	33.32	-82.15	outside_boundary_exact	Georgia, Richmond County	COLUMBIA CO.: Outside Appling, Heggie's Rock.	https://lichenportal.org/portal/collections/individual/index.php?occid=5367585
+5392188	UConn	CONN00234109	Yahr, Rebecca	1764	3.03	Georgia	Gwinnett County	33.8063	-84.1524	outside_boundary_exact	Georgia, DeKalb County	Stone Mountain, in park along main trail ascending mountain from railway depot and visitor's station.	https://lichenportal.org/portal/collections/individual/index.php?occid=5392188
+2681806	UConn	CONN00191880	Sean Beeching	NA	0.17	Georgia	Murray	34.8569	-84.6181	outside_boundary_exact	Georgia, Fannin County	Bear Creek Falls	https://lichenportal.org/portal/collections/individual/index.php?occid=2681806

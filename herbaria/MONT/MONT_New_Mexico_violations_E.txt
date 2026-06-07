@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1384821	MONT	MONT-L-0003274	B.D. Ryan	19363	322.97	New Mexico	Los Alamos	32.866667	-106.366667	outside_boundary_exact	New Mexico, Otero County	Road to Los Alamos Ski Hill, 2.5 mi SW of Los Alamos	https://lichenportal.org/portal/collections/individual/index.php?occid=1384821

@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1287241	VT	UVMVT016033	H. E. Hasse	131	4.23	California	Los Angeles	34.109446	-118.961539	outside_boundary_exact	California, Ventura County	Santa Monica [illegible]	https://lichenportal.org/portal/collections/individual/index.php?occid=1287241
+1304747	VT	UVMVT015148	H. E. Hasse	s.n.	4.23	California	Los Angeles	34.109446	-118.961539	outside_boundary_exact	California, Ventura County	Topanga Canyon, Santa Monica Mts.	https://lichenportal.org/portal/collections/individual/index.php?occid=1304747

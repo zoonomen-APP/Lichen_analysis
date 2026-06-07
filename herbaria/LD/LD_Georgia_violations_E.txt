@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3960856	LD	1431496	James C. Lendemer	NA	30.33	Georgia	Burke	33.53222222	-81.85486111	outside_boundary_exact	South Carolina, Aiken County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=3960856
+3957602	LD	1290601	Richard C. Harris	NA	6.85	Georgia	Coffee	31.73333333	-82.75	outside_boundary_exact	Georgia, Jeff Davis County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=3957602
+5388576	LD	2103553	Richard C. Harris	NA	6.85	Georgia	Coffee	31.73333333	-82.75	outside_boundary_exact	Georgia, Jeff Davis County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=5388576
+4641029	LD	1067647	Clifford M. Wetmore	NA	3.84	Georgia	DeKalb	33.83333333	-84.08333333	outside_boundary_exact	Georgia, Gwinnett County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=4641029

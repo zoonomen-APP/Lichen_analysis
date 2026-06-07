@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5455578	H	http://id.luomus.fi/HA.H9239319	Ahti, Teuvo	Ahti 56852	14.23	Massachusetts	Plymouth County	42.5	-70.625	outside_boundary_exact	not_found_in_US	Myles Standish State Forest, Wings Hole	https://lichenportal.org/portal/collections/individual/index.php?occid=5455578

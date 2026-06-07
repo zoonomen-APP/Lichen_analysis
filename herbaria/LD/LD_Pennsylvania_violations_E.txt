@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5653159	LD	2284356	John W. Thomson	NA	1293.99	Pennsylvania	Huntingdon	48.63333333	-90.18333333	outside_boundary_exact	not_found_in_US	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=5653159
+3958969	LD	1338025	James C. Lendemer	NA	6.47	Pennsylvania	Wyoming	41.70694444	-76.09166667	outside_boundary_exact	Pennsylvania, Susquehanna County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=3958969
+3958978	LD	1338250	James C. Lendemer	NA	0.03	Pennsylvania	Wayne	41.25833333	-75.44083333	outside_boundary_exact	Pennsylvania, Lackawanna County	State Game Lands No. 312, along trail between Lehigh Road and West Fork of Lehigh River	https://lichenportal.org/portal/collections/individual/index.php?occid=3958978

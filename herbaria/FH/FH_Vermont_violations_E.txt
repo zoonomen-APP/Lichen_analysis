@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4724843	FH	barcode-00377713	P. F. May	5980	10679.93	Vermont	Bennington County	42.901	72.952	outside_boundary_exact	not_found_in_US	Green Mountain National Forest, W side of FS 71, 1.6 km N of VT 9, near Searsburg Reservoir	https://lichenportal.org/portal/collections/individual/index.php?occid=4724843

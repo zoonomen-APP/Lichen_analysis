@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1553360	hb. Esslinger	15195	J.C. Lendemer	19989	14.78	Maryland	Cecil Co.	39.53611	-75.60556	outside_boundary_exact	Delaware, New Castle County	Cecil Co., Elk Neck State Forest, Black Hill Tract, Black Hill 0-1 mi S of McKinneytown Rd	https://lichenportal.org/portal/collections/individual/index.php?occid=1553360

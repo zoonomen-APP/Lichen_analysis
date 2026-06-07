@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1402174	MICH	125030	I. M. Brodo	20353	7.57	Arizona	Coconino	35.333333	-110.666667	outside_boundary_exact	Arizona, Navajo County	San Francisco Mountains, Mt. Agassiz	https://lichenportal.org/portal/collections/individual/index.php?occid=1402174

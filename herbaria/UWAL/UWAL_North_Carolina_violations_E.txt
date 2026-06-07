@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3411667	UWAL	UWAL-L-0000195	KAG	3	0.01	North Carolina	Forsyth	36.126237	-80.451678	outside_boundary_exact	North Carolina, Yadkin County	Ca. 1 mi. from Yadkin River	https://lichenportal.org/portal/collections/individual/index.php?occid=3411667

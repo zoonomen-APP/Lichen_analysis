@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+804564	OMA	16830	NA	964	1.43	Alabama	Lauderdale	35.017972	-87.823222	outside_boundary_exact	Tennessee, Wayne County	Natchez Trace National Parkway; mile 335-336	https://lichenportal.org/portal/collections/individual/index.php?occid=804564

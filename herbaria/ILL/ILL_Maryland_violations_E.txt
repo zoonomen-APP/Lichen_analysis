@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1508315	ILL	ILL00038091	G.P.C.	NA	NA	Maryland	Flintstone	39.7	-78.5667	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1508315

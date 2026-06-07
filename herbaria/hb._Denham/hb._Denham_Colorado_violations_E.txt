@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5781708	hb. Denham	NA	Denham, M.L.	L19	4.65	Colorado	Boulder	40.226388888889	-105	outside_boundary_exact	Colorado, Weld County	3.5 miles W of Lyons, Just E of Longmont Reservoir along N. St Vrain Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=5781708

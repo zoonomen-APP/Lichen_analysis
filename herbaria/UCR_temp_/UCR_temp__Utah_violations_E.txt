@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2592142	UCR(temp)	SBBG014603L	B.D. Ryan	20264	0.85	Utah	Utah	40.383333	-111.55	outside_boundary_exact	Utah, Wasatch County	W side of Hwy 189, c. 10mi N of Provo	https://lichenportal.org/portal/collections/individual/index.php?occid=2592142

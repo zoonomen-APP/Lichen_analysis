@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1840821	DUKE	10994	Morgan, Sara; Egan, Robert, S.	368	47.71	Nebraska	Dawes Co.	42.6275	-102.1880556	outside_boundary_exact	Nebraska, Sheridan County	Nebraska National Forest; 18 mi (30 km) SW of Chadron along East Ash Road (Forest Service Road 706); 1.8 road mi N of junction with Table Road (Forest Service Road 705)	https://lichenportal.org/portal/collections/individual/index.php?occid=1840821

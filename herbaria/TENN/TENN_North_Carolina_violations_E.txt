@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1066079	TENN	TENN-L-0004909	A.J. Sharp	NA	427.51	north carolina	Swain	35.79	-78.4	outside_boundary_exact	North Carolina, Wake County	near eagle rock	https://lichenportal.org/portal/collections/individual/index.php?occid=1066079
+1066236	TENN	TENN-L-0005066	Z. Iwatsuki	s.n.	7.64	north carolina	Yancey	35.694749	-82.386977	outside_boundary_exact	North Carolina, Buncombe County	Craggy Trail, Mt. Mitchell	https://lichenportal.org/portal/collections/individual/index.php?occid=1066236

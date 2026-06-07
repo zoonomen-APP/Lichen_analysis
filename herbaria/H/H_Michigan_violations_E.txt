@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5465423	H	http://id.luomus.fi/HA.H9217921	Schroeder, Nancy E. | Schroeder, Gary J.	Schroeder L2062	NA	Michigan	Gobegic	46.366666	-89.533333	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5465423

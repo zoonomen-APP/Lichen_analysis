@@ -1,0 +1,10 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+801782	OMA	17186	NA	16,209	960.9	Kansas	Washington	30.973333	-97.074583	outside_boundary_exact	Texas, Milam County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=801782
+801784	OMA	17185	NA	16,206	960.9	Kansas	Washington	30.973333	-97.074583	outside_boundary_exact	Texas, Milam County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=801784
+799698	OMA	17179	NA	15591a	106.31	Kansas	Sherman	38.185	-101.777778	outside_boundary_exact	Kansas, Hamilton County	Sherman Co State Fishing Lake and Wildlife Area; 10.25 mi S, 2.75 mi W jct of KS Hwy 27 & US Hwy Business 24 in Goodland	https://lichenportal.org/portal/collections/individual/index.php?occid=799698
+802117	OMA	16908	NA	12787	69.26	Kansas	Linn	38.136944	-95.874444	outside_boundary_exact	Kansas, Coffey County	Dingus Natural Area; Mound City	https://lichenportal.org/portal/collections/individual/index.php?occid=802117
+802125	OMA	16897	NA	12758a	69.26	Kansas	Linn	38.138889	-95.874444	outside_boundary_exact	Kansas, Coffey County	Dingus Natural Area; Mound City	https://lichenportal.org/portal/collections/individual/index.php?occid=802125
+800520	OMA	16874	NA	12485	NA	Kansas	Grove	38.855556	-100.165556	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800520
+800522	OMA	16906	NA	12484	NA	Kansas	Grove	38.856389	-100.182222	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800522
+800546	OMA	16930	NA	12480	NA	Kansas	Grove	38.856389	-100.168889	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800546
+3796198	OMA	19697	NA	23306	NA	Kansas	Woodsen	37.793889	-95.835833	county_not_matched_no_match	county_not_matched	Woodson Co State Fishing Lake & Wildlife Area; 6 miles E of Toronto	https://lichenportal.org/portal/collections/individual/index.php?occid=3796198

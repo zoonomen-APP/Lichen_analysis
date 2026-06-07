@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1527355	LSU	LSU00130459	A. Norden; B. Ball	403	0.26	Maryland	Prince George's	38.639424	-76.817987	outside_boundary_standardized_exact	Maryland, Charles County	Cedarville State Forest.	https://lichenportal.org/portal/collections/individual/index.php?occid=1527355

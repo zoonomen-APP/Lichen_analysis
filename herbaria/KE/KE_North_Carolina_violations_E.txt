@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3440133	KE	471	Barbara Andreas	19496a	45.72	North Carolina	Haywood County	35.795309	-82.340715	outside_boundary_exact	North Carolina, Buncombe County	Pisgah National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=3440133
+3440134	KE	472	Barbara Andreas	19496b	45.72	North Carolina	Haywood County	35.795309	-82.340715	outside_boundary_exact	North Carolina, Buncombe County	Pisgah National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=3440134

@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4993478	CUP	CUP-L-0011155	William L. Culberson	11228	3515.06	Virginia	Giles	43.25208	-122.30135	outside_boundary_exact	Oregon, Douglas County	Mountain Lake Biological Station	https://lichenportal.org/portal/collections/individual/index.php?occid=4993478
+4938602	CUP	CUP-L-0011137	William L. Culberson	11359	918.07	Virginia	Giles	30.3916667	-86.55	outside_boundary_exact	Florida, Okaloosa County	Mountain Lake, road to Ashbury House	https://lichenportal.org/portal/collections/individual/index.php?occid=4938602
+4938603	CUP	CUP-L-0011138	William L. Culberson	11423	918.07	Virginia	Giles	30.3916667	-86.55	outside_boundary_exact	Florida, Okaloosa County	Mountain Lake Biological Station	https://lichenportal.org/portal/collections/individual/index.php?occid=4938603

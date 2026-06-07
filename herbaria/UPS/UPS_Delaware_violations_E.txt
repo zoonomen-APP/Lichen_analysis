@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+981134	UPS	L-519653	Clyde F. Reed	62186	243.63	Delaware	New Castle Co.	41.52361	-77.47917	outside_boundary_exact	Pennsylvania, Lycoming County	New Castle Co., 3 mi SW of Townsend, along Golts Rd.	https://lichenportal.org/portal/collections/individual/index.php?occid=981134

@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3442049	CMN	CANL 23434	Thomson, John W.	13072	251.21	Minnesota	Chisago Co.	48	-93	outside_boundary_exact	Minnesota, St. Louis County	Horseshoe Island, Lake Saganaga.	https://lichenportal.org/portal/collections/individual/index.php?occid=3442049
+3326223	CMN	CANL 66700	Wetmore, Clifford M.	26404	21.56	Minnesota	Mahnomen Co.	47.3	-96.35	outside_boundary_exact	Minnesota, Norman County	East of Washington Lake (18 miles NE of Mahnomen).	https://lichenportal.org/portal/collections/individual/index.php?occid=3326223

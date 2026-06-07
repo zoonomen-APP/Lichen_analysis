@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1290158	BRY	BRY-L-0014145	Larry L. St. Clair	NA	NA	Georgia	Towns-Rabun	54.666667	-83.618889	county_not_matched_no_match	county_not_matched	Chattahoochee National Forest: Dicks Creek Gap: junction of US Highway 76 & Appalachian Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=1290158

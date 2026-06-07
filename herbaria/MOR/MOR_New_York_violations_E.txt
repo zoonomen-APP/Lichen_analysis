@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1415453	MOR	L-0000108-MOR	G.G. Nearing	NA	2.24	New York	Rockland	40.981815	-73.920179	outside_boundary_exact	New Jersey, Bergen County	Stony Brook, Palisades Interstate Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1415453

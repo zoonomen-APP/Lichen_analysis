@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4658025	UNA	UNA00062473	Frank T. McFarland	450	0.01	Florida	Gilchrist	29.590792	-82.929291	outside_boundary_exact	Florida, Levy County	Fanning Springs	https://lichenportal.org/portal/collections/individual/index.php?occid=4658025

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1844572	DUKE	301034	Billings, Shirley, M.	s.n.	2.55	Nevada	Mineral Co.	38.43732	-119.0657	outside_boundary_exact	Nevada, Lyon County	Red Wash Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=1844572

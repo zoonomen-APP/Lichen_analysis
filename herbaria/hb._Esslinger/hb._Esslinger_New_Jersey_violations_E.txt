@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1544707	hb. Esslinger	10396	J.C. Lendemer	1176	54.51	New Jersey	Cumberland	39.7711111	-74.4069444	outside_boundary_exact	New Jersey, Burlington County	along a road used for timber harvesting, west of Red Road (Stevenson Road), Oswego River Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=1544707

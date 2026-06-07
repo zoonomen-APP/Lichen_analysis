@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1279941	WTU	WTU-L-032133	Harold Willis	sl-144	3.58	Kansas	Woodson	38	-96	outside_boundary_exact	Kansas, Greenwood County	Woodson County State Lake; 8 miles southwest of Yates Center.	https://lichenportal.org/portal/collections/individual/index.php?occid=1279941

@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1820764	MU	159073	Culberson, William Louis	4874	1.72	North Carolina	Mitchell	35.814466	-82.164562	outside_boundary_exact	North Carolina, Yancey County	3 miles north of Buck Creek Gap	https://lichenportal.org/portal/collections/individual/index.php?occid=1820764
+1821869	MU	46142	Small, John K.	s.n.	1.56	North Carolina	Gaston	35.245134	-81.341194	outside_boundary_exact	North Carolina, Cleveland County	King's Mountain	https://lichenportal.org/portal/collections/individual/index.php?occid=1821869
+1827380	MU	161450	Calkins, W.W.	192	0.01	North Carolina	Mitchell	36.104563	-82.122068	outside_boundary_exact	Tennessee, Carter County	Roan Mountain	https://lichenportal.org/portal/collections/individual/index.php?occid=1827380

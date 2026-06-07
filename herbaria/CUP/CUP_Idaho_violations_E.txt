@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1790944	CUP	CUP-L-0000666	Rosentreter	3932	2.36	Idaho	Lemhi	44.213	-112.979	outside_boundary_exact	Idaho, Clark County	road cut south of Keg Gulch, 4.5 miles N of Lone Pine	https://lichenportal.org/portal/collections/individual/index.php?occid=1790944

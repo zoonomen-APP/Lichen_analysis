@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3328687	CMN	CANL 65803	Harris, Richard C.	12323-A	41.52	Michigan	Mackinac Co.	46.0333	-83.5833	outside_boundary_exact	Michigan, Chippewa County	NNE of Big Knob Campground, T.42N, R.10W., sec. 18.	https://lichenportal.org/portal/collections/individual/index.php?occid=3328687

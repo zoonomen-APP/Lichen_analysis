@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2748671	UCSB	UCSB043605	St. Clair	11273	31.21	Montana	Sanders	47.010438	-115.006753	outside_boundary_exact	Montana, Mineral County	Lolo National Forest, Vicinity of Flat Iron Ridge, 4 kilometers northwest of Thompson Falls along SR 200.	https://lichenportal.org/portal/collections/individual/index.php?occid=2748671

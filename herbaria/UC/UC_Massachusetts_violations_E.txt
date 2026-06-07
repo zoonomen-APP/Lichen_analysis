@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1712967	UC	UC1999741	Sylivia Sharnoff, Stephen Sharnoff	1065.17	178.92	Massachusetts	Hampden	42.033333	-75.25	outside_boundary_exact	New York, Delaware County	Norcross Wildlife Sanctuary, southeast of Monson, south of Monson-Wales Road, wall of Hessian Cemetary	https://lichenportal.org/portal/collections/individual/index.php?occid=1712967

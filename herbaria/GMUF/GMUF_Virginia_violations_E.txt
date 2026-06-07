@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3566729	GMUF	GMUF-0016479	Lawrey, J.	2631	9381.99	Virginia	Prince William	38.58036111	38.58036111	outside_boundary_exact	not_found_in_US	Prince William Forest Park; Parking Area H, S along High Meadow Tr. 0.5 km	https://lichenportal.org/portal/collections/individual/index.php?occid=3566729
+3556060	GMUF	GMUF-0016216	Lawrey, J.	2814	NA	Virginia	VA	38.60555556	-77.41083333	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=3556060

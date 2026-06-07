@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6001914	CLEMS	67894	Ciegler, Alex	22429	NA	Maine	Cook	47.709033	93.203383	county_not_matched_no_match	county_not_matched	Cascade River State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=6001914
+6001915	CLEMS	67895	Ciegler, Alex	22431	NA	Maine	Cook	47.709033	93.203383	county_not_matched_no_match	county_not_matched	Cascade River State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=6001915

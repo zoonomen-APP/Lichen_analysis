@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1509588	ILL	ILL00039364	Aven Nelson	NA	25.91	Wyoming	Laramie	41.307719	-105.592298	outside_boundary_exact	Wyoming, Albany County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1509588
+1509586	ILL	ILL00039362	Aven Nelson	NA	25.09	Wyoming	Laramie	41.312527	-105.582588	outside_boundary_exact	Wyoming, Albany County	University campus	https://lichenportal.org/portal/collections/individual/index.php?occid=1509586
+1508052	ILL	ILL00037827	George Neville Jones	NA	21.75	Wyoming	Fremont	44.027746	-109.197035	outside_boundary_exact	Wyoming, Park County	7 Miles east of Togwater Pass in Shoshone National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=1508052
+1509563	ILL	ILL00039339	B.J. Buckingham	S 22155	0.46	Wyoming	Lincoln	41.575106	-110.537669	outside_boundary_exact	Wyoming, Uinta County	15 mi. south of Kemmerer, Red Desert area	https://lichenportal.org/portal/collections/individual/index.php?occid=1509563

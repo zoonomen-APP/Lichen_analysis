@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5631258	STNF	STNF09616	T. Carlberg	03437B	8915.54	California	Trinity	40.9266	123.02165	outside_boundary_exact	not_found_in_US	Shasta-Trinity National Forest. Canyon Creek Trail. Crossing trail approximately 0.7 miles from Canyon Creek Falls.	https://lichenportal.org/portal/collections/individual/index.php?occid=5631258

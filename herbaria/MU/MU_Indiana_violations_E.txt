@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1820675	MU	159060	Fink, Bruce	351	57.51	Indiana	Jennings	39.391998	-84.818287	outside_boundary_exact	Indiana, Franklin County	Scipio; 39.391998 -84.818287	https://lichenportal.org/portal/collections/individual/index.php?occid=1820675
+1830182	MU	159700	Fink, Bruce	s.n.	4.76	Indiana	Franklin	39.433665	-84.761064	outside_boundary_exact	Ohio, Butler County	West of Reily	https://lichenportal.org/portal/collections/individual/index.php?occid=1830182

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1477918	LSU	LSU00149842	George T. Johnson	6289	157.11	Oklahoma	Johnson	34.131166	-94.69122	outside_boundary_similarity_0.625	Oklahoma, McCurtain County	Beaver's Bend State Park.	https://lichenportal.org/portal/collections/individual/index.php?occid=1477918

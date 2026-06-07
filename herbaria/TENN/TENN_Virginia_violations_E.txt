@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1066791	TENN	TENN-L-0005621	Mason E. Hale and Isao Yoshimura	NA	1.04	virginia	Smyth	36.63	-81.6	outside_boundary_exact	Virginia, Grayson County	White Top Mountain, recreation area	https://lichenportal.org/portal/collections/individual/index.php?occid=1066791
+1065147	TENN	TENN-L-0005972	Mason E. Hale	660180	NA	virginia	Grysm	36.625116	-81.4243	county_not_matched_no_match	county_not_matched	2 mi. west of Volney	https://lichenportal.org/portal/collections/individual/index.php?occid=1065147
+1065151	TENN	TENN-L-0005976	Mason E. Hale	660179c	NA	virginia	Grysm	36.625116	-81.4243	county_not_matched_no_match	county_not_matched	2 mi. west of Volney	https://lichenportal.org/portal/collections/individual/index.php?occid=1065151
+1065152	TENN	TENN-L-0005977	Mason E. Hale	660183	NA	virginia	Grysm	36.625116	-81.4243	county_not_matched_no_match	county_not_matched	2 mi. west of Volney	https://lichenportal.org/portal/collections/individual/index.php?occid=1065152

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3129203	GAM	GAM00028003	Robert J. Hill	736	15.33	Wisconsin	Marquette	43.674444	-89.790556	outside_boundary_exact	Wisconsin, Adams County	no additional informatioin given, appears to be near Packwaukee	https://lichenportal.org/portal/collections/individual/index.php?occid=3129203

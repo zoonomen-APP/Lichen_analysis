@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2218050	FLAS	FLAS L11560	Doyle E. Anderegg	2408	NA	Arizona	[n/a]	11.666667	-35.3	county_not_matched_multi_county_insufficient	county_not_matched	in the San Francisco Mountains on the AIBS Lichenological Foray	https://lichenportal.org/portal/collections/individual/index.php?occid=2218050

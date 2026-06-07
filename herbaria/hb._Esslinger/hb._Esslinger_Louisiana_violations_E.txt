@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1548694	hb. Esslinger	14381	Shirley C. Tucker	20862	8.2	Louisiana	East Feliciana	30.8	-90.75	outside_boundary_exact	Louisiana, St. Helena County	Idlewild Research Station(La. State University), 5.6km SE of Clinton	https://lichenportal.org/portal/collections/individual/index.php?occid=1548694

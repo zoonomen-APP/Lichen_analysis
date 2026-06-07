@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1066969	TENN	TENN-L-0005799	Satoshi Nakamishi	NA	30.5	West Virginia	Pendleton	38.456783	-79.955896	outside_boundary_exact	West Virginia, Pocahontas County	Spruce Rock	https://lichenportal.org/portal/collections/individual/index.php?occid=1066969

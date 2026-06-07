@@ -1,0 +1,9 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4899341	EWU	EWU001584	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899341
+4899342	EWU	EWU001585	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899342
+4899343	EWU	EWU001586	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899343
+4899344	EWU	EWU001587	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899344
+4899345	EWU	EWU001588	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899345
+4899346	EWU	EWU001589	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899346
+4899347	EWU	EWU001590	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899347
+4899348	EWU	EWU001591	Horace R. Simms	S1-397	1007.66	California	Marin	47.35	-123.08	outside_boundary_exact	Washington, Mason County	vic. Nicasio.	https://lichenportal.org/portal/collections/individual/index.php?occid=4899348

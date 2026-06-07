@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3774941	ILLS	ILLS00125326	D. Seigler	16515.2	98.57	Oklahoma	Kiowa	35.997	-98.84951	outside_boundary_exact	Oklahoma, Dewey County	On north slope of Raney Mountain.	https://lichenportal.org/portal/collections/individual/index.php?occid=3774941
+3774962	ILLS	ILLS00125359	D. Seigler	16515.3	98.57	Oklahoma	Kiowa	35.997	-98.84951	outside_boundary_exact	Oklahoma, Dewey County	On north slope of Raney Mountain.	https://lichenportal.org/portal/collections/individual/index.php?occid=3774962
+5768585	ILLS	ILLS00174362	D. Seigler	16536.2	15.05	Oklahoma	Kiowa	34.5301	-99.202	outside_boundary_exact	Oklahoma, Jackson County	Northeast side of Tepee Mountain.	https://lichenportal.org/portal/collections/individual/index.php?occid=5768585

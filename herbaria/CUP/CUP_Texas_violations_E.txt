@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4938611	CUP	CUP-L-0011143	William L. Culberson	22137	1615.62	Texas	Jeff Davis	30.3916667	-86.55	outside_boundary_exact	Florida, Okaloosa County	Davis Mountains, NW of Fort Davis, at the Lawrence E. Wood Picnic Area on Route 118	https://lichenportal.org/portal/collections/individual/index.php?occid=4938611

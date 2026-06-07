@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2596291	UCR(temp)	SBBG016866L	James Lendemer	7861	879.84	North Carolina	Jackson	35.018889	-93.103333	outside_boundary_exact	Arkansas, Perry County	Chattooga Wild and Scenic River/Ellicott Rock Wilderness, above Fowler Creek, just south of Bull Pen Road, c. 5 miles SE of Highlands	https://lichenportal.org/portal/collections/individual/index.php?occid=2596291

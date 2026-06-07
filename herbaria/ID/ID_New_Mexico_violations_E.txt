@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2917964	ID	ID-L-0009101	L. Sigal	16014	46.17	New Mexico	Valencia	35.05	-107.7	outside_boundary_exact	New Mexico, Cibola County	Acoma Indian Reservation, rest area along I-40 ca 10 mi. SE of Grants	https://lichenportal.org/portal/collections/individual/index.php?occid=2917964

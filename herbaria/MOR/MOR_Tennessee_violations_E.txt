@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1418474	MOR	L-0002305-MOR	Gerould Wilhelm	20101	5.54	Tennessee	Maury	35.788684	-86.862057	outside_boundary_exact	Tennessee, Williamson County	Near Thompson Station, at the north-bound parking along I-65.	https://lichenportal.org/portal/collections/individual/index.php?occid=1418474

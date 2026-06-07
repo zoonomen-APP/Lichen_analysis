@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1416065	MOR	L-0000721-MOR	A. C. Skorepa	2963	13.7	Georgia	Charlton	30.666893	-82.333179	outside_boundary_exact	Georgia, Ware County	At Okefenokee Swamp, on Billy's Island.	https://lichenportal.org/portal/collections/individual/index.php?occid=1416065

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1654577	YPM	YU.239696	F. H. Bradley	NA	224.45	Wyoming	Park	42.00716	-111.035746	outside_boundary_exact	Wyoming, Lincoln County	Red Mountain, South of Yellowstone Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=1654577

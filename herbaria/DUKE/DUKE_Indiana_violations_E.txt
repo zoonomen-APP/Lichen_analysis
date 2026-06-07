@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1870810	DUKE	49913	Shushan, Sam	S14374	11.68	Indiana	Parke Co.	39.50085	-87.05108	outside_boundary_exact	Indiana, Clay County	Sword Moss Gorge, 14 mi. SW of Greencastle	https://lichenportal.org/portal/collections/individual/index.php?occid=1870810

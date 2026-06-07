@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1972037	MAINE	MAINE-L-0005647	Clara E. Cummings	s.n.	2.65	COLORADO	PARK	39.315	-105.367	outside_boundary_exact	Colorado, Jefferson County	Lake Wellington	https://lichenportal.org/portal/collections/individual/index.php?occid=1972037
+1972090	MAINE	MAINE-L-0005700	Clara E. Cummings	s.n.	2.65	COLORADO	PARK	39.315	-105.367	outside_boundary_exact	Colorado, Jefferson County	Lake Wellington	https://lichenportal.org/portal/collections/individual/index.php?occid=1972090
+1972950	MAINE	MAINE-L-0006607	Clara E. Cummings	344	2.65	COLORADO	PARK	39.315	-105.367	outside_boundary_exact	Colorado, Jefferson County	Lake Wellington	https://lichenportal.org/portal/collections/individual/index.php?occid=1972950
+1974172	MAINE	MAINE-L-0007829	Clara E. Cummings	349	2.65	COLORADO	PARK	39.315	-105.367	outside_boundary_exact	Colorado, Jefferson County	Mendenhall Canyon, Lake Wellington. [not known]	https://lichenportal.org/portal/collections/individual/index.php?occid=1974172

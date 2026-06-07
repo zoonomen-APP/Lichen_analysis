@@ -1,0 +1,6 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1243364	OS	OS0001334	Joseph Blake	461	353.35	Maine	Cumberland	46.820043	-67.923079	outside_boundary_exact	Maine, Aroostook County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1243364
+2425365	OS	OS0012790	Diane H. Lucas	NA	304.89	Maine	Washington	41.6	-67.5	outside_boundary_exact	not_found_in_US	Roque Island; 41.6 -67.5	https://lichenportal.org/portal/collections/individual/index.php?occid=2425365
+3409386	OS	OS0070620	Diane H. Lucas	NA	304.89	Maine	Washington	41.6	-67.5	outside_boundary_exact	not_found_in_US	Roque Island	https://lichenportal.org/portal/collections/individual/index.php?occid=3409386
+2423945	OS	OS0013354	Diane H. Lucas	NA	6.21	Maine	Hancock	44.533333	-67.916667	outside_boundary_exact	Maine, Washington County	Evergreen Cemetery	https://lichenportal.org/portal/collections/individual/index.php?occid=2423945
+3424436	OS	OS0112013	Don Flenniken	NA	6.21	Maine	Hancock	44.533333	-67.916667	outside_boundary_exact	Maine, Washington County	Evergreen Cemetery	https://lichenportal.org/portal/collections/individual/index.php?occid=3424436

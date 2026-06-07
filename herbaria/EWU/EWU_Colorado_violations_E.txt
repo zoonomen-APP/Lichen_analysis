@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4908517	EWU	EWU001849	Horace R. Simms	S1-390	NA	Colorado	Lake-Pitkin	39.16667	-106.58333	county_not_matched_no_match	county_not_matched	Independence Pass Summit	https://lichenportal.org/portal/collections/individual/index.php?occid=4908517

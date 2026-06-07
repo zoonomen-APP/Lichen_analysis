@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1973183	MAINE	MAINE-L-0006840	A. A. Heller	115	1.39	PENNSYLVANIA	YORK	39.825	-76.318	outside_boundary_exact	Pennsylvania, Lancaster County	McCall's Ferry	https://lichenportal.org/portal/collections/individual/index.php?occid=1973183

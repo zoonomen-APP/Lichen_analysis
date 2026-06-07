@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3418400	PRM-Knudsen	NA	Tin Wheeler	7339	2.35	Montana	Missoula	47.288438	-113.905246	outside_boundary_exact	Montana, Lake County	Mission Mountain Wilderness, East St. Mary’s Peak Ridge	https://lichenportal.org/portal/collections/individual/index.php?occid=3418400

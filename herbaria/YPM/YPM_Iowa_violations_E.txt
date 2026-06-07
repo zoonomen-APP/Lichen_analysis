@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1652647	YPM	YU.237542	T. J. Fitzpatrick	321	201.72	Iowa	Johnson	40.622777	-93.934116	outside_boundary_exact	Iowa, Decatur County	Lamoni	https://lichenportal.org/portal/collections/individual/index.php?occid=1652647

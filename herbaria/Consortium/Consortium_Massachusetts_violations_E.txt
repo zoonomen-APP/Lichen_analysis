@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1309288	Consortium	1229554	R. C. Harris	36547	0.65	Massachusetts	Berkshire Co.	42.707222	-73	outside_boundary_exact	Massachusetts, Franklin County	Reed Brook Perserve of The Nature Conservancy, S of E end of Whitcomb Hill Road	https://lichenportal.org/portal/collections/individual/index.php?occid=1309288

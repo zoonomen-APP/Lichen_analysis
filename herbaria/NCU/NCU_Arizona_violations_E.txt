@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+906124	NCU	NCU-L-0003120	Schallert, Paul O.	4564	460.13	Arizona	Coconino	35.671944	-118.474722	outside_boundary_exact	California, Kern County	none specified; coordinates are of county centroid	https://lichenportal.org/portal/collections/individual/index.php?occid=906124

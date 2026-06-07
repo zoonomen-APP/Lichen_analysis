@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4422523	OSC	168070	R.D. Worthington	31135	2.28	New Mexico	Lincoln	33.37	-105.783333333	outside_boundary_exact	New Mexico, Otero County	Lincoln National Forest. Tanbark Canyon system near Skull Sp. & 0.3 mi. NW of Parson's Mine.	https://lichenportal.org/portal/collections/individual/index.php?occid=4422523

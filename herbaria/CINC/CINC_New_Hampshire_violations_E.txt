@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1815081	CINC	CINC-L-0004955	Tuckerman, Edward	s.n.	7.45	New Hampshire	Coos	44.14594	-71.465533	outside_boundary_exact	New Hampshire, Grafton County	White Mountians	https://lichenportal.org/portal/collections/individual/index.php?occid=1815081

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6002270	CLEMS	66590	Ciegler, Alex	22341	61.06	Georgia	Camden	31.617017	-81.26525	outside_boundary_exact	Georgia, McIntosh County	Harris Neck Wildlife Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=6002270

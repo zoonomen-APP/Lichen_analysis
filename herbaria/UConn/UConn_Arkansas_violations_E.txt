@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5361270	UConn	CONN00233908	Culberson, William L.	20673	9.62	Arkansas	Montgomery County	34.643056	-94.036667	outside_boundary_exact	Arkansas, Polk County	On Iron Fork Mountain, E of Mena, near the Montgomery - Scott - Polk corner, on Route 76.	https://lichenportal.org/portal/collections/individual/index.php?occid=5361270

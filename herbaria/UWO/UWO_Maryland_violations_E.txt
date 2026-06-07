@@ -1,0 +1,8 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3776817	UWO	708	L. Orloci	NA	NA	Maryland	Ganet	39.539155	-79.4821	county_not_matched_no_match	county_not_matched	Cranesville swamp	https://lichenportal.org/portal/collections/individual/index.php?occid=3776817
+3776818	UWO	7	L.Orloci	NA	NA	Maryland	Ganet	39.53	-79.48	county_not_matched_no_match	county_not_matched	Cranesville swamp	https://lichenportal.org/portal/collections/individual/index.php?occid=3776818
+3776819	UWO	8	L. Orloci	NA	NA	Maryland	Ganet	39.53	-79.48	county_not_matched_no_match	county_not_matched	Cranesville swamp	https://lichenportal.org/portal/collections/individual/index.php?occid=3776819
+3776822	UWO	11	L. Orloci	NA	NA	Maryland	Ganet	39.53	-79.48	county_not_matched_no_match	county_not_matched	Cranesville swamp	https://lichenportal.org/portal/collections/individual/index.php?occid=3776822
+3776830	UWO	19	L.Orloci	NA	NA	Maryland	Ganet	39.53	-79.48	county_not_matched_no_match	county_not_matched	Cranesville swamp	https://lichenportal.org/portal/collections/individual/index.php?occid=3776830
+3776833	UWO	22	L.Orloci	NA	NA	Maryland	Ganet	39.53	-79.48	county_not_matched_no_match	county_not_matched	Cranesville swamp	https://lichenportal.org/portal/collections/individual/index.php?occid=3776833
+3776837	UWO	26	L.Orloci	NA	NA	Maryland	Ganet	39.53	-79.48	county_not_matched_no_match	county_not_matched	Cranesville swamp	https://lichenportal.org/portal/collections/individual/index.php?occid=3776837

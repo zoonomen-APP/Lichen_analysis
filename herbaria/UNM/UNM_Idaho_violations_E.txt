@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3124782	UNM	NA	T. L. Esslinger	S1-449	52.21	Idaho	Kootenai	47	-116	outside_boundary_exact	Idaho, Shoshone County	Near the south end of Lower Twin Lake, vicinity Rathdrum.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124782
+3124783	UNM	NA	H.R. Simms	S1-450	52.21	Idaho	Kootenai	47	-116	outside_boundary_exact	Idaho, Shoshone County	Near the south end of Lower Twin Lake.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124783
+3124443	UNM	NA	J. Palmer	sn	0.17	Idaho	Boundary	48.5	-116.5	outside_boundary_exact	Idaho, Bonner County	Upper Priest Wilderness.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124443
+3124343	UNM	NA	T. L. Esslinger	S1-452	NA	Idaho	Unplaced County	46.7	-116.95	county_not_matched_no_match	county_not_matched	Paradise Ridge, about 2.5 miles S. of Moscow.	https://lichenportal.org/portal/collections/individual/index.php?occid=3124343

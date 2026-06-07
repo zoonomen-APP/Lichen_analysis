@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5593181	UCSB	UCSB063264	C. J. Hansen	2368	0.15	Tennessee	Franklin	34.98841	-86.1003	outside_boundary_exact	Alabama, Jackson County	Trail to Walls of Jericho falls along on Turkey Creek; 1.4 air mi NW from parking area for WOJ trail head on AL 79; .01 m due S of Tennessee State line.	https://lichenportal.org/portal/collections/individual/index.php?occid=5593181

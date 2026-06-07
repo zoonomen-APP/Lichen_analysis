@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3352248	SRP	SRP-0000000	Roger Rosentreter	17729	5.36	Georgia	Glynn	31.36685	-81.36685	outside_boundary_exact	Georgia, McIntosh County	Bald Cyrus; Clayhole Swamp Wildlife Management Area; (near parking area),	https://lichenportal.org/portal/collections/individual/index.php?occid=3352248

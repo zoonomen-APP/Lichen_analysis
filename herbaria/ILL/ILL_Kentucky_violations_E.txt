@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1508814	ILL	ILL00038590	Bruce Fink	NA	NA	Kentucky	Conway	37.47256	-84.332153	county_not_matched_no_match	county_not_matched	New Fink Farm	https://lichenportal.org/portal/collections/individual/index.php?occid=1508814

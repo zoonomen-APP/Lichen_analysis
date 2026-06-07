@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1812218	CINC	CINC-L-0004204	Williams, Jean	s.n.	149.6	Georgia	Dade	33.745469	-84.300162	outside_boundary_exact	Georgia, DeKalb County	East Lake Forest, Atlanta	https://lichenportal.org/portal/collections/individual/index.php?occid=1812218
+1812163	CINC	CINC-L-0004149	Williams, Jean	s.n.	143.37	Georgia	Dade	33.748995	-84.387982	outside_boundary_exact	Georgia, Fulton County	Atlanta	https://lichenportal.org/portal/collections/individual/index.php?occid=1812163
+1815363	CINC	CINC-L-0006460	Snider, Jerry A.	1182	NA	Georgia	Raburn	34.917754	-83.719239	county_not_matched_no_match	county_not_matched	on U.S. 76, 1 mile East of border of Towns County & Raburn County	https://lichenportal.org/portal/collections/individual/index.php?occid=1815363

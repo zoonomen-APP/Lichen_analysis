@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2223547	OSC	136929	Clyde Reed	127922	0.02	Tennessee	Carter	36.1065	-82.1105	outside_boundary_exact	North Carolina, Mitchell County	Summit of Roan Mountain on Route 143. Cherokee National Forest, border of Cater Co., Tennessee and Mitchell Co., North Carolina	https://lichenportal.org/portal/collections/individual/index.php?occid=2223547

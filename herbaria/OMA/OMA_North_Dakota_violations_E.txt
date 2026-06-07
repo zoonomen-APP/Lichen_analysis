@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+801349	OMA	17203	NA	6,119	0.58	North Dakota	McClean	47.18	-100.995	outside_boundary_similarity_0.833	North Dakota, Oliver County	TNC Cross Ranch Preserve, Sangor Ghost Town; 2 mi S, 4 mi E of Hensler	https://lichenportal.org/portal/collections/individual/index.php?occid=801349
+801350	OMA	17277	NA	6,090	0.58	North Dakota	McClean	47.18	-100.995	outside_boundary_similarity_0.833	North Dakota, Oliver County	TNC Cross Ranch Preserve, Sangor Ghost Town; 2 mi S, 4 mi E of Hensler	https://lichenportal.org/portal/collections/individual/index.php?occid=801350

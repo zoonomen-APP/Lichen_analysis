@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1741123	FLAS	FLAS L9053	D.L. Dutton	NA	380.74	Vermont	Windsor	43.161241	-77.609631	outside_boundary_exact	New York, Monroe County	Rochester	https://lichenportal.org/portal/collections/individual/index.php?occid=1741123
+2218501	FLAS	FLAS L8818	G.K. Merrill	1778	0.64	Vermont	Chittenden	44.526163	-72.815123	outside_boundary_exact	Vermont, Lamoille County	The Nose, Mt. Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=2218501
+1358078	FLAS	FLAS L9376	G.K. Merrill	NA	0.16	Vermont	Lamoille	44.543663	-72.81429	outside_boundary_exact	Vermont, Chittenden County	Summit of Mt. Mansfield	https://lichenportal.org/portal/collections/individual/index.php?occid=1358078
+1741176	FLAS	FLAS L9143	D. Lewis Dutton	2728	NA	Vermont	[n/a]	44.210414	-72.674072	county_not_matched_multi_county_insufficient	county_not_matched	Scanlon Swamp, Leicester	https://lichenportal.org/portal/collections/individual/index.php?occid=1741176

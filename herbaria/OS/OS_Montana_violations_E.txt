@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1243323	OS	OS0001290	John W Thomson	16319	0.22	Montana	Missoula	47.001587	-114.473455	outside_boundary_exact	Montana, Mineral County	Forest Service Hwy. 38 S of Alberton.	https://lichenportal.org/portal/collections/individual/index.php?occid=1243323

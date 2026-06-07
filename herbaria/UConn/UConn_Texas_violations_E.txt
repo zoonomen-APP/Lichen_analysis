@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1458142	UConn	CONN01001969	Susan Reiff	s.n.	5.63	Texas	Waller	30.033333	-95.85	outside_boundary_exact	Texas, Harris County	Tomball. 1 mile west on Snow Rd, off of Magnolia Rd.	https://lichenportal.org/portal/collections/individual/index.php?occid=1458142

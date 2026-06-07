@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4938608	CUP	CUP-L-0011141	R. Yahr	1937	405.66	Alabama	Marion	30.3916667	-86.55	outside_boundary_exact	Florida, Okaloosa County	Near Hamilton on US 43, 5 mi S of Hackelburg from junction with SR 172.	https://lichenportal.org/portal/collections/individual/index.php?occid=4938608

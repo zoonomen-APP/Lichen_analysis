@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3320691	CMN	CANL 111901	Culberson, William L.	20115	444.57	New Jersey	Burlington Co.	38.4203	-79.8317	outside_boundary_exact	West Virginia, Pocahontas County	Between Green Bank and Chatsworth, on NJ 563.	https://lichenportal.org/portal/collections/individual/index.php?occid=3320691

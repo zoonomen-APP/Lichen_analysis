@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1286686	VT	UVMVT015316	T. A. Williams	s.n.	129.89	Wyoming	Park	44.165186	-106.92118	outside_boundary_exact	Wyoming, Johnson County	Bull Camp, Head waters of Crazy Woman's Creek, Big Horn Mts.	https://lichenportal.org/portal/collections/individual/index.php?occid=1286686
+1317800	VT	UVMVT019242	B. J. Buckingham	s.n.	0.46	Wyoming	Lincoln	41.575106	-110.537669	outside_boundary_exact	Wyoming, Uinta County	15 mi. S of Kemmerer, Red Desert area, unattached ecad of windy sites.	https://lichenportal.org/portal/collections/individual/index.php?occid=1317800

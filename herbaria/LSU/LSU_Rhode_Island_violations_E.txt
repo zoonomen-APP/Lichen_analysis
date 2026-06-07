@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1526977	LSU	LSU00130098	Thomas H. Nash	7226	9.41	Rhode Island	Washington	41.504183	-71.289036	outside_boundary_exact	Rhode Island, Newport County	3 mi. north of U.S. 1, along R.I. 214	https://lichenportal.org/portal/collections/individual/index.php?occid=1526977

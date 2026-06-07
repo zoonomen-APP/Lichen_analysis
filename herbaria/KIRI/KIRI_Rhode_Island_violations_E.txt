@@ -1,0 +1,3 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5647941	KIRI	KIRI 12835	G. W. Burlingame	NA	46.1	Rhode island	Providence	41.315182	-71.67496	outside_boundary_exact	not_found_in_US	Chepachet	https://lichenportal.org/portal/collections/individual/index.php?occid=5647941
+5423599	KIRI	KIRI 12797	C. J. Raithel	837	1.48	Rhode island	Washington	41.159123	-71.69657	outside_boundary_exact	not_found_in_US	Arcadia Management Area, 0.25 miles southeast of Breakheart Pond	https://lichenportal.org/portal/collections/individual/index.php?occid=5423599

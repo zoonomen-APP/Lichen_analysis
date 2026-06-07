@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1423932	UConn	CONN01000797	Claire K. Schmitt	9150	0.69	New Jersey	Atlantic	39.65	-74.65	outside_boundary_exact	New Jersey, Burlington County	Wharton State Forest, Batsto Natural Area	https://lichenportal.org/portal/collections/individual/index.php?occid=1423932

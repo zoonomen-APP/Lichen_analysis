@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1565249	hb. Esslinger	23454	James C. Lendemer	9267	59.89	Alabama	Baldwin	31.856389	-87.775556	outside_boundary_exact	Alabama, Clarke County	Bay Minette. Baldwin County Department of Human Resources on US 31	https://lichenportal.org/portal/collections/individual/index.php?occid=1565249

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2413747	MIL	143951	Clifford M. Wetmore	38281	NA	Minnesota	St.Louis	48.545	-92.845	county_not_matched_no_match	county_not_matched	Voyageurs National Park. Along bay in Big Island, Kempton Channel (Rainy Lake). South side of bay.	https://lichenportal.org/portal/collections/individual/index.php?occid=2413747

@@ -1,4 +1,0 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4427972	OSC	156903	Massal Advaita	9510	569.63	Nebraska	Sherman	42.28	-91.94	outside_boundary_exact	Iowa, Benton County	1mi E of Loup City, roadside on 790th Road. ]. Loup City	https://lichenportal.org/portal/collections/individual/index.php?occid=4427972
-4412778	OSC	153637	M. Advaita	M. K. Advaita 9016	333.5	Nebraska	Cedar	45.86166667	-97.40433333	outside_boundary_exact	South Dakota, Marshall County	ca 1 mi S of Yankton, Green Island Wildlife Management Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4412778
-4412779	OSC	153658	M. Advaita	9018	333.5	Nebraska	Cedar	45.86166667	-97.40433333	outside_boundary_exact	South Dakota, Marshall County	ca 1 mi S of Yankton, Green Island Wildlife Management Area	https://lichenportal.org/portal/collections/individual/index.php?occid=4412779

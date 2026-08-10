@@ -1,2 +1,2 @@
 id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1826610	MU	157462	M.J. Elrod	2444	8.28	Montana	Flathead	47.8875	-114.11667	outside_boundary_exact	Montana, Lake County	Flathead Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=1826610
+1826610	MU	000157462	M.J. Elrod	2444	8.28	Montana	Flathead	47.8875	-114.11667	outside_boundary_exact	Montana, Lake County	Flathead Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=1826610

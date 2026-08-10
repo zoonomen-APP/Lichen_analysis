@@ -1,0 +1,6 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1141903	F	NA	C. Laskowski	NA	4.34	Michigan	Emmet	45.542619	-84.675106	outside_boundary_exact	Michigan, Cheboygan County	Reese's Bog	https://lichenportal.org/portal/collections/individual/index.php?occid=1141903
+3049320	F	C1013795F	H. T. Lumbsch & K. Papong	20109 a	2.37	Michigan	Chippewa	46.58	-85.27	outside_boundary_exact	Michigan, Luce County	Tahquamenon Falls State Park: Upper Falls of the Tahquamenon River	https://lichenportal.org/portal/collections/individual/index.php?occid=3049320
+1159677	F	NA	H. A. Imshaug	3797	0.69	Michigan	Chippewa	45.97875	-84.21545	outside_boundary_exact	not_found_in_US	Prentiss Bay	https://lichenportal.org/portal/collections/individual/index.php?occid=1159677
+1159678	F	C0350262F	H. A. Imshaug	3795	0.69	Michigan	Chippewa	45.97875	-84.21545	outside_boundary_exact	not_found_in_US	Prentiss Bay	https://lichenportal.org/portal/collections/individual/index.php?occid=1159678
+3046890	F	C1014778F	H. A. Imshaug	3797	0.69	Michigan	Chippewa	45.97875	-84.21545	outside_boundary_exact	not_found_in_US	Prentiss Bay	https://lichenportal.org/portal/collections/individual/index.php?occid=3046890

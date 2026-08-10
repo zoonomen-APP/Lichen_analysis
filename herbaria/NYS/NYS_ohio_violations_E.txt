@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6035874	NYS	NYSL0000190369	Battaglia, James	2023-019	2.78	Ohio	Clark	39.801	-83.885	outside_boundary_exact	Ohio, Greene County	City of Springfield, 100 South Fountain Plaza, Courtyard by Marriott Hotel, entrance plaza	https://lichenportal.org/portal/collections/individual/index.php?occid=6035874

@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1492939	hb. Esslinger	0003230	Clara E. Cummings	s.n.	4246.72	Massachusetts	Norfolk	2.307659	-71.280197	outside_boundary_exact	not_found_in_US	Wellesley	https://lichenportal.org/portal/collections/individual/index.php?occid=1492939
+1498991	hb. Esslinger	0006790	Clara E. Cummings	s.n.	4246.72	Massachusetts	Norfolk	2.307659	-71.280197	outside_boundary_exact	not_found_in_US	Wellesley	https://lichenportal.org/portal/collections/individual/index.php?occid=1498991
+1498975	hb. Esslinger	0006774	Theodore L. Esslinger	4040	NA	Massachusetts	Amherst	42.445723	-72.642872	county_not_matched_no_match	county_not_matched	8 mi. NW of Amherst, near Whately	https://lichenportal.org/portal/collections/individual/index.php?occid=1498975

@@ -1,38 +1,39 @@
 # SINGLE INSTITUTION ANALYSIS SUMMARY: UConn
-Generated: 2026-06-06 05:32:13.970079
-Processing time: 2.14 minutes
+Generated: 2026-08-09 15:10:04.187549
+Processing time: 2.61 minutes
 
 ## RECORD FILTERING ANALYSIS
-Total records in data file: 2633
-After country filtering: 2631 (lost 2 non-US records)
-After coordinate filtering: 1502 (lost 1129 records without coordinates)
-After state filtering: 1502 (lost 0 records without state information)
-After county filtering: 1465 (lost 37 records without county information)
+Total records in data file: 2678
+After country filtering: 2676 (lost 2 non-US records)
+After coordinate filtering: 1546 (lost 1130 records without coordinates)
+After state filtering: 1546 (lost 0 records without state information)
+After county filtering: 1508 (lost 38 records without county information)
 
 ## ANALYSIS RESULTS
-Records analyzed for boundary violations: 1465 (55.6% of total collection)
-Boundary violations detected: 144 (9.8% of analyzed records)
+Records analyzed for boundary violations: 1508 (56.3% of total collection)
+Boundary violations detected: 146 (9.7% of analyzed records)
+
+Records not testable (county string unresolved): 6
 
 ## DISTANCE STATISTICS
 Minimum distance: 0.01 km
 First quartile: 0.47 km
-Median distance: 7.82 km
-Third quartile: 40.62 km
+Median distance: 7.11 km
+Third quartile: 40.52 km
 Maximum distance: 2181.8 km
-Mean distance: 47.15 km
+Mean distance: 46.51 km
 
 ## SUMMARY OBSERVATIONS
 
-Scope: counts are of records caught by the CONUS48 state + US-country filters.
-Some in-scope records with misspelled or variant state/country values may be missed (see README).
+Scope: counts are of records the CONUS48 state + US-country filters caught -- bounded string matches, so some in-scope records with misspelled or variant state/country values are missed (see README). Not the complete holdings.
 
-Geographic-field completeness: 55.6% of records had the fields needed for testing
+Geographic-field completeness: 56.3% of records had the fields needed for testing
 
-Unresolved-location rate: 9.8% of analyzable records
+Unresolved-location rate: 9.7% of analyzable records
 
-Unresolved records carry the project's "out-of-bounds" (OOB) flag. More precisely, these records include an unresolved match between the stated location and the recorded coordinates, either or both of which may be wrong. A misspelling alone may produce a mismatch, and in some instances the coordinates sit on a boundary where OUT versus IN is model-dependent and indeterminate.
+These carry the project's "out-of-bounds" (OOB) flag -- the working name. More precisely, each marks an unresolved match between stated location and recorded coordinates: either may be wrong, a misspelling alone may produce the mismatch, and some sit on a boundary where out versus in is model-dependent and ill-defined.
 
-Flags mark unresolved incoherence, not confirmed error; importance of this finding cannot be inferred from distance alone.
+Flags mark unresolved incoherence, not confirmed error; importance cannot be inferred from distance alone.
 
 
 ## OUTPUT FILES

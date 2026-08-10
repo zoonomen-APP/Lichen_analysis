@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2264712	F	C1014907F	R. M. Harper	3652	9.35	Alabama	DeKalb	34.115833	-85.965556	outside_boundary_exact	Alabama, Etowah County	DeSoto State Park on Lookout Mountain	https://lichenportal.org/portal/collections/individual/index.php?occid=2264712
+5799434	F	C0055212F	H. A. McCullough	4085	3.54	Alabama	DeKalb	34.288981	-85.685521	outside_boundary_exact	Alabama, Cherokee County	Little River Canyon National Preserve	https://lichenportal.org/portal/collections/individual/index.php?occid=5799434
+2933652	F	C0091777F	D. O'Bryan	NA	0.59	Alabama	Clay	33.474553	-85.809685	outside_boundary_exact	Alabama, Cleburne County	Talladega National Forest; Cheaha State Park, 18 km S of Anniston	https://lichenportal.org/portal/collections/individual/index.php?occid=2933652

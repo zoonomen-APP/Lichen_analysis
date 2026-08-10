@@ -1,0 +1,4 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2248118	F	C0059930F	D. Richards & C. F. Massey	39	12.1	Arkansas	Scott	34.557705	-93.910962	outside_boundary_exact	Arkansas, Montgomery County	along a stream 16 miles west of Mount Ida	https://lichenportal.org/portal/collections/individual/index.php?occid=2248118
+2253007	F	C0068862F	D. Richards & C. F. Massey	22	12.1	Arkansas	Scott	34.557705	-93.910962	outside_boundary_exact	Arkansas, Montgomery County	along a stream 16 miles west of Mount Ida	https://lichenportal.org/portal/collections/individual/index.php?occid=2253007
+2261650	F	C1010624F	R. E. Logan	908	6.34	Arkansas	Pope	35.218975	-93.2524	outside_boundary_exact	Arkansas, Yell County	Mt. Nebo, Russellville	https://lichenportal.org/portal/collections/individual/index.php?occid=2261650

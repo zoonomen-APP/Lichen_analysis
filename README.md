@@ -1,4 +1,4 @@
-# Lichen Herbarium Specimen Geographic Boundary Validation
+
 
 *This analysis was conducted independently by A. Peterson and is not affiliated with or endorsed by the Symbiota Support Hub or the Consortium of Lichen Herbaria (CLH).*
 
@@ -52,6 +52,9 @@ Within each file, records are sorted by distance from the county boundary, large
 - **`outside_boundary_partial_match`** — County name partially matched
 - **`outside_boundary_similarity_[score]`** — County name matched by fuzzy string comparison
 - **`county_not_matched_no_match`** — County name could not be matched to any official county in the stated state
+- **`county_not_matched_multi_county_insufficient`** — County name resolved to more than one candidate county and the record carried too little information to choose between them
+
+Rows carrying a `county_not_matched_*` status are **not** boundary violations. The county string could not be resolved to a boundary, so no containment test was possible; `distance_km` is empty for these. They appear in the files because they are unresolved, not because they are flagged. Per-institution summaries count them separately.
 
 ## How to Interpret the Distance Values
 
@@ -99,7 +102,7 @@ Border classification by type is derivable from FIPS codes in the boundary data 
 
 **Scope is bounded by string matching.** Records are included when their state and country fields match the filters used (the conterminous 48 states plus DC, and a United States country test). These are bounded string matches, not perfect classifiers: some genuinely in-scope records carry misspelled or variant state/country values and are silently missed. The included set is what the filters caught, not the complete holdings.
 
-**A single institution code is assumed, but the field does not always hold one.** The `institutionCode` field is treated as naming one institution. Some records, however, record *several* codes together (for example, a holding herbarium alongside a distributed-set or exsiccata code). Such a value is not a single institution — it is an aggregate of institutions — and it is matched as the exact recorded string rather than resolved into its constituents. As a result, multi-code records are grouped under none of their member institutions and are absent from each of those institutions' counts. This is one visible instance of a broader condition: the recorded fields are free text whose names assert a type the values do not always honor.
+**A single institution code is assumed, but the field does not always hold one.** The `institutionCode` field is treated as naming one institution. Some records, however, record *several* codes together (for example, a holding herbarium alongside a distributed-set or exsiccata code). Such a value is not a single institution — it is an aggregate of institutions. As of this revision these records are excluded from the analysis: 67 such codes covering 267 records corpus-wide. Also excluded are values that record provenance rather than a holding institution — forms such as `ex BH` or `Herb. R. Dirig`, which state where a specimen came from rather than where it is held. Both exclusions are stated here rather than made silently. This is one visible instance of a broader condition: the recorded fields are free text whose names assert a type the values do not always honor.
 
 **County name matching is imperfect.** The analysis matches recorded county names to official Census Bureau county names using exact matching, standardization of common abbreviations, and fuzzy string matching. Some legitimate county names may fail to match, producing false flags. The `status` field indicates the matching method used.
 
@@ -121,8 +124,23 @@ Border classification by type is derivable from FIPS codes in the boundary data 
 
 *(most recent first; dates approximate where noted)*
 
+- **2026-08-09** — Refreshed **By Herbarium** results to the 2026-08-03 corpus (4,139,139 records; 51,095 flagged records across 165 institutions). Four changes to the analysis itself, described under [What Changed in This Revision](#what-changed-in-this-revision) below: Field Museum (FH) now appears for the first time; state-name variability is handled correctly, recovering 242 flagged records that earlier revisions silently lost; ungeoreferenced records no longer enter the analysis as coordinates at 0°/0°; and every institution now reports, including those with nothing to report. Institution codes that record provenance rather than a holding institution are now excluded. By-Collector and By-State partitions still pending regeneration.
+
 - **2026-06-07** — Refreshed **By Herbarium** results to the 2026-05-14 corpus. Scope narrowed to the conterminous 48 states + DC. Per-institution summaries reframed (unresolved / apparent-incoherence language). Added `id`, `catalogNumber`, and `recordNumber` fields; split coordinates into `decimalLatitude` / `decimalLongitude`. By-Collector and By-State partitions pending regeneration.
 - **~2025–early 2026** *(approx.)* — Earlier full-corpus runs across various download dates, covering all three partitions (herbarium, collector, state). Superseded by the 2026-06-07 refresh.
+
+## What Changed in This Revision
+
+Four changes to the analysis warrant description, since three of them mean that earlier revisions of this repository were incomplete in ways a reader could not have detected.
+
+**Field Museum (FH) appears for the first time.** The institution code `F` was read by the analysis software as a logical value rather than as text, with the result that all 25,807 of its in-scope records went unanalyzed. The failure was reported clearly in the run log and went unread. FH now contributes 1,020 flagged records. Nothing about the Field Museum's data caused this; a one-character identifier collided with a reserved token in the analysis language.
+
+**State-name variability is now handled correctly.** Results were previously written to one file per state, named from the state value as recorded. Where a state appeared under more than one rendering — `Rhode Island`, `RHode island`, `MAINE` — those files could collide on a case-insensitive filesystem, and one would overwrite another. 242 flagged records were lost this way in the 2026-06-07 revision, across eight institutions (CHRB, ID, KIRI, MAINE, OS, PH, TENN, WIS). The variability itself is not an error: those records correctly state their location, and the CLH portal retrieves them normally. The previous process did not adequately handle it.
+
+**Ungeoreferenced records no longer enter the analysis as coordinates.** CLH supplies an empty string where a coordinate is absent. In building the local database, these were converted to the number zero rather than to a null, placing roughly 1.7 million records at 0°N 0°E in the Gulf of Guinea.
+Records with no coordinate are now excluded, as intended. Whether this affected earlier published results has not been established for every institution: the state filter excluded most such records from the flagged output regardless.
+
+**Every institution now reports.** Previously, an institution produced no summary file when it had nothing to flag — which made three quite different outcomes indistinguishable: an institution whose records could not be tested, an institution tested and found clean, and an institution that failed to run at all. Each institution now writes a summary carrying its full filtering cascade, whatever the outcome. Summaries also now report separately the count of records whose county string could not be resolved to any boundary; these are not flags, since no test was possible.
 
 ## Methodology
 
@@ -142,7 +160,7 @@ Directions that may be pursued (not a commitment, and not exhaustive) include:
 
 ## Data Sources
 
-- **Specimen data**: Consortium of Lichen Herbaria (CLH) portal — corpus downloaded **2026-05-14**
+- **Specimen data**: Consortium of Lichen Herbaria (CLH) portal — corpus downloaded **2026-08-03/04** (12 partitioned downloads; 4,139,139 records)
 - **County boundaries**: US Census Bureau TIGER/Line Shapefiles, 2020
 - **Software**: R, with the `sf`, `tigris`, and `dplyr` packages
 
@@ -150,4 +168,4 @@ Directions that may be pursued (not a commitment, and not exhaustive) include:
 
 <appeterson37@gmail.com>
 
-Last revised: 2026-06-07
+Last revised: 2026-08-09

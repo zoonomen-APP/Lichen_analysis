@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6036413	NYS	NYSL0000200358	Thayer, John W.	597	614.96	Minnesota	Saint Louis	41.1331247	-92.2494034	outside_boundary_standardized_exact	Iowa, Wapello County	Cloquet Valley State Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=6036413

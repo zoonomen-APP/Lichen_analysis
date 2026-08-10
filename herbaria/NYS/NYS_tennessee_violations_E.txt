@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6034083	NYS	NYSL0000200396	Dey, Jonathan P.	2127	0.02	Tennessee	Carter	36.1043	-82.122322	outside_boundary_exact	North Carolina, Mitchell County	Roan Mountain, Roan High Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=6034083
+6034084	NYS	NYSL0000200445	Dey, Jonathan P.	2126	0.02	Tennessee	Carter	36.1043	-82.122322	outside_boundary_exact	North Carolina, Mitchell County	Roan Mountain, Roan High Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=6034084
+6034085	NYS	NYSL0000200507	Dey, Jonathan P.	2097	0.02	Tennessee	Carter	36.1043	-82.122322	outside_boundary_exact	North Carolina, Mitchell County	Roan Mountain, Roan High Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=6034085
+6034086	NYS	NYSL0000200512	Dey, Jonathan P.	2173	0.02	Tennessee	Carter	36.1043	-82.122322	outside_boundary_exact	North Carolina, Mitchell County	Roan Mountain, Roan High Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=6034086

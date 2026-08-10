@@ -4,6 +4,8 @@ Each subdirectory contains flagged records for one herbarium, organized by state
 
 For guidance on interpreting these files, see the [main README](../README.md).
 
+**Listing pending.** This list has not been regenerated for the 2026-08-03 corpus and omits 31 institutions whose directories are present. Browse the directory listing above for the complete set.
+
 ## Herbaria
 
 ### A-C

@@ -1,5 +1,4 @@
 id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1742031	PH	PH00095724	Albert Commons	11	4999.05	Delaware	New Castle	39.74583	-15.53333	outside_boundary_exact	not_found_in_US	Wilmington	https://lichenportal.org/portal/collections/individual/index.php?occid=1742031
 1724609	PH	PH00089677	Albert Commons	150	89.01	Delaware	Sussex	39.745947	-75.546589	outside_boundary_exact	Delaware, New Castle County	Wilmington	https://lichenportal.org/portal/collections/individual/index.php?occid=1724609
 1724617	PH	PH00089685	Albert Commons	s.n.	82.23	Delaware	New Castle	38.560263	-75.571142	outside_boundary_exact	Delaware, Sussex County	Laurel	https://lichenportal.org/portal/collections/individual/index.php?occid=1724617
 1775304	PH	PH00103344	Albert Commons	99[-A]	82.23	Delaware	New Castle	38.560263	-75.571142	outside_boundary_exact	Delaware, Sussex County	Laurel	https://lichenportal.org/portal/collections/individual/index.php?occid=1775304

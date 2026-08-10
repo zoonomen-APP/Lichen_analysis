@@ -1,3 +1,3 @@
 id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5358910	hb. Esslinger	27731	T. Carlberg	01378	4.87	Nevada	Lander	39.239858	-117.777879	outside_boundary_exact	Nevada, Churchill County	Nevada BLM?: Road Canyon.	https://lichenportal.org/portal/collections/individual/index.php?occid=5358910
-2893439	hb. Esslinger	26087	T. Carlberg	01385	4.85	Nevada	Lander	39.237977	-117.777878	outside_boundary_exact	Nevada, Churchill County	Nevada BLM?: Road Canyon	https://lichenportal.org/portal/collections/individual/index.php?occid=2893439
+5358910	hb. Esslinger	0027731	T. Carlberg	01378	4.87	Nevada	Lander	39.239858	-117.777879	outside_boundary_exact	Nevada, Churchill County	Nevada BLM?: Road Canyon.	https://lichenportal.org/portal/collections/individual/index.php?occid=5358910
+2893439	hb. Esslinger	0026087	T. Carlberg	01385	4.85	Nevada	Lander	39.237977	-117.777878	outside_boundary_exact	Nevada, Churchill County	Nevada BLM?: Road Canyon	https://lichenportal.org/portal/collections/individual/index.php?occid=2893439

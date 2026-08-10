@@ -1,4 +1,5 @@
 id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2693584	MAINE	MAINE-L-0008888	D. Marston	s.n.	2374.26	FLORIDA	SARASOTA	45.9	-68.92	outside_boundary_exact	Maine, Piscataquis County	Crowleys Ranch near Sarosota	https://lichenportal.org/portal/collections/individual/index.php?occid=2693584
 1781365	MAINE	MAINE-L-0001052	J. W. Hinds	5582	45.67	Florida	LAKE	28.559	-82.42	outside_boundary_exact	Florida, Hernando County	CLERMONT	https://lichenportal.org/portal/collections/individual/index.php?occid=1781365
 1781582	MAINE	MAINE-L-0001269	J. W. Hinds	5580	45.67	Florida	LAKE	28.559	-82.42	outside_boundary_exact	Florida, Hernando County	CLERMONT	https://lichenportal.org/portal/collections/individual/index.php?occid=1781582
 1781583	MAINE	MAINE-L-0001270	J. W. Hinds	5603	45.67	Florida	LAKE	28.559	-82.42	outside_boundary_exact	Florida, Hernando County	CLERMONT	https://lichenportal.org/portal/collections/individual/index.php?occid=1781583

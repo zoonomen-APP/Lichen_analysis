@@ -1,0 +1,5 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2244831	F	C0059224F	A. B. Seymour	s.n.	1.03	Massachusetts	Barnstable	41.570827	-70.763199	outside_boundary_exact	not_found_in_US	Buzzards Bay	https://lichenportal.org/portal/collections/individual/index.php?occid=2244831
+2250282	F	C0060728F	A. B. Seymour	s.n.	1.03	Massachusetts	Barnstable	41.570827	-70.763199	outside_boundary_exact	not_found_in_US	Buzzards Bay	https://lichenportal.org/portal/collections/individual/index.php?occid=2250282
+1144423	F	C0051318F	S. Higginson	NA	0.45	Massachusetts	Norfolk	42.245265	-71.138965	outside_boundary_exact	Massachusetts, Suffolk County	Purgatory Swamp: near Dedham	https://lichenportal.org/portal/collections/individual/index.php?occid=1144423
+2250477	F	C0060647F	D. L. Dutton	1005	NA	Massachusetts	Rutland	43.79812	-73.087612	county_not_matched_no_match	county_not_matched	Brandon	https://lichenportal.org/portal/collections/individual/index.php?occid=2250477

@@ -1,0 +1,2 @@
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6028912	WCUH	WCUH0034830	Jason Hollinger	29220a	0.06	Florida	Hamilton	30.3412	-82.8159	outside_boundary_exact	Florida, Suwannee County	Swift Creek Conservation Area	https://lichenportal.org/portal/collections/individual/index.php?occid=6028912

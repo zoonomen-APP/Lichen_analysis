@@ -1,6 +1,6 @@
 # SINGLE INSTITUTION ANALYSIS SUMMARY: PH
-Generated: 2026-06-06 04:25:44.857344
-Processing time: 10.09 minutes
+Generated: 2026-08-09 13:51:47.103185
+Processing time: 11.57 minutes
 
 ## RECORD FILTERING ANALYSIS
 Total records in data file: 16049
@@ -11,28 +11,29 @@ After county filtering: 11824 (lost 737 records without county information)
 
 ## ANALYSIS RESULTS
 Records analyzed for boundary violations: 11824 (73.7% of total collection)
-Boundary violations detected: 556 (4.7% of analyzed records)
+Boundary violations detected: 555 (4.7% of analyzed records)
+
+Records not testable (county string unresolved): 46
 
 ## DISTANCE STATISTICS
 Minimum distance: 0 km
-First quartile: 0.71 km
+First quartile: 0.69 km
 Median distance: 27.02 km
 Third quartile: 80.7 km
 Maximum distance: 9676.73 km
-Mean distance: 373.21 km
+Mean distance: 364.87 km
 
 ## SUMMARY OBSERVATIONS
 
-Scope: counts are of records caught by the CONUS48 state + US-country filters.
-Some in-scope records with misspelled or variant state/country values may be missed (see README).
+Scope: counts are of records the CONUS48 state + US-country filters caught -- bounded string matches, so some in-scope records with misspelled or variant state/country values are missed (see README). Not the complete holdings.
 
 Geographic-field completeness: 73.7% of records had the fields needed for testing
 
 Unresolved-location rate: 4.7% of analyzable records
 
-Unresolved records carry the project's "out-of-bounds" (OOB) flag. More precisely, these records include an unresolved match between the stated location and the recorded coordinates, either or both of which may be wrong. A misspelling alone may produce a mismatch, and in some instances the coordinates sit on a boundary where OUT versus IN is model-dependent and indeterminate.
+These carry the project's "out-of-bounds" (OOB) flag -- the working name. More precisely, each marks an unresolved match between stated location and recorded coordinates: either may be wrong, a misspelling alone may produce the mismatch, and some sit on a boundary where out versus in is model-dependent and ill-defined.
 
-Flags mark unresolved incoherence, not confirmed error; importance of this finding cannot be inferred from distance alone.
+Flags mark unresolved incoherence, not confirmed error; importance cannot be inferred from distance alone.
 
 
 ## OUTPUT FILES

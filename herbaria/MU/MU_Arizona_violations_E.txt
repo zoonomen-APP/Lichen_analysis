@@ -1,2 +1,2 @@
 id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1827636	MU	84186	Daniels, C.W.	56	95.36	Arizona	Gila	33.60475	-112.509639	outside_boundary_exact	Arizona, Maricopa County	Stop 1 White Tanks	https://lichenportal.org/portal/collections/individual/index.php?occid=1827636
+1827636	MU	000084186	Daniels, C.W.	56	95.36	Arizona	Gila	33.60475	-112.509639	outside_boundary_exact	Arizona, Maricopa County	Stop 1 White Tanks	https://lichenportal.org/portal/collections/individual/index.php?occid=1827636

@@ -24,7 +24,7 @@ Results are organized three ways:
 
 ## What the Files Contain
 
-Each flagged-record file is a tab-separated text file (`.txt`) with one row per flagged record. The fields are:
+Each flagged-record file is a tab-separated file (`.tsv`) with one row per flagged record. GitHub renders these as sortable tables; they open directly in a spreadsheet or any text editor. Per-institution summary files remain plain text (`.txt`). The fields are:
 
 | Field | Description |
 |-------|-------------|

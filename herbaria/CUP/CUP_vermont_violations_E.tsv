@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2939990	CUP	CUP-L-0008988	B.D. Ryan	19662	NA	Vermont	Winsor	43.416667	-72.5	county_not_matched_no_match	county_not_matched	Mount Ascutney, Brownsville trail.	https://lichenportal.org/portal/collections/individual/index.php?occid=2939990
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2939990	CUP	CUP-L-0008988	B.D. Ryan	19662	NA	NA	Vermont	Winsor	43.416667	-72.5	county_not_matched_no_match	county_not_matched	Mount Ascutney, Brownsville trail.	https://lichenportal.org/portal/collections/individual/index.php?occid=2939990

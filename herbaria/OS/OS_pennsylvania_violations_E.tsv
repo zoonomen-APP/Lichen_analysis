@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1243336	OS	OS0001303	E. D. Rudolph	NA	59.26	Pennsylvania	Bucks	41.118639	-75.007833	outside_boundary_exact	Pennsylvania, Pike County	Bushkill Falls	https://lichenportal.org/portal/collections/individual/index.php?occid=1243336
-2407026	OS	OS0021920	E. D. Rudolph	NA	59.26	Pennsylvania	Bucks	41.118639	-75.007833	outside_boundary_exact	Pennsylvania, Pike County	Bushkill Falls	https://lichenportal.org/portal/collections/individual/index.php?occid=2407026
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1243336	OS	OS0001303	E. D. Rudolph	NA	59.26	119.89	Pennsylvania	Bucks	41.118639	-75.007833	outside_boundary_exact	Pennsylvania, Pike County	Bushkill Falls	https://lichenportal.org/portal/collections/individual/index.php?occid=1243336
+2407026	OS	OS0021920	E. D. Rudolph	NA	59.26	119.89	Pennsylvania	Bucks	41.118639	-75.007833	outside_boundary_exact	Pennsylvania, Pike County	Bushkill Falls	https://lichenportal.org/portal/collections/individual/index.php?occid=2407026

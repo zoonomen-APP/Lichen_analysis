@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4723636	FH	barcode-00377198	R. S. Egan	4252	12042.88	Virginia	Madison County	38.55	78.4	outside_boundary_exact	not_found_in_US	Shenandoah National Park; south slope of Hawksbill Mountain from Upper Hawksbill Overlook to the summit	https://lichenportal.org/portal/collections/individual/index.php?occid=4723636
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4723636	FH	barcode-00377198	R. S. Egan	4252	12042.88	12072.36	Virginia	Madison County	38.55	78.4	outside_boundary_exact	not_found_in_US	Shenandoah National Park; south slope of Hawksbill Mountain from Upper Hawksbill Overlook to the summit	https://lichenportal.org/portal/collections/individual/index.php?occid=4723636

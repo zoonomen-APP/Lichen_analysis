@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-482514	OSC	56246	Roger Rosentreter	10365	15.45	Utah	Box Elder	41.25	-111.8608	outside_boundary_exact	Utah, Weber County	Utah, Box Elderly, Downtown Logan, in Tabernacle tree	https://lichenportal.org/portal/collections/individual/index.php?occid=482514
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+482514	OSC	56246	Roger Rosentreter	10365	15.45	198.64	Utah	Box Elder	41.25	-111.8608	outside_boundary_exact	Utah, Weber County	Utah, Box Elderly, Downtown Logan, in Tabernacle tree	https://lichenportal.org/portal/collections/individual/index.php?occid=482514

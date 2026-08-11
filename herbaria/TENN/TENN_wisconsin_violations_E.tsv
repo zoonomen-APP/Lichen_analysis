@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1113341	TENN	TENN-L-0007225	A. J. Sharp	734	17.1	Wisconsin	Ozaukee	43.038902	-87.906474	outside_boundary_exact	Wisconsin, Milwaukee County	Behind U of Milwaukee Biological Station, Milwauki	https://lichenportal.org/portal/collections/individual/index.php?occid=1113341
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1113341	TENN	TENN-L-0007225	A. J. Sharp	734	17.1	83.85	Wisconsin	Ozaukee	43.038902	-87.906474	outside_boundary_exact	Wisconsin, Milwaukee County	Behind U of Milwaukee Biological Station, Milwauki	https://lichenportal.org/portal/collections/individual/index.php?occid=1113341

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3352741	SRP	NA	Roger Rosentreter	19266	NA	Alabama	k	60.1909	-149.6182	county_not_matched_no_match	county_not_matched	Exit Glacer campground, near Exit Glacier Creek, Kenai Fjords National Park. Waypoint 926.	https://lichenportal.org/portal/collections/individual/index.php?occid=3352741
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3352741	SRP	NA	Roger Rosentreter	19266	NA	NA	Alabama	k	60.1909	-149.6182	county_not_matched_no_match	county_not_matched	Exit Glacer campground, near Exit Glacier Creek, Kenai Fjords National Park. Waypoint 926.	https://lichenportal.org/portal/collections/individual/index.php?occid=3352741

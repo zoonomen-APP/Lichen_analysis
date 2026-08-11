@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1450931	OS	OS0005295	T. H. Nash	8609	0.23	Texas	Hidalgo	26.0666667	-98.1333333	outside_boundary_exact	not_found_in_US	Santa Ana Wildlife Refuge on Rio Grande, S of McAllen	https://lichenportal.org/portal/collections/individual/index.php?occid=1450931
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1450931	OS	OS0005295	T. H. Nash	8609	0.23	80.98	Texas	Hidalgo	26.0666667	-98.1333333	outside_boundary_exact	not_found_in_US	Santa Ana Wildlife Refuge on Rio Grande, S of McAllen	https://lichenportal.org/portal/collections/individual/index.php?occid=1450931

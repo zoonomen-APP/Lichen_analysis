@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1716232	WVA	WVA-L-0001403	Herre	428	0.11	California	San Mateo	37.37	-122.2	outside_boundary_exact	California, Santa Clara County	Santa Cruz Mts. Searsville Ridge, Los Trancos road	https://lichenportal.org/portal/collections/individual/index.php?occid=1716232
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1716232	WVA	WVA-L-0001403	Herre	428	0.11	50.02	California	San Mateo	37.37	-122.2	outside_boundary_exact	California, Santa Clara County	Santa Cruz Mts. Searsville Ridge, Los Trancos road	https://lichenportal.org/portal/collections/individual/index.php?occid=1716232

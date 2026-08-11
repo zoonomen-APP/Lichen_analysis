@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4817783	PRM	NA	Kerry Knudsen	19247.3	NA	New Mexico	Las Crucas	32.298916	-106.6082	county_not_matched_no_match	county_not_matched	Organ Mountains, Soledad Rocks	https://lichenportal.org/portal/collections/individual/index.php?occid=4817783
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4817783	PRM	NA	Kerry Knudsen	19247.3	NA	NA	New Mexico	Las Crucas	32.298916	-106.6082	county_not_matched_no_match	county_not_matched	Organ Mountains, Soledad Rocks	https://lichenportal.org/portal/collections/individual/index.php?occid=4817783

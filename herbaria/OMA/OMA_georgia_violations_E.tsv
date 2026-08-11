@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-805326	OMA	13377	NA	6303	NA	Georgia	Gylnn	31.1	-81.404167	county_not_matched_no_match	county_not_matched	Jekyll Island State Park; 6 miles SE of Brunswick, near N picnic ground	https://lichenportal.org/portal/collections/individual/index.php?occid=805326
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+805326	OMA	13377	NA	6303	NA	NA	Georgia	Gylnn	31.1	-81.404167	county_not_matched_no_match	county_not_matched	Jekyll Island State Park; 6 miles SE of Brunswick, near N picnic ground	https://lichenportal.org/portal/collections/individual/index.php?occid=805326

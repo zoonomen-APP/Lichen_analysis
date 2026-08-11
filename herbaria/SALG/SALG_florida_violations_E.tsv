@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-6023547	SALG	SALG00857	Roger Rosentreter	20091	24.97	Florida	Wakulla	30.51996	-84.17756	outside_boundary_exact	Florida, Leon County	St Marks National Wildlife Refuge, Lighthouse area. 30 miles southeast of Tallahassee	https://lichenportal.org/portal/collections/individual/index.php?occid=6023547
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6023547	SALG	SALG00857	Roger Rosentreter	20091	24.97	88.85	Florida	Wakulla	30.51996	-84.17756	outside_boundary_exact	Florida, Leon County	St Marks National Wildlife Refuge, Lighthouse area. 30 miles southeast of Tallahassee	https://lichenportal.org/portal/collections/individual/index.php?occid=6023547

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3132779	BUT	BUT-L-0800136	Ray C. Friesner	4597	134.32	Maine	Franklin	44.586944	-68.232222	outside_boundary_exact	Maine, Hancock County	behind Baptist Church, Franklin; 44.586944 -68.232222	https://lichenportal.org/portal/collections/individual/index.php?occid=3132779
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3132779	BUT	BUT-L-0800136	Ray C. Friesner	4597	134.32	223.39	Maine	Franklin	44.586944	-68.232222	outside_boundary_exact	Maine, Hancock County	behind Baptist Church, Franklin; 44.586944 -68.232222	https://lichenportal.org/portal/collections/individual/index.php?occid=3132779

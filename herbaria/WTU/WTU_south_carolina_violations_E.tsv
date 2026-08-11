@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1280770	WTU	WTU-L-033306	S. Workman	s.n.	0.87	South Carolina	Aiken	33.5	-82	outside_boundary_exact	Georgia, Richmond County	Savannah River, near Aiken.	https://lichenportal.org/portal/collections/individual/index.php?occid=1280770
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1280770	WTU	WTU-L-033306	S. Workman	s.n.	0.87	76.85	South Carolina	Aiken	33.5	-82	outside_boundary_exact	Georgia, Richmond County	Savannah River, near Aiken.	https://lichenportal.org/portal/collections/individual/index.php?occid=1280770

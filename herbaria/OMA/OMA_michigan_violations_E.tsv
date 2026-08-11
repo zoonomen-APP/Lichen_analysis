@@ -1,11 +1,11 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-805114	OMA	13233	NA	10,066	418.27	Michigan	Mackinac	42.033333	-85.583333	outside_boundary_exact	Michigan, St. Joseph County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=805114
-805299	OMA	14552	NA	10,049	299.43	Michigan	Mackinac	43.05	-85.116667	outside_boundary_exact	Michigan, Ionia County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=805299
-806126	OMA	13856	NA	10,048	97.06	Michigan	Mackinac	46.05	-87.116667	outside_boundary_exact	Michigan, Delta County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806126
-804749	OMA	17095	NA	10,062	87.48	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=804749
-806056	OMA	14522	NA	10,063	87.48	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806056
-806077	OMA	14514	NA	10,058	87.48	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806077
-806235	OMA	14793	NA	10,059	87.48	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806235
-805392	OMA	13575	NA	10,061	84.91	Michigan	Mackinac	45.083333	-85.133333	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=805392
-806481	OMA	15143	NA	10,064	82.78	Michigan	Mackinac	45.083333	-85.083333	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806481
-806482	OMA	15142	NA	10,057	82.78	Michigan	Mackinac	45.083333	-85.083333	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806482
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+805114	OMA	13233	NA	10,066	418.27	470.98	Michigan	Mackinac	42.033333	-85.583333	outside_boundary_exact	Michigan, St. Joseph County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=805114
+805299	OMA	14552	NA	10,049	299.43	360.61	Michigan	Mackinac	43.05	-85.116667	outside_boundary_exact	Michigan, Ionia County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=805299
+806126	OMA	13856	NA	10,048	97.06	234.47	Michigan	Mackinac	46.05	-87.116667	outside_boundary_exact	Michigan, Delta County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806126
+804749	OMA	17095	NA	10,062	87.48	139.98	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=804749
+806056	OMA	14522	NA	10,063	87.48	139.98	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806056
+806077	OMA	14514	NA	10,058	87.48	139.98	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806077
+806235	OMA	14793	NA	10,059	87.48	139.98	Michigan	Mackinac	45.083333	-85.3	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806235
+805392	OMA	13575	NA	10,061	84.91	141.06	Michigan	Mackinac	45.083333	-85.133333	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=805392
+806481	OMA	15143	NA	10,064	82.78	142.68	Michigan	Mackinac	45.083333	-85.083333	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806481
+806482	OMA	15142	NA	10,057	82.78	142.68	Michigan	Mackinac	45.083333	-85.083333	outside_boundary_exact	Michigan, Antrim County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=806482

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-145125	SBBG	SBBG026538L	Robert Egan	3945	4545.5	Virginia	Page/Madison	78.45	-38.533333	outside_boundary_multi_county_2_of_2	not_found_in_US	Shenandoah Nat Park; vic. Big Meadows Campground; 9 mi S of Luray.	https://lichenportal.org/portal/collections/individual/index.php?occid=145125
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+145125	SBBG	SBBG026538L	Robert Egan	3945	4545.5	4601.51	Virginia	Page/Madison	78.45	-38.533333	outside_boundary_multi_county_2_of_2	not_found_in_US	Shenandoah Nat Park; vic. Big Meadows Campground; 9 mi S of Luray.	https://lichenportal.org/portal/collections/individual/index.php?occid=145125

@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3926124	LD	1032319	M. E. Hale	NA	0.04	West Virginia	Pocahontas	38.61527778	-79.84416667	outside_boundary_exact	West Virginia, Randolph County	Gaudineer Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=3926124
-4007240	LD	1941873	M. E. Hale	NA	0.04	West Virginia	Pocahontas	38.61527778	-79.84416667	outside_boundary_exact	West Virginia, Randolph County	Gaudineer Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=4007240
-4010290	LD	1980323	M. E. Hale	NA	0.04	West Virginia	Pocahontas	38.61527778	-79.84416667	outside_boundary_exact	West Virginia, Randolph County	Gaudineer Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=4010290
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3926124	LD	1032319	M. E. Hale	NA	0.04	73.41	West Virginia	Pocahontas	38.61527778	-79.84416667	outside_boundary_exact	West Virginia, Randolph County	Gaudineer Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=3926124
+4007240	LD	1941873	M. E. Hale	NA	0.04	73.41	West Virginia	Pocahontas	38.61527778	-79.84416667	outside_boundary_exact	West Virginia, Randolph County	Gaudineer Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=4007240
+4010290	LD	1980323	M. E. Hale	NA	0.04	73.41	West Virginia	Pocahontas	38.61527778	-79.84416667	outside_boundary_exact	West Virginia, Randolph County	Gaudineer Knob	https://lichenportal.org/portal/collections/individual/index.php?occid=4010290

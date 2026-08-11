@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1313336	VT	UVMVT017637	C. E. Cummings	s.n.	195.58	Massachusetts	Essex	44.182576	-69.117408	outside_boundary_exact	Maine, Knox County	Rockport	https://lichenportal.org/portal/collections/individual/index.php?occid=1313336
-1287236	VT	UVMVT016028	C. J. Sprague	s.n.	167.21	Massachusetts	Plymouth	43.742874	-71.724778	outside_boundary_exact	New Hampshire, Grafton County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1287236
-1305325	VT	UVMVT016675	C. E. Cummings	s.n.	NA	Massachusetts	Rockford	42.25	-71.8333	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1305325
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1313336	VT	UVMVT017637	C. E. Cummings	s.n.	195.58	247.99	Massachusetts	Essex	44.182576	-69.117408	outside_boundary_exact	Maine, Knox County	Rockport	https://lichenportal.org/portal/collections/individual/index.php?occid=1313336
+1287236	VT	UVMVT016028	C. J. Sprague	s.n.	167.21	255.88	Massachusetts	Plymouth	43.742874	-71.724778	outside_boundary_exact	New Hampshire, Grafton County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1287236
+1305325	VT	UVMVT016675	C. E. Cummings	s.n.	NA	NA	Massachusetts	Rockford	42.25	-71.8333	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1305325

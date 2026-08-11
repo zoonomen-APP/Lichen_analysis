@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5072365	WCUH	WCUH0033418	Dan Pittillo, Blomquist foray group	13543	539.05	Tennessee	Haywood	35.6365	-83.0618	outside_boundary_exact	North Carolina, Haywood County	Great Smoky Mountains National Park, Cataloochee Valley entrance road	https://lichenportal.org/portal/collections/individual/index.php?occid=5072365
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5072365	WCUH	WCUH0033418	Dan Pittillo, Blomquist foray group	13543	539.05	578.27	Tennessee	Haywood	35.6365	-83.0618	outside_boundary_exact	North Carolina, Haywood County	Great Smoky Mountains National Park, Cataloochee Valley entrance road	https://lichenportal.org/portal/collections/individual/index.php?occid=5072365

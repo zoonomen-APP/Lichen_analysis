@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-276543	MSC	MSC0080964	Smith, Edward M	NA	11.66	Massachusetts	Hampden	42	-72	outside_boundary_exact	Connecticut, Windham County	Massachusetts	https://lichenportal.org/portal/collections/individual/index.php?occid=276543
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+276543	MSC	MSC0080964	Smith, Edward M	NA	11.66	89.57	Massachusetts	Hampden	42	-72	outside_boundary_exact	Connecticut, Windham County	Massachusetts	https://lichenportal.org/portal/collections/individual/index.php?occid=276543

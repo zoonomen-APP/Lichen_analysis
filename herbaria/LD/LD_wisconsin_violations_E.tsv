@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5653900	LD	2297095	Irwin M. Brodo	NA	323.65	Wisconsin	Vilas	48.83333333	-87.41666667	outside_boundary_exact	not_found_in_US	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=5653900
-3928277	LD	1039520	J. W. Thomson & E. D. Rudolph	NA	187.22	Wisconsin	Price	43.69666667	-90.40055556	outside_boundary_exact	Wisconsin, Vernon County	Phillips	https://lichenportal.org/portal/collections/individual/index.php?occid=3928277
-3976310	LD	1603753	John W. Thomson	NA	0.01	Wisconsin	Price	45.55527778	-90.04333333	outside_boundary_exact	Wisconsin, Oneida County	Clifford	https://lichenportal.org/portal/collections/individual/index.php?occid=3976310
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5653900	LD	2297095	Irwin M. Brodo	NA	323.65	380.88	Wisconsin	Vilas	48.83333333	-87.41666667	outside_boundary_exact	not_found_in_US	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=5653900
+3928277	LD	1039520	J. W. Thomson & E. D. Rudolph	NA	187.22	255.93	Wisconsin	Price	43.69666667	-90.40055556	outside_boundary_exact	Wisconsin, Vernon County	Phillips	https://lichenportal.org/portal/collections/individual/index.php?occid=3928277
+3976310	LD	1603753	John W. Thomson	NA	0.01	68.37	Wisconsin	Price	45.55527778	-90.04333333	outside_boundary_exact	Wisconsin, Oneida County	Clifford	https://lichenportal.org/portal/collections/individual/index.php?occid=3976310

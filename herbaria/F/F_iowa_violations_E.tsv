@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4573579	F	C0098492F	T. J. Fitzpatrick & M. F. L. Fitzpatrick	s.n.	201.72	Iowa	Johnson	40.622777	-93.934116	outside_boundary_exact	Iowa, Decatur County	Lamoni	https://lichenportal.org/portal/collections/individual/index.php?occid=4573579
-4573580	F	C0098486F	T. J. Fitzpatrick & M. F. L. Fitzpatrick	s.n.	201.72	Iowa	Johnson	40.622777	-93.934116	outside_boundary_exact	Iowa, Decatur County	Lamoni	https://lichenportal.org/portal/collections/individual/index.php?occid=4573580
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4573579	F	C0098492F	T. J. Fitzpatrick & M. F. L. Fitzpatrick	s.n.	201.72	254.53	Iowa	Johnson	40.622777	-93.934116	outside_boundary_exact	Iowa, Decatur County	Lamoni	https://lichenportal.org/portal/collections/individual/index.php?occid=4573579
+4573580	F	C0098486F	T. J. Fitzpatrick & M. F. L. Fitzpatrick	s.n.	201.72	254.53	Iowa	Johnson	40.622777	-93.934116	outside_boundary_exact	Iowa, Decatur County	Lamoni	https://lichenportal.org/portal/collections/individual/index.php?occid=4573580

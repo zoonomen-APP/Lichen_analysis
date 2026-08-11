@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5461935	H	http://id.luomus.fi/HA.H9209453	Henssen, Aino	Henssen 25728	346.05	North Carolina	Haywood	35.733333	-87.116666	outside_boundary_exact	Tennessee, Maury County	The Great Smoky Mountains National Park, Big Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=5461935
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5461935	H	http://id.luomus.fi/HA.H9209453	Henssen, Aino	Henssen 25728	346.05	394.38	North Carolina	Haywood	35.733333	-87.116666	outside_boundary_exact	Tennessee, Maury County	The Great Smoky Mountains National Park, Big Creek	https://lichenportal.org/portal/collections/individual/index.php?occid=5461935

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1810197	CINC	CINC-L-0002183	Culberson, William Louis	4734	NA	Massachusetts	Lynnfield	42.559469	-71.020302	county_not_matched_no_match	county_not_matched	2 miles northeast of Lynnfield	https://lichenportal.org/portal/collections/individual/index.php?occid=1810197
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1810197	CINC	CINC-L-0002183	Culberson, William Louis	4734	NA	NA	Massachusetts	Lynnfield	42.559469	-71.020302	county_not_matched_no_match	county_not_matched	2 miles northeast of Lynnfield	https://lichenportal.org/portal/collections/individual/index.php?occid=1810197

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2597571	UCR(temp)	SBBG016532L	B.D. Ryan	27371	0.37	Florida	Leon	30.3	-84.35	outside_boundary_exact	Florida, Wakulla County	Leon Sinks Geological Area, along US Hwy 319 just N of Wakulla County line	https://lichenportal.org/portal/collections/individual/index.php?occid=2597571
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2597571	UCR(temp)	SBBG016532L	B.D. Ryan	27371	0.37	52.78	Florida	Leon	30.3	-84.35	outside_boundary_exact	Florida, Wakulla County	Leon Sinks Geological Area, along US Hwy 319 just N of Wakulla County line	https://lichenportal.org/portal/collections/individual/index.php?occid=2597571

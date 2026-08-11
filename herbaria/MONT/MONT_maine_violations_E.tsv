@@ -1,5 +1,5 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1319809	MONT	MONT-L-0000572	Clara E. Cummings	s.n.	0.24	Maine	Aroostook	47.166667	-67.933333	outside_boundary_exact	not_found_in_US	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1319809
-1388269	MONT	MONT-L-0003525	Clara E. Cummings	53	0.24	Maine	Aroostook	47.166667	-67.933333	outside_boundary_exact	not_found_in_US	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1388269
-1389426	MONT	MONT-L-0003935	Clara E. Cummings	42a	0.24	Maine	Aroostook	47.166667	-67.933333	outside_boundary_exact	not_found_in_US	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1389426
-1388246	MONT	MONT-L-0003502	Clara E. Cummings	98	NA	Maine	Madawaska	47.166667	-67.933333	county_not_matched_no_match	county_not_matched	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1388246
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1319809	MONT	MONT-L-0000572	Clara E. Cummings	s.n.	0.24	180.56	Maine	Aroostook	47.166667	-67.933333	outside_boundary_exact	not_found_in_US	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1319809
+1388269	MONT	MONT-L-0003525	Clara E. Cummings	53	0.24	180.56	Maine	Aroostook	47.166667	-67.933333	outside_boundary_exact	not_found_in_US	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1388269
+1389426	MONT	MONT-L-0003935	Clara E. Cummings	42a	0.24	180.56	Maine	Aroostook	47.166667	-67.933333	outside_boundary_exact	not_found_in_US	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1389426
+1388246	MONT	MONT-L-0003502	Clara E. Cummings	98	NA	NA	Maine	Madawaska	47.166667	-67.933333	county_not_matched_no_match	county_not_matched	Van Buren	https://lichenportal.org/portal/collections/individual/index.php?occid=1388246

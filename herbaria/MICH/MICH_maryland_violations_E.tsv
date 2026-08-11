@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1283855	MICH	113014	T. A. Williams	s. n.	16.66	Maryland	Montgomery	38.816111	-77.002222	outside_boundary_exact	Maryland, Prince George's County	Washington, DC, Takoma Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1283855
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1283855	MICH	113014	T. A. Williams	s. n.	16.66	61.9	Maryland	Montgomery	38.816111	-77.002222	outside_boundary_exact	Maryland, Prince George's County	Washington, DC, Takoma Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1283855

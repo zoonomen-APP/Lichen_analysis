@@ -1,7 +1,7 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1286580	VT	UVMVT015208	G. K. Merrill	s.n.	107.39	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286580
-1286583	VT	UVMVT015211	G. K. Merrill	s.n.	107.39	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286583
-1286693	VT	UVMVT015323	G. K. Merrill	s.n.	107.39	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286693
-1286881	VT	UVMVT015511	G. K. Merrill	s.n.	107.39	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286881
-1304537	VT	UVMVT014938	G. K. Merrill	s.n.	107.39	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1304537
-1305093	VT	UVMVT016437	G. K. Merrill	s.n.	107.39	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1305093
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1286580	VT	UVMVT015208	G. K. Merrill	s.n.	107.39	216.97	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286580
+1286583	VT	UVMVT015211	G. K. Merrill	s.n.	107.39	216.97	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286583
+1286693	VT	UVMVT015323	G. K. Merrill	s.n.	107.39	216.97	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286693
+1286881	VT	UVMVT015511	G. K. Merrill	s.n.	107.39	216.97	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1286881
+1304537	VT	UVMVT014938	G. K. Merrill	s.n.	107.39	216.97	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1304537
+1305093	VT	UVMVT016437	G. K. Merrill	s.n.	107.39	216.97	Maine	Washington	44.126917	-69.246883	outside_boundary_exact	Maine, Knox County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1305093

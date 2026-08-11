@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-801882	OMA	16910	NA	14091	0.35	Iowa	Lyon	43.49	-96.595	outside_boundary_exact	South Dakota, Lincoln County	Gitchi-Manitou State Preserve; 3 mi N and 8 mi W of Larchwood	https://lichenportal.org/portal/collections/individual/index.php?occid=801882
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+801882	OMA	16910	NA	14091	0.35	64.57	Iowa	Lyon	43.49	-96.595	outside_boundary_exact	South Dakota, Lincoln County	Gitchi-Manitou State Preserve; 3 mi N and 8 mi W of Larchwood	https://lichenportal.org/portal/collections/individual/index.php?occid=801882

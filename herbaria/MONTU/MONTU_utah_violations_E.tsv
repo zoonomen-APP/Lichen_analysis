@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5858097	MONTU	MONTU02377	Lucinda Eslick	230	29.37	Utah	Uintah	39.200001	-109.099999	outside_boundary_exact	Utah, Grand County	5 miles W of the Utah-Colorado border, on Hwy 40.	https://lichenportal.org/portal/collections/individual/index.php?occid=5858097
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5858097	MONTU	MONTU02377	Lucinda Eslick	230	29.37	195	Utah	Uintah	39.200001	-109.099999	outside_boundary_exact	Utah, Grand County	5 miles W of the Utah-Colorado border, on Hwy 40.	https://lichenportal.org/portal/collections/individual/index.php?occid=5858097

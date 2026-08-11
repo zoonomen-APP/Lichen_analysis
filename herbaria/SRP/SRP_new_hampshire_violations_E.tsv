@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1201896	SRP	SRP-L-0005123	R. Rosentreter	s.n.	NA	New Hampshire	Caro	44.05	-71.125	county_not_matched_no_match	county_not_matched	<br/>	https://lichenportal.org/portal/collections/individual/index.php?occid=1201896
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1201896	SRP	SRP-L-0005123	R. Rosentreter	s.n.	NA	NA	New Hampshire	Caro	44.05	-71.125	county_not_matched_no_match	county_not_matched	<br/>	https://lichenportal.org/portal/collections/individual/index.php?occid=1201896

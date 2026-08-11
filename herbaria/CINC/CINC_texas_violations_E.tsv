@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1811711	CINC	CINC-L-0003479	Rushing, Ann E.	s.n.	204.56	Texas	Gillespie	30.653106	-96.461687	outside_boundary_exact	Texas, Brazos County	Texas A&M University Campus	https://lichenportal.org/portal/collections/individual/index.php?occid=1811711
-1811649	CINC	CINC-L-0003417	Fisher, George L.	39030	62.97	Texas	Walker	30.09744	-96.078292	outside_boundary_exact	Texas, Waller County	Hempstead	https://lichenportal.org/portal/collections/individual/index.php?occid=1811649
-1815887	CINC	CINC-L-0006039	Heller, A.A.	s.n.	NA	Texas	Lannan	31.549333	-97.14667	county_not_matched_no_match	county_not_matched	Waco	https://lichenportal.org/portal/collections/individual/index.php?occid=1815887
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1811711	CINC	CINC-L-0003479	Rushing, Ann E.	s.n.	204.56	278.37	Texas	Gillespie	30.653106	-96.461687	outside_boundary_exact	Texas, Brazos County	Texas A&M University Campus	https://lichenportal.org/portal/collections/individual/index.php?occid=1811711
+1811649	CINC	CINC-L-0003417	Fisher, George L.	39030	62.97	123.23	Texas	Walker	30.09744	-96.078292	outside_boundary_exact	Texas, Waller County	Hempstead	https://lichenportal.org/portal/collections/individual/index.php?occid=1811649
+1815887	CINC	CINC-L-0006039	Heller, A.A.	s.n.	NA	NA	Texas	Lannan	31.549333	-97.14667	county_not_matched_no_match	county_not_matched	Waco	https://lichenportal.org/portal/collections/individual/index.php?occid=1815887

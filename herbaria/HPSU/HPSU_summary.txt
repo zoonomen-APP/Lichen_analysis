@@ -1,6 +1,6 @@
 # SINGLE INSTITUTION ANALYSIS SUMMARY: HPSU
-Generated: 2026-08-09 04:32:40.667841
-Processing time: 0.19 minutes
+Generated: 2026-08-10 14:51:47.961745
+Processing time: 0.21 minutes
 
 ## RECORD FILTERING ANALYSIS
 Total records in data file: 613

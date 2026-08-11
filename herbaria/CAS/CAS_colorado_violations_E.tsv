@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2644482	CAS	455408	Shushan, Sam[uel]	1515	0.24	Colorado	Larimer County	41	-105.3666666667	outside_boundary_exact	Wyoming, Albany County	0.8 km south of Wyoming State line (just north of Virginia Dale)	https://lichenportal.org/portal/collections/individual/index.php?occid=2644482
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2644482	CAS	455408	Shushan, Sam[uel]	1515	0.24	86.71	Colorado	Larimer County	41	-105.3666666667	outside_boundary_exact	Wyoming, Albany County	0.8 km south of Wyoming State line (just north of Virginia Dale)	https://lichenportal.org/portal/collections/individual/index.php?occid=2644482

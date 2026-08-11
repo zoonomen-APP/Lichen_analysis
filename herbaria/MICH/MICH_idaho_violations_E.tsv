@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1407620	MICH	132934	R. Rosentreter	6888	23.75	Idaho	Custer	44.666667	-113.416667	outside_boundary_exact	Idaho, Lemhi County	Upper Texas Creek off Route #28, 70 miles SE of Salmon, Idaho	https://lichenportal.org/portal/collections/individual/index.php?occid=1407620
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1407620	MICH	132934	R. Rosentreter	6888	23.75	153.4	Idaho	Custer	44.666667	-113.416667	outside_boundary_exact	Idaho, Lemhi County	Upper Texas Creek off Route #28, 70 miles SE of Salmon, Idaho	https://lichenportal.org/portal/collections/individual/index.php?occid=1407620

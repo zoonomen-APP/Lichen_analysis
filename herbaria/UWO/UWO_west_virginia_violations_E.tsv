@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3776823	UWO	12	L. Orloci	NA	1.7	West Virginia	Tucker	39	-79.3	outside_boundary_exact	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776823
-3776825	UWO	14	L. Orloci	NA	1.7	West Virginia	Tucker	39	-79.3	outside_boundary_exact	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776825
-3776826	UWO	15	L. Orloci	NA	1.7	West Virginia	Tucker	39	-79.3	outside_boundary_exact	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776826
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3776823	UWO	12	L. Orloci	NA	1.7	50.75	West Virginia	Tucker	39	-79.3	outside_boundary_exact	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776823
+3776825	UWO	14	L. Orloci	NA	1.7	50.75	West Virginia	Tucker	39	-79.3	outside_boundary_exact	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776825
+3776826	UWO	15	L. Orloci	NA	1.7	50.75	West Virginia	Tucker	39	-79.3	outside_boundary_exact	West Virginia, Grant County	Dolly sods	https://lichenportal.org/portal/collections/individual/index.php?occid=3776826

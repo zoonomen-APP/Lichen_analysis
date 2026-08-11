@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1381491	FLAS	FLAS L10313	J.B.	1095	NA	North Dakota	[n/a]	47.880606	-100.480469	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1381491
-1738827	FLAS	FLAS L6374	J.F.B	1101	NA	North Dakota	[n/a]	47.421757	-100.436523	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1738827
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1381491	FLAS	FLAS L10313	J.B.	1095	NA	NA	North Dakota	[n/a]	47.880606	-100.480469	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1381491
+1738827	FLAS	FLAS L6374	J.F.B	1101	NA	NA	North Dakota	[n/a]	47.421757	-100.436523	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1738827

@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2218382	FLAS	FLAS L11556	Doyle E. Anderegg	2449	7463.93	Nevada	Elko	14.783333	-41.583333	outside_boundary_exact	not_found_in_US	10 mi south of Contact	https://lichenportal.org/portal/collections/individual/index.php?occid=2218382
-2928497	FLAS	FLAS L12816	Roger Rosentreter	16514	52.54	Nevada	White Pine	40.591667	-114.986833	outside_boundary_exact	Nevada, Elko County	South of Wells, Nevada	https://lichenportal.org/portal/collections/individual/index.php?occid=2928497
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2218382	FLAS	FLAS L11556	Doyle E. Anderegg	2449	7463.93	7713.21	Nevada	Elko	14.783333	-41.583333	outside_boundary_exact	not_found_in_US	10 mi south of Contact	https://lichenportal.org/portal/collections/individual/index.php?occid=2218382
+2928497	FLAS	FLAS L12816	Roger Rosentreter	16514	52.54	228.84	Nevada	White Pine	40.591667	-114.986833	outside_boundary_exact	Nevada, Elko County	South of Wells, Nevada	https://lichenportal.org/portal/collections/individual/index.php?occid=2928497

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1560630	hb. Esslinger	0019822	T. H. Nash III	43241	14.86	Illinois	Jackson	37.466667	-89.283333	outside_boundary_exact	Illinois, Union County	About 10 km S of Southern Illinois University Campus and just S of Giant City State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1560630
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1560630	hb. Esslinger	0019822	T. H. Nash III	43241	14.86	61.16	Illinois	Jackson	37.466667	-89.283333	outside_boundary_exact	Illinois, Union County	About 10 km S of Southern Illinois University Campus and just S of Giant City State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=1560630

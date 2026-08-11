@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2252100	F	C0060534F	E. P. Killip	31790	4.73	New York	Hamilton	43.75	-74.87	outside_boundary_exact	New York, Herkimer County	Black Bear Mt. Fourth Lake, Fulton Chain	https://lichenportal.org/portal/collections/individual/index.php?occid=2252100
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2252100	F	C0060534F	E. P. Killip	31790	4.73	80.73	New York	Hamilton	43.75	-74.87	outside_boundary_exact	New York, Herkimer County	Black Bear Mt. Fourth Lake, Fulton Chain	https://lichenportal.org/portal/collections/individual/index.php?occid=2252100

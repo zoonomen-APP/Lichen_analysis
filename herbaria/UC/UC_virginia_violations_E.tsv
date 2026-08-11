@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1641109	UC	UC2022122	Mariette S. Cole	8627	NA	Virginia	Pendleton	38.65028	-79.5525	county_not_matched_no_match	county_not_matched	Monongahila National Forest, Fanny Bennett Hemlock Grove	https://lichenportal.org/portal/collections/individual/index.php?occid=1641109
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1641109	UC	UC2022122	Mariette S. Cole	8627	NA	NA	Virginia	Pendleton	38.65028	-79.5525	county_not_matched_no_match	county_not_matched	Monongahila National Forest, Fanny Bennett Hemlock Grove	https://lichenportal.org/portal/collections/individual/index.php?occid=1641109

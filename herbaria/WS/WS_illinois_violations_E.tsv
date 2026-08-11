@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5339312	WS	206999	W.W. Calkins	36	2334.26	Illinois	La Salle	47.954474	-117.475142	outside_boundary_similarity_0.625	Washington, Spokane County	Deer Park.	https://lichenportal.org/portal/collections/individual/index.php?occid=5339312
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5339312	WS	206999	W.W. Calkins	36	2334.26	2403.37	Illinois	La Salle	47.954474	-117.475142	outside_boundary_similarity_0.625	Washington, Spokane County	Deer Park.	https://lichenportal.org/portal/collections/individual/index.php?occid=5339312

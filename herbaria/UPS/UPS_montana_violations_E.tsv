@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-971530	UPS	L-522541	Larry L. St. Clair	16685	15.96	Montana	Deerlodge Co.	46.14485	-113.49137	outside_boundary_similarity_0.7	Montana, Granite County	Deerlodge Co., Beaverhead-Deerlodge National Forest, vicinity of Four Mile Basin	https://lichenportal.org/portal/collections/individual/index.php?occid=971530
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+971530	UPS	L-522541	Larry L. St. Clair	16685	15.96	73.37	Montana	Deerlodge Co.	46.14485	-113.49137	outside_boundary_similarity_0.7	Montana, Granite County	Deerlodge Co., Beaverhead-Deerlodge National Forest, vicinity of Four Mile Basin	https://lichenportal.org/portal/collections/individual/index.php?occid=971530

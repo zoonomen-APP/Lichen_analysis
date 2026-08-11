@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2628250	NBM	NBM-FL-07612	Harries, Hinrich	77672	12.36	New Hampshire	Grafton	44.25	-71.27	outside_boundary_exact	New Hampshire, Coos County	W of Pinkham Notch, White Mountain National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=2628250
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2628250	NBM	NBM-FL-07612	Harries, Hinrich	77672	12.36	111.54	New Hampshire	Grafton	44.25	-71.27	outside_boundary_exact	New Hampshire, Coos County	W of Pinkham Notch, White Mountain National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=2628250

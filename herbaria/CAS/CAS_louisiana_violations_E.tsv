@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2686739	CAS	468811	Tucker, Shirley; Lievens, A.	31112	8.2	Louisiana	East Feliciana Parish	30.8	-90.75	outside_boundary_exact	Louisiana, St. Helena County	Idlewild Research Station, 5.6 miles SE of Clinton	https://lichenportal.org/portal/collections/individual/index.php?occid=2686739
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2686739	CAS	468811	Tucker, Shirley; Lievens, A.	31112	8.2	55.92	Louisiana	East Feliciana Parish	30.8	-90.75	outside_boundary_exact	Louisiana, St. Helena County	Idlewild Research Station, 5.6 miles SE of Clinton	https://lichenportal.org/portal/collections/individual/index.php?occid=2686739

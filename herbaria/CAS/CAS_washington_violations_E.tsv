@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2606484	CAS	446972	Ryan, Bruce	30701	1.41	Washington	Skagit County	48.2833333333	-121.2416666667	outside_boundary_exact	Washington, Snohomish County	Glacier Peak Wilderness, along Green Mountain Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=2606484
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2606484	CAS	446972	Ryan, Bruce	30701	1.41	119.06	Washington	Skagit County	48.2833333333	-121.2416666667	outside_boundary_exact	Washington, Snohomish County	Glacier Peak Wilderness, along Green Mountain Trail	https://lichenportal.org/portal/collections/individual/index.php?occid=2606484

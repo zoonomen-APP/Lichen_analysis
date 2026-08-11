@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2745677	CAS	498303	Nelson, J.; Schmitt, Claire K.	4850	0.08	New York	Warren County	43.5666666667	-73.6	outside_boundary_exact	New York, Washington County	Town of Bolton, Lake George, Tongue Mountain Shoreline	https://lichenportal.org/portal/collections/individual/index.php?occid=2745677
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2745677	CAS	498303	Nelson, J.; Schmitt, Claire K.	4850	0.08	52.58	New York	Warren County	43.5666666667	-73.6	outside_boundary_exact	New York, Washington County	Town of Bolton, Lake George, Tongue Mountain Shoreline	https://lichenportal.org/portal/collections/individual/index.php?occid=2745677

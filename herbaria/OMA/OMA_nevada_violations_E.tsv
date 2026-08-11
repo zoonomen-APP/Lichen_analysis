@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-812207	OMA	17290	NA	16,517 pp	42.27	Nevada	White Pine	40.5	-114.983333	outside_boundary_exact	Nevada, Elko County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=812207
-812273	OMA	17289	NA	16,517	42.27	Nevada	White Pine	40.5	-114.983333	outside_boundary_exact	Nevada, Elko County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=812273
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+812207	OMA	17290	NA	16,517 pp	42.27	219.15	Nevada	White Pine	40.5	-114.983333	outside_boundary_exact	Nevada, Elko County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=812207
+812273	OMA	17289	NA	16,517	42.27	219.15	Nevada	White Pine	40.5	-114.983333	outside_boundary_exact	Nevada, Elko County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=812273

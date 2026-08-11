@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-416726	MIN	881855	Harris, R.	44238	1972.59	Oklahoma	Cherokee	53.99166667	-94.8625	outside_boundary_exact	not_found_in_US	7 Mi Ne of Tahlequah, Tully Hollow	https://lichenportal.org/portal/collections/individual/index.php?occid=416726
-416727	MIN	881856	Harris, R.	44292	1972.59	Oklahoma	Cherokee	53.99166667	-94.8625	outside_boundary_exact	not_found_in_US	7 Mi Ne of Tahlequah, Tully Hollow	https://lichenportal.org/portal/collections/individual/index.php?occid=416727
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+416726	MIN	881855	Harris, R.	44238	1972.59	2031.24	Oklahoma	Cherokee	53.99166667	-94.8625	outside_boundary_exact	not_found_in_US	7 Mi Ne of Tahlequah, Tully Hollow	https://lichenportal.org/portal/collections/individual/index.php?occid=416726
+416727	MIN	881856	Harris, R.	44292	1972.59	2031.24	Oklahoma	Cherokee	53.99166667	-94.8625	outside_boundary_exact	not_found_in_US	7 Mi Ne of Tahlequah, Tully Hollow	https://lichenportal.org/portal/collections/individual/index.php?occid=416727

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1508718	ILL	ILL00038494	M.E. Hale	s.n.	110.03	Arkansas	Van Burren	35.6333	-91.0167	outside_boundary_similarity_0.889	Arkansas, Poinsett County	near Una	https://lichenportal.org/portal/collections/individual/index.php?occid=1508718
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1508718	ILL	ILL00038494	M.E. Hale	s.n.	110.03	165.94	Arkansas	Van Burren	35.6333	-91.0167	outside_boundary_similarity_0.889	Arkansas, Poinsett County	near Una	https://lichenportal.org/portal/collections/individual/index.php?occid=1508718

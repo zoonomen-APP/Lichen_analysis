@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1418554	MOR	L-0002389-MOR	Steven Apfelbaum	212	1.6	Texas	Hardin	30.54123	-94.341006	outside_boundary_exact	Texas, Tyler County	East of Houston, Big Thicket National Preserve and vicinity.	https://lichenportal.org/portal/collections/individual/index.php?occid=1418554
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1418554	MOR	L-0002389-MOR	Steven Apfelbaum	212	1.6	53.59	Texas	Hardin	30.54123	-94.341006	outside_boundary_exact	Texas, Tyler County	East of Houston, Big Thicket National Preserve and vicinity.	https://lichenportal.org/portal/collections/individual/index.php?occid=1418554

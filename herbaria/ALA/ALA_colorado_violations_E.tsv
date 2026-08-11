@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2923390	ALA	UAMb:Herb:2371	unknown, Larry P. Gough	NA	1.32	Colorado	Grand County	39.916667	-105.666667	outside_boundary_exact	Colorado, Gilpin County	Ten miles west of Rollinsville at Rollins Pass.	https://lichenportal.org/portal/collections/individual/index.php?occid=2923390
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2923390	ALA	UAMb:Herb:2371	unknown, Larry P. Gough	NA	1.32	102.11	Colorado	Grand County	39.916667	-105.666667	outside_boundary_exact	Colorado, Gilpin County	Ten miles west of Rollinsville at Rollins Pass.	https://lichenportal.org/portal/collections/individual/index.php?occid=2923390

@@ -1,6 +1,6 @@
 # SINGLE INSTITUTION ANALYSIS SUMMARY: BRY
-Generated: 2026-08-09 02:01:46.439213
-Processing time: 30.44 minutes
+Generated: 2026-08-10 12:03:31.508178
+Processing time: 32.75 minutes
 
 ## RECORD FILTERING ANALYSIS
 Total records in data file: 35240

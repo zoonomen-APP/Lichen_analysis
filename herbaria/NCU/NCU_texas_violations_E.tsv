@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5647716	NCU	NCU-L-0007684	Tucker, Shirley C.	14061	1.9	Texas	Tyler	30.84725	-94.16669	outside_boundary_exact	Texas, Jasper County	Martin Dies State Park (Cherokee Unit) on U.S. 190 on Steinhagen Lake, 15 mi. W. of Jasper.	https://lichenportal.org/portal/collections/individual/index.php?occid=5647716
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5647716	NCU	NCU-L-0007684	Tucker, Shirley C.	14061	1.9	50.79	Texas	Tyler	30.84725	-94.16669	outside_boundary_exact	Texas, Jasper County	Martin Dies State Park (Cherokee Unit) on U.S. 190 on Steinhagen Lake, 15 mi. W. of Jasper.	https://lichenportal.org/portal/collections/individual/index.php?occid=5647716

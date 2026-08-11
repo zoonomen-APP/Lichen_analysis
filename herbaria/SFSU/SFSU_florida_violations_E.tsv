@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2697473	SFSU	SFSU-L-002573	J. D. Ripley	1812	8.3	Florida	Okaloosa	30.393575	-86.310423	outside_boundary_exact	Florida, Walton County	Shore of Choctawhatchee Bay	https://lichenportal.org/portal/collections/individual/index.php?occid=2697473
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2697473	SFSU	SFSU-L-002573	J. D. Ripley	1812	8.3	81	Florida	Okaloosa	30.393575	-86.310423	outside_boundary_exact	Florida, Walton County	Shore of Choctawhatchee Bay	https://lichenportal.org/portal/collections/individual/index.php?occid=2697473

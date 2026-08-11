@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1304648	VT	UVMVT015049	T. J. Fitzpatrick	s.n.	202.23	Iowa	Johnson	40.620355	-93.939278	outside_boundary_exact	Iowa, Decatur County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1304648
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1304648	VT	UVMVT015049	T. J. Fitzpatrick	s.n.	202.23	255.04	Iowa	Johnson	40.620355	-93.939278	outside_boundary_exact	Iowa, Decatur County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1304648

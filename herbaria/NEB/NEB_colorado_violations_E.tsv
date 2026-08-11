@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1430664	NEB	NEB00028243	Sam Shushan	s1-8446	19.98	Colorado	Clear Creek	39.386667	-105.780556	outside_boundary_exact	Colorado, Park County	3 miles SSE of Bakerville; north slope of McClellan Mountain; near Stevens Mine.	https://lichenportal.org/portal/collections/individual/index.php?occid=1430664
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1430664	NEB	NEB00028243	Sam Shushan	s1-8446	19.98	52.98	Colorado	Clear Creek	39.386667	-105.780556	outside_boundary_exact	Colorado, Park County	3 miles SSE of Bakerville; north slope of McClellan Mountain; near Stevens Mine.	https://lichenportal.org/portal/collections/individual/index.php?occid=1430664

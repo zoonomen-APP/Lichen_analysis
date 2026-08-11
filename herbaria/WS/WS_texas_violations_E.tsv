@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5358723	WS	398774	R.A. Darrow	5499	0.03	Texas	Polk	31.059064	-94.561665	outside_boundary_exact	Texas, Angelina County	Neches River south of Diboll	https://lichenportal.org/portal/collections/individual/index.php?occid=5358723
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5358723	WS	398774	R.A. Darrow	5499	0.03	69.58	Texas	Polk	31.059064	-94.561665	outside_boundary_exact	Texas, Angelina County	Neches River south of Diboll	https://lichenportal.org/portal/collections/individual/index.php?occid=5358723

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5593239	Consortium	NA	William Martinez	16	27.69	Utah	Kane	37.786667	-111.630472	outside_boundary_exact	Utah, Garfield County	Across the road from the turnoff towards the Escalante Petrified Forest State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=5593239
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5593239	Consortium	NA	William Martinez	16	27.69	141.93	Utah	Kane	37.786667	-111.630472	outside_boundary_exact	Utah, Garfield County	Across the road from the turnoff towards the Escalante Petrified Forest State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=5593239

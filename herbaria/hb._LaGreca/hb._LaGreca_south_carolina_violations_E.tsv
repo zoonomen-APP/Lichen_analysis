@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-6042584	hb. LaGreca	SALG01019	Moore, Barbara, Jo	1523	98.4	South Carolina	Oconee Co.	33.90006	-82.17773	outside_boundary_exact	South Carolina, McCormick County	Sumter National Forest, recreation area	https://lichenportal.org/portal/collections/individual/index.php?occid=6042584
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+6042584	hb. LaGreca	SALG01019	Moore, Barbara, Jo	1523	98.4	149.57	South Carolina	Oconee Co.	33.90006	-82.17773	outside_boundary_exact	South Carolina, McCormick County	Sumter National Forest, recreation area	https://lichenportal.org/portal/collections/individual/index.php?occid=6042584

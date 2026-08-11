@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2597916	UCR(temp)	SBBG010256L	Caleb A. Morse	14944	81.57	Oklahoma	Ellis	36.014444	-98.467778	outside_boundary_exact	Oklahoma, Blaine County	Four Canyon Preserve: c. 10 mi W Camargo (Camargo in Dewey Co.), head of Mulberry Canyon	https://lichenportal.org/portal/collections/individual/index.php?occid=2597916
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2597916	UCR(temp)	SBBG010256L	Caleb A. Morse	14944	81.57	151.22	Oklahoma	Ellis	36.014444	-98.467778	outside_boundary_exact	Oklahoma, Blaine County	Four Canyon Preserve: c. 10 mi W Camargo (Camargo in Dewey Co.), head of Mulberry Canyon	https://lichenportal.org/portal/collections/individual/index.php?occid=2597916

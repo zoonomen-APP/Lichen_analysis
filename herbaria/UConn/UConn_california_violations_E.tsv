@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1457360	UConn	CONN01001179	B. Ryan	24403	22.79	California	Tuolumne	38.13333	-119.075	outside_boundary_exact	California, Mono County	Winter Sports Area, N of Hwy 108, 5 km SW of Fraser Flat Campground.	https://lichenportal.org/portal/collections/individual/index.php?occid=1457360
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1457360	UConn	CONN01001179	B. Ryan	24403	22.79	141.41	California	Tuolumne	38.13333	-119.075	outside_boundary_exact	California, Mono County	Winter Sports Area, N of Hwy 108, 5 km SW of Fraser Flat Campground.	https://lichenportal.org/portal/collections/individual/index.php?occid=1457360

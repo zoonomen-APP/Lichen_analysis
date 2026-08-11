@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3133814	KANU	346407	Edward M Smith	L183	995.24	Michigan	Muskegon	34.23	-86.34	outside_boundary_exact	Alabama, Marshall County	City of Muskegon	https://lichenportal.org/portal/collections/individual/index.php?occid=3133814
-5767137	KANU	10498	James S Wilson	103	2.85	Michigan	Emmet	45.596856	-84.694268	outside_boundary_exact	Michigan, Cheboygan County	Douglas Lake Hotel	https://lichenportal.org/portal/collections/individual/index.php?occid=5767137
-5767078	KANU	10439	James S Wilson	44	0.33	Michigan	Emmet	45.754942	-84.727828	outside_boundary_exact	Michigan, Cheboygan County	Mackinaw City: 2 mi S on US 31	https://lichenportal.org/portal/collections/individual/index.php?occid=5767078
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3133814	KANU	346407	Edward M Smith	L183	995.24	1036.94	Michigan	Muskegon	34.23	-86.34	outside_boundary_exact	Alabama, Marshall County	City of Muskegon	https://lichenportal.org/portal/collections/individual/index.php?occid=3133814
+5767137	KANU	10498	James S Wilson	103	2.85	52.24	Michigan	Emmet	45.596856	-84.694268	outside_boundary_exact	Michigan, Cheboygan County	Douglas Lake Hotel	https://lichenportal.org/portal/collections/individual/index.php?occid=5767137
+5767078	KANU	10439	James S Wilson	44	0.33	57.75	Michigan	Emmet	45.754942	-84.727828	outside_boundary_exact	Michigan, Cheboygan County	Mackinaw City: 2 mi S on US 31	https://lichenportal.org/portal/collections/individual/index.php?occid=5767078

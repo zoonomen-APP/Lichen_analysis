@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2569059	BALT	BALT-L-0002997	J.A. Snider	1373	89.67	Michigan	Mackinac	45.055851	-83.61166	outside_boundary_exact	Michigan, Alpena County	surrounding Paxton Lake in Paxton.	https://lichenportal.org/portal/collections/individual/index.php?occid=2569059
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2569059	BALT	BALT-L-0002997	J.A. Snider	1373	89.67	219.81	Michigan	Mackinac	45.055851	-83.61166	outside_boundary_exact	Michigan, Alpena County	surrounding Paxton Lake in Paxton.	https://lichenportal.org/portal/collections/individual/index.php?occid=2569059

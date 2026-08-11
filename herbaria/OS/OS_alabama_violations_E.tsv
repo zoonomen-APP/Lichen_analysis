@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3182826	OS	OS0065509	Diane H. Lucas	NA	NA	Alabama	De Kalb	34.474833	-86.054028	county_not_matched_no_match	county_not_matched	Buck's Pocket State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=3182826
-5862649	OS	OS0383189	Diane H. Lucas	972	NA	Alabama	De Kalb	34.4633	-86.0722	county_not_matched_no_match	county_not_matched	Buck's Pocket State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=5862649
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3182826	OS	OS0065509	Diane H. Lucas	NA	NA	NA	Alabama	De Kalb	34.474833	-86.054028	county_not_matched_no_match	county_not_matched	Buck's Pocket State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=3182826
+5862649	OS	OS0383189	Diane H. Lucas	972	NA	NA	Alabama	De Kalb	34.4633	-86.0722	county_not_matched_no_match	county_not_matched	Buck's Pocket State Park	https://lichenportal.org/portal/collections/individual/index.php?occid=5862649

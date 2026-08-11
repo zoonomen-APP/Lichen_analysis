@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4938570	OSC	168690	Jim Riley	1647	0.58	Kentucky	Lyon	36.8921	-88.051333	outside_boundary_exact	Kentucky, Trigg County	Land Between the Lakes National Recreation Area, Hemitite Lake trail	https://lichenportal.org/portal/collections/individual/index.php?occid=4938570
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4938570	OSC	168690	Jim Riley	1647	0.58	32.52	Kentucky	Lyon	36.8921	-88.051333	outside_boundary_exact	Kentucky, Trigg County	Land Between the Lakes National Recreation Area, Hemitite Lake trail	https://lichenportal.org/portal/collections/individual/index.php?occid=4938570

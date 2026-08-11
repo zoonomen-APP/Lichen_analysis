@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3796047	OMA	19663	NA	9939	44.87	South Dakota	Hand	44.639722	-98.138889	outside_boundary_exact	South Dakota, Spink County	Lake Louise State Recreation Area; 6 miles N and 7 miles W of Miller	https://lichenportal.org/portal/collections/individual/index.php?occid=3796047
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3796047	OMA	19663	NA	9939	44.87	104.71	South Dakota	Hand	44.639722	-98.138889	outside_boundary_exact	South Dakota, Spink County	Lake Louise State Recreation Area; 6 miles N and 7 miles W of Miller	https://lichenportal.org/portal/collections/individual/index.php?occid=3796047

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1727357	PH	PH00093844	James C. Lendemer	7355	309.92	Ohio	Adams	35.83944	-83.57528	outside_boundary_exact	Tennessee, Sevier County	south of West Union, -1.75 miles southeast of Cave Hill, West Union Quad.	https://lichenportal.org/portal/collections/individual/index.php?occid=1727357
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1727357	PH	PH00093844	James C. Lendemer	7355	309.92	360.73	Ohio	Adams	35.83944	-83.57528	outside_boundary_exact	Tennessee, Sevier County	south of West Union, -1.75 miles southeast of Cave Hill, West Union Quad.	https://lichenportal.org/portal/collections/individual/index.php?occid=1727357

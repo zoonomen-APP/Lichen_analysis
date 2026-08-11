@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1831997	PH	PH00146484	S. & W. Rapp	s.n.	NA	Indiana	Champaign	40.192671	-88.410614	county_not_matched_no_match	county_not_matched	Mahomet	https://lichenportal.org/portal/collections/individual/index.php?occid=1831997
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1831997	PH	PH00146484	S. & W. Rapp	s.n.	NA	NA	Indiana	Champaign	40.192671	-88.410614	county_not_matched_no_match	county_not_matched	Mahomet	https://lichenportal.org/portal/collections/individual/index.php?occid=1831997

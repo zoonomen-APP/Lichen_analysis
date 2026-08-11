@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-802337	OMA	11588	NA	NA	770.26	Washington	Pierce	46.85	-111.3	outside_boundary_exact	Montana, Meagher County	Charles L. Pack Experimental Forest; 5 km S of Eatonville	https://lichenportal.org/portal/collections/individual/index.php?occid=802337
-802254	OMA	15174	NA	1812c	1.57	Washington	Garfield	46.633333	-117.366667	outside_boundary_exact	Washington, Whitman County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802254
-800385	OMA	14003	NA	L1913	0.49	Washington	Whitman	46.541667	-117.033333	outside_boundary_exact	Idaho, Nez Perce County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800385
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+802337	OMA	11588	NA	NA	770.26	882.61	Washington	Pierce	46.85	-111.3	outside_boundary_exact	Montana, Meagher County	Charles L. Pack Experimental Forest; 5 km S of Eatonville	https://lichenportal.org/portal/collections/individual/index.php?occid=802337
+802254	OMA	15174	NA	1812c	1.57	72.68	Washington	Garfield	46.633333	-117.366667	outside_boundary_exact	Washington, Whitman County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802254
+800385	OMA	14003	NA	L1913	0.49	106.63	Washington	Whitman	46.541667	-117.033333	outside_boundary_exact	Idaho, Nez Perce County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=800385

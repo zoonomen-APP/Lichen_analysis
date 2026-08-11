@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-249773	MSC	MSC0055275	Hale, Jr., Mason E	63	25.31	Connecticut	Litchfield	41.612004	-72.679565	outside_boundary_exact	Connecticut, Middlesex County	Aton Forest; Near Brummagem Brook, partial to full shade	https://lichenportal.org/portal/collections/individual/index.php?occid=249773
-264157	MSC	MSC0069743	Nash, T. H	7249	NA	Connecticut	Groton	41.307043	-72.005074	county_not_matched_no_match	county_not_matched	Groton Long Point	https://lichenportal.org/portal/collections/individual/index.php?occid=264157
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+249773	MSC	MSC0055275	Hale, Jr., Mason E	63	25.31	82.66	Connecticut	Litchfield	41.612004	-72.679565	outside_boundary_exact	Connecticut, Middlesex County	Aton Forest; Near Brummagem Brook, partial to full shade	https://lichenportal.org/portal/collections/individual/index.php?occid=249773
+264157	MSC	MSC0069743	Nash, T. H	7249	NA	NA	Connecticut	Groton	41.307043	-72.005074	county_not_matched_no_match	county_not_matched	Groton Long Point	https://lichenportal.org/portal/collections/individual/index.php?occid=264157

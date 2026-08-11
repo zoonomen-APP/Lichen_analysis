@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5371935	LD	2106884	Weber, Kunkel & LaFarge	NA	410.85	New Mexico	San Miguel	39.53333333	-105.13333333	outside_boundary_exact	Colorado, Jefferson County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=5371935
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5371935	LD	2106884	Weber, Kunkel & LaFarge	NA	410.85	505.81	New Mexico	San Miguel	39.53333333	-105.13333333	outside_boundary_exact	Colorado, Jefferson County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=5371935

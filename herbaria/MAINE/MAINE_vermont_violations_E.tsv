@@ -1,5 +1,5 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1971830	MAINE	MAINE-L-0005440	J. Nelson	689	162.82	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartford	https://lichenportal.org/portal/collections/individual/index.php?occid=1971830
-1972200	MAINE	MAINE-L-0005810	J. Nelson	788	162.82	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1972200
-1972974	MAINE	MAINE-L-0006631	J. Nelson	785	162.82	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1972974
-1973074	MAINE	MAINE-L-0006731	J. Nelson	777	162.82	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1973074
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1971830	MAINE	MAINE-L-0005440	J. Nelson	689	162.82	234.74	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartford	https://lichenportal.org/portal/collections/individual/index.php?occid=1971830
+1972200	MAINE	MAINE-L-0005810	J. Nelson	788	162.82	234.74	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1972200
+1972974	MAINE	MAINE-L-0006631	J. Nelson	785	162.82	234.74	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1972974
+1973074	MAINE	MAINE-L-0006731	J. Nelson	777	162.82	234.74	VERMONT	WINDSOR	44.373	-70.347	outside_boundary_exact	Maine, Oxford County	Hartland	https://lichenportal.org/portal/collections/individual/index.php?occid=1973074

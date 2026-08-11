@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3048081	F	C1015496F	W. Edwards	s.n.	90.08	Maine	Cumberland	44.237579	-68.805029	outside_boundary_exact	not_found_in_US	Peak Island	https://lichenportal.org/portal/collections/individual/index.php?occid=3048081
-1134757	F	C0002785F	G. K. Merrill	24	NA	Maine	Litchfield	44.07754	-69.17121	county_not_matched_no_match	county_not_matched	Thomaston	https://lichenportal.org/portal/collections/individual/index.php?occid=1134757
-3048080	F	C1015502F	C. G. Pringle	s.n.	NA	Maine	Lamoille	44.555329	-72.795679	county_not_matched_no_match	county_not_matched	Smugglers Notch	https://lichenportal.org/portal/collections/individual/index.php?occid=3048080
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3048081	F	C1015496F	W. Edwards	s.n.	90.08	165.3	Maine	Cumberland	44.237579	-68.805029	outside_boundary_exact	not_found_in_US	Peak Island	https://lichenportal.org/portal/collections/individual/index.php?occid=3048081
+1134757	F	C0002785F	G. K. Merrill	24	NA	NA	Maine	Litchfield	44.07754	-69.17121	county_not_matched_no_match	county_not_matched	Thomaston	https://lichenportal.org/portal/collections/individual/index.php?occid=1134757
+3048080	F	C1015502F	C. G. Pringle	s.n.	NA	NA	Maine	Lamoille	44.555329	-72.795679	county_not_matched_no_match	county_not_matched	Smugglers Notch	https://lichenportal.org/portal/collections/individual/index.php?occid=3048080

@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-802315	OMA	16696	NA	1142	1.24	Tennessee	Davidson	36.007111	-86.978833	outside_boundary_exact	Tennessee, Williamson County	Natchez Trace National Parkway; mile 440	https://lichenportal.org/portal/collections/individual/index.php?occid=802315
-802316	OMA	16811	NA	1141	1.24	Tennessee	Davidson	36.007111	-86.978833	outside_boundary_exact	Tennessee, Williamson County	Natchez Trace National Parkway; MILE 440	https://lichenportal.org/portal/collections/individual/index.php?occid=802316
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+802315	OMA	16696	NA	1142	1.24	49.03	Tennessee	Davidson	36.007111	-86.978833	outside_boundary_exact	Tennessee, Williamson County	Natchez Trace National Parkway; mile 440	https://lichenportal.org/portal/collections/individual/index.php?occid=802315
+802316	OMA	16811	NA	1141	1.24	49.03	Tennessee	Davidson	36.007111	-86.978833	outside_boundary_exact	Tennessee, Williamson County	Natchez Trace National Parkway; MILE 440	https://lichenportal.org/portal/collections/individual/index.php?occid=802316

@@ -1,6 +1,6 @@
 # SINGLE INSTITUTION ANALYSIS SUMMARY: NCU
-Generated: 2026-08-09 08:45:48.865975
-Processing time: 5.15 minutes
+Generated: 2026-08-10 19:27:06.526728
+Processing time: 5.58 minutes
 
 ## RECORD FILTERING ANALYSIS
 Total records in data file: 7810

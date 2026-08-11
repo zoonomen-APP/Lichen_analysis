@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1423250	BRY	BRY-L-0014619	Irwin M. Brodo	sl-9808, 5805	58.23	Wisconsin	Bayfield	46.75	-90	outside_boundary_exact	not_found_in_US	Squaw Point, on Lake Superior at Cornucopia	https://lichenportal.org/portal/collections/individual/index.php?occid=1423250
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1423250	BRY	BRY-L-0014619	Irwin M. Brodo	sl-9808, 5805	58.23	136.4	Wisconsin	Bayfield	46.75	-90	outside_boundary_exact	not_found_in_US	Squaw Point, on Lake Superior at Cornucopia	https://lichenportal.org/portal/collections/individual/index.php?occid=1423250

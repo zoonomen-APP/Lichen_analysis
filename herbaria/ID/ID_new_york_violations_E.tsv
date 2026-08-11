@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2911599	ID	ID-L-0007793	I.M. Brodo	482	0.22	New York	Essex	44.466092	-73.582809	outside_boundary_exact	New York, Clinton County	On sandy hill half way tip Clintonville Hill.	https://lichenportal.org/portal/collections/individual/index.php?occid=2911599
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2911599	ID	ID-L-0007793	I.M. Brodo	482	0.22	88.9	New York	Essex	44.466092	-73.582809	outside_boundary_exact	New York, Clinton County	On sandy hill half way tip Clintonville Hill.	https://lichenportal.org/portal/collections/individual/index.php?occid=2911599

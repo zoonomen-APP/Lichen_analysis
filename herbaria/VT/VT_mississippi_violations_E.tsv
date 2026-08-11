@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1318371	VT	UVMVT019815	S. R. Hill	28183	3265.73	Mississippi	George	15.325	-61.33333	outside_boundary_exact	not_found_in_US	St. George Parish. Laudat, between hydroelectric station and Titou Gorge, along road near power station.	https://lichenportal.org/portal/collections/individual/index.php?occid=1318371
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1318371	VT	UVMVT019815	S. R. Hill	28183	3265.73	3314.82	Mississippi	George	15.325	-61.33333	outside_boundary_exact	not_found_in_US	St. George Parish. Laudat, between hydroelectric station and Titou Gorge, along road near power station.	https://lichenportal.org/portal/collections/individual/index.php?occid=1318371

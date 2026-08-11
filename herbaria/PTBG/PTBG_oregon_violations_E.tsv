@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5379050	PTBG	PTBG1000025580	David H. Lorence	10236	1.48	OREGON	Clackamas County	45.384167	-122.762779	outside_boundary_exact	Oregon, Washington County	City of Tualatin. Brown's Ferry Park along Tualatin River, adjacent to 5485 SW 50th AVe.	https://lichenportal.org/portal/collections/individual/index.php?occid=5379050
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5379050	PTBG	PTBG1000025580	David H. Lorence	10236	1.48	98.37	OREGON	Clackamas County	45.384167	-122.762779	outside_boundary_exact	Oregon, Washington County	City of Tualatin. Brown's Ferry Park along Tualatin River, adjacent to 5485 SW 50th AVe.	https://lichenportal.org/portal/collections/individual/index.php?occid=5379050

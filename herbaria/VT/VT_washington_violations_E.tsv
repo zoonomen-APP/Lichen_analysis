@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1286735	VT	UVMVT015365	J. M. Grant	s.n.	0.82	Washington	Skagit	48.39869	-122.645043	outside_boundary_exact	Washington, Island County	Goose Rock (Deception Pass State Park)	https://lichenportal.org/portal/collections/individual/index.php?occid=1286735
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1286735	VT	UVMVT015365	J. M. Grant	s.n.	0.82	147.47	Washington	Skagit	48.39869	-122.645043	outside_boundary_exact	Washington, Island County	Goose Rock (Deception Pass State Park)	https://lichenportal.org/portal/collections/individual/index.php?occid=1286735

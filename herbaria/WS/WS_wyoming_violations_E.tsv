@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5340992	WS	260034	B.J. Buckingham	S 22,155	0.46	Wyoming	Lincoln	41.575106	-110.537669	outside_boundary_exact	Wyoming, Uinta County	15 miles south of Kemmerer, Red Desert area.	https://lichenportal.org/portal/collections/individual/index.php?occid=5340992
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5340992	WS	260034	B.J. Buckingham	S 22,155	0.46	198.96	Wyoming	Lincoln	41.575106	-110.537669	outside_boundary_exact	Wyoming, Uinta County	15 miles south of Kemmerer, Red Desert area.	https://lichenportal.org/portal/collections/individual/index.php?occid=5340992

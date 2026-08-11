@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1713614	COLO	COLO-L-0037425	Clifford M. Wetmore	12905	23.73	Wyoming	Big Horn	44.821944	-107.323056	outside_boundary_exact	Wyoming, Sheridan County	Near Dayton on US 14 in foothills of Big Horn Mts	https://lichenportal.org/portal/collections/individual/index.php?occid=1713614
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1713614	COLO	COLO-L-0037425	Clifford M. Wetmore	12905	23.73	123.07	Wyoming	Big Horn	44.821944	-107.323056	outside_boundary_exact	Wyoming, Sheridan County	Near Dayton on US 14 in foothills of Big Horn Mts	https://lichenportal.org/portal/collections/individual/index.php?occid=1713614

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3645962	F	C0346755F	H. Habeeb	3219	0.03	New Jersey	Morris	40.779202	-74.368386	outside_boundary_exact	New Jersey, Essex County	South Orange Avenue at the Passaic River	https://lichenportal.org/portal/collections/individual/index.php?occid=3645962
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3645962	F	C0346755F	H. Habeeb	3219	0.03	43.65	New Jersey	Morris	40.779202	-74.368386	outside_boundary_exact	New Jersey, Essex County	South Orange Avenue at the Passaic River	https://lichenportal.org/portal/collections/individual/index.php?occid=3645962

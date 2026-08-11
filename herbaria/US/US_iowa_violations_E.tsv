@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2804257	US	NA	C. Wetmore	15526	72.1	Iowa	Bremer	42	-92	outside_boundary_exact	Iowa, Benton County	Sweet Marsh, two mi E of Tripoli.	https://lichenportal.org/portal/collections/individual/index.php?occid=2804257
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2804257	US	NA	C. Wetmore	15526	72.1	111.07	Iowa	Bremer	42	-92	outside_boundary_exact	Iowa, Benton County	Sweet Marsh, two mi E of Tripoli.	https://lichenportal.org/portal/collections/individual/index.php?occid=2804257

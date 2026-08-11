@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1465977	LSU	LSU00146602	Andrew Douglas	s.n.	8.75	Kansas	Pottawatomie	39.102176	-96.572839	outside_boundary_exact	Kansas, Riley County	Konza Prairie, Manhattan.	https://lichenportal.org/portal/collections/individual/index.php?occid=1465977
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1465977	LSU	LSU00146602	Andrew Douglas	s.n.	8.75	69.32	Kansas	Pottawatomie	39.102176	-96.572839	outside_boundary_exact	Kansas, Riley County	Konza Prairie, Manhattan.	https://lichenportal.org/portal/collections/individual/index.php?occid=1465977

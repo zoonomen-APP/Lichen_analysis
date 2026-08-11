@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1814132	CINC	CINC-L-0005318	Culberson, William Louis	s.n.	0.57	Indiana	Franklin	39.300051	-85.222184	outside_boundary_exact	Indiana, Ripley County	about 5 miles past Batesville on Indiana State Route 36 [46]	https://lichenportal.org/portal/collections/individual/index.php?occid=1814132
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1814132	CINC	CINC-L-0005318	Culberson, William Louis	s.n.	0.57	42.7	Indiana	Franklin	39.300051	-85.222184	outside_boundary_exact	Indiana, Ripley County	about 5 miles past Batesville on Indiana State Route 36 [46]	https://lichenportal.org/portal/collections/individual/index.php?occid=1814132

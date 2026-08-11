@@ -1,5 +1,5 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-797550	OMA	16956	NA	4979	38.98	Idaho	Lemhi	44.152222	-113.920833	outside_boundary_exact	Idaho, Custer County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=797550
-799859	OMA	15519	NA	202	27.67	Idaho	Elmore	43.166667	-116.6	outside_boundary_exact	Idaho, Owyhee County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799859
-799860	OMA	15517	NA	234	27.67	Idaho	Elmore	43.166667	-116.6	outside_boundary_exact	Idaho, Owyhee County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799860
-798971	OMA	15746	NA	6888	23.75	Idaho	Custer	44.666667	-113.416667	outside_boundary_exact	Idaho, Lemhi County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=798971
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+797550	OMA	16956	NA	4979	38.98	173	Idaho	Lemhi	44.152222	-113.920833	outside_boundary_exact	Idaho, Custer County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=797550
+799859	OMA	15519	NA	202	27.67	156.85	Idaho	Elmore	43.166667	-116.6	outside_boundary_exact	Idaho, Owyhee County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799859
+799860	OMA	15517	NA	234	27.67	156.85	Idaho	Elmore	43.166667	-116.6	outside_boundary_exact	Idaho, Owyhee County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799860
+798971	OMA	15746	NA	6888	23.75	153.4	Idaho	Custer	44.666667	-113.416667	outside_boundary_exact	Idaho, Lemhi County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=798971

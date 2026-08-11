@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5452795	H	http://id.luomus.fi/HA.H9215411	Lendemer, James C.	Lendemer 22968	6.82	Maine	Washington	44.584722	-68.103055	outside_boundary_exact	Maine, Hancock County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5452795
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5452795	H	http://id.luomus.fi/HA.H9215411	Lendemer, James C.	Lendemer 22968	6.82	126.33	Maine	Washington	44.584722	-68.103055	outside_boundary_exact	Maine, Hancock County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=5452795

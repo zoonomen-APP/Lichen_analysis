@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3948833	LD	1156027	T. H. Nash III	NA	180.77	California	Los Angeles	36.43333333	-118.46666667	outside_boundary_exact	California, Tulare County	Santa Catalina Island	https://lichenportal.org/portal/collections/individual/index.php?occid=3948833
-3977015	LD	1614051	B. D. Ryan	NA	22.79	California	Tuolumne	38.13333333	-119.075	outside_boundary_exact	California, Mono County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=3977015
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3948833	LD	1156027	T. H. Nash III	NA	180.77	411.89	California	Los Angeles	36.43333333	-118.46666667	outside_boundary_exact	California, Tulare County	Santa Catalina Island	https://lichenportal.org/portal/collections/individual/index.php?occid=3948833
+3977015	LD	1614051	B. D. Ryan	NA	22.79	141.41	California	Tuolumne	38.13333333	-119.075	outside_boundary_exact	California, Mono County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=3977015

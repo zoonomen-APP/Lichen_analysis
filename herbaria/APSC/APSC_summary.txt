@@ -1,6 +1,6 @@
 # SINGLE INSTITUTION ANALYSIS SUMMARY: APSC
-Generated: 2026-08-08 23:48:35.120259
-Processing time: 0.55 minutes
+Generated: 2026-08-10 09:43:38.016466
+Processing time: 0.54 minutes
 
 ## RECORD FILTERING ANALYSIS
 Total records in data file: 515

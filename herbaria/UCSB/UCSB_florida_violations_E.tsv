@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5604923	UCSB	UCSB056608	Barbara Jo Moore	3897	NA	Florida	Golchrest	29.613167	-82.81825	county_not_matched_no_match	county_not_matched	Along US 129, near Trenton.	https://lichenportal.org/portal/collections/individual/index.php?occid=5604923
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5604923	UCSB	UCSB056608	Barbara Jo Moore	3897	NA	NA	Florida	Golchrest	29.613167	-82.81825	county_not_matched_no_match	county_not_matched	Along US 129, near Trenton.	https://lichenportal.org/portal/collections/individual/index.php?occid=5604923

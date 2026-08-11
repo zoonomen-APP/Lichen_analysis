@@ -1,7 +1,7 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4811579	GEO	13783	NA	18398	0.39	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811579
-4811580	GEO	13790	NA	18394	0.39	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811580
-4811581	GEO	13794	NA	18395	0.39	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811581
-4811584	GEO	13823	NA	18393	0.39	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811584
-4811659	GEO	16353	NA	18397	0.39	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811659
-4811998	GEO	18998	NA	18998	0.39	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811998
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4811579	GEO	13783	NA	18398	0.39	85.72	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811579
+4811580	GEO	13790	NA	18394	0.39	85.72	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811580
+4811581	GEO	13794	NA	18395	0.39	85.72	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811581
+4811584	GEO	13823	NA	18393	0.39	85.72	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811584
+4811659	GEO	16353	NA	18397	0.39	85.72	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811659
+4811998	GEO	18998	NA	18998	0.39	85.72	Texas	Starr County	26.5894	-99.149	outside_boundary_exact	Texas, Zapata County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=4811998

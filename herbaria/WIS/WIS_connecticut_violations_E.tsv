@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1828625	WIS	WIS-L-0073768	E. Kneiper	000220	56.65	Connecticut	Tolland	41.747319	-73.188724	outside_boundary_exact	Connecticut, Litchfield County	Litchfield, ABLS field trip site #2	https://lichenportal.org/portal/collections/individual/index.php?occid=1828625
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1828625	WIS	WIS-L-0073768	E. Kneiper	000220	56.65	94.91	Connecticut	Tolland	41.747319	-73.188724	outside_boundary_exact	Connecticut, Litchfield County	Litchfield, ABLS field trip site #2	https://lichenportal.org/portal/collections/individual/index.php?occid=1828625

@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1825601	MU	000202897	Dart, F.R.	s.n.	78.52	Florida	Lake	28.242515	-82.747425	outside_boundary_exact	Florida, Pasco County	Deer Island, 7 miles north of Tarpon Springs, West coast of Florida	https://lichenportal.org/portal/collections/individual/index.php?occid=1825601
-1824028	MU	000159034	Walker, C.	s.n.	64.85	Florida	Leon	30.782526	-85.157945	outside_boundary_exact	Florida, Jackson County	Jackson Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=1824028
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1825601	MU	000202897	Dart, F.R.	s.n.	78.52	159.3	Florida	Lake	28.242515	-82.747425	outside_boundary_exact	Florida, Pasco County	Deer Island, 7 miles north of Tarpon Springs, West coast of Florida	https://lichenportal.org/portal/collections/individual/index.php?occid=1825601
+1824028	MU	000159034	Walker, C.	s.n.	64.85	118.07	Florida	Leon	30.782526	-85.157945	outside_boundary_exact	Florida, Jackson County	Jackson Lake	https://lichenportal.org/portal/collections/individual/index.php?occid=1824028

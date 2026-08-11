@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-764695	Consortium	NA	Robert J. Hill	5	0.15	Georgia	Jasper	33.48	-83.74	outside_boundary_exact	Georgia, Newton County	Charlie Elliott WMA	https://lichenportal.org/portal/collections/individual/index.php?occid=764695
-764696	Consortium	NA	Robert J. Hill	6	0.15	Georgia	Jasper	33.48	-83.74	outside_boundary_exact	Georgia, Newton County	Charlie Elliott WMA	https://lichenportal.org/portal/collections/individual/index.php?occid=764696
-764697	Consortium	NA	Robert J. Hill	9	0.15	Georgia	Jasper	33.48	-83.74	outside_boundary_exact	Georgia, Newton County	Charlie Elliott WMA	https://lichenportal.org/portal/collections/individual/index.php?occid=764697
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+764695	Consortium	NA	Robert J. Hill	5	0.15	39.51	Georgia	Jasper	33.48	-83.74	outside_boundary_exact	Georgia, Newton County	Charlie Elliott WMA	https://lichenportal.org/portal/collections/individual/index.php?occid=764695
+764696	Consortium	NA	Robert J. Hill	6	0.15	39.51	Georgia	Jasper	33.48	-83.74	outside_boundary_exact	Georgia, Newton County	Charlie Elliott WMA	https://lichenportal.org/portal/collections/individual/index.php?occid=764696
+764697	Consortium	NA	Robert J. Hill	9	0.15	39.51	Georgia	Jasper	33.48	-83.74	outside_boundary_exact	Georgia, Newton County	Charlie Elliott WMA	https://lichenportal.org/portal/collections/individual/index.php?occid=764697

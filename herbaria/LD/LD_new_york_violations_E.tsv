@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5794516	LD	2200470	Claire K. Schmitt	NA	198.58	New York	Warren	45.58333333	-73.6	outside_boundary_exact	not_found_in_US	Tongue Mountain, Lake George	https://lichenportal.org/portal/collections/individual/index.php?occid=5794516
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5794516	LD	2200470	Claire K. Schmitt	NA	198.58	263.41	New York	Warren	45.58333333	-73.6	outside_boundary_exact	not_found_in_US	Tongue Mountain, Lake George	https://lichenportal.org/portal/collections/individual/index.php?occid=5794516

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1500090	hb. Esslinger	0007889	M.K. Advaita	1791	4.8	Oklahoma	Osage	36.818	-96.818	outside_boundary_exact	Oklahoma, Kay County	6 mi W, 2 mi S of Bowring. Osage Wildlife Management Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=1500090
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1500090	hb. Esslinger	0007889	M.K. Advaita	1791	4.8	103.28	Oklahoma	Osage	36.818	-96.818	outside_boundary_exact	Oklahoma, Kay County	6 mi W, 2 mi S of Bowring. Osage Wildlife Management Area.	https://lichenportal.org/portal/collections/individual/index.php?occid=1500090

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3034210	KANU	398921	Bruce D Ryan	17432	1.17	Utah	Sevier	38.5	-112.5	outside_boundary_exact	Utah, Piute County	Along Hwy 4, ca 10 mi E of Interstate Hwy 15	https://lichenportal.org/portal/collections/individual/index.php?occid=3034210
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3034210	KANU	398921	Bruce D Ryan	17432	1.17	119.33	Utah	Sevier	38.5	-112.5	outside_boundary_exact	Utah, Piute County	Along Hwy 4, ca 10 mi E of Interstate Hwy 15	https://lichenportal.org/portal/collections/individual/index.php?occid=3034210

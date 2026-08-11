@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2939246	USU	UTC00277171	T.H. Nash III	40884	0.2	Oregon	Marion	44.8875	-121.85	outside_boundary_exact	Oregon, Clackamas County	along Forest Service road 4690 at the Clackmas River, Mt. Hood National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=2939246
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2939246	USU	UTC00277171	T.H. Nash III	40884	0.2	105.08	Oregon	Marion	44.8875	-121.85	outside_boundary_exact	Oregon, Clackamas County	along Forest Service road 4690 at the Clackmas River, Mt. Hood National Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=2939246

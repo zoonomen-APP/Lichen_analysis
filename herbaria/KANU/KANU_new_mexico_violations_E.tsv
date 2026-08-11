@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1648958	KANU	386849	Robert S Egan	6945	26.49	New Mexico	Guadalupe	35.400536	-105.475844	outside_boundary_exact	New Mexico, San Miguel County	Las Vegas: S	https://lichenportal.org/portal/collections/individual/index.php?occid=1648958
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1648958	KANU	386849	Robert S Egan	6945	26.49	140.2	New Mexico	Guadalupe	35.400536	-105.475844	outside_boundary_exact	New Mexico, San Miguel County	Las Vegas: S	https://lichenportal.org/portal/collections/individual/index.php?occid=1648958

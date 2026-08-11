@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5856414	MONTU	MONTU02152	W.B. Schofield	116294	NA	Alabama	Aleutians West	52.8	-173.166667	county_not_matched_no_match	county_not_matched	Murder Point, Attu Island, Aleutian Is..	https://lichenportal.org/portal/collections/individual/index.php?occid=5856414
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5856414	MONTU	MONTU02152	W.B. Schofield	116294	NA	NA	Alabama	Aleutians West	52.8	-173.166667	county_not_matched_no_match	county_not_matched	Murder Point, Attu Island, Aleutian Is..	https://lichenportal.org/portal/collections/individual/index.php?occid=5856414

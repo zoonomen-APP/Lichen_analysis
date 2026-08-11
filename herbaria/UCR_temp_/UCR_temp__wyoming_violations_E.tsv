@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2589812	UCR(temp)	SBBG011686L	Seville Flowers	s.n.	476.98	Wyoming	Sweetwater	36.92222	-111.65417	outside_boundary_exact	Arizona, Coconino County	Green River Valley, Paria Bottoms	https://lichenportal.org/portal/collections/individual/index.php?occid=2589812
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2589812	UCR(temp)	SBBG011686L	Seville Flowers	s.n.	476.98	693.7	Wyoming	Sweetwater	36.92222	-111.65417	outside_boundary_exact	Arizona, Coconino County	Green River Valley, Paria Bottoms	https://lichenportal.org/portal/collections/individual/index.php?occid=2589812

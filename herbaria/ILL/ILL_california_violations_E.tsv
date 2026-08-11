@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1509847	ILL	ILL00039623	P. O. Schallert	11460	295.52	California	San Luis Obispo	38.344062	-122.307824	outside_boundary_exact	California, Napa County	near Union	https://lichenportal.org/portal/collections/individual/index.php?occid=1509847
-1507701	ILL	ILL00037476	F.R. Fosberg	NA	NA	California	Santa Catalina Island	33.401173	-118.452139	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1507701
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1509847	ILL	ILL00039623	P. O. Schallert	11460	295.52	460.21	California	San Luis Obispo	38.344062	-122.307824	outside_boundary_exact	California, Napa County	near Union	https://lichenportal.org/portal/collections/individual/index.php?occid=1509847
+1507701	ILL	ILL00037476	F.R. Fosberg	NA	NA	NA	California	Santa Catalina Island	33.401173	-118.452139	county_not_matched_no_match	county_not_matched	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=1507701

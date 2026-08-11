@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5473618	H	http://id.luomus.fi/HA.H9100406	Wetmore, C. M.	Wetmore 26585 b	122.55	Minnesota	Clearwater	47.55	-93.566666	outside_boundary_exact	Minnesota, Itasca County	Itasca State Park on W side of lake on trail to Bohall Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=5473618
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5473618	H	http://id.luomus.fi/HA.H9100406	Wetmore, C. M.	Wetmore 26585 b	122.55	160.82	Minnesota	Clearwater	47.55	-93.566666	outside_boundary_exact	Minnesota, Itasca County	Itasca State Park on W side of lake on trail to Bohall Forest	https://lichenportal.org/portal/collections/individual/index.php?occid=5473618

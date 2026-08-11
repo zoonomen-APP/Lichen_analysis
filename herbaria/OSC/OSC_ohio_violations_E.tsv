@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4427037	OSC	154895	Bruce McCune	6057	2.29	Ohio	Highland	39.166667	-83.333333	outside_boundary_exact	Ohio, Pike County	Fort Hill State Memorial.	https://lichenportal.org/portal/collections/individual/index.php?occid=4427037
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4427037	OSC	154895	Bruce McCune	6057	2.29	48.97	Ohio	Highland	39.166667	-83.333333	outside_boundary_exact	Ohio, Pike County	Fort Hill State Memorial.	https://lichenportal.org/portal/collections/individual/index.php?occid=4427037

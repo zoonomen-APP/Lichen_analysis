@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1814856	CINC	CINC-L-0005265	Shushan, Sam	14,715	10.67	California	San Mateo	37.568348	-122.023015	outside_boundary_exact	California, Alameda County	21 miles north of Saratoga	https://lichenportal.org/portal/collections/individual/index.php?occid=1814856
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1814856	CINC	CINC-L-0005265	Shushan, Sam	14,715	10.67	64.39	California	San Mateo	37.568348	-122.023015	outside_boundary_exact	California, Alameda County	21 miles north of Saratoga	https://lichenportal.org/portal/collections/individual/index.php?occid=1814856

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1446764	SRP	SRP-L-0009941	Roger Rosentreter	MO-1	9.6	Missouri	Iron	37.5527	-90.437103	outside_boundary_exact	Missouri, Madison County	Silver Mines Campground, MO.	https://lichenportal.org/portal/collections/individual/index.php?occid=1446764
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1446764	SRP	SRP-L-0009941	Roger Rosentreter	MO-1	9.6	65.49	Missouri	Iron	37.5527	-90.437103	outside_boundary_exact	Missouri, Madison County	Silver Mines Campground, MO.	https://lichenportal.org/portal/collections/individual/index.php?occid=1446764

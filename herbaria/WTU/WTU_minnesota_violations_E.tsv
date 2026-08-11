@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-4804679	WTU	WTU-L-027593	B. McCune	37503	10.32	Minnesota	Itasca	47.3467	-94.2209	outside_boundary_exact	Minnesota, Cass County	Near Highway 2 near Lake Winnibigoshish.	https://lichenportal.org/portal/collections/individual/index.php?occid=4804679
-1281125	WTU	WTU-L-033003	B. Ryan	10151	0.33	Minnesota	Ramsey	44.916667	-93.083333	outside_boundary_exact	Minnesota, Dakota County	Como Park, St. Paul.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281125
-1281838	WTU	WTU-L-034215	B. Ryan	10150	0.33	Minnesota	Ramsey	44.916667	-93.083333	outside_boundary_exact	Minnesota, Dakota County	Como Park, St. Paul.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281838
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+4804679	WTU	WTU-L-027593	B. McCune	37503	10.32	105.21	Minnesota	Itasca	47.3467	-94.2209	outside_boundary_exact	Minnesota, Cass County	Near Highway 2 near Lake Winnibigoshish.	https://lichenportal.org/portal/collections/individual/index.php?occid=4804679
+1281125	WTU	WTU-L-033003	B. Ryan	10151	0.33	25.77	Minnesota	Ramsey	44.916667	-93.083333	outside_boundary_exact	Minnesota, Dakota County	Como Park, St. Paul.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281125
+1281838	WTU	WTU-L-034215	B. Ryan	10150	0.33	25.77	Minnesota	Ramsey	44.916667	-93.083333	outside_boundary_exact	Minnesota, Dakota County	Como Park, St. Paul.	https://lichenportal.org/portal/collections/individual/index.php?occid=1281838

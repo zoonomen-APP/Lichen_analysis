@@ -1,4 +1,4 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-802906	OMA	12697	NA	25,762	428.14	Oregon	Lane	48.141667	-124.121667	outside_boundary_exact	Washington, Clallam County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802906
-799208	OMA	18986	NA	2693	72.69	Oregon	Malheur	44.982167	-117.069361	outside_boundary_exact	Oregon, Baker County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799208
-802932	OMA	16589	NA	15,989	24	Oregon	Lincoln	44.06	-124.051111	outside_boundary_exact	Oregon, Lane County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802932
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+802906	OMA	12697	NA	25,762	428.14	544.38	Oregon	Lane	48.141667	-124.121667	outside_boundary_exact	Washington, Clallam County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802906
+799208	OMA	18986	NA	2693	72.69	345.28	Oregon	Malheur	44.982167	-117.069361	outside_boundary_exact	Oregon, Baker County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=799208
+802932	OMA	16589	NA	15,989	24	112.67	Oregon	Lincoln	44.06	-124.051111	outside_boundary_exact	Oregon, Lane County	NA	https://lichenportal.org/portal/collections/individual/index.php?occid=802932

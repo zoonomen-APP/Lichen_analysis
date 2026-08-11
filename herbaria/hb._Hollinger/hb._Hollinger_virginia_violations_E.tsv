@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3531607	hb. Hollinger	547	Jason Hollinger	6162	23.38	Virginia	Accomack	37.3294	-76.0111	outside_boundary_exact	Virginia, Northampton County	Savage Neck Dunes State Natural Area Preserve, old forested dunes along trail to beach	https://lichenportal.org/portal/collections/individual/index.php?occid=3531607
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3531607	hb. Hollinger	547	Jason Hollinger	6162	23.38	107.57	Virginia	Accomack	37.3294	-76.0111	outside_boundary_exact	Virginia, Northampton County	Savage Neck Dunes State Natural Area Preserve, old forested dunes along trail to beach	https://lichenportal.org/portal/collections/individual/index.php?occid=3531607

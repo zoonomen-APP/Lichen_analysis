@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-3979033	LD	1632896	Thomas D. Trana	NA	8.41	North Dakota	McHenry	48.05222222	-100.095	outside_boundary_exact	North Dakota, Pierce County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=3979033
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+3979033	LD	1632896	Thomas D. Trana	NA	8.41	96.41	North Dakota	McHenry	48.05222222	-100.095	outside_boundary_exact	North Dakota, Pierce County	No locality information available	https://lichenportal.org/portal/collections/individual/index.php?occid=3979033

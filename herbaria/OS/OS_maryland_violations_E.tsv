@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2405767	OS	OS0010577	Lance T. Biechele	NA	1.09	Maryland	Wicomico	38.2811	-75.6511	outside_boundary_exact	Maryland, Somerset County	Douglas Nichols Park in Eden	https://lichenportal.org/portal/collections/individual/index.php?occid=2405767
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2405767	OS	OS0010577	Lance T. Biechele	NA	1.09	32.96	Maryland	Wicomico	38.2811	-75.6511	outside_boundary_exact	Maryland, Somerset County	Douglas Nichols Park in Eden	https://lichenportal.org/portal/collections/individual/index.php?occid=2405767

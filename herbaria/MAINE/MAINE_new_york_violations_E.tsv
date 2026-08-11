@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2692967	MAINE	MAINE-L-0008271	E. C. Ogden	51235	0.29	NEW YORK	CLINTON	44.5	-73.48	outside_boundary_exact	New York, Essex County	Keesville	https://lichenportal.org/portal/collections/individual/index.php?occid=2692967
-1783645	MAINE	MAINE-L-0003332	P. L. or J. W. Hinds	3836	NA	New York	KNOX	44.107	-69.136	county_not_matched_no_match	county_not_matched	ROCKLAND. EXPOSED ROCK NEAR HURLEY QUAR	https://lichenportal.org/portal/collections/individual/index.php?occid=1783645
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2692967	MAINE	MAINE-L-0008271	E. C. Ogden	51235	0.29	70.13	NEW YORK	CLINTON	44.5	-73.48	outside_boundary_exact	New York, Essex County	Keesville	https://lichenportal.org/portal/collections/individual/index.php?occid=2692967
+1783645	MAINE	MAINE-L-0003332	P. L. or J. W. Hinds	3836	NA	NA	New York	KNOX	44.107	-69.136	county_not_matched_no_match	county_not_matched	ROCKLAND. EXPOSED ROCK NEAR HURLEY QUAR	https://lichenportal.org/portal/collections/individual/index.php?occid=1783645

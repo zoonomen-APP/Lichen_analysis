@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1715201	WVA	WVA-L-0000112	Walter Kiener	4188	0.27	Colorado	Larimer	40.25833	-105.60417	outside_boundary_exact	Colorado, Boulder County	Rocky Mountain National Park. CHASM LAKE	https://lichenportal.org/portal/collections/individual/index.php?occid=1715201
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1715201	WVA	WVA-L-0000112	Walter Kiener	4188	0.27	99.7	Colorado	Larimer	40.25833	-105.60417	outside_boundary_exact	Colorado, Boulder County	Rocky Mountain National Park. CHASM LAKE	https://lichenportal.org/portal/collections/individual/index.php?occid=1715201

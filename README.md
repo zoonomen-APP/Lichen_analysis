@@ -33,7 +33,8 @@ Each flagged-record file is a tab-separated file (`.tsv`) with one row per flagg
 | `catalogNumber` | Catalog (accession) number as recorded |
 | `recordedBy` | Collector name(s) as recorded |
 | `recordNumber` | Collector's record number as recorded |
-| `distance_km` | Distance from the coordinate to the nearest edge of the stated county boundary (see interpretation below) |
+| `distance_km` | Distance from the coordinate to the **nearest** edge of the stated county boundary — a lower bound on the error (see interpretation below) |
+| `distance_max_km` | Distance from the coordinate to the **farthest** point of the stated county — an upper bound, if the county assertion is correct (see interpretation below) |
 | `state` | State where the specimen was reportedly collected |
 | `county` | County as recorded in the original data |
 | `decimalLatitude` | Latitude as recorded |
@@ -57,6 +58,56 @@ Within each file, records are sorted by distance from the county boundary, large
 Rows carrying a `county_not_matched_*` status are **not** boundary violations. The county string could not be resolved to a boundary, so no containment test was possible; `distance_km` is empty for these. They appear in the files because they are unresolved, not because they are flagged. Per-institution summaries count them separately.
 
 ## How to Interpret the Distance Values
+
+### The pair of distances gives a bounded interval
+
+Each flagged record carries two distances. Together they say:
+
+> **If the county assertion is correct**, the true error — from the recorded
+> coordinate to the actual collection site — lies somewhere between
+> `distance_km` and `distance_max_km`.
+
+`distance_km` is the distance to the nearest edge of the stated county: the
+smallest displacement that could have put the coordinate outside it.
+`distance_max_km` is the distance to the farthest point of that county: the
+largest displacement possible if the specimen genuinely came from there.
+
+The conditional is not decorative. Where the county assertion is itself wrong
+— which for many flags is exactly what is in question — the upper bound has no
+meaning. The interval describes what follows *from taking the record's own
+claim seriously*, not what is known to be true.
+
+**The width of the interval is a property of the county, not of the record.**
+A coordinate half a kilometre outside a small New England county and one half a
+kilometre outside a large western county carry the same lower bound and
+radically different uncertainty. This is what a single distance figure
+concealed.
+
+### How much does the lower bound actually constrain?
+
+Across the 51,095 flagged records in this corpus, expressed as the lower bound
+as a percentage of the upper bound:
+
+| | `distance_km` as % of `distance_max_km` |
+|---|---|
+| 5th percentile | 0.04% |
+| first quartile | 0.68% |
+| median | 5.5% |
+| third quartile | 32.6% |
+| maximum | 99.8% |
+
+**For half of all flagged records, the reported distance is under 5.5% of the
+largest error the flag permits. For a quarter, it is under 0.7%.**
+
+A worked example. A record flagged at 1.32 km from Grand County, Colorado has
+an upper bound of 102.11 km — the reported figure is 1.3% of what the flag
+allows. Read alone, 1.32 km invites the conclusion that the error is small.
+The interval shows there is no basis in the flag for that conclusion.
+
+The question a reader should ask of a small distance is not *how bad is that,
+really?* — which presumes the figure is an estimate — but *is it possible the
+error is really that small?* For most flags the answer is yes, possible, and
+also possible that it is two orders of magnitude larger.
 
 ### The reported distance is a minimum, not an estimate
 
@@ -124,6 +175,8 @@ Border classification by type is derivable from FIPS codes in the boundary data 
 
 *(most recent first; dates approximate where noted)*
 
+- **2026-08-11** — Added `distance_max_km`: the distance from each flagged coordinate to the farthest point of its stated county. Paired with `distance_km` this gives a bounded interval rather than an unbounded lower bound — see [The pair of distances gives a bounded interval](#the-pair-of-distances-gives-a-bounded-interval). Same corpus (2026-08-03) and same 51,095 flagged records as the 2026-08-09 revision; no change to which records are flagged. Violation files renamed `.txt` → `.tsv` so they render as tables.
+
 - **2026-08-09** — Refreshed **By Herbarium** results to the 2026-08-03 corpus (4,139,139 records; 51,095 flagged records across 165 institutions). Four changes to the analysis itself, described under [What Changed in This Revision](#what-changed-in-this-revision) below: Field Museum (FH) now appears for the first time; state-name variability is handled correctly, recovering 242 flagged records that earlier revisions silently lost; ungeoreferenced records no longer enter the analysis as coordinates at 0°/0°; and every institution now reports, including those with nothing to report. Institution codes that record provenance rather than a holding institution are now excluded. By-Collector and By-State partitions still pending regeneration.
 
 - **2026-06-07** — Refreshed **By Herbarium** results to the 2026-05-14 corpus. Scope narrowed to the conterminous 48 states + DC. Per-institution summaries reframed (unresolved / apparent-incoherence language). Added `id`, `catalogNumber`, and `recordNumber` fields; split coordinates into `decimalLatitude` / `decimalLongitude`. By-Collector and By-State partitions pending regeneration.
@@ -168,4 +221,4 @@ Directions that may be pursued (not a commitment, and not exhaustive) include:
 
 <appeterson37@gmail.com>
 
-Last revised: 2026-08-09
+Last revised: 2026-08-11

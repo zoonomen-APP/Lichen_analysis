@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5427472	HPSU	23858	John A. Christy, Mark Rahill	668	0.15	Vermont	Chittenden	44.341113	-72.869698	outside_boundary_exact	Vermont, Washington County	Camels Hump State Park, Camels Hump, Bamforth Ridge Trail, 3 mi SSW of Bolton.	https://lichenportal.org/portal/collections/individual/index.php?occid=5427472
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5427472	HPSU	23858	John A. Christy, Mark Rahill	668	0.15	51.18	Vermont	Chittenden	44.341113	-72.869698	outside_boundary_exact	Vermont, Washington County	Camels Hump State Park, Camels Hump, Bamforth Ridge Trail, 3 mi SSW of Bolton.	https://lichenportal.org/portal/collections/individual/index.php?occid=5427472

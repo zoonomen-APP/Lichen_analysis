@@ -1,3 +1,3 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2428731	MCTC	MCTC-L-0000682	F. B. Bevis	2212	2.22	Minnesota	Lake	48.075	-91.543611	outside_boundary_exact	not_found_in_US	Canadian Pt.-Merriam Bay area, Rainy River District	https://lichenportal.org/portal/collections/individual/index.php?occid=2428731
-2429862	MCTC	MCTC-L-0001815	F. B. Bevis	2213	2.22	Minnesota	Lake	48.075	-91.543611	outside_boundary_exact	not_found_in_US	Canadian Pt.-Merriam Bay area, Rainy River District	https://lichenportal.org/portal/collections/individual/index.php?occid=2429862
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2428731	MCTC	MCTC-L-0000682	F. B. Bevis	2212	2.22	142.75	Minnesota	Lake	48.075	-91.543611	outside_boundary_exact	not_found_in_US	Canadian Pt.-Merriam Bay area, Rainy River District	https://lichenportal.org/portal/collections/individual/index.php?occid=2428731
+2429862	MCTC	MCTC-L-0001815	F. B. Bevis	2213	2.22	142.75	Minnesota	Lake	48.075	-91.543611	outside_boundary_exact	not_found_in_US	Canadian Pt.-Merriam Bay area, Rainy River District	https://lichenportal.org/portal/collections/individual/index.php?occid=2429862

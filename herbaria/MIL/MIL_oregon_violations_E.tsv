@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-2411954	MIL	125555	Sam Shushan	SL-1876	110.42	Oregon	Lane	45.25	-121.833333	outside_boundary_exact	Oregon, Clackamas County	Willamette National Forest just west of McKenzie Pass.	https://lichenportal.org/portal/collections/individual/index.php?occid=2411954
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+2411954	MIL	125555	Sam Shushan	SL-1876	110.42	244.81	Oregon	Lane	45.25	-121.833333	outside_boundary_exact	Oregon, Clackamas County	Willamette National Forest just west of McKenzie Pass.	https://lichenportal.org/portal/collections/individual/index.php?occid=2411954

@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-5470070	H	http://id.luomus.fi/HA.H9217176	Kurokawa, S.	Kurokawa 62105	0.04	Virginia	Page	38.555278	-78.395	outside_boundary_exact	Virginia, Madison County	Shenandoah National Park, Hawksbill Mountain	https://lichenportal.org/portal/collections/individual/index.php?occid=5470070
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+5470070	H	http://id.luomus.fi/HA.H9217176	Kurokawa, S.	Kurokawa 62105	0.04	29.98	Virginia	Page	38.555278	-78.395	outside_boundary_exact	Virginia, Madison County	Shenandoah National Park, Hawksbill Mountain	https://lichenportal.org/portal/collections/individual/index.php?occid=5470070

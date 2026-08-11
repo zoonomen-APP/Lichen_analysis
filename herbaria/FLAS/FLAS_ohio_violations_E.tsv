@@ -1,2 +1,2 @@
-id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
-1739052	FLAS	FLAS L6585	[W.W. Calkins]	NA	NA	Ohio	[n/a]	40.64854	-82.715576	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1739052
+id	institutionCode	catalogNumber	recordedBy	recordNumber	distance_km	distance_max_km	state	county	decimalLatitude	decimalLongitude	status	implied_location	locality	record_link
+1739052	FLAS	FLAS L6585	[W.W. Calkins]	NA	NA	NA	Ohio	[n/a]	40.64854	-82.715576	county_not_matched_multi_county_insufficient	county_not_matched	[n/a]	https://lichenportal.org/portal/collections/individual/index.php?occid=1739052
